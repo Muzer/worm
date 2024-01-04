@@ -1,0 +1,581 @@
+{
+  "chapters": [
+    "Gestation 1.1",
+    "Gestation 1.2",
+    "Gestation 1.3",
+    "Gestation 1.4",
+    "Gestation 1.5",
+    "Gestation 1.6",
+    "Interlude 1",
+    "Insinuation 2.1",
+    "Insinuation 2.2",
+    "Insinuation 2.3",
+    "Insinuation 2.4",
+    "Insinuation 2.5",
+    "Insinuation 2.6",
+    "Insinuation 2.7",
+    "Insinuation 2.8",
+    "Insinuation 2.9",
+    "Interlude 2",
+    "Agitation 3.1",
+    "Agitation 3.2",
+    "Agitation 3.3",
+    "Agitation 3.4",
+    "Agitation 3.5",
+    "Agitation 3.6",
+    "Agitation 3.7",
+    "Agitation 3.8",
+    "Agitation 3.9",
+    "Agitation 3.10",
+    "Agitation 3.11",
+    "Agitation 3.12",
+    "Interlude 3",
+    "Shell 4.1",
+    "Shell 4.2",
+    "Shell 4.3",
+    "Shell 4.4",
+    "Shell 4.5",
+    "Shell 4.6",
+    "Interlude 3½ (Bonus)",
+    "Shell 4.7",
+    "Shell 4.8",
+    "Shell 4.9",
+    "Shell 4.10",
+    "Shell 4.11",
+    "Interlude 4",
+    "Hive 5.1",
+    "Hive 5.2",
+    "Hive 5.3",
+    "Hive 5.4",
+    "Hive 5.5",
+    "Hive 5.6",
+    "Hive 5.7",
+    "Hive 5.8",
+    "Hive 5.9",
+    "Hive 5.10",
+    "Interlude 5",
+    "Tangle 6.1",
+    "Tangle 6.2",
+    "Tangle 6.3",
+    "Tangle 6.4",
+    "Tangle 6.5",
+    "Tangle 6.6",
+    "Tangle 6.7",
+    "Tangle 6.8",
+    "Tangle 6.9",
+    "Interlude 6",
+    "Buzz 7.1",
+    "Buzz 7.2",
+    "Buzz 7.3",
+    "Buzz 7.4",
+    "Buzz 7.5",
+    "Buzz 7.6",
+    "Buzz 7.7",
+    "Buzz 7.8",
+    "Buzz 7.9",
+    "Buzz 7.10",
+    "Buzz 7.11",
+    "Buzz 7.12",
+    "Interlude 7",
+    "Extermination 8.1",
+    "Extermination 8.2",
+    "Interlude 8 (Bonus)",
+    "Extermination 8.3",
+    "Extermination 8.4",
+    "Extermination 8.5",
+    "Extermination 8.6",
+    "Extermination 8.7",
+    "Extermination 8.8",
+    "Interlude 8",
+    "Sentinel 9.1",
+    "Sentinel 9.2",
+    "Sentinel 9.3",
+    "Sentinel 9.4",
+    "Sentinel 9.5",
+    "Sentinel 9.6",
+    "Parasite 10.1",
+    "Parasite 10.2",
+    "Parasite 10.3",
+    "Parasite 10.4",
+    "Parasite 10.5",
+    "Parasite 10.6",
+    "Interlude 10",
+    "Interlude 10.5 (Bonus)",
+    "Infestation 11.1",
+    "Infestation 11.2",
+    "Infestation 11.3",
+    "Infestation 11.4",
+    "Infestation 11.5",
+    "Infestation 11.6",
+    "Infestation 11.7",
+    "Infestation 11.8",
+    "Interlude 11a",
+    "Interlude 11b (Anniversary Bonus)",
+    "Interlude 11c (Anniversary Bonus)",
+    "Interlude 11d",
+    "Interlude 11e (Anniversary Bonus)",
+    "Interlude 11f (Anniversary Bonus)",
+    "Interlude 11g (Anniversary Bonus)",
+    "Interlude 11h",
+    "Plague 12.1",
+    "Plague 12.2",
+    "Plague 12.3",
+    "Plague 12.4",
+    "Plague 12.5",
+    "Plague 12.6",
+    "Plague 12.7",
+    "Plague 12.8",
+    "Interlude 12",
+    "Interlude 12½ (Bonus)",
+    "Snare 13.1",
+    "Snare 13.2",
+    "Interlude 13½ (Bonus)",
+    "Snare 13.3",
+    "Snare 13.4",
+    "Snare 13.5",
+    "Snare 13.6",
+    "Snare 13.7",
+    "Snare 13.8",
+    "Snare 13.9",
+    "Snare 13.10",
+    "Interlude 13",
+    "Prey 14.1",
+    "Prey 14.2",
+    "Prey 14.3",
+    "Prey 14.4",
+    "Prey 14.5",
+    "Prey 14.6",
+    "Prey 14.7",
+    "Prey 14.8",
+    "Prey 14.9",
+    "Prey 14.10",
+    "Prey 14.11",
+    "Interlude 14",
+    "Interlude 14.5 (Bonus Interlude)",
+    "Colony 15.1",
+    "Interlude 15 (Bonus)",
+    "Colony 15.2",
+    "Colony 15.3",
+    "Interlude 15 (Bonus #2)",
+    "Colony 15.4",
+    "Colony 15.5",
+    "Colony 15.6",
+    "Colony 15.7",
+    "Interlude 15 (Bonus #3)",
+    "Colony 15.8",
+    "Colony 15.9",
+    "Colony 15.10",
+    "Interlude 15",
+    "Monarch 16.1",
+    "Monarch 16.2",
+    "Interlude 16 (Bonus)",
+    "Monarch 16.3",
+    "Monarch 16.4",
+    "Monarch 16.5",
+    "Monarch 16.6",
+    "Interlude 16 (Bonus #2)",
+    "Monarch 16.7",
+    "Monarch 16.8",
+    "Monarch 16.9",
+    "Monarch 16.10",
+    "Interlude 16 (Bonus #3)",
+    "Monarch 16.11",
+    "Monarch 16.12",
+    "Monarch 16.13",
+    "Migration 17.1",
+    "Migration 17.2",
+    "Migration 17.3",
+    "Migration 17.4",
+    "Migration 17.5",
+    "Migration 17.6",
+    "Migration 17.7",
+    "Migration 17.8",
+    "Queen 18.1",
+    "Queen 18.2",
+    "Interlude 18 (Bonus #1)",
+    "Queen 18.3",
+    "Queen 18.4",
+    "Interlude 18 (Bonus #2)",
+    "Queen 18.5",
+    "Queen 18.6",
+    "Interlude 18 (Bonus #3)",
+    "Queen 18.7",
+    "Queen 18.8",
+    "Interlude 18 (Bonus #4)",
+    "Interlude 18",
+    "Scourge 19.1",
+    "Scourge 19.2",
+    "Scourge 19.3",
+    "Interlude 19 (Bonus #1)",
+    "Scourge 19.4",
+    "Scourge 19.5",
+    "Scourge 19.6",
+    "Scourge 19.7",
+    "Interlude 19 (Bonus #2)",
+    "Interlude 19",
+    "Chrysalis 20.1",
+    "Chrysalis 20.2",
+    "Chrysalis 20.3",
+    "Chrysalis 20.4",
+    "Chrysalis 20.5",
+    "Interlude 20 (Bonus #1)",
+    "Interlude 20",
+    "Imago 21.1",
+    "Imago 21.2",
+    "Imago 21.3",
+    "Imago 21.4",
+    "Imago 21.5",
+    "Imago 21.6",
+    "Imago 21.7",
+    "Interlude 21 (Bonus #1)",
+    "Interlude 21",
+    "Cell 22.1",
+    "Cell 22.2",
+    "Cell 22.3",
+    "Cell 22.4",
+    "Cell 22.5",
+    "Cell 22.6",
+    "Interlude 22",
+    "Interlude 22 (Bonus #1)",
+    "Drone 23.1",
+    "Drone 23.2",
+    "Drone 23.3",
+    "Drone 23.4",
+    "Drone 23.5",
+    "Interlude 23",
+    "Crushed 24.1",
+    "Crushed 24.2",
+    "Crushed 24.3",
+    "Crushed 24.4",
+    "Crushed 24.5",
+    "Interlude 24",
+    "Interlude 24 (Bonus #1)",
+    "Scarab 25.1",
+    "Scarab 25.2",
+    "Scarab 25.3",
+    "Scarab 25.4",
+    "Scarab 25.5",
+    "Scarab 25.6",
+    "Interlude 25",
+    "Sting 26.1",
+    "Sting 26.2",
+    "Sting 26.3",
+    "Interlude 26 (Bonus #1)",
+    "Sting 26.4",
+    "Sting 26.5",
+    "Sting 26.6",
+    "Interlude 26a",
+    "Interlude 26b",
+    "Interlude 26",
+    "Extinction 27.1",
+    "Extinction 27.2",
+    "Extinction 27.3",
+    "Extinction 27.4",
+    "Extinction 27.5",
+    "Interlude 27",
+    "Interlude 27b",
+    "Cockroaches 28.1",
+    "Cockroaches 28.2",
+    "Cockroaches 28.3",
+    "Cockroaches 28.4",
+    "Cockroaches 28.5",
+    "Cockroaches 28.6",
+    "Interlude 28",
+    "Venom 29.1",
+    "Venom 29.2",
+    "Venom 29.3",
+    "Venom 29.4",
+    "Venom 29.5",
+    "Venom 29.6",
+    "Venom 29.7",
+    "Venom 29.8",
+    "Venom 29.9",
+    "Interlude 29",
+    "Speck 30.1",
+    "Speck 30.2",
+    "Speck 30.3",
+    "Speck 30.4",
+    "Speck 30.5",
+    "Speck 30.6",
+    "Speck 30.7",
+    "Teneral e.1",
+    "Teneral e.2",
+    "Teneral e.3",
+    "Teneral e.4",
+    "Teneral e.5",
+    "Interlude: End"
+  ],
+
+  "characters": [
+    {
+      "civilian_names": [
+        {
+          "value": "Taylor",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "School student",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "PoV character",
+          "from": "Gestation 1.1"
+        },
+        {
+          "value": "Intends to become a superhero",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Dark curly hair; thin-lipped, wide, expressive mouth (from mother); large eyes (from father); gawky figure (from father)",
+          "from": "Gestation 1.1"
+        },
+        {
+          "value": "Generally wears modest, dull clothes",
+          "from": "Gestation 1.1"
+        },
+        {
+          "value": "Wears glasses",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "cape_costumes": [
+        [
+          {
+            "value": "Made of black widow spider silk",
+            "from": "Gestation 1.2"
+          },
+          {
+            "value": "Dirty yellow-gray",
+            "from": "Gestation 1.2"
+          },
+          {
+            "value": "Armoured sections of finely arranged, layered shells and exoskeletons, reinforced with dragline silk, dark mottled brown-gray",
+            "from": "Gestation 1.2"
+          }
+        ]
+      ],
+      "powers": {
+        {
+          "brief_desc": "Controls bugs",
+          "notes": [
+            {
+              "value": "Granularity ranges from individual bug antennae to moving whole hordes or arbitrary sub-groups in formation",
+              "from": "Gestation 1.1"
+            },
+            {
+              "value": "Range ~2 blocks",
+              "from": "Gestation 1.2"
+            }
+          ],
+          "from": "Gestation 1.1"
+      }
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Mr. Gladly",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Teacher, World Issues class",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Teacher who tries to be the 'cool' teacher",
+          "from": "Gestation 1.1"
+        }
+      ]
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Madison Clements",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "School student",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Popular kid",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "'Adorable'; petite; shoulder length brown hair; cutesy attitude; late bloomer",
+          "from": "Gestation 1.1"
+        }
+      ]
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Sophia",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "School student",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Runner on the school track team",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "'Prom queen' image; dark skinned; slender, athletic build",
+          "from": "Gestation 1.1"
+        }
+      ]
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Emma Barnes",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "occupation": [
+        {
+          "value": "School student",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Leader of Taylor-bullying group",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "'Prom queen' image; red-headed; all the curves the guys want; looks good enough to be a local model",
+          "from": "Gestation 1.1"
+        }
+      ]
+    }
+  ],
+
+  "groups": {
+    {
+      "names": [
+        {
+          "value": "Triumvirate",
+          "from": "Gestation 1.1"
+        }
+      ]
+    },
+    {
+      "names": [
+        {
+          "value": "Protectorate",
+          "from": "Gestation 1.1"
+        }
+      ]
+    }
+  },
+
+  "associations": [
+    {
+      "first": "Triumvirate",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Protectorate",
+      "from": "Gestation 1.1"
+    },
+    {
+      "first": "Madison Clements",
+      "relationship": "bullies",
+      "inv_relationship": "is bullied by",
+      "second": "Taylor",
+      "from": "Gestation 1.1"
+    },
+    {
+      "first": "Sophia",
+      "relationship": "bullies",
+      "inv_relationship": "is bullied by",
+      "second": "Taylor",
+      "from": "Gestation 1.1"
+    },
+    {
+      "first": "Emma Barnes",
+      "relationship": "bullies",
+      "inv_relationship": "is bullied by",
+      "second": "Taylor",
+      "from": "Gestation 1.1"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "used to be best friends with",
+      "inv_relationship": "used to be best friends with",
+      "second": "Emma Barnes",
+      "from": "Gestation 1.1"
+    },
+    {
+      "first": "Sophia",
+      "relationship": "is best friends with",
+      "inv_relationship": "is best friends with",
+      "second": "Emma Barnes",
+      "from": "Gestation 1.2"
+    },
+    {
+      "first": "Mr. Gladly",
+      "relationship": "teaches",
+      "inv_relationship": "is taught by",
+      "second": "Taylor",
+      "from": "Gestation 1.1"
+    }
+  ],
+
+  "up_to": "1.2"
+}
