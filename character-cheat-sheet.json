@@ -308,9 +308,29 @@
 
   "characters": [
     {
+      "cape_names": [
+        {
+          "value": "Bug",
+          "note": "Called this by Tattletale as she hasn't yet thought of a cape name",
+          "not_main": true,
+          "from": "Gestation 1.5",
+          "to_soft": "Interlude 3"
+        },
+        {
+          "value": "Skitter",
+          "note": "Was named this by Gallant after the bank robbery",
+          "from": "Interlude 3"
+        }
+      ],
       "civilian_names": [
         {
           "value": "Taylor",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
           "from": "Gestation 1.1"
         }
       ],
@@ -324,6 +344,14 @@
         {
           "value": "Brockton Bay",
           "from": "Gestation 1.2"
+        },
+        {
+          "value": "A house on the outskirts of the Docks with Danny Hebert",
+          "from": "Insinuation 2.7"
+        },
+        {
+          "value": "Headquarters of the Undersiders (secondary)",
+          "from": "Agitation 3.4"
         }
       ],
       "notes": [
@@ -332,13 +360,34 @@
           "from": "Gestation 1.1"
         },
         {
-          "value": "Intends to become a superhero",
-          "from": "Gestation 1.1"
+          "value": "Was hospitalised in the psychiatric ward after one grotesque bullying incident",
+          "from": "Interlude 1"
+        },
+        {
+          "value": "About fifteen years old at the start of the story",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Gestation 1.1",
+          "to": "Interlude 3"
+        },
+        {
+          "value": "hero",
+          "note": "In her own head, and as presented to Armsmaster",
+          "from": "Interlude 3"
+        },
+        {
+          "value": "villain",
+          "note": "To the rest of the world",
+          "from": "Interlude 3"
         }
       ],
       "appearance": [
         {
-          "value": "Dark curly hair; thin-lipped, wide, expressive mouth (from mother); large eyes (from father); gawky figure (from father)",
+          "value": "Dark curly hair; thin-lipped, wide, expressive mouth; large eyes; gawky figure",
           "from": "Gestation 1.1"
         },
         {
@@ -348,44 +397,193 @@
         {
           "value": "Wears glasses",
           "from": "Gestation 1.1"
+        },
+        {
+          "value": "Hair burnt at ends from Lung",
+          "from": "Insinuation 2.1"
+        },
+        {
+          "value": "Attractiveness somewhere between nerd and plain",
+          "from": "Insinuation 2.7"
+        },
+        {
+          "value": "Injured wrist and forearm from Bitch's dogs",
+          "from": "Insinuation 2.8"
+        },
+        {
+          "value": "Has stitches for the above",
+          "from": "Insinuation 2.9"
         }
       ],
       "cape_costumes": [
-        [
-          {
-            "value": "Made of black widow spider silk",
-            "from": "Gestation 1.2"
-          },
-          {
-            "value": "Dirty yellow-gray",
-            "from": "Gestation 1.2"
-          },
-          {
-            "value": "Armoured sections of finely arranged, layered shells and exoskeletons, reinforced with dragline silk, dark mottled brown-gray",
-            "from": "Gestation 1.2"
-          }
-        ]
+        {
+          "brief_desc": "Black and gray black widow bodysuit and mask",
+          "notes": [
+            {
+              "value": "Made of black widow spider silk",
+              "from": "Gestation 1.2"
+            },
+            {
+              "value": "Main costume dirty yellow-gray; armoured sections dark mottled brown-gray",
+              "from": "Gestation 1.2",
+              "to": "Gestation 1.3"
+            },
+            {
+              "value": "Armoured sections of finely arranged, layered shells and exoskeletons, reinforced with dragline silk",
+              "from": "Gestation 1.2"
+            },
+            {
+              "value": "Armour covers face, chest, spine, stomach, major joints; with jaw armour imitating a bug's mandibles",
+              "from": "Gestation 1.3"
+            },
+            {
+              "value": "Mask with dull yellow lenses, does not cover hair/back of the head",
+              "from": "Gestation 1.3"
+            },
+            {
+              "value": "Dyed and painted black and gray",
+              "from": "Gestation 1.3"
+            },
+            {
+              "value": "Soft-soled feet",
+              "from": "Gestation 1.3"
+            },
+            {
+              "value": "Pouch in the spine containing EpiPens, pen and notepad, pepper spray, chalk dust",
+              "from": "Gestation 1.4"
+            },
+            {
+              "value": "Most of the armour panels are separate pieces held in place by straps running into slits in the fabric",
+              "from": "Insinuation 2.6"
+            },
+            {
+              "value": "Some armour part of the bodysuit itself; narrow rigid sections along centre of chest, back, shins, wrists, hips, tops of shoulders, which interlocks with grooves on the panels",
+              "from": "Insinuation 2.6"
+            },
+            {
+              "value": "Black tank top and black biking shorts worn underneath for extra warmth",
+              "from": "Insinuation 2.7"
+            },
+            {
+              "value": "Pouch also contains combat knife, blade over 6\" long, textured handle with three symmetrical indents on each side for grip, strong enough to be used as a crowbar; 21\" telescoping combat baton",
+              "from": "Agitation 3.6"
+            }
+          ],
+          "from": "Gestation 1.2"
+        }
       ],
-      "powers": {
+      "powers": [
         {
           "brief_desc": "Controls bugs",
           "notes": [
             {
-              "value": "Granularity ranges from individual bug antennae to moving whole hordes or arbitrary sub-groups in formation",
+              "value": "Granularity ranges from individual bug antennae to moving whole swarms or arbitrary sub-groups in formation",
+              "provenance": "PoV",
+              "from": "Gestation 1.1"
+            },
+            {
+              "value": "Can detect the species of a given bug",
+              "provenance": "PoV",
               "from": "Gestation 1.1"
             },
             {
               "value": "Range ~2 blocks",
-              "from": "Gestation 1.2"
+              "provenance": "PoV",
+              "from": "Gestation 1.2",
+              "to": "Insinuation 2.3"
+            },
+            {
+              "value": "Can sense the location of each bug in the swarm (can be tuned out)",
+              "provenance": "PoV",
+              "from": "Gestation 1.4"
+            },
+            {
+              "value": "Can sense through the senses of the bugs (can be tuned out)",
+              "provenance": "PoV",
+              "from": "Gestation 1.4"
+            },
+            {
+              "value": "Range ~2 blocks or ⅒  mile",
+              "provenance": "PoV",
+              "from": "Insinuation 2.3"
+            },
+            {
+              "value": "As bugs can sense at a much greater speed, signals from bugs are translated to a way human brains can understand, and are thus muted; visual info is ink blot patches of light and dark; sound painful to focus on and very distorted",
+              "provenance": "PoV",
+              "from": "Insinuation 2.6"
+            },
+            {
+              "value": "Sense of location translates well, can easily tell where a bug is in relation to her, and know acutely if they are still, moving on their own, or being moved",
+              "provenance": "PoV",
+              "from": "Insinuation 2.6"
+            },
+            {
+              "value": "Works on crabs and earthworms; thinks it will work on anything with a simple enough brain",
+              "provenance": "PoV",
+              "from": "Agitation 3.1"
+            },
+            {
+              "value": "Can sense air currents via bugs with hairs on their bodies, and can smell through bugs",
+              "provenance": "PoV",
+              "from": "Agitation 3.9"
             }
           ],
           "from": "Gestation 1.1"
-      }
+        }
+      ],
+      "trigger_events": [
+        {
+          "number": 1,
+          "brief_desc": "Locker incident",
+          "notes": [
+            {
+              "value": "Bullying had been ongoing for over 1½ years before trigger",
+              "from": "Shell 4.3"
+            },
+            {
+              "value": "Bullying had tailed off between November and the winter break",
+              "from": "Shell 4.3"
+            },
+            {
+              "value": "Immediately before the winter break the bullies had filled Taylor's locker almost completely with used tampons and pads",
+              "from": "Shell 4.3"
+            },
+            {
+              "value": "Taylor opened her locker after Christmas, threw up in the hall, before being grabbed by the hair (likely by Sophia) and shoved into the locker",
+              "from": "Shell 4.3"
+            },
+            {
+              "value": "Locker was locked, Taylor was trapped with the rancid smell and her own puke, and nobody was calling the janitor or a teacher to let her out",
+              "from": "Shell 4.3"
+            },
+            {
+              "value": "During the trigger, Taylor was overwhelmed with the information her new power was giving her on the bugs; it felt like thousands of twitchy, alien, distorted things shoving every tiny detail about their bodies and biology into her head",
+              "from": "Shell 4.3"
+            },
+            {
+              "value": "Every sound was bounced back at a hundred times the volume, distorted to make it unpleasant and painful to listen to; and thousands of eyes like looking into a dingy grimy kaleidoscope",
+              "from": "Shell 4.3"
+            },
+            {
+              "value": "When she was finally let out she came out fighting and screaming incoherently; paramedics eventually arrived",
+              "from": "Shell 4.3"
+            }
+          ],
+          "from": "Shell 4.3"
+        }
+      ],
+      "from": "Gestation 1.1"
     },
     {
       "civilian_names": [
         {
           "value": "Mr. Gladly",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
           "from": "Gestation 1.1"
         }
       ],
@@ -405,13 +603,24 @@
         {
           "value": "Teacher who tries to be the 'cool' teacher",
           "from": "Gestation 1.1"
+        },
+        {
+          "value": "Notices Taylor's being bullied but is completely ineffectual to stop it",
+          "from": "Insinuation 2.4"
         }
-      ]
+      ],
+      "from": "Gestation 1.1"
     },
     {
       "civilian_names": [
         {
           "value": "Madison Clements",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
           "from": "Gestation 1.1"
         }
       ],
@@ -438,12 +647,19 @@
           "value": "'Adorable'; petite; shoulder length brown hair; cutesy attitude; late bloomer",
           "from": "Gestation 1.1"
         }
-      ]
+      ],
+      "from": "Gestation 1.1"
     },
     {
       "civilian_names": [
         {
           "value": "Sophia",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
           "from": "Gestation 1.1"
         }
       ],
@@ -469,8 +685,13 @@
         {
           "value": "'Prom queen' image; dark skinned; slender, athletic build",
           "from": "Gestation 1.1"
+        },
+        {
+          "value": "Black hair normally long enough to reach the small of her back",
+          "from": "Agitation 3.1"
         }
-      ]
+      ],
+      "from": "Gestation 1.1"
     },
     {
       "civilian_names": [
@@ -479,7 +700,13 @@
           "from": "Gestation 1.1"
         }
       ],
-      "occupation": [
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "occupations": [
         {
           "value": "School student",
           "from": "Gestation 1.1"
@@ -495,6 +722,10 @@
         {
           "value": "Leader of Taylor-bullying group",
           "from": "Gestation 1.1"
+        },
+        {
+          "value": "Has a sister (unnamed)",
+          "from": "Insinuation 2.4"
         }
       ],
       "appearance": [
@@ -502,18 +733,4021 @@
           "value": "'Prom queen' image; red-headed; all the curves the guys want; looks good enough to be a local model",
           "from": "Gestation 1.1"
         }
-      ]
+      ],
+      "from": "Gestation 1.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Lung",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang leader",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Strong accent",
+          "from": "Gestation 1.3"
+        },
+        {
+          "value": "Employs an estimated 40–50 thugs",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Previously made it his mission to consolidate all the Asians into one big gang, by conquering and absorbing other gangs with Asian members and discarding the non-Asians",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Recruits all Asians in Brockton Bay aged 12–60",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Had consistently avoided capture until meeting Taylor",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Is now in custody awaiting trial",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Tattletale includes him as an example of capes fucked up in the head",
+          "from": "Agitation 3.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Big, but not so big he would send people running when he walked down the street; a little over six feet",
+          "from": "Gestation 1.3"
+        },
+        {
+          "value": "Sprawling tattoos from the neck down depicting Eastern dragons",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Shirtless with metal mask",
+          "notes": [
+            {
+              "value": "Ornate metal mask",
+              "from": "Gestation 1.3"
+            },
+            {
+              "value": "No shirt",
+              "from": "Gestation 1.3"
+            }
+          ],
+          "from": "Gestation 1.3"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Gradual transformation",
+          "notes": [
+            {
+              "value": "The longer he's in a fight, the more potent all his powers get",
+              "provenance": "Online",
+              "from": "Gestation 1.3",
+              "to": "Gestation 1.4"
+            },
+            {
+              "value": "The longer he's in a fight, the more potent all his powers get",
+              "provenance": "Online, direct witness",
+              "from": "Gestation 1.4"
+            },
+            {
+              "value": "Heals at a superhuman rate",
+              "provenance": "Online",
+              "from": "Gestation 1.3",
+              "to": "Gestation 1.4"
+            },
+            {
+              "value": "Heals at a superhuman rate",
+              "provenance": "Online, direct witness",
+              "from": "Gestation 1.4"
+            },
+            {
+              "value": "Healing includes shrugging off poisons and drugs",
+              "provenance": "Online, direct witness",
+              "from": "Gestation 1.4"
+            },
+            {
+              "value": "Grows stronger, tougher, and bigger",
+              "provenance": "Online",
+              "from": "Gestation 1.3",
+              "to": "Gestation 1.4"
+            },
+            {
+              "value": "Grows stronger, tougher, and bigger",
+              "provenance": "Online, direct witness",
+              "from": "Gestation 1.4"
+            },
+            {
+              "value": "Grows armour plating, and blades at fingertips",
+              "provenance": "Online",
+              "from": "Gestation 1.3",
+              "to": "Gestation 1.4"
+            },
+            {
+              "value": "Grows armour plating, and blades at fingertips",
+              "provenance": "Online, direct witness",
+              "from": "Gestation 1.4"
+            },
+            {
+              "value": "According to rumour, grows wings if he fights long enough",
+              "provenance": "Online",
+              "from": "Gestation 1.3"
+            },
+            {
+              "value": "Starts to return to normal once nobody is left to fight",
+              "provenance": "Online",
+              "from": "Gestation 1.3"
+            },
+            {
+              "value": "Gains enhanced hearing",
+              "provenance": "Direct witness",
+              "from": "Gestation 1.4"
+            }
+          ],
+          "from": "Gestation 1.3"
+        },
+        {
+          "brief_desc": "Pyrokinesis",
+          "notes": [
+            {
+              "value": "Can create flame, shape it, and intensify it",
+              "provenance": "Online",
+              "from": "Gestation 1.3",
+              "to": "Gestation 1.4"
+            },
+            {
+              "value": "Can create flame, shape it, and intensify it",
+              "provenance": "Online, direct witness",
+              "from": "Gestation 1.4"
+            },
+            {
+              "value": "This power also grows stronger as he fights",
+              "provenance": "Online",
+              "from": "Gestation 1.3"
+            },
+            {
+              "value": "Includes fireproofing or can create extreme heat around him without burning; also doesn't appear to affect his oxygen supply",
+              "provenance": "Direct witness",
+              "from": "Gestation 1.4"
+            }
+          ],
+          "from": "Gestation 1.3"
+        }
+      ],
+      "from": "Gestation 1.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Oni Lee",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang leader's flunky",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Has a \"do not approach\" warning on the Parahumans Online Wiki",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Tattletale includes him as an example of capes fucked up in the head",
+          "from": "Agitation 3.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Distinctive",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Bodysuit",
+          "notes": [
+            {
+              "value": "Black bodysuit with black bandoleer and belt for knives/guns/grenades",
+              "from": "Insinuation 2.2"
+            },
+            {
+              "value": "Ornate Japanese-style demon mask, crimson with two green stripes down either side",
+              "from": "Insinuation 2.2"
+            },
+            {
+              "value": "Except for the mask, gives the impression of a ninja",
+              "from": "Insinuation 2.2"
+            }
+          ],
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Teleportation",
+          "notes": [
+            {
+              "value": "Can teleport or create doubles of himself (unclear)",
+              "provenance": "Online",
+              "from": "Gestation 1.3",
+              "to": "Insinuation 2.2"
+            },
+            {
+              "value": "Can teleport, after which his original self remains where it is, active for 5–10 seconds before disintegrating into a cloud of carbon ash",
+              "provenance": "Parahumans Online Wiki",
+              "from": "Insinuation 2.2"
+            },
+            {
+              "value": "Can repeatedly duplicate himself (not limited to one double at a time)",
+              "provenance": "Parahumans Online Wiki",
+              "from": "Insinuation 2.2"
+            },
+            {
+              "value": "Duplicating himself also duplicates held objects (eg grenades)",
+              "provenance": "Parahumans Online Wiki",
+              "from": "Insinuation 2.2"
+            }
+          ],
+          "from": "Gestation 1.3"
+        }
+      ],
+      "from": "Gestation 1.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Grue",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Brian",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Solo villain",
+          "from": "Gestation 1.6",
+          "to_soft": "Gestation 1.6"
+        },
+        {
+          "value": "Villain team member",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.5"
+        },
+        {
+          "value": "His own apartment",
+          "from": "Insinuation 2.7"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Previously committed petty crime and worked as an enforcer",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Nice adult voice",
+          "from": "Insinuation 2.6"
+        },
+        {
+          "value": "Has an apartment",
+          "from": "Insinuation 2.7"
+        },
+        {
+          "value": "Takes school courses online",
+          "from": "Agitation 3.1"
+        },
+        {
+          "value": "Two years of experience prior to the Undersiders",
+          "from": "Shell 4.2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Tall",
+          "from": "Gestation 1.5"
+        },
+        {
+          "value": "At least a foot taller than Taylor, dark chocolate skin, shoulder length cornrows, masculine lantern jaw, muscle definition in arms",
+          "from": "Insinuation 2.6"
+        },
+        {
+          "value": "Good looking",
+          "from": "Insinuation 2.7"
+        },
+        {
+          "value": "Is able to blend in both as an ordinary Docks resident and as a high-class Boardwalk shopper",
+          "from": "Agitation 3.1"
+        },
+        {
+          "value": "Two or three years older than Regent/Taylor",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Motorcycle gear",
+          "notes": [
+            {
+              "value": "Black motorcycle leathers, motorcycle helmet, full-face visor stylised to look like a skull",
+              "from": "Gestation 1.5"
+            },
+            {
+              "value": "Power soaks through the porous leather; visor has vents at the edges to prevent the power from obscuring the face so you can see the skull",
+              "from": "Agitation 3.7"
+            }
+          ],
+          "from": "Gestation 1.5"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Darkness generation",
+          "notes": [
+            {
+              "value": "Darkness generation",
+              "provenance": "Parahumans Online Wiki",
+              "from": "Insinuation 2.2",
+              "to": "Insinuation 2.9"
+            },
+            {
+              "value": "Darkness generation",
+              "provenance": "Parahumans Online Wiki (entry written by Grue himself)",
+              "from": "Insinuation 2.9"
+            },
+            {
+              "value": "Can generate a shadow of darkness, like a jet-black curtain, feels oily to the touch with inconsistent texture, and when engulfed in it produces total darkness; dissolves into wisps of black smoke when dissipated",
+              "provenance": "Direct witness",
+              "from": "Insinuation 2.8"
+            },
+            {
+              "value": "Darkness also absorbs noise",
+              "provenance": "Direct witness",
+              "from": "Insinuation 2.8"
+            },
+            {
+              "value": "Grue is barely affected by his own power",
+              "provenance": "His own statement",
+              "from": "Insinuation 2.8"
+            },
+            {
+              "value": "Also cuts off radio signals and dampens radiation",
+              "provenance": "Tattletale's power",
+              "from": "Insinuation 2.9"
+            },
+            {
+              "value": "He can use his power to alter the sound of his voice",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.7"
+            },
+            {
+              "value": "Can direct darkness eg to fill a specific room",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.7"
+            },
+            {
+              "value": "Darkness can form tendrils",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.9"
+            },
+            {
+              "value": "Darkness fades after 20 minutes or so",
+              "provenance": "His own statement",
+              "from": "Agitation 3.12"
+            },
+            {
+              "value": "Makes you feel resistance, like you're underwater but not floating",
+              "provenance": "Browbeat",
+              "from": "Interlude 3"
+            }
+          ],
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "from": "Gestation 1.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Tattletale",
+          "from": "Gestation 1.5"
+        },
+        {
+          "value": "Tt",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Lisa",
+          "from": "Insinuation 2.6"
+        },
+        {
+          "value": "Lise",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team member",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.5"
+        },
+        {
+          "value": "Undersiders HQ",
+          "from": "Insinuation 2.7"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Already has her G.E.D. (cheated using her powers to get it)",
+          "from": "Agitation 3.1"
+        },
+        {
+          "value": "A year older than Taylor",
+          "from": "Agitation 3.4"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Long, windblown dark blond hair",
+          "from": "Gestation 1.5"
+        },
+        {
+          "value": "Vulpine grin that turns up at the corners",
+          "from": "Gestation 1.5"
+        },
+        {
+          "value": "Smattering of freckles over bridge of her nose, bottle-glass green eyes",
+          "from": "Insinuation 2.6"
+        },
+        {
+          "value": "More pretty than not",
+          "from": "Insinuation 2.7"
+        },
+        {
+          "value": "Hair down and loose when in costume, ponytail or braided when not",
+          "from": "Agitation 3.7"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Skintight bodysuit",
+          "notes": [
+            {
+              "value": "Skintight combining black with light blue or purple, simple black domino style mask",
+              "from": "Gestation 1.5",
+              "to": "Insinuation 2.2"
+            },
+            {
+              "value": "Skintight combining black with lavender, simple black domino style mask",
+              "from": "Insinuation 2.2"
+            },
+            {
+              "value": "Smears eyelids in black facepaint to match the mask",
+              "from": "Agitation 3.6"
+            },
+            {
+              "value": "Mask narrow, surrounding eye sockets, covering eyebrows, some of her nose and cheekbones, hiding her freckles and changing the apparent lines of her face",
+              "from": "Agitation 3.7"
+            },
+            {
+              "value": "Bodysuit lavender with bands of black across chest and down sides of arm, legs, and body; dark grey on black stylised eye, visible only in the right light, part of the design",
+              "from": "Agitation 3.7"
+            },
+            {
+              "value": "Compact utility belt sits diagonally across hips, with a variety of compact pockets and pouches",
+              "from": "Agitation 3.7"
+            }
+          ],
+          "from": "Gestation 1.5"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Mysterious tracking ability",
+          "notes": [
+            {
+              "value": "Has some way of detecting or tracking the heroes",
+              "provenance": "Suspected by Armsmaster",
+              "from": "Gestation 1.6"
+            },
+            {
+              "value": "Her abilities are said to be half the reason the Undersiders haven't failed a job yet",
+              "provenance": "Regent",
+              "from": "Insinuation 2.6"
+            }
+          ],
+          "from": "Gestation 1.6",
+          "to": "Insinuation 2.7"
+        },
+        {
+          "brief_desc": "Knows things",
+          "notes": [
+            {
+              "value": "Her power tells her things, such as locations of people she's interested in",
+              "provenance": "Her own statement",
+              "from": "Insinuation 2.7"
+            },
+            {
+              "value": "Heroes suspects she has a power that helps her detect or track heroes, but don't know how",
+              "provenance": "Armsmaster",
+              "from": "Insinuation 2.7"
+            },
+            {
+              "value": "Her abilities are said to be half the reason the Undersiders haven't failed a job yet",
+              "provenance": "Regent",
+              "from": "Insinuation 2.7"
+            },
+            {
+              "value": "Fills in gaps in her knowledge; given some starting info her power will fill in extra details, which can compound and snowball into a steady stream of knowledge",
+              "provenance": "Her own statement",
+              "from": "Insinuation 2.7"
+            },
+            {
+              "value": "Can figure out passwords",
+              "provenance": "Her own statement",
+              "from": "Insinuation 2.7"
+            },
+            {
+              "value": "Best at concrete information; can read info out of body language or changes to routine but it's less reliable",
+              "provenance": "Her own statement",
+              "from": "Insinuation 2.7"
+            },
+            {
+              "value": "Her power can make mistakes or lead her to the wrong educated guesses sometimes",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.8"
+            },
+            {
+              "value": "Claims to be psychic to explain powers to her enemies",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.11"
+            },
+            {
+              "value": "Extensive of power takes a lot out of her",
+              "provenance": "Her own statement",
+              "from": "Agitation 3.12"
+            }
+          ],
+          "from": "Insinuation 2.7"
+        }
+      ],
+      "from": "Gestation 1.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Bitch",
+          "note": "Her own preferred name",
+          "from": "Gestation 1.5"
+        },
+        {
+          "value": "Hellhound",
+          "note": "Name used by the media to avoid profanity",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Rachel Lindt",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Rache",
+          "from": "Insinuation 2.7"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Solo villain",
+          "from": "Gestation 1.6",
+          "to_soft": "Gestation 1.6"
+        },
+        {
+          "value": "Villain team member",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Maine",
+          "from": "Insinuation 2.2",
+          "to_soft": "Insinuation 2.2"
+        },
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.5"
+        },
+        {
+          "value": "Undersiders HQ",
+          "from": "Insinuation 2.7"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Never had a secret identity",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Was homeless for most of her previous career",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Manifested powers at 14 before demolishing her foster home, injuring her foster mother and two children",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Has a \"do not approach\" warning on the Parahumans Online Wiki",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "No family, but too old and unattractive to be adopted, so spent a decade in foster care, fighting with other kids; Grue reckons this messed her up mentally, and getting powers made things worse",
+          "from": "Agitation 3.1"
+        },
+        {
+          "value": "Never went to school",
+          "from": "Agitation 3.1"
+        },
+        {
+          "value": "Tattletale includes her as an example of capes fucked up in the head",
+          "from": "Agitation 3.6"
+        },
+        {
+          "value": "Wanted for serial murder; though Tattletale reckons with a fair trial she'd get manslaughter at worst, or reckless endangerment",
+          "from": "Shell 4.1"
+        },
+        {
+          "value": "When she first got her powers (not knowing what they entailed) the dog she used them on was untrained and killed people",
+          "from": "Shell 4.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Dark-haired, not pretty, squarish blunt-featured face with thick eyebrows",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "An unkind person might call her butch, guy-like features, nose broken more than once, solidly-built, not fat, shortish auburn hair",
+          "from": "Insinuation 2.8"
+        },
+        {
+          "value": "Injured nose and ear from fight with Taylor",
+          "from": "Insinuation 2.8"
+        },
+        {
+          "value": "Has stitches for the ear",
+          "from": "Insinuation 2.9"
+        },
+        {
+          "value": "Has the kind of smile from someone who'd never seen one before and tried to replicate it from what they'd read in books, with too many teeth showing",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Not much of a costume",
+          "notes": [
+            {
+              "value": "Not much of a costume — plaid skirt, army boots, torn-up sleeveless t-shirt, hard plastic dollar-store rottweiler mask",
+              "from": "Gestation 1.5"
+            },
+            {
+              "value": "Costume varies — sometimes wears jacket with fur ruff collar and hard plastic bulldog mask",
+              "from": "Agitation 3.7"
+            }
+          ],
+          "from": "Gestation 1.5"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Monstrous dogs",
+          "notes": [
+            {
+              "value": "Has dogs that are huge and monstrous (\"The size of a van, resembling a cross between a lizard and a tiger, with tangles of muscles and bone where it ought to have skin, scales or fur\") which she can order around and people can ride on",
+              "provenance": "Direct witness",
+              "from": "Gestation 1.5"
+            },
+            {
+              "value": "Dogs are made monstrous by transforming ordinary dogs using her power",
+              "provenance": "Parahumans Online Wiki",
+              "from": "Insinuation 2.2",
+              "to": "Agitation 3.7"
+            },
+            {
+              "value": "Dogs are made monstrous by transforming ordinary dogs using her power",
+              "provenance": "Parahumans Online Wiki, Direct witness",
+              "from": "Agitation 3.7"
+            },
+            {
+              "value": "Works on any dog, but she can't control dogs with powers, so well-trained dogs are most useful",
+              "provenance": "Tattletale",
+              "from": "Insinuation 2.9"
+            },
+            {
+              "value": "When dogs transform, the fur splits at the seams, muscle and bone showing beneath in an atypical anatomical arrangement, slow enough change that you can't see it happen if you look continuously, eyes deeper set, spikes, spurs, and exoskeleton of bone growths cover gaps and at places where bone is close to skin, longer prehensile tails looking like a pair of human spines end-on-end with meat still hanging off",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.7"
+            },
+            {
+              "value": "Can exhaust self or dogs if transformation is rushed",
+              "provenance": "Taylor",
+              "from": "Agitation 3.7"
+            },
+            {
+              "value": "Dogs can perform acrobatic leaps onto/off sides of buildings",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.9"
+            }
+          ],
+          "from": "Gestation 1.5"
+        }
+      ],
+      "from": "Gestation 1.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Regent",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Alec",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team member",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.5"
+        },
+        {
+          "value": "Undersiders HQ",
+          "from": "Insinuation 2.7"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Dropped out of school",
+          "from": "Agitation 3.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Short black curls, build like a dancer",
+          "from": "Gestation 1.5"
+        },
+        {
+          "value": "About Taylor's age, good-looking but not handsome, pretty, triangular face, light blue eyes, full lips in a scowl, French or Italian heritage",
+          "from": "Insinuation 2.6"
+        },
+        {
+          "value": "Little muscle worth speaking about",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Renaissance faire",
+          "notes": [
+            {
+              "value": "White mask, similar to but less decorative than those used in Venice carnivals, silver coronet, ruffled white shirt, skintight leggings tucked into knee-high boots; renaissance faire style",
+              "from": "Gestation 1.5"
+            },
+            {
+              "value": "Mask interior has foam shaped to his face contours, with mouth left free to talk unmuffled",
+              "from": "Agitation 3.7"
+            },
+            {
+              "value": "Loose white shirt covers a mesh vest molded to the shape of his body",
+              "from": "Agitation 3.7"
+            },
+            {
+              "value": "Carries scepter with a taser built into the crowned orb at the top",
+              "from": "Agitation 3.7"
+            },
+            {
+              "value": "Costume deliberately misleading to give the impression of vulnerability",
+              "from": "Agitation 3.7"
+            }
+          ],
+          "from": "Gestation 1.5"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Nervous system disruption",
+          "notes": [
+            {
+              "value": "Can fire off impulses in other people's nervous systems that set off reflexes or make body parts jerk, eg to make someone fall over, drop something, lose balance, or pull a trigger",
+              "provenance": "Direct witness, Tattletale",
+              "from": "Insinuation 2.9"
+            },
+            {
+              "value": "Enough range to effectively delay opposition at the front doors from the vault door of the bank",
+              "provenance": "Taylor",
+              "from": "Agitation 3.8"
+            }
+          ],
+          "from": "Insinuation 2.9"
+        }
+      ],
+      "from": "Gestation 1.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Armsmaster",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team leader",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Has his own action figures",
+          "from": "Gestation 1.6"
+        },
+        {
+          "value": "Lost command of his team for two days and was interrogated due to Lung being near-fatally dosed with venom",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Tinker (likely)",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Beard trimmed to trace the edges of his jaw",
+          "from": "Gestation 1.6"
+        },
+        {
+          "value": "Late twenties or early thirties",
+          "from": "Gestation 1.6"
+        },
+        {
+          "value": "Nice smile",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Branded bodysuit",
+          "notes": [
+            {
+              "value": "Body armour dark blue with silver highlights, sharply angled v-shaped visor covering eyes and nose, chest emblem of visor silhouetted in blue against silver background",
+              "from": "Gestation 1.6"
+            },
+            {
+              "value": "Armored gauntlets",
+              "from": "Agitation 3.5"
+            }
+          ],
+          "from": "Gestation 1.6"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Tinker",
+          "notes": [
+            {
+              "value": "Probably has tinker powers",
+              "provenance": "Taylor suspects from the fact that he carries tinker gear",
+              "from": "Gestation 1.6"
+            },
+            {
+              "value": "Has built trademark weapon: six-foot long halberd souped up with sci-fi gadgets such as a grappling hook",
+              "provenance": "Direct witness",
+              "from": "Gestation 1.6"
+            },
+            {
+              "value": "Other Halberd powers include ability to cut through steel like butter, plasma injectors, directed EMP",
+              "provenance": "Common knowledge",
+              "from": "Gestation 1.6"
+            },
+            {
+              "value": "Has souped up his motorcycle",
+              "provenance": "Direct witness",
+              "from": "Gestation 1.6"
+            },
+            {
+              "value": "Appears to have built a lie detector",
+              "provenance": "Direct witness",
+              "from": "Gestation 1.6",
+              "to": "Agitation 3.5"
+            },
+            {
+              "value": "Has a lie detector",
+              "provenance": "Direct witness, confirmed by his own statement",
+              "from": "Agitation 3.5"
+            }
+          ],
+          "from": "Gestation 1.6"
+        }
+      ],
+      "from": "Gestation 1.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Bakuda",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang leader's flunky",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Cornell University, New York",
+          "from": "Gestation 1.6",
+          "to_soft": "Gestation 1.6"
+        },
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "First appearance by way of a drawn-out terrorism campaign against Cornell University",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Tinker",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Straight black hair",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Age and ethnicity hard to pinpoint from available photo",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Mask and goggles",
+          "notes": [
+            {
+              "value": "Large opaque goggles, metal mask with gas mask style filter covering lower half of face",
+              "from": "Insinuation 2.2"
+            },
+            {
+              "value": "Braided cord of black, yellow, and green wires looped around one shoulder",
+              "from": "Insinuation 2.2"
+            }
+          ],
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Bomb tinker",
+          "notes": [
+            {
+              "value": "Tinker with specialty in designing and building high tech bombs",
+              "provenance": "Armsmaster",
+              "from": "Gestation 1.6"
+            }
+          ],
+          "from": "Gestation 1.6"
+        }
+      ],
+      "from": "Gestation 1.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Scion",
+          "note": "Responded with this when asked \"Kto vy?\" (\"What are you?\")",
+          "from": "Interlude 1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Interlude 1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Midair above the Atlantic Ocean",
+          "from": "Interlude 1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "First appeared naked 20th May 1982, spotted from an ocean liner, looking deeply sad",
+          "from": "Interlude 1"
+        },
+        {
+          "value": "Has only been known to speak once, when asked \"Kto vy?\" (\"What are you?\")",
+          "from": "Interlude 1"
+        },
+        {
+          "value": "First parahuman to appear on Earth",
+          "from": "Interlude 1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Interlude 1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Long hair, burnished gold skin and hair, no body hair, seems almost artificial",
+          "from": "Interlude 1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Naked",
+          "notes": [
+            {
+              "value": "Naked",
+              "from": "Interlude 1",
+              "to_soft": "Interlude 1"
+            }
+          ],
+          "from": "Interlude 1",
+          "to_soft": "Interlude 1"
+        },
+        {
+          "brief_desc": "Sheet",
+          "notes": [
+            {
+              "value": "Sheet worn over one shoulder and pinned at either side of the waist",
+              "from": "Interlude 1",
+              "to_soft": "Interlude 1"
+            }
+          ],
+          "from": "Interlude 1",
+          "to_soft": "Interlude 1"
+        },
+        {
+          "brief_desc": "Clothes",
+          "notes": [
+            {
+              "value": "More conventional clothes",
+              "from": "Interlude 1",
+              "to_soft": "Interlude 1"
+            }
+          ],
+          "from": "Interlude 1",
+          "to_soft": "Interlude 1"
+        },
+        {
+          "brief_desc": "Bodysuit",
+          "notes": [
+            {
+              "value": "White bodysuit (worn since 1999) of unknown provenance",
+              "from": "Interlude 1"
+            }
+          ],
+          "from": "Interlude 1"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Emotional powers on touch",
+          "notes": [
+            {
+              "value": "When people touched him, they burst into tears or felt awed, or lost suicidal tendencies",
+              "provenance": "Documentary",
+              "from": "Interlude 1"
+            }
+          ],
+          "from": "Interlude 1"
+        },
+        {
+          "brief_desc": "Healing powers on touch",
+          "notes": [
+            {
+              "value": "Healed a person's cancer on touch",
+              "provenance": "Documentary",
+              "from": "Interlude 1"
+            }
+          ],
+          "from": "Interlude 1"
+        },
+        {
+          "brief_desc": "Make things cold",
+          "notes": [
+            {
+              "value": "Can freeze water with a flash of light",
+              "provenance": "Documentary",
+              "from": "Interlude 1"
+            },
+            {
+              "value": "Can extinguish widespread fire",
+              "provenance": "Documentary",
+              "from": "Interlude 1"
+            },
+            {
+              "value": "Has quelled a volcano",
+              "provenance": "Documentary",
+              "from": "Interlude 1"
+            }
+          ],
+          "from": "Interlude 1"
+        },
+        {
+          "brief_desc": "Supersonic flight",
+          "notes": [
+            {
+              "value": "Can fly faster than the speed of sound",
+              "provenance": "Documentary",
+              "from": "Interlude 1"
+            }
+          ],
+          "from": "Interlude 1"
+        }
+      ],
+      "from": "Interlude 1"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Grace Lands",
+          "from": "Interlude 1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Had cancer cured by Scion",
+          "from": "Interlude 1"
+        }
+      ],
+      "from": "Interlude 1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Vikare",
+          "from": "Interlude 1"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Andrew Hawke",
+          "from": "Interlude 1"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Interlude 1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Interlude 1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Last passenger on the initial cruise to touch Scion",
+          "from": "Interlude 1"
+        },
+        {
+          "value": "First publicly-reported instance of a cape dying",
+          "from": "Interlude 1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Interlude 1"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Brain embolism after being clubbed over the head attempting to quell a riot over a basketball game in Michigan in 1989",
+          "from": "Interlude 1"
+        }
+      ],
+      "from": "Interlude 1"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Danny Hebert",
+          "from": "Interlude 1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Interlude 1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Union spokesperson and head of hiring",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 1"
+        },
+        {
+          "value": "A house on the outskirts of the Docks with Taylor",
+          "from": "Insinuation 2.7"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Has PoV Interlude",
+          "from": "Interlude 1"
+        },
+        {
+          "value": "Works an unreliable schedule",
+          "from": "Insinuation 2.5"
+        },
+        {
+          "value": "Pet project is trying to get the ferry back up and running",
+          "from": "Agitation 3.4"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Large eyes",
+          "from": "Interlude 1"
+        },
+        {
+          "value": "Hair thinned enough at the top to be closer to baldness than not, stick thin, glasses, bad fashion sense",
+          "from": "Interlude 1"
+        },
+        {
+          "value": "Weak chin, dark hair",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "from": "Interlude 1"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Annette Hebert",
+          "from": "Interlude 1",
+          "to": "Insinuation 2.9"
+        },
+        {
+          "value": "Annette Rose Hebert",
+          "from": "Insinuation 2.9"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Insinuation 2.4"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Has not slept in Danny's house for some time and wouldn't pick up her phone if he called",
+          "from": "Interlude 1",
+          "to": "Insinuation 2.4"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Car accident",
+          "from": "Insinuation 2.4"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Thin-lipped, wide, expressive mouth",
+          "from": "Interlude 1"
+        },
+        {
+          "value": "B-cup (post pregnancy)",
+          "from": "Shell 4.2"
+        }
+      ],
+      "from": "Interlude 1"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Gerry",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Rumoured henchman to a villain",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Big guy, burly, Black Irish",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "from": "Insinuation 2.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Über",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain duo",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Video game theme",
+          "from": "Insinuation 2.1"
+        },
+        {
+          "value": "About as incompetent as villains can be while staying out of jail",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "from": "Insinuation 2.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Leet",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain duo",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Video game theme",
+          "from": "Insinuation 2.1"
+        },
+        {
+          "value": "About as incompetent as villains can be while staying out of jail",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "from": "Insinuation 2.1"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Mrs. Knott",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Teacher, Computer class",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Alright teacher, but not the most hands on",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "from": "Insinuation 2.2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Pestilence",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "UK",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "London",
+          "from": "Interlude 3"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Can supposedly use magic",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "from": "Insinuation 2.2"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Sparky",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "School student",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Drummer",
+          "from": "Insinuation 2.3"
+        },
+        {
+          "value": "Is out of touch with reality",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Long-haired",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "from": "Insinuation 2.3"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Greg",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "School student",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Smarter than average, but no filter",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "from": "Insinuation 2.3"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Julia",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "School student",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.3"
+        }
+      ],
+      "from": "Insinuation 2.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Alexandria",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Was Taylor's favourite protectorate member when she was a kid",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Flight",
+          "notes": [
+            {
+              "value": "Flight",
+              "provenance": "Grue",
+              "from": "Agitation 3.3"
+            }
+          ],
+          "from": "Agitation 3.3"
+        },
+        {
+          "brief_desc": "Super strength",
+          "notes": [
+            {
+              "value": "Super strength",
+              "provenance": "Grue",
+              "from": "Agitation 3.3"
+            }
+          ],
+          "from": "Agitation 3.3"
+        },
+        {
+          "brief_desc": "Invincibility",
+          "notes": [
+            {
+              "value": "Invincibility",
+              "provenance": "Grue",
+              "from": "Agitation 3.3"
+            }
+          ],
+          "from": "Agitation 3.3"
+        }
+      ],
+      "from": "Insinuation 2.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "'the boss'",
+          "notes": "What they're referred to as to Taylor",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Boss/funder of villain team",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "A large part of the reason the Undersiders haven't failed a job yet",
+          "from": "Insinuation 2.6"
+        },
+        {
+          "value": "Is anonymous to the Undersiders (except possibly Tattletale, with whom he's made a deal)",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "from": "Insinuation 2.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Spitfire",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team member",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "from": "Insinuation 2.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Faultline",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team leader",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "from": "Insinuation 2.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Circus",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Solo villain",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "from": "Insinuation 2.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Glory Girl",
+          "from": "Insinuation 2.6"
+        },
+        {
+          "value": "Glory Hole",
+          "from": "Agitation 3.11",
+          "note": "Derogatory nickname used by Tattletale"
+        },
+        {
+          "value": "Alexandria Junior",
+          "from": "Agitation 3.11",
+          "note": "Nickname used by Taylor"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Victoria Dallon",
+          "from": "Interlude 2"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero",
+          "from": "Insinuation 2.6",
+          "to": "Interlude 2"
+        },
+        {
+          "value": "Hero team member",
+          "from": "Interlude 2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Has PoV Interlude",
+          "from": "Interlude 2"
+        },
+        {
+          "value": "Struggles to hold back and thus has nearly killed six people",
+          "from": "Interlude 2"
+        },
+        {
+          "value": "Among the most famous of Brockton Bay heroes",
+          "from": "Agitation 3.11"
+        },
+        {
+          "value": "Taking Parahumans 101 at the university even though she's still in high school",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Beautiful, tall, gorgeous, blonde",
+          "from": "Interlude 2"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Dress and cape",
+          "notes": [
+            {
+              "value": "White one-piece dress that comes up to mid-thigh (with shorts underneath), over-the-shoulder cape, high boots, golden tiara with radiating spikes",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Shows off her figure",
+              "from": "Interlude 2"
+            }
+          ],
+          "from": "Interlude 2"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Flight",
+          "notes": [
+            {
+              "value": "Can fly freely",
+              "provenance": "PoV",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Can push 80mph",
+              "provenance": "PoV",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Can carry another person when flying",
+              "provenance": "PoV",
+              "from": "Interlude 2"
+            }
+          ],
+          "from": "Interlude 2"
+        },
+        {
+          "brief_desc": "Forcefield",
+          "notes": [
+            {
+              "value": "Has an invisible forcefield which extends a few millimetres over skin and clothes",
+              "provenance": "PoV",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Keeps chill off but still allows her to feel wind, avoids bugs splatting when flying fast",
+              "provenance": "PoV",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Strong enough to crack asphalt",
+              "provenance": "PoV",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Strong enough to lift an SUV over her head",
+              "provenance": "Her own statement to Panacea",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Forcefield shorts out for a few seconds when hit hard eg with gunshot",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.12"
+            }
+          ],
+          "from": "Interlude 2"
+        },
+        {
+          "brief_desc": "Aura",
+          "notes": [
+            {
+              "value": "Produces waves of energy that those in her presence experience as awe and admiration; those who have reason to fear here instead experience it as intimidation",
+              "provenance": "PoV",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Can be switched on/off and varied in intensity",
+              "provenance": "PoV",
+              "from": "Interlude 2"
+            }
+          ],
+          "from": "Interlude 2"
+        }
+      ],
+      "trigger_events": [
+        {
+          "number": 1,
+          "brief_desc": "Basketball foul",
+          "notes": [
+            {
+              "value": "Getting fouled while playing basketball in gym class, according to her account in interviews",
+              "from": "Shell 4.3"
+            }
+          ],
+          "from": "Shell 4.3"
+        }
+      ],
+      "from": "Shell 4.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Aegis",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Carlos",
+          "from": "Interlude 3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero",
+          "from": "Insinuation 2.6",
+          "to": "Agitation 3.3"
+        },
+        {
+          "value": "Hero team leader",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Tan skinned",
+          "from": "Agitation 3.8"
+        },
+        {
+          "value": "Puerto Rican, long hair",
+          "from": "Interlude 3"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Red with silver-white trim",
+          "notes": [
+            {
+              "value": "Rust red costume with matching helmet, both with silver-white trim and a shield emblem",
+              "from": "Agitation 3.8"
+            }
+          ],
+          "from": "Agitation 3.8"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Flight",
+          "notes": [
+            {
+              "value": "Flight",
+              "provenance": "Grue",
+              "from": "Agitation 3.3",
+              "to": "Agitation 3.9"
+            },
+            {
+              "value": "Flight",
+              "provenance": "Grue, Direct witness",
+              "from": "Agitation 3.9"
+            }
+          ],
+          "from": "Agitation 3.3"
+        },
+        {
+          "brief_desc": "No weak points",
+          "notes": [
+            {
+              "value": "His entire biology is filled with so many redundancies and reinforcements you can't put him down",
+              "provenance": "Grue",
+              "from": "Agitation 3.3",
+              "to": "Agitation 3.9"
+            },
+            {
+              "value": "His entire biology is filled with so many redundancies and reinforcements you can't put him down",
+              "provenance": "Grue, Direct witness",
+              "from": "Agitation 3.9"
+            },
+            {
+              "value": "Throw sand in his eyes and he can sense light on his skin; cut his throat and it bleeds no more than a hand; other organs can take over if you stab his heart; can reattach arms if they're cut off",
+              "provenance": "Grue",
+              "from": "Agitation 3.3"
+            }
+          ],
+          "from": "Agitation 3.3"
+        },
+        {
+          "brief_desc": "No reason to hold back",
+          "notes": [
+            {
+              "value": "Can abuse his body to make it seem like he's super strong, eg throw punches hard enough to break hands/mangle joints/tear muscles",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.3",
+              "to": "Agitation 3.9"
+            },
+            {
+              "value": "Can abuse his body to make it seem like he's super strong, eg throw punches hard enough to break hands/mangle joints/tear muscles",
+              "provenance": "Tattletale, Direct witness",
+              "from": "Agitation 3.9"
+            },
+            {
+              "value": "Can draw on adrenaline to avoid fatigue",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.3"
+            }
+          ],
+          "from": "Agitation 3.3"
+        }
+      ],
+      "from": "Insinuation 2.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Shadow Stalker",
+          "from": "Insinuation 2.7"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Solo hero",
+          "from": "Agitation 3.3",
+          "to_soft": "Agitation 3.3"
+        },
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.7"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Went too far and nearly killed someone, which led to her arrest where a deal was struck",
+          "from": "Agitation 3.3"
+        },
+        {
+          "value": "Was brought into the Wards on condition she uses tranquilizer bolts and nonlethal ammo",
+          "from": "Agitation 3.3"
+        },
+        {
+          "value": "Still uses lethal bolts when pursuing Grue",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Transform into wisp",
+          "notes": [
+            {
+              "value": "Can transform into an extremely lightweight form which can pass through glass and thin walls and is nearly invisible",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.3"
+            },
+            {
+              "value": "When she shoots things they only remain in the wispy state for half a second before becoming normal",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.3"
+            },
+            {
+              "value": "Power interacts strangely with Grue's Darkness generation; reduces her speed, agility, and invisibility",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.3"
+            }
+          ],
+          "from": "Agitation 3.3"
+        }
+      ],
+      "from": "Insinuation 2.7"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Brutus",
+          "from": "Insinuation 2.9"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.9"
+        },
+        {
+          "value": "Undersiders HQ",
+          "from": "Insinuation 2.9"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Is a dog",
+          "from": "Insinuation 2.9"
+        },
+        {
+          "value": "Trained to hurt and kill; trained to listen to Bitch when her power is in use",
+          "from": "Insinuation 2.9"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "The biggest of Brutus, Judas, Angelica; meatiest body and shorter snout",
+          "from": "Agitation 3.8"
+        },
+        {
+          "value": "Ugly Rottweiler, or mutt with strong Rottweiler blood",
+          "from": "Agitation 3.8"
+        },
+        {
+          "value": "Yellow-gray iris",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "from": "Insinuation 2.9"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Judas",
+          "from": "Insinuation 2.9"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.9"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.9"
+        },
+        {
+          "value": "Undersiders HQ",
+          "from": "Insinuation 2.9"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Is a dog",
+          "from": "Insinuation 2.9"
+        },
+        {
+          "value": "Trained to hurt and kill; trained to listen to Bitch when her power is in use",
+          "from": "Insinuation 2.9"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "German Shepherd",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "from": "Insinuation 2.9"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Angelica",
+          "from": "Insinuation 2.9"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.9"
+        },
+        {
+          "value": "Undersiders HQ",
+          "from": "Insinuation 2.9"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Is a dog",
+          "from": "Insinuation 2.9"
+        },
+        {
+          "value": "Trained to hurt and kill; trained to listen to Bitch when her power is in use",
+          "from": "Insinuation 2.9"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "The smallest of Brutus, Judas, Angelica",
+          "from": "Agitation 3.7"
+        },
+        {
+          "value": "Hairless terrier",
+          "from": "Agitation 3.8"
+        },
+        {
+          "value": "Missing ear and eye",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "from": "Insinuation 2.9"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Andrea Young",
+          "from": "Interlude 2"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "College student",
+          "from": "Interlude 2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Was beaten and hospitalised by a nameless Empire Eighty-Eight skinhead",
+          "from": "Interlude 2"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Black",
+          "from": "Interlude 2"
+        }
+      ],
+      "from": "Interlude 2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Panacea",
+          "from": "Interlude 2"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Amy",
+          "from": "Interlude 2",
+          "to": "Agitation 3.11"
+        },
+        {
+          "value": "Amy Dallon",
+          "from": "Agitation 3.11"
+        },
+        {
+          "value": "Ames",
+          "from": "Interlude 2"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Interlude 2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Has an honorary medical license and took the Hippocratic oath",
+          "from": "Interlude 2"
+        },
+        {
+          "value": "Among the most famous of Brockton Bay heroes",
+          "from": "Agitation 3.11"
+        },
+        {
+          "value": "Is the biological daughter of a villain captured by the Brockton Bay Brigade and sent to the Birdcage",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Interlude 2"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Mousy",
+          "from": "Interlude 2"
+        },
+        {
+          "value": "Brown frizzy hair, freckles spaced evenly across face",
+          "from": "Interlude 2"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Robe",
+          "notes": [
+            {
+              "value": "Robe (alabaster white with medical red cross on chest and back) with large hood and scarf that covers the lower half of her face",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Only a shade away from being a Burka, reckons Glory Girl",
+              "from": "Interlude 2"
+            }
+          ],
+          "from": "Interlude 2"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Healing",
+          "notes": [
+            {
+              "value": "Can heal people's injuries when touching their skin",
+              "provenance": "Direct witness",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Takes some time to perform",
+              "provenance": "Direct witness",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Includes giving people a \"tune-up\", making them feel on top of the world physically, as if they'd been to a spa and had the best nutritionist, fitness expert and doctor looking after them for a month",
+              "provenance": "Her own statement",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Can't, or rather won't, affect the brain, as she doesn't trust herself not to screw up",
+              "provenance": "Her own statement",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Suggestion that she might be able to injure people or change their skin colour in the same way",
+              "provenance": "Glory Girl (while threatening a skinhead)",
+              "from": "Interlude 2"
+            },
+            {
+              "value": "Can confuse Taylor's bug power (including having it report incorrect/misleading data) and cause her headaches, by using her power on a bug which is in contact with her and which Taylor is controlling or using the senses of",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.11"
+            },
+            {
+              "value": "Claims to be able to give people heart attacks or cancer, mess with their taste buds, or make them fat",
+              "provenance": "Her own statement (while threatening Taylor), Tattletale's power",
+              "from": "Agitation 3.11"
+            }
+          ],
+          "from": "Interlude 2"
+        }
+      ],
+      "from": "Interlude 2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Brandish",
+          "from": "Interlude 2"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Carol Dallon",
+          "from": "Interlude 2"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Lawyer",
+          "from": "Interlude 2"
+        },
+        {
+          "value": "Hero team member",
+          "from": "Interlude 2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Interlude 2"
+        }
+      ],
+      "from": "Interlude 2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Kaiser",
+          "from": "Interlude 2"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Interlude 2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang leader",
+          "from": "Interlude 2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Interlude 2"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Create metal",
+          "notes": [
+            {
+              "value": "Can create metal from thin air",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.11"
+            }
+          ],
+          "from": "Agitation 3.11"
+        }
+      ],
+      "from": "Interlude 2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Coil",
+          "from": "Interlude 2"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Interlude 2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain in control of a private army",
+          "from": "Interlude 2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 2"
+        },
+        {
+          "value": "Downtown",
+          "from": "Interlude 2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Has an ex-military private army of at least fifty with top-notch gear, including purple lasers that cut through steel",
+          "from": "Interlude 2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Interlude 2"
+        }
+      ],
+      "from": "Interlude 2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Squealer",
+          "from": "Interlude 2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Solo villain",
+          "from": "Interlude 2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Interlude 2"
+        }
+      ],
+      "from": "Interlude 2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Trainwreck",
+          "from": "Interlude 2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Solo villain",
+          "from": "Interlude 2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Interlude 2"
+        }
+      ],
+      "from": "Interlude 2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Stain",
+          "from": "Interlude 2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Solo villain",
+          "from": "Interlude 2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Interlude 2"
+        }
+      ],
+      "from": "Interlude 2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Miss Militia",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Modified military uniform",
+          "notes": [
+            {
+              "value": "Modified military uniform, tight enough to accentuate her curves, scarf around lower face with embroidered American flag, similar sash around waist.",
+              "from": "Interlude 3"
+            }
+          ],
+          "from": "Interlude 3"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Change guns",
+          "notes": [
+            {
+              "value": "Appears to be able to change guns into other types of gun",
+              "provenance": "Direct witness",
+              "from": "Interlude 3"
+            }
+          ],
+          "from": "Interlude 3"
+        }
+      ],
+      "from": "Agitation 3.2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Triumph",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Recently (at start of story) turned 18",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.2"
+        }
+      ],
+      "from": "Agitation 3.2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Clockblocker",
+          "from": "Agitation 3.3"
+        },
+        {
+          "value": "Clock",
+          "from": "Interlude 3",
+          "notes": "Affectionate nickname"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "White with body armour",
+          "notes": [
+            {
+              "value": "White skintight costume with interlocking panels of glossy white body armour, placed wherever they could give him protection without inhibiting movement",
+              "from": "Agitation 3.8"
+            },
+            {
+              "value": "Armour has dark grey images of clocks on it, some animated so they drift across the surface, others fixed in place with hands ticking",
+              "from": "Agitation 3.8"
+            },
+            {
+              "value": "Smooth expanse of white for a helmet, faceless",
+              "from": "Agitation 3.8"
+            }
+          ],
+          "from": "Agitation 3.8"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Selectively stop time",
+          "notes": [
+            {
+              "value": "He can stop time for whatever he touches; the person or object affected is put on 'pause'",
+              "provenance": "Grue",
+              "from": "Agitation 3.3",
+              "to": "Agitation 3.9"
+            },
+            {
+              "value": "He can stop time for whatever he touches; the person or object affected is put on 'pause'",
+              "provenance": "Grue, Direct witness",
+              "from": "Agitation 3.9"
+            },
+            {
+              "value": "Works for thirty seconds to ten minutes, but he can't control the duration",
+              "provenance": "Grue",
+              "from": "Agitation 3.3"
+            },
+            {
+              "value": "The stopped person or thing can't be hurt or moved; he uses this defensively to make unbreakable shields",
+              "provenance": "Grue",
+              "from": "Agitation 3.3",
+              "to": "Agitation 3.9"
+            },
+            {
+              "value": "The stopped person or thing can't be hurt or moved; he uses this defensively to make unbreakable shields",
+              "provenance": "Grue, Direct witness",
+              "from": "Agitation 3.9"
+            },
+            {
+              "value": "Can't disable the effects (ie un-stop an object)",
+              "provenance": "Taylor",
+              "from": "Agitation 3.9"
+            }
+          ],
+          "from": "Agitation 3.3"
+        }
+      ],
+      "from": "Agitation 3.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Vista",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "notes": [
+        {
+          "value": "12 years old (at start of story)",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Body armour and skirt",
+          "notes": [
+            {
+              "value": "Costume with skirt, all covered in wavy, swooping lines alternating between white and forest green",
+              "from": "Agitation 3.8"
+            },
+            {
+              "value": "Body armour included in costume design; breastplate moulded to give the illusion of a chest",
+              "from": "Agitation 3.8"
+            }
+          ],
+          "from": "Agitation 3.8"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Reshape space",
+          "notes": [
+            {
+              "value": "Can stretch a building like taffy, so it's twice as tall, or squeeze two sidewalks together so she can cross the street in one step",
+              "provenance": "Grue",
+              "from": "Agitation 3.3",
+              "to": "Agitation 3.9"
+            },
+            {
+              "value": "Can stretch a building like taffy, so it's twice as tall, or squeeze two sidewalks together so she can cross the street in one step",
+              "provenance": "Grue, Direct witness",
+              "from": "Agitation 3.9"
+            },
+            {
+              "value": "Distortions can resemble a funhouse mirror",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.9"
+            },
+            {
+              "value": "Manton effect; can't stretch or compress people, and makes altering an area harder the more people are in it",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.3"
+            },
+            {
+              "value": "Can also do funny things with gravity",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.3",
+              "to": "Agitation 3.9"
+            },
+            {
+              "value": "Can also do funny things with gravity",
+              "provenance": "Tattletale, Direct witness",
+              "from": "Agitation 3.9"
+            }
+          ],
+          "from": "Agitation 3.3"
+        }
+      ],
+      "from": "Agitation 3.3"
+    },
+    {
+      "civilian_name": [
+        {
+          "value": "Manton",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Namesake of the Manton Effect",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "from": "Agitation 3.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Narwhal",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Create forcefields",
+          "notes": [
+            {
+              "value": "Can create forcefields",
+              "provenance": "Regent",
+              "from": "Agitation 3.3"
+            },
+            {
+              "value": "Forcefields are not privy to the Manton effect, so can create one through a person's body to cut them in half",
+              "provenance": "Regent",
+              "from": "Agitation 3.3"
+            }
+          ],
+          "from": "Agitation 3.3"
+        }
+      ],
+      "from": "Agitation 3.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Kid Win",
+          "from": "Agitation 3.3"
+        },
+        {
+          "value": "Kid",
+          "from": "Interlude 3",
+          "notes": "Affectionate nickname"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Tinker",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Brown hair",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Body armour and visor",
+          "notes": [
+            {
+              "value": "Red visor and body armour in red and gold",
+              "from": "Agitation 3.8"
+            }
+          ],
+          "from": "Agitation 3.8"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Tinker",
+          "notes": [
+            {
+              "value": "Has created flying skateboard, laser pistols, high tech visor",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.3",
+              "to": "Agitation 3.8"
+            },
+            {
+              "value": "Has created flying skateboard, laser pistols, high tech visor",
+              "provenance": "Tattletale, Direct witness",
+              "from": "Agitation 3.8"
+            },
+            {
+              "value": "Laser pistol has multiple settings including one that acts as machine gun fire",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.10"
+            },
+            {
+              "value": "Can build things on a battlefield, materialising pieces into place like Star Trek transporters",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.10"
+            },
+            {
+              "value": "Builds a gun turret that can shoot bolts of light and showers of sparks like a flamethrower",
+              "provenance": "Direct witness",
+              "from": "Agitation 3.10",
+              "to": "Interlude 3"
+            },
+            {
+              "value": "Builds a gun turret called the Alternator Cannon that can shoot bolts of light and showers of sparks like a flamethrower",
+              "provenance": "Direct witness",
+              "from": "Interlude 3"
+            },
+            {
+              "value": "Puts tracking devices in his stuff",
+              "provenance": "Grue's savvy, Tattletale's power",
+              "from": "Agitation 3.12"
+            }
+          ],
+          "from": "Agitation 3.3"
+        }
+      ],
+      "from": "Agitation 3.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Gallant",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Pretends to be a tinker",
+          "from": "Agitation 3.3"
+        },
+        {
+          "value": "Has PoV Interlude",
+          "from": "Interlude 3"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Older teenager",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Secondhand armour",
+          "notes": [
+            {
+              "value": "Secondhand armour with a fresh paint job",
+              "from": "Agitation 3.3"
+            },
+            {
+              "value": "Gunmetal and silver costume that blends the appearance of a pulp sci-fi hero with a medieval knight",
+              "from": "Agitation 3.8"
+            }
+          ],
+          "from": "Agitation 3.3"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Emotion-affecting blasts",
+          "notes": [
+            {
+              "value": "Fires blasts of light which feel like getting punched in the gut, and mess with your feelings",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.3",
+              "to": "Agitation 3.10"
+            },
+            {
+              "value": "Fires blasts of light which feel like getting punched in the gut, and mess with your feelings",
+              "provenance": "Tattletale, Direct witness",
+              "from": "Agitation 3.10"
+            },
+            {
+              "value": "Not that bad unless you get hit by a bunch in a row",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.3"
+            },
+            {
+              "value": "Can choose which emotion the blasts make you feel",
+              "provenance": "Taylor",
+              "from": "Agitation 3.10"
+            },
+            {
+              "value": "Can sense other people's emotions, like a cloud of colour around them (can't switch off)",
+              "provenance": "PoV",
+              "from": "Interlude 3"
+            }
+          ],
+          "from": "Agitation 3.3"
+        }
+      ],
+      "from": "Agitation 3.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Professor Haywire",
+          "from": "Agitation 3.4"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Tore a hole between realities to discover alternative Earth Aleph, through which media can be traded",
+          "from": "Agitation 3.4"
+        }
+      ],
+      "from": "Agitation 3.4"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Velocity",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "from": "Agitation 3.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Dauntless",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "from": "Agitation 3.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Battery",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "from": "Agitation 3.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Assault",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.5"
+        }
+      ],
+      "from": "Agitation 3.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Heartbreaker",
+          "from": "Agitation 3.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Tattletale includes them as an example of capes fucked up in the head",
+          "from": "Agitation 3.6"
+        }
+      ],
+      "from": "Agitation 3.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Nilbog",
+          "from": "Agitation 3.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Person Tattletale says is a really dangerous motherfucker, barely human",
+          "from": "Agitation 3.6"
+        }
+      ],
+      "from": "Agitation 3.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Browbeat",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Solo hero",
+          "from": "Agitation 3.8",
+          "to_soft": "Agitation 3.8"
+        },
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Big in a different way to Grue; likely power-derived bulk. Muscle-laden arms thicker than Taylor's thighs, can probably crush cans between pecs",
+          "from": "Agitation 3.8"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Spandex",
+          "notes": [
+            {
+              "value": "Dark blue or black spandex with a diamond print",
+              "from": "Agitation 3.8"
+            },
+            {
+              "value": "Full face mask except the eyes, crystal attached to forehead",
+              "from": "Agitation 3.8"
+            },
+            {
+              "value": "No body armour",
+              "from": "Agitation 3.8"
+            }
+          ],
+          "from": "Agitation 3.3"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Point blank telekinesis",
+          "notes": [
+            {
+              "value": "Can move things with his mind if they're within an inch or so of his skin",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.8"
+            },
+            {
+              "value": "Can use it to throw punches that hit like freight trains, or shield himself from attacks",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.8"
+            }
+          ],
+          "from": "Agitation 3.8"
+        },
+        {
+          "brief_desc": "Personal biokinesis",
+          "notes": [
+            {
+              "value": "Can manipulate his own body, eg to heal by concentrating on injuries, or to bulk up",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.8"
+            }
+          ],
+          "from": "Agitation 3.8"
+        }
+      ],
+      "from": "Agitation 3.8"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Flashbang",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "from": "Agitation 3.11"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Lady Photon",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "from": "Agitation 3.11"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Manpower",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "from": "Agitation 3.11"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Laserdream",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "from": "Agitation 3.11"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Shielder",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "from": "Agitation 3.11"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Legend",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Lasers",
+          "notes": [
+            {
+              "value": "Can shoot lasers from his hand that turn corners",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.11"
+            }
+          ],
+          "from": "Agitation 3.11"
+        }
+      ],
+      "from": "Agitation 3.11"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Simurgh",
+          "from": "Agitation 3.11"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Suspected telepathy",
+          "notes": [
+            {
+              "value": "Is a suspected telepath",
+              "provenance": "Tattletale",
+              "from": "Agitation 3.11"
+            }
+          ],
+          "from": "Agitation 3.11"
+        }
+      ],
+      "from": "Agitation 3.11"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Fleur",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "from": "Agitation 3.12"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Lightstar",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "from": "Agitation 3.12"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Director Piggot",
+          "from": "Interlude 3"
+        },
+        {
+          "value": "Piggy",
+          "from": "Interlude 3",
+          "note": "Nickname used by Gallant"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Local PRT Director",
+          "from": "Interlude 3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 3"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Heavyset with a bob",
+          "from": "Interlude 3"
+        }
+      ],
+      "from": "Interlude 3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Stinger",
+          "from": "Interlude 3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain",
+          "from": "Interlude 3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "California",
+          "from": "Interlude 3"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Interlude 3"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Likely tinker",
+          "notes": [
+            {
+              "value": "Has power armour, a jetpack, and homing missiles",
+              "provenance": "Clockblocker",
+              "from": "Interlude 3"
+            }
+          ],
+          "from": "Interlude 3"
+        }
+      ],
+      "from": "Interlude 3"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Mr. Quinlan",
+          "from": "Shell 4.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Shell 4.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Teacher",
+          "from": "Shell 4.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Shell 4.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Routinely leaves class and doesn't return; Taylor suggests drugs or a drinking problem as causes",
+          "from": "Shell 4.1"
+        }
+      ],
+      "from": "Shell 4.1"
     }
   ],
 
-  "groups": {
+  "groups": [
     {
       "names": [
         {
           "value": "Triumvirate",
           "from": "Gestation 1.1"
         }
-      ]
+      ],
+      "notes": [
+        {
+          "value": "Taylor suspects their biography is mostly made up",
+          "from": "Gestation 1.1"
+        }
+      ],
+      "from": "Gestation 1.1"
     },
     {
       "names": [
@@ -521,9 +4755,478 @@
           "value": "Protectorate",
           "from": "Gestation 1.1"
         }
-      ]
+      ],
+      "notes": [
+        {
+          "value": "Has a local HQ in Brockton Bay",
+          "from": "Gestation 1.3",
+          "to": "Gestation 1.6"
+        },
+        {
+          "value": "Largest superhero organisation in the world, spanning US and Canada with talks to include Mexico",
+          "from": "Gestation 1.6"
+        },
+        {
+          "value": "Government-sponsored league of heroes with a base in each cape city (with a sizeable hero/villain population)",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "from": "Gestation 1.1"
+    },
+    {
+      "names": [
+        {
+          "value": "Azn Bad Boys",
+          "from": "Gestation 1.3"
+        },
+        {
+          "value": "ABB",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.3"
+        },
+        {
+          "value": "Docks",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Gang",
+          "from": "Gestation 1.3"
+        },
+        {
+          "value": "Forcibly recruits CJK+Vietnamese members from Brockton Bay's high schools and lower class neighbourhoods",
+          "from": "Gestation 1.3"
+        }
+      ],
+      "from": "Gestation 1.3"
+    },
+    {
+      "names": [
+        {
+          "value": "Undersiders",
+          "from": "Insinuation 2.6"
+        },
+        {
+          "value": "'the children'",
+          "note": "What they are referred to as by Lung",
+          "from": "Gestation 1.5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.5"
+        },
+        {
+          "value": "Headquartered in former Redmond Welding factory in the docks",
+          "from": "Insinuation 2.7"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Villain team",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Have previously engaged in corporate theft and robbed a casino",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Armsmaster states the group contains two murderers",
+          "from": "Agitation 3.5"
+        },
+        {
+          "value": "Successfully robbed Brockton Bay Central Bank",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "from": "Gestation 1.5"
+    },
+    {
+      "names": [
+        {
+          "value": "Protectorate East-North-East",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.6"
+        },
+        {
+          "value": "Headquartered in a floating forcefield-shrouded island",
+          "from": "Gestation 1.6"
+        },
+        {
+          "value": "Headquarters is the most fortified location in Brockton Bay",
+          "from": "Agitation 3.3"
+        },
+        {
+          "value": "Headquarters is a former oil rig",
+          "from": "Agitation 3.4"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hero team",
+          "from": "Gestation 1.6"
+        },
+        {
+          "value": "Brockton Bay's Protectorate team",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "from": "Gestation 1.6"
+    },
+    {
+      "names": [
+        {
+          "value": "Wards",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Under-18 subdivision",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "from": "Gestation 1.6"
+    },
+    {
+      "names": [
+        {
+          "value": "Wards East-North-East",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hero team",
+          "from": "Gestation 1.6"
+        },
+        {
+          "value": "Brockton Bay's Wards team",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "from": "Gestation 1.6"
+    },
+    {
+      "names": [
+        {
+          "value": "New York Protectorate",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "New York",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hero team",
+          "from": "Gestation 1.6"
+        },
+        {
+          "value": "New York's Protectorate team",
+          "from": "Gestation 1.6"
+        }
+      ],
+      "from": "Gestation 1.6"
+    },
+    {
+      "names": [
+        {
+          "value": "Arcadia High School",
+          "from": "Interlude 1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Has a very long waiting list",
+          "from": "Interlude 1"
+        },
+        {
+          "value": "Biggest and fanciest high school in Brockton Bay",
+          "from": "Insinuation 2.5"
+        }
+      ],
+      "from": "Interlude 1"
+    },
+    {
+      "names": [
+        {
+          "value": "Dockworkers Association",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.1"
+        }
+      ],
+      "from": "Insinuation 2.1"
+    },
+    {
+      "names": [
+        {
+          "value": "Winslow High School",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "from": "Insinuation 2.2"
+    },
+    {
+      "names": [
+        {
+          "value": "Guild",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hero team",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "from": "Insinuation 2.2"
+    },
+    {
+      "names": [
+        {
+          "value": "New Wave",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hero team",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "Not government sponsored",
+          "from": "Interlude 2"
+        },
+        {
+          "value": "Does not use secret identities",
+          "from": "Interlude 2"
+        },
+        {
+          "value": "Primarily a family team",
+          "from": "Interlude 2"
+        }
+      ],
+      "from": "Insinuation 2.2"
+    },
+    {
+      "names": [
+        {
+          "value": "Birdcage",
+          "from": "Insinuation 2.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "A prison",
+          "from": "Insinuation 2.2"
+        },
+        {
+          "value": "A prison without wardens, no communication with the outside world, no escapees, houses all the worst and most powerful villains ever captured, nobody knows who's still alive in there",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "from": "Insinuation 2.2"
+    },
+    {
+      "names": [
+        {
+          "value": "Faultline's Crew",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Villain team",
+          "from": "Insinuation 2.6"
+        },
+        {
+          "value": "Mercenary",
+          "from": "Interlude 2"
+        }
+      ],
+      "from": "Insinuation 2.6"
+    },
+    {
+      "names": [
+        {
+          "value": "Empire Eighty-Eight",
+          "from": "Insinuation 2.6"
+        },
+        {
+          "value": "Triple-E",
+          "from": "Interlude 2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Insinuation 2.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Gang",
+          "from": "Insinuation 2.6"
+        },
+        {
+          "value": "Is trying to expand into the Docks",
+          "from": "Interlude 2"
+        },
+        {
+          "value": "Unable to make territorial progress downtown due to Coil",
+          "from": "Interlude 2"
+        },
+        {
+          "value": "White supremacist",
+          "from": "Interlude 2"
+        }
+      ],
+      "from": "Insinuation 2.6"
+    },
+    {
+      "names": [
+        {
+          "value": "Slaughterhouse Nine",
+          "from": "Agitation 3.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Group Tattletale says is really dangerous motherfuckers, barely human",
+          "from": "Agitation 3.6"
+        }
+      ],
+      "from": "Agitation 3.6"
+    },
+    {
+      "names": [
+        {
+          "value": "Endbringers",
+          "from": "Agitation 3.6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Group Tattletale says is really dangerous motherfuckers, barely human",
+          "from": "Agitation 3.6"
+        },
+        {
+          "value": "Bad enough that enemies call a truce, everyone bands together to put them down when they attack",
+          "from": "Agitation 3.6"
+        }
+      ],
+      "from": "Agitation 3.6"
+    },
+    {
+      "names": [
+        {
+          "value": "Brockton Bay Brigade",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hero team",
+          "from": "Agitation 3.12"
+        }
+      ],
+      "from": "Agitation 3.12"
+    },
+    {
+      "names": [
+        {
+          "value": "Parahuman Response Team",
+          "from": "Interlude 3"
+        },
+        {
+          "value": "P.R.T.",
+          "from": "Interlude 3"
+        },
+        {
+          "value": "PRT",
+          "from": "Interlude 3"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Unassuming local office in Brockton Bay",
+          "from": "Interlude 3"
+        },
+        {
+          "value": "Their officers are equipped to deal with containment of villains",
+          "from": "Interlude 3"
+        },
+        {
+          "value": "Wards East-North-East HQ based in the Brockton Bay office",
+          "from": "Interlude 3"
+        }
+      ],
+      "from": "Interlude 3"
     }
-  },
+  ],
 
   "associations": [
     {
@@ -562,6 +5265,13 @@
       "from": "Gestation 1.1"
     },
     {
+      "first": "Mr. Gladly",
+      "relationship": "teaches",
+      "inv_relationship": "is taught by",
+      "second": "Taylor",
+      "from": "Gestation 1.1"
+    },
+    {
       "first": "Sophia",
       "relationship": "is best friends with",
       "inv_relationship": "is best friends with",
@@ -569,13 +5279,1281 @@
       "from": "Gestation 1.2"
     },
     {
-      "first": "Mr. Gladly",
-      "relationship": "teaches",
-      "inv_relationship": "is taught by",
+      "first": "Lung",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Azn Bad Boys",
+      "from": "Gestation 1.3",
+      "to_soft": "Insinuation 2.2"
+    },
+    {
+      "first": "Oni Lee",
+      "relationship": "is flunky of",
+      "inv_relationship": "has flunky",
+      "second": "Lung",
+      "from": "Gestation 1.3"
+    },
+    {
+      "first": "Grue",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "'the children'",
+      "from": "Gestation 1.5"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "'the children'",
+      "from": "Gestation 1.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "'the children'",
+      "from": "Gestation 1.5"
+    },
+    {
+      "first": "Regent",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "'the children'",
+      "from": "Gestation 1.5"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "was primarily responsible for subduing",
+      "inv_relationship": "was subdued primarily by",
+      "second": "Lung",
+      "from": "Gestation 1.5"
+    },
+    {
+      "first": "'the children'",
+      "relationship": "helped subdue",
+      "inv_relationship": "was subdued in part by",
+      "second": "Lung",
+      "from": "Gestation 1.5"
+    },
+    {
+      "first": "Protectorate East-North-East",
+      "relationship": "is part of",
+      "inv_relationship": "has team",
+      "second": "Protectorate",
+      "from": "Gestation 1.6"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Protectorate East-North-East",
+      "from": "Gestation 1.6"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "is a top member of",
+      "inv_relationship": "has top member",
+      "second": "Protectorate",
+      "from": "Gestation 1.6"
+    },
+    {
+      "first": "Wards",
+      "relationship": "is part of",
+      "inv_relationship": "has subdivision",
+      "second": "Protectorate",
+      "from": "Gestation 1.6"
+    },
+    {
+      "first": "Wards East-North-East",
+      "relationship": "is part of",
+      "inv_relationship": "has team",
+      "second": "Wards",
+      "from": "Gestation 1.6"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "invites to join the Wards",
+      "inv_relationship": "is invited to join the Wards by",
       "second": "Taylor",
-      "from": "Gestation 1.1"
+      "from": "Gestation 1.6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "is flunky of",
+      "inv_relationship": "has flunky",
+      "second": "Lung",
+      "from": "Gestation 1.6"
+    },
+    {
+      "first": "New York Protectorate",
+      "relationship": "is part of",
+      "inv_relationship": "has team",
+      "second": "Protectorate",
+      "from": "Gestation 1.6"
+    },
+    {
+      "first": "Andrew Hawke",
+      "relationship": "has sister",
+      "inv_relationship": "has brother",
+      "second": "Grace Lands",
+      "from": "Interlude 1"
+    },
+    {
+      "first": "Danny Hebert",
+      "relationship": "has daughter",
+      "inv_relationship": "has father",
+      "second": "Taylor",
+      "from": "Interlude 1"
+    },
+    {
+      "first": "Danny Hebert",
+      "relationship": "lives with",
+      "inv_relationship": "lives with",
+      "second": "Taylor",
+      "from": "Interlude 1"
+    },
+    {
+      "first": "Danny Hebert",
+      "relationship": "has wife",
+      "inv_relationship": "has husband",
+      "second": "Annette Hebert",
+      "from": "Interlude 1"
+    },
+    {
+      "first": "Annette Hebert",
+      "relationship": "has daughter",
+      "inv_relationship": "has mother",
+      "second": "Taylor",
+      "from": "Interlude 1"
+    },
+    {
+      "first": "Danny Hebert",
+      "relationship": "works for",
+      "inv_relationship": "employs",
+      "second": "Dockworkers Association",
+      "from": "Insinuation 2.1"
+    },
+    {
+      "first": "Über",
+      "relationship": "partners with",
+      "inv_relationship": "partners with",
+      "second": "Leet",
+      "from": "Insinuation 2.1"
+    },
+    {
+      "first": "Gerry",
+      "relationship": "rumoured to be henchman of",
+      "inv_relationship": "rumoured to employ henchman",
+      "second": "Über",
+      "from": "Insinuation 2.1"
+    },
+    {
+      "first": "Gerry",
+      "relationship": "rumoured to be henchman of",
+      "inv_relationship": "rumoured to employ henchman",
+      "second": "Leet",
+      "from": "Insinuation 2.1"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Winslow High School",
+      "from": "Insinuation 2.2"
+    },
+    {
+      "first": "Sophia",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Winslow High School",
+      "from": "Insinuation 2.2"
+    },
+    {
+      "first": "Emma Barnes",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Winslow High School",
+      "from": "Insinuation 2.2"
+    },
+    {
+      "first": "Madison Clements",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Winslow High School",
+      "from": "Insinuation 2.2"
+    },
+    {
+      "first": "Mr. Gladly",
+      "relationship": "teaches at",
+      "inv_relationship": "employs teacher",
+      "second": "Winslow High School",
+      "from": "Insinuation 2.2"
+    },
+    {
+      "first": "Mrs. Knott",
+      "relationship": "teaches at",
+      "inv_relationship": "employs teacher",
+      "second": "Winslow High School",
+      "from": "Insinuation 2.2"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "took credit for capturing",
+      "inv_relationship": "was publicly announced as being captured by",
+      "second": "Lung",
+      "from": "Insinuation 2.2"
+    },
+    {
+      "first": "Lung",
+      "relationship": "is expected to be sent to",
+      "inv_relationship": "is expected to admit",
+      "second": "Birdcage",
+      "from": "Agitation 3.6"
+    },
+    {
+      "first": "Sparky",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Winslow High School",
+      "from": "Insinuation 2.3"
+    },
+    {
+      "first": "Greg",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Winslow High School",
+      "from": "Insinuation 2.3"
+    },
+    {
+      "first": "Julia",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Winslow High School",
+      "from": "Insinuation 2.3"
+    },
+    {
+      "first": "Julia",
+      "relationship": "is friends with",
+      "inv_relationship": "is friends with",
+      "second": "Madison Clements",
+      "from": "Insinuation 2.3"
+    },
+    {
+      "first": "Alexandria",
+      "relationship": "is a member of",
+      "inv_relationship": "has member",
+      "second": "Protectorate",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "'the boss'",
+      "relationship": "funds",
+      "inv_relationship": "are funded by",
+      "second": "Undersiders",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Grue",
+      "relationship": "voted for recruiting",
+      "inv_relationship": "was voted for recruitment-wise by",
+      "second": "Taylor",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "voted for recruiting",
+      "inv_relationship": "was voted for recruitment-wise by",
+      "second": "Taylor",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Regent",
+      "relationship": "voted for recruiting",
+      "inv_relationship": "was voted for recruitment-wise by",
+      "second": "Taylor",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "voted against recruiting",
+      "inv_relationship": "was voted against recruitment-wise by",
+      "second": "Taylor",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "gave recruitment offer (which was turned down) to",
+      "inv_relationship": "was offered recruitment (and turned it down) by",
+      "second": "Spitfire",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Faultline",
+      "relationship": "recruited",
+      "inv_relationship": "was recruited by",
+      "second": "Spitfire",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "gave recruitment offer (which was turned down) to",
+      "inv_relationship": "was offered recruitment (and turned it down) by",
+      "second": "Circus",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Faultline",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Faultline's Crew",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Spitfire",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Faultline's Crew",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "sent to hospital",
+      "inv_relationship": "was sent to hospital by",
+      "second": "Lung",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "possibly destroyed the genitals of",
+      "inv_relationship": "possibly had his genitals destroyed by",
+      "second": "Lung",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Undersiders",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "plans on betraying",
+      "inv_relationship": "is planned to be betrayed by",
+      "second": "Undersiders",
+      "from": "Insinuation 2.6"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "lives with",
+      "inv_relationship": "live with",
+      "second": "Undersiders",
+      "from": "Insinuation 2.7"
+    },
+    {
+      "first": "Regent",
+      "relationship": "lives with",
+      "inv_relationship": "live with",
+      "second": "Undersiders",
+      "from": "Insinuation 2.7"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "lives with",
+      "inv_relationship": "live with",
+      "second": "Undersiders",
+      "from": "Insinuation 2.7"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "regularly spies on",
+      "inv_relationship": "is regularly spied on by",
+      "second": "Protectorate East-North-East",
+      "from": "Insinuation 2.7"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "attacked (right after she joined the Undersiders)",
+      "inv_relationship": "was attacked (right after joining the Undersiders) by",
+      "second": "Taylor",
+      "from": "Insinuation 2.7"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "previously attacked",
+      "inv_relationship": "was previously attacked by",
+      "second": "Grue",
+      "from": "Insinuation 2.7"
+    },
+    {
+      "first": "Grue",
+      "relationship": "punched (while she was attacking Taylor)",
+      "inv_relationship": "was punched (while attacking Taylor) by",
+      "second": "Bitch",
+      "from": "Insinuation 2.8"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "attacked in retaliation",
+      "inv_relationship": "was attacked in retaliation by",
+      "second": "Bitch",
+      "from": "Insinuation 2.8"
+    },
+    {
+      "first": "'the boss'",
+      "relationship": "provides information, equipment, and fencing for",
+      "inv_relationship": "is provided with information, equipment, and fencing by",
+      "second": "Undersiders",
+      "from": "Insinuation 2.8"
+    },
+    {
+      "first": "Brutus",
+      "relationship": "belongs to",
+      "inv_relationship": "owns",
+      "second": "Bitch",
+      "from": "Insinuation 2.9"
+    },
+    {
+      "first": "Judas",
+      "relationship": "belongs to",
+      "inv_relationship": "owns",
+      "second": "Bitch",
+      "from": "Insinuation 2.9"
+    },
+    {
+      "first": "Angelica",
+      "relationship": "belongs to",
+      "inv_relationship": "owns",
+      "second": "Bitch",
+      "from": "Insinuation 2.9"
+    },
+    {
+      "first": "Brutus",
+      "relationship": "lives with",
+      "inv_relationship": "live with",
+      "second": "Undersiders",
+      "from": "Insinuation 2.7"
+    },
+    {
+      "first": "Judas",
+      "relationship": "lives with",
+      "inv_relationship": "live with",
+      "second": "Undersiders",
+      "from": "Insinuation 2.7"
+    },
+    {
+      "first": "Angelica",
+      "relationship": "lives with",
+      "inv_relationship": "live with",
+      "second": "Undersiders",
+      "from": "Insinuation 2.7"
+    },
+    {
+      "first": "Glory Girl",
+      "relationship": "has adopted sister",
+      "inv_relationship": "has adoptive sister",
+      "second": "Panacea",
+      "from": "Interlude 2"
+    },
+    {
+      "first": "Glory Girl",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "New Wave",
+      "from": "Interlude 2"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "New Wave",
+      "from": "Interlude 2"
+    },
+    {
+      "first": "Brandish",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "New Wave",
+      "from": "Interlude 2"
+    },
+    {
+      "first": "Glory Girl",
+      "relationship": "has mother",
+      "inv_relationship": "has daughter",
+      "second": "Brandish",
+      "from": "Interlude 2"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "has adoptive mother",
+      "inv_relationship": "has adopted daughter",
+      "second": "Brandish",
+      "from": "Interlude 2"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Empire Eighty-Eight",
+      "from": "Interlude 2"
+    },
+    {
+      "first": "Coil",
+      "relationship": "is in territorial dispute with",
+      "inv_relationship": "is in territorial dispute with",
+      "second": "Empire Eighty-Eight",
+      "from": "Interlude 2"
+    },
+    {
+      "first": "Azn Bad Boys",
+      "relationship": "is in territorial dispute with",
+      "inv_relationship": "is in territorial dispute with",
+      "second": "Empire Eighty-Eight",
+      "from": "Interlude 2"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "healed",
+      "inv_relationship": "was healed by",
+      "second": "Andrea Young",
+      "from": "Interlude 2"
+    },
+    {
+      "first": "Grue",
+      "relationship": "thinks is considered friend by",
+      "inv_relationship": "is thought by him to be friends with",
+      "second": "Bitch",
+      "from": "Agitation 3.1"
+    },
+    {
+      "first": "Grue",
+      "relationship": "arranges regular morning coffee meetings with",
+      "inv_relationship": "arranges regular morning coffee meetings with",
+      "second": "Taylor",
+      "from": "Agitation 3.1"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Protectorate East-North-East",
+      "from": "Agitation 3.2"
+    },
+    {
+      "first": "Triumph",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Protectorate East-North-East",
+      "from": "Agitation 3.2"
+    },
+    {
+      "first": "Grue",
+      "relationship": "gives sparring lessons to",
+      "inv_relationship": "receives sparring lessons from",
+      "second": "Regent",
+      "from": "Agitation 3.2"
+    },
+    {
+      "first": "Grue",
+      "relationship": "gives sparring lessons to",
+      "inv_relationship": "receives sparring lessons from",
+      "second": "Taylor",
+      "from": "Agitation 3.2"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "possibly knows the identity of",
+      "inv_relationship": "identity possibly known by",
+      "second": "'the boss'",
+      "from": "Agitation 3.2"
+    },
+    {
+      "first": "Wards East-North-East",
+      "relationship": "mostly go to school at",
+      "inv_relationship": "is attended by most of",
+      "second": "Arcadia High School",
+      "from": "Agitation 3.3"
+    },
+    {
+      "first": "'the boss'",
+      "relationship": "pays a lot for a job to happen at a specific time",
+      "inv_relationship": "is paid a lot for a job to happen at a specific time by",
+      "second": "Undersiders",
+      "from": "Agitation 3.3"
+    },
+    {
+      "first": "Aegis",
+      "relationship": "leads",
+      "inv_relationship": "are led by",
+      "second": "Wards East-North-East",
+      "from": "Agitation 3.3"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Wards East-North-East",
+      "from": "Agitation 3.3"
+    },
+    {
+      "first": "Vista",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Wards East-North-East",
+      "from": "Agitation 3.3"
+    },
+    {
+      "first": "Kid Win",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Wards East-North-East",
+      "from": "Agitation 3.3"
+    },
+    {
+      "first": "Triumph",
+      "relationship": "graduated from",
+      "inv_relationship": "has former graduated member",
+      "second": "Wards East-North-East",
+      "from": "Agitation 3.3"
+    },
+    {
+      "first": "Gallant",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Wards East-North-East",
+      "from": "Agitation 3.3"
+    },
+    {
+      "first": "Gallant",
+      "relationship": "has on-and-off girlfriend",
+      "inv_relationship": "has on-and-off boyfriend",
+      "second": "Glory Girl",
+      "from": "Agitation 3.3"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "believes her nemesis is",
+      "inv_relationship": "is believed to be her nemesis by",
+      "second": "Grue",
+      "from": "Agitation 3.3"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "is probationary member of",
+      "inv_relationship": "has probationary member",
+      "second": "Wards East-North-East",
+      "from": "Agitation 3.3"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "has strange power interaction with",
+      "inv_relationship": "has strange power interaction with",
+      "second": "Grue",
+      "from": "Agitation 3.3"
+    },
+    {
+      "first": "Velocity",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Protectorate East-North-East",
+      "from": "Agitation 3.5"
+    },
+    {
+      "first": "Dauntless",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Protectorate East-North-East",
+      "from": "Agitation 3.5"
+    },
+    {
+      "first": "Battery",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Protectorate East-North-East",
+      "from": "Agitation 3.5"
+    },
+    {
+      "first": "Assault",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Protectorate East-North-East",
+      "from": "Agitation 3.5"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "was blamed for nearly killing",
+      "inv_relationship": "near death of was blamed on",
+      "second": "Lung",
+      "from": "Agitation 3.5"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "refused to help with the undercover operation of",
+      "inv_relationship": "was refused help with her undercover operation by",
+      "second": "Taylor",
+      "from": "Agitation 3.5"
+    },
+    {
+      "first": "Lung",
+      "relationship": "will be sent to",
+      "inv_relationship": "will admit",
+      "second": "Birdcage",
+      "from": "Agitation 3.6"
+    },
+    {
+      "first": "Über",
+      "relationship": "was not sent to",
+      "inv_relationship": "did not admit",
+      "second": "Birdcage",
+      "from": "Agitation 3.6"
+    },
+    {
+      "first": "Brutus",
+      "relationship": "injured the arm of",
+      "inv_relationship": "had arm injured by",
+      "second": "Taylor",
+      "from": "Agitation 3.8"
+    },
+    {
+      "first": "Aegis",
+      "relationship": "was at the bank robbery against",
+      "inv_relationship": "were at the bank robbery facing",
+      "second": "Undersiders",
+      "from": "Agitation 3.8"
+    },
+    {
+      "first": "Vista",
+      "relationship": "was at the bank robbery against",
+      "inv_relationship": "were at the bank robbery facing",
+      "second": "Undersiders",
+      "from": "Agitation 3.8"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "was at the bank robbery against",
+      "inv_relationship": "were at the bank robbery facing",
+      "second": "Undersiders",
+      "from": "Agitation 3.8"
+    },
+    {
+      "first": "Kid Win",
+      "relationship": "was at the bank robbery against",
+      "inv_relationship": "were at the bank robbery facing",
+      "second": "Undersiders",
+      "from": "Agitation 3.8"
+    },
+    {
+      "first": "Gallant",
+      "relationship": "was at the bank robbery against",
+      "inv_relationship": "were at the bank robbery facing",
+      "second": "Undersiders",
+      "from": "Agitation 3.8"
+    },
+    {
+      "first": "Browbeat",
+      "relationship": "was at the bank robbery against",
+      "inv_relationship": "were at the bank robbery facing",
+      "second": "Undersiders",
+      "from": "Agitation 3.8"
+    },
+    {
+      "first": "Browbeat",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Wards East-North-East",
+      "from": "Agitation 3.8"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "beat",
+      "inv_relationship": "was beaten by",
+      "second": "Browbeat",
+      "from": "Agitation 3.8"
+    },
+    {
+      "first": "Aegis",
+      "relationship": "at the bank robbery, swaps clothes with",
+      "inv_relationship": "at the bank robbery, swaps clothes with",
+      "second": "Clockblocker",
+      "from": "Agitation 3.9"
+    },
+    {
+      "first": "Aegis",
+      "relationship": "at the bank robbery, fights",
+      "inv_relationship": "at the bank robbery, fights",
+      "second": "Bitch",
+      "from": "Agitation 3.9"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Clockblocker",
+      "from": "Agitation 3.9"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Aegis",
+      "from": "Agitation 3.9"
+    },
+    {
+      "first": "Brutus",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Aegis",
+      "from": "Agitation 3.9"
+    },
+    {
+      "first": "Angelica",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Aegis",
+      "from": "Agitation 3.9"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Gallant",
+      "from": "Agitation 3.10"
+    },
+    {
+      "first": "Judas",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Gallant",
+      "from": "Agitation 3.10"
+    },
+    {
+      "first": "Kid Win",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Bitch",
+      "from": "Agitation 3.10"
+    },
+    {
+      "first": "Grue",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Vista",
+      "from": "Agitation 3.10"
+    },
+    {
+      "first": "Kid Win",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Judas",
+      "from": "Agitation 3.10"
+    },
+    {
+      "first": "Kid Win",
+      "relationship": "at the bank robbery, saves",
+      "inv_relationship": "at the bank robbery, is saved by",
+      "second": "Aegis",
+      "from": "Agitation 3.10"
+    },
+    {
+      "first": "Regent",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Aegis",
+      "from": "Agitation 3.10"
+    },
+    {
+      "first": "Regent",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Kid Win",
+      "from": "Agitation 3.10"
+    },
+    {
+      "first": "Glory Girl",
+      "relationship": "was at the bank robbery against",
+      "inv_relationship": "were at the bank robbery facing",
+      "second": "Undersiders",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "was at the bank robbery against",
+      "inv_relationship": "were at the bank robbery facing",
+      "second": "Undersiders",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Glory Girl",
+      "relationship": "at the bank robbery, saves",
+      "inv_relationship": "at the bank robbery, is saved by",
+      "second": "Aegis",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "at the bank robbery, disables the power of",
+      "inv_relationship": "at the bank robbery, has power disabled by",
+      "second": "Taylor",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "at the bank robbery, takes hostage",
+      "inv_relationship": "at the bank robbery, is taken hostage by",
+      "second": "Panacea",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Flashbang",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "New Wave",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Flashbang",
+      "relationship": "has daughter",
+      "inv_relationship": "has father",
+      "second": "Glory Girl",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Lady Photon",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "New Wave",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Lady Photon",
+      "relationship": "has niece",
+      "inv_relationship": "has aunt",
+      "second": "Glory Girl",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Manpower",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "New Wave",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Manpower",
+      "relationship": "has niece",
+      "inv_relationship": "has uncle",
+      "second": "Glory Girl",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Laserdream",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "New Wave",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Laserdream",
+      "relationship": "has cousin",
+      "inv_relationship": "has cousin",
+      "second": "Glory Girl",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Shielder",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "New Wave",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Shielder",
+      "relationship": "has cousin",
+      "inv_relationship": "has cousin",
+      "second": "Glory Girl",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Simurgh",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Endbringers",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "at the bank robbery, saves",
+      "inv_relationship": "at the bank robbery, is saved by",
+      "second": "Taylor",
+      "from": "Agitation 3.11"
+    },
+    {
+      "first": "Lady Photon",
+      "relationship": "was member of",
+      "inv_relationship": "had member",
+      "second": "Brockton Bay Brigade",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Manpower",
+      "relationship": "was member of",
+      "inv_relationship": "had member",
+      "second": "Brockton Bay Brigade",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Brandish",
+      "relationship": "was member of",
+      "inv_relationship": "had member",
+      "second": "Brockton Bay Brigade",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Flashbang",
+      "relationship": "was member of",
+      "inv_relationship": "had member",
+      "second": "Brockton Bay Brigade",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Fleur",
+      "relationship": "was member of",
+      "inv_relationship": "had member",
+      "second": "Brockton Bay Brigade",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Lightstar",
+      "relationship": "was member of",
+      "inv_relationship": "had member",
+      "second": "Brockton Bay Brigade",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Flashbang",
+      "relationship": "has adopted daughter",
+      "inv_relationship": "has adoptive father",
+      "second": "Panacea",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Lady Photon",
+      "relationship": "has adopted niece",
+      "inv_relationship": "has adoptive aunt",
+      "second": "Panacea",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Manpower",
+      "relationship": "has adopted niece",
+      "inv_relationship": "has adoptive aunt",
+      "second": "Panacea",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Laserdream",
+      "relationship": "has adopted cousin",
+      "inv_relationship": "has adoptive cousin",
+      "second": "Panacea",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Shielder",
+      "relationship": "has adopted cousin",
+      "inv_relationship": "has adoptive cousin",
+      "second": "Panacea",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "at the bank robbery, threatens to reveal a dark secret of",
+      "inv_relationship": "at the bank robbery, is threatened with revealing a dark secret by",
+      "second": "Panacea",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Panacea",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Glory Girl",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Glory Girl",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Regent",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Aegis",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "at the bank robbery, defeated",
+      "inv_relationship": "at the bank robbery, was defeated by",
+      "second": "Wards East-North-East",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "at the bank robbery, defeated",
+      "inv_relationship": "at the bank robbery, was defeated by",
+      "second": "Glory Girl",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "at the bank robbery, defeated",
+      "inv_relationship": "at the bank robbery, was defeated by",
+      "second": "Panacea",
+      "from": "Agitation 3.12"
+    },
+    {
+      "first": "Director Piggot",
+      "relationship": "is local director of",
+      "inv_relationship": "has local director",
+      "second": "Parahuman Response Team",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Director Piggot",
+      "relationship": "is manager of",
+      "inv_relationship": "report to",
+      "second": "Wards East-North-East",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Protectorate",
+      "relationship": "is part of",
+      "inv_relationship": "has subdivision",
+      "second": "Parahuman Response Team",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Gallant",
+      "relationship": "invited to the bank robbery",
+      "inv_relationship": "was invited to the bank robbery by",
+      "second": "Glory Girl",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Regent",
+      "relationship": "at the bank robbery, disables",
+      "inv_relationship": "at the bank robbery, is disabled by",
+      "second": "Browbeat",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "is next in line to lead",
+      "inv_relationship": "will next be led by",
+      "second": "Wards East-North-East",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Gallant",
+      "relationship": "is second in line to lead",
+      "inv_relationship": "will next time but one be led by",
+      "second": "Wards East-North-East",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Vista",
+      "relationship": "has crush on",
+      "inv_relationship": "is crushed on by",
+      "second": "Gallant",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "feels close only to",
+      "inv_relationship": "is the only one felt close to by",
+      "second": "Glory Girl",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "has 'rather strong feelings' towards",
+      "inv_relationship": "detects 'rather strong feelings' towards him from",
+      "second": "Gallant",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "heals",
+      "inv_relationship": "is healed by",
+      "second": "Gallant",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "heals",
+      "inv_relationship": "is healed by",
+      "second": "Aegis",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "heals",
+      "inv_relationship": "is healed by",
+      "second": "Clockblocker",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "heals",
+      "inv_relationship": "is healed by",
+      "second": "Vista",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "heals",
+      "inv_relationship": "is healed by",
+      "second": "Browbeat",
+      "from": "Interlude 3"
+    },
+    {
+      "first": "Mr. Quinlan",
+      "relationship": "teaches at",
+      "inv_relationship": "employs teacher",
+      "second": "Winslow High School",
+      "from": "Shell 4.1"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "buys new clothes for",
+      "inv_relationship": "is bought new clothes by",
+      "second": "Taylor",
+      "from": "Shell 4.2"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "shares her trigger event story with",
+      "inv_relationship": "are told her trigger event story by",
+      "second": "Undersiders",
+      "from": "Shell 4.3"
+    },
+    {
+      "first": "Sophia",
+      "relationship": "thought to be responsible for shoving into the locker",
+      "inv_relationship": "is thought to be responsible for shoving into the locker",
+      "second": "Taylor",
+      "from": "Shell 4.3"
     }
   ],
 
-  "up_to": "1.2"
+  "up_to": "Shell 4.3"
 }
