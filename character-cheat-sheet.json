@@ -1881,7 +1881,12 @@
       "occupations": [
         {
           "value": "Gang leader's flunky",
-          "from": "Gestation 1.6"
+          "from": "Gestation 1.6",
+          "to_soft": "Shell 4.6"
+        },
+        {
+          "value": "Gang leader",
+          "from": "Shell 4.6"
         }
       ],
       "based_in": [
@@ -1937,6 +1942,32 @@
             }
           ],
           "from": "Insinuation 2.2"
+        },
+        {
+          "brief_desc": "Bomberman",
+          "notes": [
+            {
+              "value": "Blue leotard with broad belt cinched around waist, skintight white sleeve and leggings",
+              "from": "Shell 4.6"
+            },
+            {
+              "value": "Elastic hood, clinging to head so it only leaves a window for the face, single white antenna",
+              "from": "Shell 4.6"
+            },
+            {
+              "value": "Gloves, boots, ball at top of antenna bubblegum pink",
+              "from": "Shell 4.6"
+            },
+            {
+              "value": "Face obscured by oversize goggles with red lenses",
+              "from": "Shell 4.6"
+            },
+            {
+              "value": "Gas mask-style fixture over lower face",
+              "from": "Shell 4.6"
+            }
+          ],
+          "from": "Shell 4.6"
         }
       ],
       "powers": [
@@ -2324,6 +2355,12 @@
           "from": "Insinuation 2.1"
         }
       ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Agitation 3.6"
+        }
+      ],
       "occupations": [
         {
           "value": "Villain duo",
@@ -2344,12 +2381,82 @@
         {
           "value": "About as incompetent as villains can be while staying out of jail",
           "from": "Insinuation 2.1"
+        },
+        {
+          "value": "Streams all cape activity online using a camera mounted in a sphere the size of a tennis ball, moving like a hummingbird, on a ½-1 hour delay",
+          "from": "Shell 4.5"
+        },
+        {
+          "value": "Theme themselves after a different videogame for each escapade",
+          "from": "Shell 4.5"
+        },
+        {
+          "value": "Fails more often than succeeds, makes more money from streaming than from crime proceeds, been arrested no less than three times, will likely be sent to the Birdcage next time",
+          "from": "Shell 4.6"
         }
       ],
       "parahuman_type": [
         {
           "value": "villain",
           "from": "Insinuation 2.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Sculpted physique, broad-shouldered and tall, lines of muscles visible through costume",
+          "from": "Shell 4.5"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Bomberman",
+          "notes": [
+            {
+              "value": "Blue man-leotard with broad belt cinched around waist, skintight white sleeve and leggings",
+              "from": "Shell 4.5"
+            },
+            {
+              "value": "Elastic hood, clinging to head so it only leaves a window for the face, single white antenna",
+              "from": "Shell 4.5"
+            },
+            {
+              "value": "Gloves, boots, ball at top of antenna bubblegum pink",
+              "from": "Shell 4.5"
+            },
+            {
+              "value": "Face obscured by oversize goggles with dark lenses",
+              "from": "Shell 4.5"
+            }
+          ],
+          "from": "Shell 4.5"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Become expert",
+          "notes": [
+            {
+              "value": "Can figure out how to do anything like he's an expert at it, likely extending to escapology",
+              "provenance": "Grue",
+              "from": "Shell 4.5"
+            },
+            {
+              "value": "Makes him sound like the guy who narrated trailers for action movies or late night commercials; overdramatic and intense about everything no matter how mundane, like an overacted gallant knight in a kid's movie",
+              "provenance": "Taylor",
+              "from": "Shell 4.5"
+            },
+            {
+              "value": "Makes him talented; for instance playing harmonica, parkour stunts, Muay Thai; can pull them off as if he'd been working on them for a few hours a day most of his life",
+              "provenance": "Taylor",
+              "from": "Shell 4.6"
+            },
+            {
+              "value": "If he really focuses, can be top notch",
+              "provenance": "Taylor",
+              "from": "Shell 4.6"
+            }
+          ],
+          "from": "Shell 4.5"
         }
       ],
       "from": "Insinuation 2.1"
@@ -2361,6 +2468,12 @@
           "from": "Insinuation 2.1"
         }
       ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Shell 4.6"
+        }
+      ],
       "occupations": [
         {
           "value": "Villain duo",
@@ -2381,12 +2494,81 @@
         {
           "value": "About as incompetent as villains can be while staying out of jail",
           "from": "Insinuation 2.1"
+        },
+        {
+          "value": "Streams all cape activity online using a camera mounted in a sphere the size of a tennis ball, moving like a hummingbird, on a ½-1 hour delay",
+          "from": "Shell 4.5"
+        },
+        {
+          "value": "Theme themselves after a different videogame for each escapade",
+          "from": "Shell 4.5"
+        },
+        {
+          "value": "Fails more often than succeeds, makes more money from streaming than from crime proceeds, been arrested no less than three times, will likely be sent to the Birdcage next time",
+          "from": "Shell 4.6"
+        },
+        {
+          "value": "Not a very deep voice",
+          "from": "Shell 4.6"
         }
       ],
       "parahuman_type": [
         {
           "value": "villain",
           "from": "Insinuation 2.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Scrawny, weak chin, bad slouch",
+          "from": "Shell 4.5"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Bomberman",
+          "notes": [
+            {
+              "value": "Blue man-leotard with broad belt cinched around waist, skintight white sleeve and leggings",
+              "from": "Shell 4.5"
+            },
+            {
+              "value": "Elastic hood, clinging to head so it only leaves a window for the face, single white antenna",
+              "from": "Shell 4.5"
+            },
+            {
+              "value": "Gloves, boots, ball at top of antenna bubblegum pink",
+              "from": "Shell 4.5"
+            },
+            {
+              "value": "Face obscured by oversize goggles with dark lenses",
+              "from": "Shell 4.5"
+            }
+          ],
+          "from": "Shell 4.5"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Single-shot tinker",
+          "notes": [
+            {
+              "value": "Can make anything once,",
+              "provenance": "Tattletale",
+              "from": "Shell 4.6"
+            },
+            {
+              "value": "The closer a newly-made thing is to a thing he's made before, the more likely it is to blow up in his face, misfire, or otherwise break comically",
+              "provenance": "Tattletale",
+              "from": "Shell 4.6"
+            },
+            {
+              "value": "Invents solid hologram fake bombs",
+              "provenance": "Direct witness",
+              "from": "Shell 4.6"
+            }
+          ],
+          "from": "Shell 4.6"
         }
       ],
       "from": "Insinuation 2.1"
@@ -5492,7 +5674,8 @@
       "relationship": "is flunky of",
       "inv_relationship": "has flunky",
       "second": "Lung",
-      "from": "Gestation 1.6"
+      "from": "Gestation 1.6",
+      "to_soft": "Shell 4.6"
     },
     {
       "first": "New York Protectorate",
@@ -6704,8 +6887,64 @@
       "inv_relationship": "received a dragonfly in amber as a belated welcome gift from",
       "second": "Taylor",
       "from": "Shell 4.4"
+    },
+    {
+      "first": "Über",
+      "relationship": "steals money from",
+      "inv_relationship": "has money stolen by",
+      "second": "Bitch",
+      "from": "Shell 4.5"
+    },
+    {
+      "first": "Leet",
+      "relationship": "steals money from",
+      "inv_relationship": "has money stolen by",
+      "second": "Bitch",
+      "from": "Shell 4.5"
+    },
+    {
+      "first": "Über",
+      "relationship": "is friends with",
+      "inv_relationship": "is friends with",
+      "second": "Leet",
+      "from": "Shell 4.6"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "in stolen money fight, disabled",
+      "inv_relationship": "in stolen money fight, is disabled by",
+      "second": "Über",
+      "from": "Shell 4.6"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "in stolen money fight, disabled",
+      "inv_relationship": "in stolen money fight, is disabled by",
+      "second": "Leet",
+      "from": "Shell 4.6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "hires",
+      "inv_relationship": "is hired by",
+      "second": "Über",
+      "from": "Shell 4.6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "hires",
+      "inv_relationship": "is hired by",
+      "second": "Leet",
+      "from": "Shell 4.6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Azn Bad Boys",
+      "from": "Shell 4.6"
     }
   ],
 
-  "up_to": "Shell 4.4"
+  "up_to": "Shell 4.6"
 }
