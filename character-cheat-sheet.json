@@ -450,7 +450,17 @@
             },
             {
               "value": "Pouch in the spine containing EpiPens, pen and notepad, pepper spray, chalk dust",
-              "from": "Gestation 1.4"
+              "from": "Gestation 1.4",
+              "to": "Agitation 3.6"
+            },
+            {
+              "value": "Pouch in the spine containing EpiPens, pen and notepad, pepper spray, chalk dust, combat knife (blade over 6\" long, textured handle with three symmetrical indents on each side for grip, strong enough to be used as a crowbar), 21\" telescoping combat baton",
+              "from": "Agitation 3.6",
+              "to": "Shell 4.4"
+            },
+            {
+              "value": "Pouch in the spine containing EpiPens, pen and notepad, pepper spray, combat knife (blade over 6\" long, textured handle with three symmetrical indents on each side for grip, strong enough to be used as a crowbar), 21\" telescoping combat baton, a change-purse with spare change and a twenty, an unused burner phone",
+              "from": "Shell 4.4"
             },
             {
               "value": "Most of the armour panels are separate pieces held in place by straps running into slits in the fabric",
@@ -679,6 +689,10 @@
         {
           "value": "Runner on the school track team",
           "from": "Gestation 1.1"
+        },
+        {
+          "value": "Was likely directly involved in the locker incident",
+          "from": "Shell 4.3"
         }
       ],
       "appearance": [
@@ -1080,8 +1094,28 @@
           "from": "Agitation 3.1"
         },
         {
+          "value": "Was taught a little boxing by his father",
+          "from": "Agitation 3.2"
+        },
+        {
           "value": "Two years of experience prior to the Undersiders",
           "from": "Shell 4.2"
+        },
+        {
+          "value": "Parents split up when he was 13; Brian lived with his father",
+          "from": "Shell 4.4"
+        },
+        {
+          "value": "His father was a hard man; no warmth, not the type meant to raise a son alone",
+          "from": "Shell 4.4"
+        },
+        {
+          "value": "Got three months' community service for beating up his mother's boyfriend (when he triggered)",
+          "from": "Shell 4.4"
+        },
+        {
+          "value": "Went into villainy to raise money to fight his mother to gain custody of Aisha",
+          "from": "Shell 4.4"
         }
       ],
       "parahuman_type": [
@@ -1190,6 +1224,47 @@
             }
           ],
           "from": "Insinuation 2.2"
+        }
+      ],
+      "trigger_events": [
+        {
+          "number": 1,
+          "brief_desc": "",
+          "notes": [
+            {
+              "value": "Received a text from Aisha saying \"Help me\"",
+              "from": "Shell 4.4"
+            },
+            {
+              "value": "Went to his mother's house (where his sister was living) as fast as possible",
+              "from": "Shell 4.4"
+            },
+            {
+              "value": "Aisha had been crying, didn't say why; he started to leave with her and found his way barred by his mother's new boyfriend",
+              "from": "Shell 4.4"
+            },
+            {
+              "value": "Immediately knew said boyfriend was the reason Aisha had asked for help, as she shrank back and held him tighter; he went cold",
+              "from": "Shell 4.4"
+            },
+            {
+              "value": "Put Aisha down and beat his mother's boyfriend within an inch of his life, with his mother screaming and wailing",
+              "from": "Shell 4.4"
+            },
+            {
+              "value": "Took Aisha to his dad's, went to police the next day",
+              "from": "Shell 4.4"
+            },
+            {
+              "value": "Realised he'd got powers when he was washing the blood out of his torn knuckles that evening and saw the darkness leaking out alongside the blood",
+              "from": "Shell 4.4"
+            },
+            {
+              "value": "Said he wasn't feeling rage or fear when he triggered, but in fact was feeling nothing",
+              "from": "Shell 4.4"
+            }
+          ],
+          "from": "Shell 4.4"
         }
       ],
       "from": "Gestation 1.5"
@@ -3615,7 +3690,7 @@
           "brief_desc": "Modified military uniform",
           "notes": [
             {
-              "value": "Modified military uniform, tight enough to accentuate her curves, scarf around lower face with embroidered American flag, similar sash around waist.",
+              "value": "Modified military uniform, tight enough to accentuate her curves, scarf around lower face with embroidered American flag, similar sash around waist",
               "from": "Interlude 3"
             }
           ],
@@ -4730,6 +4805,41 @@
         }
       ],
       "from": "Shell 4.1"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Aisha",
+          "from": "Shell 4.4"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Shell 4.4"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Shell 4.4"
+        }
+      ],
+      "notes": [
+        {
+          "value": "After parents split up, went to live with her mother",
+          "from": "Shell 4.4"
+        },
+        {
+          "value": "Asked Grue for help, which led to Grue beating up their mother's boyfriend and Grue's trigger event",
+          "from": "Shell 4.4"
+        },
+        {
+          "value": "Now lives with her (and Grue's) father, but they mostly ignore each other and she acts out",
+          "from": "Shell 4.4"
+        }
+      ],
+      "from": "Shell 4.4"
     }
   ],
 
@@ -6552,8 +6662,50 @@
       "inv_relationship": "is thought to be responsible for shoving into the locker",
       "second": "Taylor",
       "from": "Shell 4.3"
+    },
+    {
+      "first": "Grue",
+      "relationship": "has sister",
+      "inv_relationship": "has brother",
+      "second": "Aisha",
+      "from": "Shell 4.4"
+    },
+    {
+      "first": "Grue",
+      "relationship": "wishes to gain custody of",
+      "inv_relationship": "is desired custody by",
+      "second": "Aisha",
+      "from": "Shell 4.4"
+    },
+    {
+      "first": "'the boss'",
+      "relationship": "provides the illusion of stable employment for",
+      "inv_relationship": "is provided the illusion of stable employment by",
+      "second": "Grue",
+      "from": "Shell 4.4"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "agrees to make a costume for $1500 for",
+      "inv_relationship": "agrees to pay $1500 for a costume by",
+      "second": "Grue",
+      "from": "Shell 4.4"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "agrees to make a costume for $1500 for",
+      "inv_relationship": "agrees to pay $1500 for a costume by",
+      "second": "Tattletale",
+      "from": "Shell 4.4"
+    },
+    {
+      "first": "Grue",
+      "relationship": "bought a dragonfly in amber as a belated welcome gift for",
+      "inv_relationship": "received a dragonfly in amber as a belated welcome gift from",
+      "second": "Taylor",
+      "from": "Shell 4.4"
     }
   ],
 
-  "up_to": "Shell 4.3"
+  "up_to": "Shell 4.4"
 }
