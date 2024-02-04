@@ -1,0 +1,421 @@
+{# templates/template.html #}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Character Cheat Sheet &mdash; {{ book }} &mdash; {{ chapter }}</title>
+  </head>
+  <body>
+    <h1>{{ book }} &mdash; {{ chapter }}</h1>
+    {% if prev_chapter %}<a href="{{ chapter_filenames[prev_chapter] }}">Prev</a>{% else %}Prev{% endif %}
+    |
+    {% if next_chapter %}<a href="{{ chapter_filenames[next_chapter] }}">Next</a>{% else %}Next{% endif %}
+
+    <h2>Characters</h2>
+
+    {% for character in character_objects if check_chapter(character, chapter_id, chapter_map) %}
+    <a id="character-{{ loop.index0 }}" />
+    {% for state in character.state if check_chapter(state, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    {% if state.value == "dead" %}
+    <h3><s>{{get_best_name(character, chapter_id, chapter_map)}}</s></h3>
+    {% else %}
+    <h3>{{get_best_name(character, chapter_id, chapter_map)}}</h3>
+    {% endif %}
+    {% endif %}
+    {% else %}
+    <h3>{{get_best_name(character, chapter_id, chapter_map)}}</h3>
+    {% endfor %}
+
+    {% for name in character.cape_names if check_chapter(name, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Cape names</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in name or chapter_map[name.to_soft] > chapter_id %}
+        <strong>{{ name.value }}</strong>
+        {% else %}
+        <s>{{ name.value }}</s>
+        {% endif %}
+        {% if "note" in name %} &mdash; {{ name.note }}{% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for name in character.civilian_names if check_chapter(name, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Civilian names</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in name or chapter_map[name.to_soft] > chapter_id %}
+        <strong>{{ name.value }}</strong>
+        {% else %}
+        <s>{{ name.value }}</s>
+        {% endif %}
+        {% if "note" in name %} &mdash; {{ name.note }}{% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for pronoun in character.pronouns if check_chapter(pronoun, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Pronouns</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in pronoun or chapter_map[pronoun.to_soft] > chapter_id %}
+        {{ pronoun.value }}
+        {% else %}
+        <s>{{ pronoun.value }}</s>
+        {% endif %}
+        {% if "note" in pronoun %} &mdash; {{ pronoun.note }}{% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for state in character.state if check_chapter(state, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>State</h4>
+    {{ state.value }}
+    {% if "note" in state %} &mdash; {{ state.note }}{% endif %}
+    {% endif %}
+    {% endfor %}
+
+    {% for parahuman_type in character.parahuman_type if check_chapter(parahuman_type, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Parahuman type</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in parahuman_type or chapter_map[parahuman_type.to_soft] > chapter_id %}
+        {{ parahuman_type.value }}
+        {% else %}
+        <s>{{ parahuman_type.value }}</s>
+        {% endif %}
+        {% if "note" in parahuman_type %} &mdash; {{ parahuman_type.note }}{% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for prt_classification in character.prt_classification if check_chapter(prt_classification, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Cape classification</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in prt_classification or chapter_map[prt_classification.to_soft] > chapter_id %}
+        {{ prt_classification.value }}
+        {% else %}
+        <s>{{ prt_classification.value }}</s>
+        {% endif %}
+        {% if "note" in prt_classification %} &mdash; {{ prt_classification.note }}{% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for cause_of_death in character.cause_of_death if check_chapter(cause_of_death, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Cause of death</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in cause_of_death or chapter_map[cause_of_death.to_soft] > chapter_id %}
+        {{ cause_of_death.value }}
+        {% else %}
+        <s>{{ cause_of_death.value }}</s>
+        {% endif %}
+        {% if "note" in cause_of_death %} &mdash; {{ cause_of_death.note }}{% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for occupation in character.occupations if check_chapter(occupation, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Occupations</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in occupation or chapter_map[occupation.to_soft] > chapter_id %}
+        {{ occupation.value }}
+        {% else %}
+        <s>{{ occupation.value }}</s>
+        {% endif %}
+        {% if "note" in occupation %} &mdash; {{ occupation.note }}{% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for based_in in character.based_in if check_chapter(based_in, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Based in</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in based_in or chapter_map[based_in.to_soft] > chapter_id %}
+        {{ based_in.value }}
+        {% else %}
+        <s>{{ based_in.value }}</s>
+        {% endif %}
+        {% if "note" in based_in %} &mdash; {{ based_in.note }}{% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for appearance in character.appearance if check_chapter(appearance, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Appearance</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in appearance or chapter_map[appearance.to_soft] > chapter_id %}
+        {{ appearance.value }}
+        {% else %}
+        <s>{{ appearance.value }}</s>
+        {% endif %}
+        {% if "note" in appearance %} &mdash; {{ appearance.note }}{% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for cape_costume in character.cape_costumes if check_chapter(cape_costume, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Cape costumes</h4>
+    {% endif %}
+    {% set outer_loop = loop %}
+    {% for note in cape_costume.notes if check_chapter(note, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    {% if outer_loop.length != 1 %}
+    {% if "to_soft" not in cape_costume or chapter_map[cape_costume.to_soft] > chapter_id %}
+    <h5>{{ cape_costume.brief_desc }}</h5>
+    {% else %}
+    <h5><s>{{ cape_costume.brief_desc }}</s></h5>
+    {% endif %}
+    {% endif %}
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in note or chapter_map[note.to_soft] > chapter_id %}
+        {{ note.value }}
+        {% else %}
+        <s>{{ note.value }}</s>
+        {% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+
+    {% for power in character.powers if check_chapter(power, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Powers</h4>
+    {% endif %}
+    {% for note in power.notes if check_chapter(note, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    {% if "to_soft" not in power or chapter_map[power.to_soft] > chapter_id %}
+    <h5>{{ power.brief_desc }}</h5>
+    {% else %}
+    <h5><s>{{ power.brief_desc }}</s></h5>
+    {% endif %}
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in note or chapter_map[note.to_soft] > chapter_id %}
+        {{ note.value }}
+        {% else %}
+        <s>{{ note.value }}</s>
+        {% endif %}
+        {% if "provenance" in note %} ~ <em>{{ note.provenance }}</em>{% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+
+    {% for trigger_event in character.trigger_events if check_chapter(trigger_event, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Trigger event</h4>
+    {% endif %}
+    {% set outer_loop = loop %}
+    {% for note in trigger_event.notes if check_chapter(note, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    {% if outer_loop.length != 1 %}
+    {% if "to_soft" not in trigger_event or chapter_map[trigger_event.to_soft] > chapter_id %}
+    <h5>{{ trigger_event.number}}: {{ trigger_event.brief_desc }}</h5>
+    {% else %}
+    <h5><s>{{ trigger_event.number}}: {{ trigger_event.brief_desc }}</s></h5>
+    {% endif %}
+    {% endif %}
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in note or chapter_map[note.to_soft] > chapter_id %}
+        {{ note.value }}
+        {% else %}
+        <s>{{ note.value }}</s>
+        {% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+
+    {% for note in character.notes if check_chapter(note, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Notes</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in note or chapter_map[note.to_soft] > chapter_id %}
+        {{ note.value }}
+        {% else %}
+        <s>{{ note.value }}</s>
+        {% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for association in character.associations if check_chapter(association, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Associations</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in association or chapter_map[association.to_soft] > chapter_id %}
+        {{ association.relationship }} <a href="#{{ association.other_id }}">{{ get_best_name(id_map[association.other_id], chapter_id, chapter_map) }}</a>
+        {% else %}
+        <s>{{ association.relationship }} <a href="#{{ association.other_id }}">{{ get_best_name(id_map[association.other_id], chapter_id, chapter_map) }}</a></s>
+        {% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    <hr />
+    {% endfor %}
+
+    <h2>Groups</h2>
+    {% for group in group_objects if check_chapter(group, chapter_id, chapter_map) %}
+    <a id="group-{{ loop.index0 }}" />
+    {% if "state" in group %}
+    {% for state in group.state if check_chapter(state, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    {% if state.value == "defunct" %}
+    <h3><s>{{get_best_name(group, chapter_id, chapter_map)}}</s></h3>
+    {% else %}
+    <h3>{{get_best_name(group, chapter_id, chapter_map)}}</h3>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+    {% else %}
+    <h3>{{get_best_name(group, chapter_id, chapter_map)}}</h3>
+    {% endif %}
+
+    {% for name in group.names if check_chapter(name, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Names</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in name or chapter_map[name.to_soft] > chapter_id %}
+        <strong>{{ name.value }}</strong>
+        {% else %}
+        <s>{{ name.value }}</s>
+        {% endif %}
+        {% if "note" in name %} &mdash; {{ name.note }}{% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for state in group.state if check_chapter(state, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>State</h4>
+    {{ state.value }}
+    {% if "note" in state %} &mdash; {{ state.note }}{% endif %}
+    {% endif %}
+    {% endfor %}
+
+    {% for based_in in group.based_in if check_chapter(based_in, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Based in</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in based_in or chapter_map[based_in.to_soft] > chapter_id %}
+        {{ based_in.value }}
+        {% else %}
+        <s>{{ based_in.value }}</s>
+        {% endif %}
+        {% if "note" in based_in %} &mdash; {{ based_in.note }}{% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for note in group.notes if check_chapter(note, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Notes</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in note or chapter_map[note.to_soft] > chapter_id %}
+        {{ note.value }}
+        {% else %}
+        <s>{{ note.value }}</s>
+        {% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    {% for association in group.associations if check_chapter(association, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    <h4>Associations</h4>
+    <ul>
+    {% endif %}
+      <li>
+        {% if "to_soft" not in association or chapter_map[association.to_soft] > chapter_id %}
+        {{ association.relationship }} <a href="#{{ association.other_id }}">{{ get_best_name(id_map[association.other_id], chapter_id, chapter_map) }}</a>
+        {% else %}
+        <s>{{ association.relationship }} <a href="#{{ association.other_id }}">{{ get_best_name(id_map[association.other_id], chapter_id, chapter_map) }}</a></s>
+        {% endif %}
+      </li>
+    {% if loop.last %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+
+    <hr />
+    {% endfor %}
+  </body>
+</html>
