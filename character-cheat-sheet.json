@@ -332,7 +332,12 @@
       "civilian_names": [
         {
           "value": "Taylor",
-          "from": "Gestation 1.1"
+          "from": "Gestation 1.1",
+          "to": "Hive 5.4"
+        },
+        {
+          "value": "Taylor Hebert",
+          "from": "Hive 5.4"
         }
       ],
       "pronouns": [
@@ -545,6 +550,11 @@
               "value": "In one instance, could recognise music through the bugs though was confused about the genre",
               "provenance": "PoV",
               "from": "Shell 4.11"
+            },
+            {
+              "value": "After meeting with school when she still had concussion, found her range was extended from 2 blocks to 3½",
+              "provenance": "PoV",
+              "from": "Hive 5.5"
             }
           ],
           "from": "Gestation 1.1"
@@ -673,7 +683,12 @@
       "civilian_names": [
         {
           "value": "Sophia",
-          "from": "Gestation 1.1"
+          "from": "Gestation 1.1",
+          "to": "Hive 5.4"
+        },
+        {
+          "value": "Sophia Hess",
+          "from": "Hive 5.4"
         }
       ],
       "pronouns": [
@@ -1664,6 +1679,11 @@
               "value": "Dogs can perform acrobatic leaps onto/off sides of buildings",
               "provenance": "Direct witness",
               "from": "Agitation 3.9"
+            },
+            {
+              "value": "Seeing the dogs transform is like seeing a sausage split its casing, only the casing is fur and skin",
+              "provenance": "Direct witness",
+              "from": "Hive 5.5"
             }
           ],
           "from": "Gestation 1.5"
@@ -1746,7 +1766,12 @@
             },
             {
               "value": "Loose white shirt covers a mesh vest molded to the shape of his body",
-              "from": "Agitation 3.7"
+              "from": "Agitation 3.7",
+              "to_soft": "Hive 5.5"
+            },
+            {
+              "value": "Loose dark gray shirt covers a mesh vest molded to the shape of his body",
+              "from": "Hive 5.5"
             },
             {
               "value": "Carries scepter with a taser built into the crowned orb at the top",
@@ -5438,7 +5463,12 @@
       "occupations": [
         {
           "value": "Teacher",
-          "from": "Shell 4.1"
+          "from": "Shell 4.1",
+          "to": "Hive 5.4"
+        },
+        {
+          "value": "Teacher, Math",
+          "from": "Hive 5.4"
         }
       ],
       "based_in": [
@@ -6079,8 +6109,17 @@
           "from": "Hive 5.1"
         },
         {
-          "value": "Light blue eyes, dark red hair that looks wet",
+          "value": "Light blue eyes",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Dark red hair that looks wet",
+          "from": "Hive 5.1",
+          "to_soft": "Hive 5.5"
+        },
+        {
+          "value": "Hair dyed cobalt blue",
+          "from": "Hive 5.5"
         },
         {
           "value": "Five foot long prehensile tail",
@@ -6098,9 +6137,30 @@
             {
               "value": "Doesn't wear a shirt, shoes, or gloves",
               "from": "Hive 5.1"
+            },
+            {
+              "value": "Tattered jeans",
+              "from": "Hive 5.5"
+            },
+            {
+              "value": "Cloth wrap, like that used by a kickboxer, around hands and feet",
+              "from": "Hive 5.5"
             }
           ],
           "from": "Hive 5.1"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Stick to things",
+          "notes": [
+            {
+              "value": "Can hang off walls by fingertips and toes",
+              "provenance": "Direct witness",
+              "from": "Hive 5.5"
+            }
+          ],
+          "from": "Hive 5.5"
         }
       ],
       "from": "Hive 5.1"
@@ -6167,6 +6227,12 @@
         {
           "value": "Labyrinth",
           "from": "Hive 5.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Hive 5.5"
         }
       ],
       "occupations": [
@@ -6336,7 +6402,13 @@
       "pronouns": [
         {
           "value": "he/him",
-          "from": "Hive 5.1"
+          "from": "Hive 5.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Partner in a law firm",
+          "from": "Hive 5.4"
         }
       ],
       "based_in": [
@@ -6929,7 +7001,12 @@
         {
           "value": "Skidmark's villain team",
           "from": "Hive 5.1",
+          "to": "Hive 5.5",
           "note": "Not official name"
+        },
+        {
+          "value": "Merchants",
+          "from": "Hive 5.5"
         }
       ],
       "based_in": [
@@ -6940,6 +7017,11 @@
         {
           "value": "The territory nobody else cares about",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "A former tourist shop tower that looks like a lighthouse by a bridge between two bus stations",
+          "from": "Hive 5.5",
+          "to_soft": "Hive 5.5"
         }
       ],
       "notes": [
@@ -9272,10 +9354,11 @@
     },
     {
       "first": "Danny Hebert",
-      "relationship": "is friends with",
-      "inv_relationship": "is friends with",
+      "relationship": "was friends with",
+      "inv_relationship": "was friends with",
       "second": "Alan Barnes",
-      "from": "Hive 5.3"
+      "from": "Hive 5.3",
+      "to_soft": "Hive 5.4"
     },
     {
       "first": "Taylor",
@@ -9297,8 +9380,295 @@
       "inv_relationship": "was told about the bullying by",
       "second": "Danny Hebert",
       "from": "Hive 5.3"
+    },
+    {
+      "first": "Danny Hebert",
+      "relationship": "told about the bullying",
+      "inv_relationship": "was told about the bullying by",
+      "second": "Alan Barnes",
+      "from": "Hive 5.4"
+    },
+    {
+      "first": "Alan Barnes",
+      "relationship": "called meeting about the bullying of",
+      "inv_relationship": "had meeting about the bullying of called by",
+      "second": "Taylor Hebert",
+      "from": "Hive 5.4"
+    },
+    {
+      "first": "Emma Barnes",
+      "relationship": "attended meeting about the bullying of",
+      "inv_relationship": "had meeting about her bullying with the school attended by",
+      "second": "Taylor Hebert",
+      "from": "Hive 5.4"
+    },
+    {
+      "first": "Madison Clements",
+      "relationship": "attended meeting about the bullying of",
+      "inv_relationship": "had meeting about her bullying with the school attended by",
+      "second": "Taylor Hebert",
+      "from": "Hive 5.4"
+    },
+    {
+      "first": "Sophia Hess",
+      "relationship": "attended meeting about the bullying of",
+      "inv_relationship": "had meeting about her bullying with the school attended by",
+      "second": "Taylor Hebert",
+      "from": "Hive 5.4"
+    },
+    {
+      "first": "Mr. Gladly",
+      "relationship": "attended meeting about the bullying of",
+      "inv_relationship": "had meeting about her bullying with the school attended by",
+      "second": "Taylor Hebert",
+      "from": "Hive 5.4"
+    },
+    {
+      "first": "Mrs. Knott",
+      "relationship": "attended meeting about the bullying of",
+      "inv_relationship": "had meeting about her bullying with the school attended by",
+      "second": "Taylor Hebert",
+      "from": "Hive 5.4"
+    },
+    {
+      "first": "Mr. Quinlan",
+      "relationship": "attended meeting about the bullying of",
+      "inv_relationship": "had meeting about her bullying with the school attended by",
+      "second": "Taylor Hebert",
+      "from": "Hive 5.4"
+    },
+    {
+      "first": "Winslow High School",
+      "relationship": "utterly failed in bullying meeting to help",
+      "inv_relationship": "was utterly failed in bullying meeting by",
+      "second": "Taylor Hebert",
+      "from": "Hive 5.4"
+    },
+    {
+      "first": "Winslow High School",
+      "relationship": "utterly failed in bullying meeting to help",
+      "inv_relationship": "was utterly failed in bullying meeting by",
+      "second": "Taylor Hebert",
+      "from": "Hive 5.4"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Bitch",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Faultline",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Trickster",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Regent",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Trickster",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Faultline",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Regent",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Trickster",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Regent",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Faultline",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Merchants",
+      "relationship": "were forced out of former headquarters by",
+      "inv_relationship": "forced out of their headquarters",
+      "second": "Azn Bad Boys",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Kaiser",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Kaiser",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Fenja",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Fenja",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Fenja",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Menja",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Menja",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Menja",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Fenja",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Menja",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Newter",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Newter",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Newter",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Fenja",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Newter",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Menja",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Newter",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Labyrinth",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Labyrinth",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Labyrinth",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Fenja",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Labyrinth",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Menja",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Labyrinth",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Newter",
+      "relationship": "joined raid on ABB with",
+      "inv_relationship": "joined raid on ABB with",
+      "second": "Labyrinth",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "brought along to raid on ABB",
+      "inv_relationship": "was brought along to raid on ABB by",
+      "second": "Brutus",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "brought along to raid on ABB",
+      "inv_relationship": "was brought along to raid on ABB by",
+      "second": "Judas",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "brought along to raid on ABB",
+      "inv_relationship": "was brought along to raid on ABB by",
+      "second": "Angelica",
+      "from": "Hive 5.5"
     }
   ],
 
-  "up_to": "Hive 5.3"
+  "up_to": "Hive 5.5"
 }

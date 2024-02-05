@@ -58,6 +58,7 @@ def main():
         group_objects = data["groups"]
         association_objects = data["associations"]
 
+        assert len(chapter_list) == len(set(chapter_list)), "Duplicate chapter"
         chapter_map = {
             chapter: i for i, chapter in enumerate(chapter_list)
         }
@@ -76,12 +77,14 @@ def main():
             if "civilian_names" in character:
                 for name in character["civilian_names"]:
                     assert name["value"] not in character_map or \
-                        character_map[name["value"]] == i
+                        character_map[name["value"]] == i, \
+                        f'Duplicate {name["value"]}'
                     character_map[name["value"]] = i
             if "cape_names" in character:
                 for name in character["cape_names"]:
                     assert name["value"] not in character_map or \
-                        character_map[name["value"]] == i
+                        character_map[name["value"]] == i, \
+                        f'Duplicate {name["value"]}'
                     character_map[name["value"]] = i
             id_map["character-" + str(i)] = character
 
@@ -90,7 +93,8 @@ def main():
             if "names" in group:
                 for name in group["names"]:
                     assert name["value"] not in group_map or \
-                        group_map[name["value"]] == i
+                        group_map[name["value"]] == i, \
+                        f'Duplicate {name["value"]}'
                     group_map[name["value"]] = i
             id_map["group-" + str(i)] = group
 
@@ -100,7 +104,7 @@ def main():
                 first_id = "character-" + str(character_map[first])
                 first_object = character_objects[character_map[first]]
             else:
-                assert first in group_map
+                assert first in group_map, f'{first} not found'
                 first_id = "group-" + str(group_map[first])
                 first_object = group_objects[group_map[first]]
 
@@ -108,7 +112,7 @@ def main():
                 second_id = "character-" + str(character_map[second])
                 second_object = character_objects[character_map[second]]
             else:
-                assert second in group_map
+                assert second in group_map, f'{second} not found'
                 second_id = "group-" + str(group_map[second])
                 second_object = group_objects[group_map[second]]
 
