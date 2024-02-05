@@ -1028,6 +1028,10 @@
             {
               "value": "Except for the mask, gives the impression of a ninja",
               "from": "Insinuation 2.2"
+            },
+            {
+              "value": "Mask has leering, fanged, ear-to-ear grin",
+              "from": "Hive 5.7"
             }
           ],
           "from": "Insinuation 2.2"
@@ -1057,6 +1061,11 @@
               "value": "Duplicating himself also duplicates held objects (eg grenades)",
               "provenance": "Parahumans Online Wiki",
               "from": "Insinuation 2.2"
+            },
+            {
+              "value": "He can't switch the carrying held objects ability off, so things touching him will come with him when he duplicates",
+              "provenance": "Direct witness",
+              "from": "Hive 5.7"
             }
           ],
           "from": "Gestation 1.3"
@@ -6327,6 +6336,34 @@
           "from": "Hive 5.1"
         }
       ],
+      "powers": [
+        {
+          "brief_desc": "Manipulate structures",
+          "notes": [
+            {
+              "value": "Can apparently manipulate structures, dropping the ground into a bottomless pit, lengthening buildings and causing them to lean to form arches and bridges, stretching brickwork to close off alleys, shrinking windows",
+              "provenance": "Direct witness",
+              "from": "Hive 5.7"
+            },
+            {
+              "value": "Can change the colour of surfaces",
+              "provenance": "Direct witness",
+              "from": "Hive 5.7"
+            },
+            {
+              "value": "Can put things apparently back to normal for a person by touching them",
+              "provenance": "Direct witness",
+              "from": "Hive 5.7"
+            },
+            {
+              "value": "However, they're not hallucinations",
+              "provenance": "Her own gesture",
+              "from": "Hive 5.7"
+            }
+          ],
+          "from": "Hive 5.7"
+        }
+      ],
       "from": "Hive 5.1"
     },
     {
@@ -9850,8 +9887,57 @@
       "inv_relationship": "fought against",
       "second": "Kaiser's ABB raid team",
       "from": "Hive 5.6"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, fought",
+      "inv_relationship": "during ABB raid, fought",
+      "second": "Kaiser",
+      "from": "Hive 5.7"
+    },
+    {
+      "first": "Oni Lee",
+      "relationship": "during ABB raid, fought",
+      "inv_relationship": "during ABB raid, fought",
+      "second": "Bitch",
+      "from": "Hive 5.7"
+    },
+    {
+      "first": "Oni Lee",
+      "relationship": "during ABB raid, fought",
+      "inv_relationship": "during ABB raid, fought",
+      "second": "Skitter",
+      "from": "Hive 5.7"
+    },
+    {
+      "first": "Oni Lee",
+      "relationship": "during ABB raid, stabbed",
+      "inv_relationship": "during ABB raid, was stabbed by",
+      "second": "Brutus",
+      "from": "Hive 5.7"
+    },
+    {
+      "first": "Oni Lee",
+      "relationship": "during ABB raid, stabbed",
+      "inv_relationship": "during ABB raid, was stabbed by",
+      "second": "Bitch",
+      "from": "Hive 5.7"
+    },
+    {
+      "first": "Oni Lee",
+      "relationship": "during ABB raid, gouged",
+      "inv_relationship": "during ABB raid, was gouged by",
+      "second": "Sundancer",
+      "from": "Hive 5.7"
+    },
+    {
+      "first": "Oni Lee",
+      "relationship": "during ABB raid, stabbed",
+      "inv_relationship": "during ABB raid, was stabbed by",
+      "second": "Judas",
+      "from": "Hive 5.7"
     }
   ],
 
-  "up_to": "Hive 5.6"
+  "up_to": "Hive 5.7"
 }
