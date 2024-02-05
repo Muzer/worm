@@ -4042,6 +4042,10 @@
         {
           "value": "Brockton Bay resident with most parahuman muscle at his beck and call",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Takes Empire Eighty-Eight members and abandons the group during the ABB raid",
+          "from": "Hive 5.6"
         }
       ],
       "parahuman_type": [
@@ -6095,6 +6099,10 @@
         {
           "value": "When he received his power, became a freak that couldn't hope to pass in normal society; wound up homeless or living in sewer before Faultline found him",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Takes point during ABB raid",
+          "from": "Hive 5.6"
         }
       ],
       "parahuman_type": [
@@ -6128,6 +6136,18 @@
         {
           "value": "Ʊ tattoo above his heart",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Has a tail",
+          "from": "Hive 5.6"
+        },
+        {
+          "value": "Weird eyes",
+          "from": "Hive 5.6"
+        },
+        {
+          "value": "Taylor thinks he's a pretty good-looking guy in spite of his strange appearance",
+          "from": "Hive 5.6"
         }
       ],
       "cape_costumes": [
@@ -6152,7 +6172,7 @@
       ],
       "powers": [
         {
-          "brief_desc": "Stick to things",
+          "brief_desc": "Sticks to things",
           "notes": [
             {
               "value": "Can hang off walls by fingertips and toes",
@@ -6161,6 +6181,48 @@
             }
           ],
           "from": "Hive 5.5"
+        },
+        {
+          "brief_desc": "Unusual biology",
+          "notes": [
+            {
+              "value": "Is unable to be bitten by bugs",
+              "provenance": "His own statement",
+              "from": "Hive 5.6"
+            },
+            {
+              "value": "Can leap fifteen-foot gaps as fast as a punch",
+              "provenance": "Direct witness",
+              "from": "Hive 5.6"
+            }
+          ],
+          "from": "Hive 5.6"
+        },
+        {
+          "brief_desc": "Hallucinogenic",
+          "notes": [
+            {
+              "value": "His bodily fluids are potent hallucinogens",
+              "provenance": "Online, Direct witness",
+              "from": "Hive 5.6"
+            },
+            {
+              "value": "These work on bugs",
+              "provenance": "Direct witness",
+              "from": "Hive 5.6"
+            },
+            {
+              "value": "Even his sweat is enough to send someone to la-la land after a few seconds for absorption through skin",
+              "provenance": "Online",
+              "from": "Hive 5.6"
+            },
+            {
+              "value": "Upshot is he can knock people out with a touch",
+              "provenance": "Direct witness",
+              "from": "Hive 5.6"
+            }
+          ],
+          "from": "Hive 5.6"
         }
       ],
       "from": "Hive 5.1"
@@ -6424,6 +6486,112 @@
         }
       ],
       "from": "Hive 5.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Sundancer",
+          "from": "Hive 5.6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Hive 5.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team member",
+          "from": "Hive 5.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Nomadic",
+          "from": "Hive 5.6"
+        },
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.6"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Sun motif",
+          "notes": [
+            {
+              "value": "Red suns on black form-fitting armor",
+              "from": "Hive 5.6"
+            }
+          ],
+          "from": "Hive 5.6"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Artillery",
+          "notes": [
+            {
+              "value": "Some sort of artillery power which is hard to use without hurting a lot of people",
+              "provenance": "Her own statement",
+              "from": "Hive 5.6"
+            }
+          ],
+          "from": "Hive 5.6"
+        }
+      ],
+      "from": "Hive 5.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Ballistic",
+          "from": "Hive 5.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team member",
+          "from": "Hive 5.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Nomadic",
+          "from": "Hive 5.6"
+        },
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.6"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Easily lethal",
+          "notes": [
+            {
+              "value": "Some sort of power which is hard to use without hurting a lot of people",
+              "provenance": "Sundancer",
+              "from": "Hive 5.6"
+            }
+          ],
+          "from": "Hive 5.6"
+        }
+      ],
+      "from": "Hive 5.6"
     }
   ],
 
@@ -7068,6 +7236,12 @@
           "from": "Hive 5.1"
         }
       ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Hive 5.2"
+        }
+      ],
       "based_in": [
         {
           "value": "Brockton Bay",
@@ -7081,6 +7255,28 @@
         }
       ],
       "from": "Hive 5.1"
+    },
+    {
+      "names": [
+        {
+          "value": "Kaiser's ABB raid team",
+          "from": "Hive 5.5",
+          "note": "Not official name"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.5"
+        }
+      ],
+      "notes": [
+        {
+          "value": "One of three one-off teams of villains intended to strike an ABB target near the Merchants' former HQ",
+          "from": "Hive 5.5"
+        }
+      ],
+      "from": "Hive 5.5"
     }
   ],
 
@@ -9280,7 +9476,8 @@
       "relationship": "had conversation about mercenary hiring (to deal with ABB) with",
       "inv_relationship": "had conversation about mercenary hiring (to deal with ABB) with",
       "second": "Faultline's Crew",
-      "from": "Hive 5.2"
+      "from": "Hive 5.2",
+      "to": "Hive 5.4"
     },
     {
       "first": "Grue",
@@ -9452,10 +9649,24 @@
       "from": "Hive 5.4"
     },
     {
+      "first": "Coil",
+      "relationship": "hired (to deal with ABB)",
+      "inv_relationship": "were hired (to deal with ABB) by",
+      "second": "Faultline's Crew",
+      "from": "Hive 5.4"
+    },
+    {
       "first": "Skitter",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Bitch",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Kaiser's ABB raid team",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Kaiser's ABB raid team",
       "from": "Hive 5.5"
     },
     {
@@ -9508,167 +9719,139 @@
       "from": "Hive 5.5"
     },
     {
-      "first": "Skitter",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Kaiser",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Bitch",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Kaiser",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Skitter",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Fenja",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Bitch",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Fenja",
-      "from": "Hive 5.5"
-    },
-    {
       "first": "Kaiser",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Fenja",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Skitter",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Menja",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Bitch",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Menja",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Kaiser",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Menja",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Kaiser's ABB raid team",
       "from": "Hive 5.5"
     },
     {
       "first": "Fenja",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Menja",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Skitter",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Newter",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Bitch",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Newter",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Kaiser",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Newter",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Fenja",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Newter",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Kaiser's ABB raid team",
       "from": "Hive 5.5"
     },
     {
       "first": "Menja",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Newter",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Skitter",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Labyrinth",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Bitch",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Labyrinth",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Kaiser",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Labyrinth",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Fenja",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Labyrinth",
-      "from": "Hive 5.5"
-    },
-    {
-      "first": "Menja",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Labyrinth",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Kaiser's ABB raid team",
       "from": "Hive 5.5"
     },
     {
       "first": "Newter",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
-      "second": "Labyrinth",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Kaiser's ABB raid team",
       "from": "Hive 5.5"
     },
     {
-      "first": "Bitch",
-      "relationship": "brought along to raid on ABB",
-      "inv_relationship": "was brought along to raid on ABB by",
-      "second": "Brutus",
+      "first": "Labyrinth",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Kaiser's ABB raid team",
       "from": "Hive 5.5"
     },
     {
-      "first": "Bitch",
-      "relationship": "brought along to raid on ABB",
-      "inv_relationship": "was brought along to raid on ABB by",
-      "second": "Judas",
+      "first": "Brutus",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Kaiser's ABB raid team",
       "from": "Hive 5.5"
     },
     {
-      "first": "Bitch",
-      "relationship": "brought along to raid on ABB",
-      "inv_relationship": "was brought along to raid on ABB by",
-      "second": "Angelica",
+      "first": "Judas",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Kaiser's ABB raid team",
       "from": "Hive 5.5"
+    },
+    {
+      "first": "Angelica",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Kaiser's ABB raid team",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Sundancer",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Kaiser's ABB raid team",
+      "from": "Hive 5.5"
+    },
+    {
+      "first": "Sundancer",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Travelers",
+      "from": "Hive 5.6"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "during ABB raid, abandoned the rest of",
+      "inv_relationship": "during ABB raid, was abandoned by",
+      "second": "Kaiser's ABB raid team",
+      "from": "Hive 5.6"
+    },
+    {
+      "first": "Fenja",
+      "relationship": "during ABB raid, abandoned the rest of",
+      "inv_relationship": "during ABB raid, was abandoned by",
+      "second": "Kaiser's ABB raid team",
+      "from": "Hive 5.6"
+    },
+    {
+      "first": "Fenja",
+      "relationship": "during ABB raid, abandoned the rest of",
+      "inv_relationship": "during ABB raid, was abandoned by",
+      "second": "Kaiser's ABB raid team",
+      "from": "Hive 5.6"
+    },
+    {
+      "first": "Ballistic",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Travelers",
+      "from": "Hive 5.6"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "during ABB raid, defused traps set by",
+      "inv_relationship": "during ABB raid, her traps were defused by",
+      "second": "Bakuda",
+      "from": "Hive 5.6"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "during ABB raid, blocked off access to the main fight to",
+      "inv_relationship": "during ABB raid, was blocked off access to the main fight by",
+      "second": "Bitch",
+      "from": "Hive 5.6"
+    },
+    {
+      "first": "Oni Lee",
+      "relationship": "fought against",
+      "inv_relationship": "fought against",
+      "second": "Kaiser's ABB raid team",
+      "from": "Hive 5.6"
+    },
+    {
+      "first": "Oni Lee",
+      "relationship": "during ABB raid, disabled",
+      "inv_relationship": "during ABB raid, was disabled by",
+      "second": "Newter",
+      "from": "Hive 5.6"
+    },
+    {
+      "first": "Lung",
+      "relationship": "fought against",
+      "inv_relationship": "fought against",
+      "second": "Kaiser's ABB raid team",
+      "from": "Hive 5.6"
     }
   ],
 
-  "up_to": "Hive 5.5"
+  "up_to": "Hive 5.6"
 }
