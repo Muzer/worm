@@ -366,6 +366,10 @@
         {
           "value": "About fifteen years old at the start of the story",
           "from": "Agitation 3.2"
+        },
+        {
+          "value": "Finds acting as a supervillain to be an escape",
+          "from": "Shell 4.3"
         }
       ],
       "parahuman_type": [
@@ -1554,6 +1558,10 @@
         {
           "value": "When she first got her powers (not knowing what they entailed) the dog she used them on was untrained and killed people",
           "from": "Shell 4.1"
+        },
+        {
+          "value": "Rescues dogs from dog fighting ring",
+          "from": "Interlude 4"
         }
       ],
       "parahuman_type": [
@@ -1626,6 +1634,11 @@
               "value": "Can exhaust self or dogs if transformation is rushed",
               "provenance": "Taylor",
               "from": "Agitation 3.7"
+            },
+            {
+              "value": "Performs transformation quickly when stopping dog fighting ring",
+              "provenance": "Direct witness",
+              "from": "Interlude 4"
             },
             {
               "value": "Dogs can perform acrobatic leaps onto/off sides of buildings",
@@ -3470,6 +3483,26 @@
         {
           "value": "Trained to hurt and kill; trained to listen to Bitch when her power is in use",
           "from": "Insinuation 2.9"
+        },
+        {
+          "value": "Has PoV Interlude",
+          "from": "Interlude 4"
+        },
+        {
+          "value": "Is the top dog",
+          "from": "Interlude 4"
+        },
+        {
+          "value": "Was well-fed but neglected by previous owner",
+          "from": "Interlude 4"
+        },
+        {
+          "value": "Under previous owner, hurt someone so badly they needed amputation",
+          "from": "Interlude 4"
+        },
+        {
+          "value": "Rescues dogs from dog fighting ring",
+          "from": "Interlude 4"
         }
       ],
       "appearance": [
@@ -3484,6 +3517,10 @@
         {
           "value": "Yellow-gray iris",
           "from": "Agitation 3.8"
+        },
+        {
+          "value": "No tail",
+          "from": "Interlude 4"
         }
       ],
       "from": "Insinuation 2.9"
@@ -7351,15 +7388,15 @@
     },
     {
       "first": "Über",
-      "relationship": "stole money from",
-      "inv_relationship": "had money stolen by",
+      "relationship": "stole money from and captured",
+      "inv_relationship": "was captured and had money stolen by",
       "second": "Bitch",
       "from": "Shell 4.5"
     },
     {
       "first": "Leet",
-      "relationship": "stole money from",
-      "inv_relationship": "had money stolen by",
+      "relationship": "stole money from and captured",
+      "inv_relationship": "was captured and had money stolen by",
       "second": "Bitch",
       "from": "Shell 4.5"
     },
@@ -7382,6 +7419,13 @@
       "relationship": "in stolen money fight, disabled",
       "inv_relationship": "in stolen money fight, was disabled by",
       "second": "Leet",
+      "from": "Shell 4.6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "stole money from and captured",
+      "inv_relationship": "was captured and had money stolen by",
+      "second": "Bitch",
       "from": "Shell 4.6"
     },
     {
@@ -7639,13 +7683,55 @@
       "from": "Shell 4.11"
     },
     {
+      "first": "Grue",
+      "relationship": "recovered the stolen money from",
+      "inv_relationship": "had stolen money recovered by",
+      "second": "Bakuda",
+      "from": "Shell 4.11"
+    },
+    {
+      "first": "Grue",
+      "relationship": "rescued",
+      "inv_relationship": "was rescued by",
+      "second": "Bitch",
+      "from": "Shell 4.11"
+    },
+    {
       "first": "Oni Lee",
       "relationship": "broke out of captivity",
       "inv_relationship": "was broken out of captivity by",
       "second": "Lung",
       "from": "Shell 4.11"
+    },
+    {
+      "first": "Über",
+      "relationship": "captured",
+      "inv_relationship": "was captured by",
+      "second": "Angelica",
+      "from": "Interlude 4"
+    },
+    {
+      "first": "Leet",
+      "relationship": "captured",
+      "inv_relationship": "was captured by",
+      "second": "Angelica",
+      "from": "Interlude 4"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "captured",
+      "inv_relationship": "was captured by",
+      "second": "Angelica",
+      "from": "Interlude 4"
+    },
+    {
+      "first": "Grue",
+      "relationship": "rescued",
+      "inv_relationship": "was rescued by",
+      "second": "Angelica",
+      "from": "Interlude 4"
     }
   ],
 
-  "up_to": "Shell 4.11"
+  "up_to": "Interlude 4"
 }
