@@ -3494,6 +3494,12 @@
           "from": "Insinuation 2.7"
         }
       ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Agitation 3.3"
+        }
+      ],
       "occupations": [
         {
           "value": "Solo hero",
@@ -3523,6 +3529,32 @@
         {
           "value": "Still uses lethal bolts when pursuing Grue",
           "from": "Agitation 3.3"
+        },
+        {
+          "value": "Stationed to protect the mall when Taylor visited with her dad",
+          "from": "Hive 5.3"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "About as tall as Taylor",
+          "from": "Hive 5.3"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Hood and cape",
+          "notes": [
+            {
+              "value": "Dark gray urban-camouflage hood and cape",
+              "from": "Hive 5.3"
+            },
+            {
+              "value": "Black-painted metal mask",
+              "from": "Hive 5.3"
+            }
+          ],
+          "from": "Hive 5.3"
         }
       ],
       "powers": [
@@ -4821,6 +4853,12 @@
           "from": "Agitation 3.5"
         }
       ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Hive 5.3"
+        }
+      ],
       "occupations": [
         {
           "value": "Hero team member",
@@ -4833,10 +4871,56 @@
           "from": "Agitation 3.5"
         }
       ],
+      "notes": [
+        {
+          "value": "Stationed to protect the mall when Taylor visited with her dad",
+          "from": "Hive 5.3"
+        },
+        {
+          "value": "Around twenty-two, if they didn't fudge the graduation date to obfuscate her age",
+          "from": "Hive 5.3"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "hero",
           "from": "Agitation 3.5"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Two or so inches taller than Taylor or Shadow Stalker",
+          "from": "Hive 5.3"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Circuit board",
+          "notes": [
+            {
+              "value": "White and dark gray, with cobalt blue lines tracing it like you might see on a circuit board",
+              "from": "Hive 5.3"
+            }
+          ],
+          "from": "Hive 5.3"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Charge powers",
+          "notes": [
+            {
+              "value": "Charges powers while she stands still and concentrates",
+              "provenance": "Taylor",
+              "from": "Hive 5.3"
+            },
+            {
+              "value": "Every second spent charging gives her a few seconds of greatly enhanced speed, some extra strength and some electromagnetic powers",
+              "provenance": "Taylor",
+              "from": "Hive 5.3"
+            }
+          ],
+          "from": "Hive 5.3"
         }
       ],
       "from": "Agitation 3.5"
@@ -4846,6 +4930,12 @@
         {
           "value": "Assault",
           "from": "Agitation 3.5"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Hive 5.3"
         }
       ],
       "occupations": [
@@ -5080,6 +5170,12 @@
         {
           "value": "Brockton Bay",
           "from": "Agitation 3.11"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Stationed to protect the mall when Taylor visited with her dad",
+          "from": "Hive 5.3"
         }
       ],
       "parahuman_type": [
@@ -6229,6 +6325,33 @@
         }
       ],
       "from": "Hive 5.1"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Alan Barnes",
+          "from": "Hive 5.3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.3"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Red-cheeked, red-haired",
+          "from": "Hive 5.3"
+        }
+      ],
+      "from": "Hive 5.3"
     }
   ],
 
@@ -6317,6 +6440,10 @@
         {
           "value": "The chaos is getting federal attention to the city",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Set off one to five bombs per day, unpredictably",
+          "from": "Hive 5.3"
         }
       ],
       "from": "Gestation 1.3"
@@ -8620,50 +8747,50 @@
     },
     {
       "first": "Undersiders",
-      "relationship": "attend",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Tattletale",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Bitch",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Grue",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Regent",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Skitter",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Kaiser",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -8676,8 +8803,8 @@
     },
     {
       "first": "Fenja",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -8697,8 +8824,8 @@
     },
     {
       "first": "Menja",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -8725,8 +8852,8 @@
     },
     {
       "first": "Krieg",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -8739,8 +8866,8 @@
     },
     {
       "first": "Night",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -8774,8 +8901,8 @@
     },
     {
       "first": "Fog",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -8802,8 +8929,8 @@
     },
     {
       "first": "Hookwolf",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -8816,50 +8943,50 @@
     },
     {
       "first": "Kaiser",
-      "relationship": "sits at the table at",
-      "inv_relationship": "has table-sitting attendee",
+      "relationship": "sat at the table at",
+      "inv_relationship": "had table-sitting attendee",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Purity",
-      "relationship": "sits at the table at",
-      "inv_relationship": "has table-sitting attendee",
+      "relationship": "sat at the table at",
+      "inv_relationship": "had table-sitting attendee",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Coil",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Coil",
-      "relationship": "sits at the table at",
-      "inv_relationship": "has table-sitting attendee",
+      "relationship": "sat at the table at",
+      "inv_relationship": "had table-sitting attendee",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Faultline's Crew",
-      "relationship": "attend",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Faultline",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Newter",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -8879,8 +9006,8 @@
     },
     {
       "first": "Gregor the Snail",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -8893,22 +9020,22 @@
     },
     {
       "first": "Labyrinth",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Spitfire",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Faultline",
-      "relationship": "sits at the table at",
-      "inv_relationship": "has table-sitting attendee",
+      "relationship": "sat at the table at",
+      "inv_relationship": "had table-sitting attendee",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -8921,36 +9048,36 @@
     },
     {
       "first": "Grue",
-      "relationship": "sits at the table at",
-      "inv_relationship": "has table-sitting attendee",
+      "relationship": "sat at the table at",
+      "inv_relationship": "had table-sitting attendee",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Skidmark's villain team",
-      "relationship": "attend",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Skidmark",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Moist",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Squealer",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -8977,29 +9104,29 @@
     },
     {
       "first": "Kaiser",
-      "relationship": "at the Somer's Rock meet, forbids to sit at the table",
-      "inv_relationship": "at the Somer's Rock meet, is forbidden to sit at the table by",
+      "relationship": "at the Somer's Rock meet, forbade to sit at the table",
+      "inv_relationship": "at the Somer's Rock meet, was forbidden to sit at the table by",
       "second": "Skidmark",
       "from": "Hive 5.1"
     },
     {
       "first": "Travelers",
-      "relationship": "attend",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Trickster",
-      "relationship": "attends",
-      "inv_relationship": "is attended by",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Trickster",
-      "relationship": "sits at the table at",
-      "inv_relationship": "has table-sitting attendee",
+      "relationship": "sat at the table at",
+      "inv_relationship": "had table-sitting attendee",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -9012,8 +9139,8 @@
     },
     {
       "first": "Azn Bad Boys",
-      "relationship": "other villains meet to discuss the problem of them at",
-      "inv_relationship": "is about",
+      "relationship": "other villains met to discuss the problem of them at",
+      "inv_relationship": "was about",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
@@ -9026,14 +9153,14 @@
     },
     {
       "first": "Grue",
-      "relationship": "distributes footage of Bakuda's attack on the Undersiders to",
-      "inv_relationship": "has footage distributed of Bakuda's attack on the Undersiders by",
+      "relationship": "distributed footage of Bakuda's attack on the Undersiders to",
+      "inv_relationship": "had footage distributed of Bakuda's attack on the Undersiders by",
       "second": "Somer's Rock meet",
       "from": "Hive 5.1"
     },
     {
       "first": "Somer's Rock meet",
-      "relationship": "agree truce to fight",
+      "relationship": "agreed truce to fight",
       "inv_relationship": "is up against an agreed truce between attendees of",
       "second": "Azn Bad Boys",
       "from": "Hive 5.1"
@@ -9061,22 +9188,22 @@
     },
     {
       "first": "Hookwolf",
-      "relationship": "at Somer's Rock meet, brings up grievance with",
-      "inv_relationship": "at Somer's Rock meet, has grievance brought up by",
+      "relationship": "at Somer's Rock meet, brought up grievance with",
+      "inv_relationship": "at Somer's Rock meet, had grievance brought up by",
       "second": "Bitch",
       "from": "Hive 5.2"
     },
     {
       "first": "Coil",
-      "relationship": "has conversation about mercenary hiring (to deal with ABB) with",
-      "inv_relationship": "has conversation about mercenary hiring (to deal with ABB) with",
+      "relationship": "had conversation about mercenary hiring (to deal with ABB) with",
+      "inv_relationship": "had conversation about mercenary hiring (to deal with ABB) with",
       "second": "Faultline's Crew",
       "from": "Hive 5.2"
     },
     {
       "first": "Grue",
-      "relationship": "fights over making the Undersiders look bad",
-      "inv_relationship": "is fought over making the Undersiders look bad by",
+      "relationship": "fought over making the Undersiders look bad",
+      "inv_relationship": "was fought over making the Undersiders look bad by",
       "second": "Bitch",
       "from": "Hive 5.2"
     },
@@ -9089,12 +9216,89 @@
     },
     {
       "first": "Taylor",
-      "relationship": "shows support for the stopping of the dogfighting ring to",
-      "inv_relationship": "is shown support for the stopping of the dogfighting ring by",
+      "relationship": "showed support for the stopping of the dogfighting ring to",
+      "inv_relationship": "was shown support for the stopping of the dogfighting ring by",
       "second": "Bitch",
       "from": "Hive 5.2"
+    },
+    {
+      "first": "Battery",
+      "relationship": "supervised when protecting the mall",
+      "inv_relationship": "when protecting the mall, was supervised by",
+      "second": "Shadow Stalker",
+      "from": "Hive 5.3"
+    },
+    {
+      "first": "Battery",
+      "relationship": "previously graduated from",
+      "inv_relationship": "has previous graduated member",
+      "second": "Wards East-North-East",
+      "from": "Hive 5.3"
+    },
+    {
+      "first": "Battery",
+      "relationship": "previously led",
+      "inv_relationship": "was previously led by",
+      "second": "Wards East-North-East",
+      "from": "Hive 5.3"
+    },
+    {
+      "first": "Battery",
+      "relationship": "is rumoured to have boyfriend",
+      "inv_relationship": "is rumoured to have girlfriend",
+      "second": "Assault",
+      "from": "Hive 5.3"
+    },
+    {
+      "first": "Battery",
+      "relationship": "is rumoured to have brother",
+      "inv_relationship": "is rumoured to have sister",
+      "second": "Assault",
+      "from": "Hive 5.3"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "looks up to",
+      "inv_relationship": "is looked up to by",
+      "second": "Battery",
+      "from": "Hive 5.3"
+    },
+    {
+      "first": "Emma Barnes",
+      "relationship": "has father",
+      "inv_relationship": "has daughter",
+      "second": "Alan Barnes",
+      "from": "Hive 5.3"
+    },
+    {
+      "first": "Danny Hebert",
+      "relationship": "is friends with",
+      "inv_relationship": "is friends with",
+      "second": "Alan Barnes",
+      "from": "Hive 5.3"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "at the mall, punched",
+      "inv_relationship": "at the mall, was punched by",
+      "second": "Alan Barnes",
+      "from": "Hive 5.3"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "at the mall, bound with wrist ties",
+      "inv_relationship": "at the mall, was bound with wrist ties by",
+      "second": "Taylor",
+      "from": "Hive 5.3"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "told about the bullying",
+      "inv_relationship": "was told about the bullying by",
+      "second": "Danny Hebert",
+      "from": "Hive 5.3"
     }
   ],
 
-  "up_to": "Hive 5.2"
+  "up_to": "Hive 5.3"
 }
