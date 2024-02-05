@@ -12,10 +12,20 @@
     |
     {% if next_chapter %}<a href="{{ chapter_filenames[next_chapter] }}">Next</a>{% else %}Next{% endif %}
 
+    <h2>Contents</h2>
+    <ul>
+    {% for character in character_objects if check_chapter(character, chapter_id, chapter_map) %}
+      <li>Character: <a href="#{{ character.id }}">{{get_best_name(character, chapter_id, chapter_map)}}</a></li>
+    {% endfor %}
+    {% for group in group_objects if check_chapter(group, chapter_id, chapter_map) %}
+      <li>Group: <a href="#{{ group.id }}">{{get_best_name(group, chapter_id, chapter_map)}}</a></li>
+    {% endfor %}
+    </ul>
+
     <h2>Characters</h2>
 
     {% for character in character_objects if check_chapter(character, chapter_id, chapter_map) %}
-    <a id="character-{{ loop.index0 }}" />
+    <a id="{{ character.id }}" />
     {% for state in character.state if check_chapter(state, chapter_id, chapter_map) %}
     {% if loop.first %}
     {% if state.value == "dead" %}
@@ -322,7 +332,7 @@
 
     <h2>Groups</h2>
     {% for group in group_objects if check_chapter(group, chapter_id, chapter_map) %}
-    <a id="group-{{ loop.index0 }}" />
+    <a id="{{ group.id }}" />
     {% if "state" in group %}
     {% for state in group.state if check_chapter(state, chapter_id, chapter_map) %}
     {% if loop.first %}

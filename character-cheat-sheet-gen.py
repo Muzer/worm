@@ -71,6 +71,7 @@ def main():
         id_map = {}
 
         for i, character in enumerate(character_objects):
+            character["id"] = "character-" + str(i)
             if "civilian_names" in character:
                 for name in character["civilian_names"]:
                     assert name["value"] not in character_map
@@ -82,6 +83,7 @@ def main():
             id_map["character-" + str(i)] = character
 
         for i, group in enumerate(group_objects):
+            group["id"] = "group-" + str(i)
             if "names" in group:
                 for name in group["names"]:
                     assert name["value"] not in group_map
