@@ -533,6 +533,11 @@
               "value": "Bugs continue to obey her last command even when she's unconscious",
               "provenance": "PoV",
               "from": "Shell 4.11"
+            },
+            {
+              "value": "In one instance, could recognise music through the bugs though was confused about the genre",
+              "provenance": "PoV",
+              "from": "Shell 4.11"
             }
           ],
           "from": "Gestation 1.1"
@@ -5348,6 +5353,11 @@
           "brief_desc": "Glowing flight",
           "notes": [
             {
+              "value": "Appears to require some sort of strong positive emotional push to activate her powers",
+              "provenance": "PoV",
+              "from": "Interlude 3½ (Bonus)"
+            },
+            {
               "value": "Can fly, leaving a white trail of light behind her",
               "provenance": "PoV",
               "from": "Interlude 3½ (Bonus)"
@@ -6183,10 +6193,24 @@
       "from": "Gestation 1.6"
     },
     {
+      "first": "Scion",
+      "relationship": "healed",
+      "inv_relationship": "was healed by",
+      "second": "Grace Lands",
+      "from": "Interlude 1"
+    },
+    {
       "first": "Andrew Hawke",
       "relationship": "has sister",
       "inv_relationship": "has brother",
       "second": "Grace Lands",
+      "from": "Interlude 1"
+    },
+    {
+      "first": "Andrew Hawke",
+      "relationship": "was the last passenger on the cruise to make contact with",
+      "inv_relationship": "made contact with last (of the passengers on the cruise)",
+      "second": "Scion",
       "from": "Interlude 1"
     },
     {

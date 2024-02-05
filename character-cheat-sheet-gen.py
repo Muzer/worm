@@ -62,7 +62,8 @@ def main():
             chapter: i for i, chapter in enumerate(chapter_list)
         }
         chapter_filenames = {
-            chapter: chapter.replace(" ", "-").lower() + ".html"
+            chapter:
+                chapter.replace(" ", "-").replace("#", "").lower() + ".html"
             for chapter in chapter_list
         }
 
