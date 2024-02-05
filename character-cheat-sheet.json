@@ -547,7 +547,7 @@
           "brief_desc": "Locker incident",
           "notes": [
             {
-              "value": "Bullying had been ongoing for over 1½ years before trigger",
+              "value": "Bullying had been ongoing for over 1½ years before trigger event",
               "from": "Shell 4.3"
             },
             {
@@ -567,7 +567,7 @@
               "from": "Shell 4.3"
             },
             {
-              "value": "During the trigger, Taylor was overwhelmed with the information her new power was giving her on the bugs; it felt like thousands of twitchy, alien, distorted things shoving every tiny detail about their bodies and biology into her head",
+              "value": "During the trigger event, Taylor was overwhelmed with the information her new power was giving her on the bugs; it felt like thousands of twitchy, alien, distorted things shoving every tiny detail about their bodies and biology into her head",
               "from": "Shell 4.3"
             },
             {
@@ -1110,7 +1110,7 @@
           "from": "Shell 4.4"
         },
         {
-          "value": "Got three months' community service for beating up his mother's boyfriend (when he triggered)",
+          "value": "Got three months' community service for beating up his mother's boyfriend (when he had his trigger event)",
           "from": "Shell 4.4"
         },
         {
@@ -1221,6 +1221,11 @@
               "value": "Makes you feel resistance, like you're underwater but not floating",
               "provenance": "Browbeat",
               "from": "Interlude 3"
+            },
+            {
+              "value": "Can make blobs of shadow that look roughly like people, for decoys",
+              "provenance": "Direct witness",
+              "from": "Shell 4.9"
             }
           ],
           "from": "Insinuation 2.2"
@@ -1260,7 +1265,7 @@
               "from": "Shell 4.4"
             },
             {
-              "value": "Said he wasn't feeling rage or fear when he triggered, but in fact was feeling nothing",
+              "value": "Said he wasn't feeling rage or fear when he had his trigger event, but in fact was feeling nothing",
               "from": "Shell 4.4"
             }
           ],
@@ -1740,6 +1745,16 @@
               "value": "Enough range to effectively delay opposition at the front doors from the vault door of the bank",
               "provenance": "Taylor",
               "from": "Agitation 3.8"
+            },
+            {
+              "value": "If he uses it too much, it backfires and causes his arm to cramp up",
+              "provenance": "His own statement",
+              "from": "Shell 4.9"
+            },
+            {
+              "value": "If he continues to use his power after a backfire, goes unconscious, and becomes sore and powerless for a while",
+              "provenance": "Tattletale",
+              "from": "Shell 4.9"
             }
           ],
           "from": "Insinuation 2.9"
@@ -1906,8 +1921,24 @@
           "from": "Gestation 1.6"
         },
         {
-          "value": "Voice is a mechanical, robotic, monotone hiss",
+          "value": "Voice is altered by mask to be a mechanical, robotic, monotone hiss",
           "from": "Shell 4.6"
+        },
+        {
+          "value": "Voice sounds like Robbie the Robot with a sore throat",
+          "from": "Shell 4.8"
+        },
+        {
+          "value": "Claims to be a genius",
+          "from": "Shell 4.8"
+        },
+        {
+          "value": "Plans that if she dies, every bomb she's planted will go off",
+          "from": "Shell 4.8"
+        },
+        {
+          "value": "Narcissistic with megalomania; always receives praise and rarely criticism",
+          "from": "Shell 4.9"
         }
       ],
       "parahuman_type": [
@@ -2006,9 +2037,61 @@
               "value": "Has modified jeep-mounted mortar launcher and grenade launcher",
               "provenance": "Direct witness",
               "from": "Shell 4.7"
+            },
+            {
+              "value": "Made \"the six-eighteen\" which liquefies people into a goopy mess, modelled off Tesla's work on vibrations",
+              "provenance": "Direct witness",
+              "from": "Shell 4.8"
+            },
+            {
+              "value": "Can detonate her bombs using thought",
+              "provenance": "Her own statement",
+              "from": "Shell 4.8",
+              "to": "Shell 4.9"
+            },
+            {
+              "value": "Made a bomb which explodes with ice",
+              "provenance": "Direct witness",
+              "from": "Shell 4.9"
+            },
+            {
+              "value": "Can detonate her bombs using toe rings, but pretends this is through thought",
+              "provenance": "Tattletale",
+              "from": "Shell 4.9"
+            },
+            {
+              "value": "Goggles can see heat signatures",
+              "provenance": "Tattletale",
+              "from": "Shell 4.9"
+            },
+            {
+              "value": "Guns keyed to her fingerprints",
+              "provenance": "Tattletale",
+              "from": "Shell 4.9"
             }
           ],
           "from": "Gestation 1.6"
+        }
+      ],
+      "trigger_events": [
+        {
+          "number": 1,
+          "brief_desc": "Possibly had ego crushed",
+          "notes": [
+            {
+              "value": "Undersiders speculate that her trigger event was likely relating to her rarely receiving criticism and often receiving praise",
+              "from": "Shell 4.9"
+            },
+            {
+              "value": "Tattletale suspects she was passed over for a job or someone bitched her out",
+              "from": "Shell 4.9"
+            },
+            {
+              "value": "Taylor points out she held a university hostage, so suspects she got bad marks, failed a class, or was passed over for a teaching assistant position",
+              "from": "Shell 4.9"
+            }
+          ],
+          "from": "Shell 4.9"
         }
       ],
       "from": "Gestation 1.6"
@@ -5293,6 +5376,45 @@
         }
       ],
       "from": "Interlude 3½ (Bonus)"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Park Jihoo",
+          "from": "Shell 4.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Shell 4.8"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Shell 4.8"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Shell 4.8"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Korean-American",
+          "from": "Shell 4.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Being liquefied into a soupy mess by Bakuda, using a bomb she had previously installed in his head, after he refused to shoot the Undersiders",
+          "from": "Shell 4.8"
+        }
+      ],
+      "from": "Shell 4.8"
     }
   ],
 
@@ -5797,7 +5919,12 @@
       "names": [
         {
           "value": "Immaculata School",
-          "from": "Shell 4.7"
+          "from": "Shell 4.7",
+          "to": "Shell 4.8"
+        },
+        {
+          "value": "Immaculata High School",
+          "from": "Shell 4.8"
         }
       ],
       "based_in": [
@@ -5814,6 +5941,10 @@
         {
           "value": "Christian private school",
           "from": "Shell 4.7"
+        },
+        {
+          "value": "Based in the nicest part of the city",
+          "from": "Shell 4.8"
         }
       ],
       "from": "Shell 4.7"
@@ -7249,7 +7380,8 @@
       "relationship": "leads",
       "inv_relationship": "is led by",
       "second": "Azn Bad Boys",
-      "from": "Shell 4.6"
+      "from": "Shell 4.6",
+      "to": "Shell 4.9"
     },
     {
       "first": "Purity",
@@ -7379,12 +7511,68 @@
     },
     {
       "first": "Empire Eighty-Eight",
-      "relationship": "intends to defeat",
-      "inv_relationship": "is intended to be defeated by",
+      "relationship": "intends to eliminate",
+      "inv_relationship": "is intended to be eliminated by",
       "second": "Azn Bad Boys",
       "from": "Interlude 3½ (Bonus)"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "captures",
+      "inv_relationship": "are captured by",
+      "second": "Undersiders",
+      "from": "Shell 4.7"
+    },
+    {
+      "first": "Park Jihoo",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Immaculata High School",
+      "from": "Shell 4.8"
+    },
+    {
+      "first": "Park Jihoo",
+      "relationship": "refuses to shoot",
+      "inv_relationship": "are refused to be shot by",
+      "second": "Undersiders",
+      "from": "Shell 4.8"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "kills",
+      "inv_relationship": "is killed by",
+      "second": "Park Jihoo",
+      "from": "Shell 4.8"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "put bombs in every member of",
+      "inv_relationship": "each member had bombs put into them by",
+      "second": "Azn Bad Boys",
+      "from": "Shell 4.8"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "escape from",
+      "inv_relationship": "is escaped from by",
+      "second": "Bakuda",
+      "from": "Shell 4.8"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "is pretending to lead",
+      "inv_relationship": "is being pretended to be led by",
+      "second": "Azn Bad Boys",
+      "from": "Shell 4.9"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "defeated",
+      "inv_relationship": "was defeated by",
+      "second": "Bakuda",
+      "from": "Shell 4.9"
     }
   ],
 
-  "up_to": "Shell 4.7"
+  "up_to": "Shell 4.9"
 }
