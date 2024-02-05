@@ -314,12 +314,19 @@
           "note": "Called this by Tattletale as she hasn't yet thought of a cape name",
           "not_main": true,
           "from": "Gestation 1.5",
-          "to_soft": "Interlude 3"
+          "to_soft": "Hive 5.1"
         },
         {
           "value": "Skitter",
           "note": "Was named this by Gallant after the bank robbery",
-          "from": "Interlude 3"
+          "not_main": true,
+          "from": "Interlude 3",
+          "to": "Hive 5.1"
+        },
+        {
+          "value": "Skitter",
+          "note": "Was named this by Gallant after the bank robbery and it caught on via Lung after his escape; she doesn't love it but can cope with it",
+          "from": "Hive 5.1"
         }
       ],
       "civilian_names": [
@@ -805,6 +812,10 @@
         {
           "value": "Tattletale includes him as an example of capes fucked up in the head",
           "from": "Agitation 3.6"
+        },
+        {
+          "value": "Reached out to Bakuda when she was at Cornell",
+          "from": "Hive 5.1"
         }
       ],
       "parahuman_type": [
@@ -1565,8 +1576,12 @@
           "from": "Shell 4.1"
         },
         {
-          "value": "Rescues dogs from dog fighting ring",
+          "value": "Rescues dogs from dogfighting ring",
           "from": "Interlude 4"
+        },
+        {
+          "value": "Didn't tell the Undersiders about the dogfighting ring",
+          "from": "Hive 5.2"
         }
       ],
       "parahuman_type": [
@@ -1641,7 +1656,7 @@
               "from": "Agitation 3.7"
             },
             {
-              "value": "Performs transformation quickly when stopping dog fighting ring",
+              "value": "Performs transformation quickly when stopping dogfighting ring",
               "provenance": "Direct witness",
               "from": "Interlude 4"
             },
@@ -1956,6 +1971,14 @@
         {
           "value": "Starts a terrorist bombing campaign against Brockton Bay",
           "from": "Shell 4.11"
+        },
+        {
+          "value": "Lung reached out to her when she was at Cornell",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Now has three hundred soldiers with implanted bombs",
+          "from": "Hive 5.1"
         }
       ],
       "parahuman_type": [
@@ -2572,6 +2595,16 @@
             }
           ],
           "from": "Shell 4.5"
+        },
+        {
+          "brief_desc": "Bowser",
+          "notes": [
+            {
+              "value": "Dressed as Bowser in Mario-themed escapade",
+              "from": "Shell 4.5"
+            }
+          ],
+          "from": "Shell 4.5"
         }
       ],
       "powers": [
@@ -2685,6 +2718,16 @@
             },
             {
               "value": "Face obscured by oversize goggles with dark lenses",
+              "from": "Shell 4.5"
+            }
+          ],
+          "from": "Shell 4.5"
+        },
+        {
+          "brief_desc": "Mario",
+          "notes": [
+            {
+              "value": "Dressed as Mario in Mario-themed escapade",
               "from": "Shell 4.5"
             }
           ],
@@ -3026,6 +3069,18 @@
           "from": "Insinuation 2.6"
         }
       ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Red and black",
+          "notes": [
+            {
+              "value": "Red and black costume with a gasmask",
+              "from": "Hive 5.1"
+            }
+          ],
+          "from": "Hive 5.1"
+        }
+      ],
       "from": "Insinuation 2.6"
     },
     {
@@ -3033,6 +3088,12 @@
         {
           "value": "Faultline",
           "from": "Insinuation 2.6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Hive 5.1"
         }
       ],
       "occupations": [
@@ -3047,10 +3108,42 @@
           "from": "Insinuation 2.6"
         }
       ],
+      "notes": [
+        {
+          "value": "Twenty-something",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Tattletale claims her personality and powers suck",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Very good at finding hidden strengths in those who work for her",
+          "from": "Hive 5.1"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "villain",
           "from": "Insinuation 2.6"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Straight black hair in a long bristling ponytail",
+          "from": "Hive 5.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Weird",
+          "notes": [
+            {
+              "value": "Blend of riot gear, martial arts uniform, and a dress",
+              "from": "Hive 5.1"
+            }
+          ],
+          "from": "Hive 5.1"
         }
       ],
       "from": "Insinuation 2.6"
@@ -3506,7 +3599,7 @@
           "from": "Interlude 4"
         },
         {
-          "value": "Rescues dogs from dog fighting ring",
+          "value": "Rescues dogs from dogfighting ring",
           "from": "Interlude 4"
         }
       ],
@@ -3884,6 +3977,14 @@
         {
           "value": "Was married for 11 months",
           "from": "Interlude 3½ (Bonus)"
+        },
+        {
+          "value": "People sharing white supremacist ideas were either recruited from other states, or came to him",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Brockton Bay resident with most parahuman muscle at his beck and call",
+          "from": "Hive 5.1"
         }
       ],
       "parahuman_type": [
@@ -3980,6 +4081,36 @@
         {
           "value": "Has an ex-military private army of at least fifty with top-notch gear, including purple lasers that cut through steel",
           "from": "Interlude 2"
+        },
+        {
+          "value": "One of the most powerful players in town, considers himself a chessmaster, according to Tattletale",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "If he has powers, he's the only one in his organisation who does",
+          "from": "Hive 5.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Taller than Grue, but thin to the point of being skeletal",
+          "from": "Hive 5.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Black snake",
+          "notes": [
+            {
+              "value": "Skintight costume covering him head-to-toe, lacking eyeholes or openings for nose and mouth; lets you see individual ribs and joints the way it clings",
+              "from": "Hive 5.1"
+            },
+            {
+              "value": "Black with white snake, head starting at Coil's forehead, tail extending down the back of his head, looping and winding over his entire body before ending at one of his ankles",
+              "from": "Hive 5.1"
+            }
+          ],
+          "from": "Hive 5.1"
         }
       ],
       "parahuman_type": [
@@ -4000,7 +4131,12 @@
       "occupations": [
         {
           "value": "Solo villain",
-          "from": "Interlude 2"
+          "from": "Interlude 2",
+          "to_soft": "Hive 5.1"
+        },
+        {
+          "value": "Villain team member",
+          "from": "Hive 5.1"
         }
       ],
       "based_in": [
@@ -5343,6 +5479,10 @@
             {
               "value": "Alabaster fabric, no mask",
               "from": "Interlude 3½ (Bonus)"
+            },
+            {
+              "value": "White without any markings or symbols",
+              "from": "Hive 5.1"
             }
           ],
           "from": "Interlude 3½ (Bonus)"
@@ -5371,6 +5511,21 @@
               "value": "Recharges power with exposure to light",
               "provenance": "PoV",
               "from": "Interlude 3½ (Bonus)"
+            },
+            {
+              "value": "Can create light and charge it with kinetic energy",
+              "provenance": "Online and old newspapers",
+              "from": "Hive 5.1"
+            },
+            {
+              "value": "Like a human flashlight, if light from that flashlight could punch through brick walls and tear city buses in half",
+              "provenance": "Online and old newspapers",
+              "from": "Hive 5.1"
+            },
+            {
+              "value": "Like a flying artillery turret",
+              "provenance": "Online and old newspapers",
+              "from": "Hive 5.1"
             }
           ],
           "from": "Interlude 3½ (Bonus)"
@@ -5476,6 +5631,604 @@
         }
       ],
       "from": "Shell 4.8"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Fenja",
+          "from": "Hive 5.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang member",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Blonde with measurements like a Playboy model",
+          "from": "Hive 5.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Valkyrie-style armour",
+          "notes": [
+            {
+              "value": "Valkyrie-style armour featuring countless little steel wings",
+              "from": "Hive 5.1"
+            },
+            {
+              "value": "Closed-face helms",
+              "from": "Hive 5.1"
+            }
+          ],
+          "from": "Hive 5.1"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Growth into giant",
+          "notes": [
+            {
+              "value": "Can grow to be three storeys tall",
+              "provenance": "Taylor",
+              "from": "Hive 5.1"
+            },
+            {
+              "value": "A hundred times more durable when grown",
+              "provenance": "Taylor",
+              "from": "Hive 5.1"
+            }
+          ],
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Menja",
+          "from": "Hive 5.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang member",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Blonde with measurements like a Playboy model",
+          "from": "Hive 5.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Valkyrie-style armour",
+          "notes": [
+            {
+              "value": "Valkyrie-style armour featuring countless little steel wings",
+              "from": "Hive 5.1"
+            },
+            {
+              "value": "Closed-face helms",
+              "from": "Hive 5.1"
+            }
+          ],
+          "from": "Hive 5.1"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Growth into giant",
+          "notes": [
+            {
+              "value": "Can grow to be three storeys tall",
+              "provenance": "Taylor",
+              "from": "Hive 5.1"
+            },
+            {
+              "value": "A hundred times more durable when grown",
+              "provenance": "Taylor",
+              "from": "Hive 5.1"
+            }
+          ],
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Krieg",
+          "from": "Hive 5.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang member",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Night",
+          "from": "Hive 5.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain duo",
+          "from": "Hive 5.1",
+          "to_soft": "Hive 5.1"
+        },
+        {
+          "value": "Gang member",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Boston",
+          "from": "Hive 5.1",
+          "to_soft": "Hive 5.1"
+        },
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Fog",
+          "from": "Hive 5.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain duo",
+          "from": "Hive 5.1",
+          "to_soft": "Hive 5.1"
+        },
+        {
+          "value": "Gang member",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Boston",
+          "from": "Hive 5.1",
+          "to_soft": "Hive 5.1"
+        },
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Hookwolf",
+          "from": "Hive 5.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Hive 5.2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang member",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "A killer who thinks nothing of murdering non-Aryans",
+          "from": "Hive 5.2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Wolf superimposed on swastika tattooed on his biceps",
+          "from": "Hive 5.2"
+        },
+        {
+          "value": "Hairy: long greasy blond hair; thick hair on chest, stomach, arms",
+          "from": "Hive 5.2"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Nazi wolf",
+          "notes": [
+            {
+              "value": "Mask little more than a piece of sheet metal cut and shaped to resemble a wolf's features, attached to his head with black leather straps",
+              "from": "Hive 5.2"
+            },
+            {
+              "value": "Chain threaded through belt loops of his jeans, sporting heavy metal belt buckle featuring a wolf superimposed on a swastika",
+              "from": "Hive 5.2"
+            },
+            {
+              "value": "Shirtless and shoeless",
+              "from": "Hive 5.2"
+            },
+            {
+              "value": "Harpoon-like spears and metal that curves like fishhooks radiate out from shoulders, elbows, knees; all bristling with barbs or wickedly serrated edges",
+              "from": "Hive 5.2"
+            }
+          ],
+          "from": "Hive 5.2"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Newter",
+          "from": "Hive 5.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Hive 5.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team member",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "When he received his power, became a freak that couldn't hope to pass in normal society; wound up homeless or living in sewer before Faultline found him",
+          "from": "Hive 5.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Neon orange skin from head to toe",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Light blue eyes, dark red hair that looks wet",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Five foot long prehensile tail",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Ʊ tattoo above his heart",
+          "from": "Hive 5.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Shirtless",
+          "notes": [
+            {
+              "value": "Doesn't wear a shirt, shoes, or gloves",
+              "from": "Hive 5.1"
+            }
+          ],
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Gregor the Snail",
+          "from": "Hive 5.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Hive 5.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team member",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "When he received his power, became a freak that couldn't hope to pass in normal society; wound up homeless or living in sewer before Faultline found him",
+          "from": "Hive 5.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Morbidly obese, average height, no hair on entire body",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Milky white, slightly translucent skin, so you can see his organs as shadows",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Bits of shell or scales crusting his skin like bad acne, looking almost like barnacles but with a spiral shape",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Ʊ tattoo on his upper arm",
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Labyrinth",
+          "from": "Hive 5.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team member",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Green robe",
+          "notes": [
+            {
+              "value": "Dark green robe and mask with lines all over them",
+              "from": "Hive 5.1"
+            }
+          ],
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Skidmark",
+          "from": "Hive 5.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Hive 5.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team leader",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Dark skinned, badly chapped lips and teeth that look like shelled pistachio nuts",
+          "from": "Hive 5.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Mask",
+          "notes": [
+            {
+              "value": "Wears a mask that covers the top half of his face",
+              "from": "Hive 5.1"
+            }
+          ],
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Moist",
+          "from": "Hive 5.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team member",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Trickster",
+          "from": "Hive 5.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team leader",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Nomadic",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Hive 5.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Baron Samedi",
+          "notes": [
+            {
+              "value": "Black costume with red mask and tophat",
+              "from": "Hive 5.1"
+            },
+            {
+              "value": "Gives Taylor a Baron Samedi vibe",
+              "from": "Hive 5.1"
+            }
+          ],
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
     }
   ],
 
@@ -5552,6 +6305,18 @@
         {
           "value": "Since Lung's arrest, ramped up hiring even further, with a lot of unwilling recruits",
           "from": "Shell 4.7"
+        },
+        {
+          "value": "Since Bakuda's encounter with the Undersiders, thirty-five people confirmed dead and hundreds hospitalised, with armed presence on the streets, and ongoing exchange of gunfire between members and military/police",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Have raided businesses and bombed operating centres of other villain groups, and seized their territory",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "The chaos is getting federal attention to the city",
+          "from": "Hive 5.1"
         }
       ],
       "from": "Gestation 1.3"
@@ -5588,6 +6353,10 @@
           "from": "Insinuation 2.2"
         },
         {
+          "value": "Have not yet failed a job",
+          "from": "Insinuation 2.6"
+        },
+        {
           "value": "Armsmaster states the group contains two murderers",
           "from": "Agitation 3.5"
         },
@@ -5621,6 +6390,10 @@
         {
           "value": "Headquarters is a former oil rig",
           "from": "Agitation 3.4"
+        },
+        {
+          "value": "Receiving backup from other cities to support against ABB threat",
+          "from": "Hive 5.1"
         }
       ],
       "notes": [
@@ -5810,6 +6583,12 @@
           "from": "Insinuation 2.2"
         }
       ],
+      "based_in": [
+        {
+          "value": "British Columbia",
+          "from": "Hive 5.2"
+        }
+      ],
       "notes": [
         {
           "value": "A prison",
@@ -5843,6 +6622,14 @@
         {
           "value": "Mercenary",
           "from": "Interlude 2"
+        },
+        {
+          "value": "Does anything short of murder",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Have only messed up one or two jobs, though have done about three times as many as the Undersiders",
+          "from": "Hive 5.1"
         }
       ],
       "from": "Insinuation 2.6"
@@ -6009,6 +6796,82 @@
         }
       ],
       "from": "Shell 4.7"
+    },
+    {
+      "names": [
+        {
+          "value": "Skidmark's villain team",
+          "from": "Hive 5.1",
+          "note": "Not official name"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "The territory nobody else cares about",
+          "from": "Hive 5.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hardcore addicts and dealers who happen to have superpowers",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Make drugs and sell to children",
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "names": [
+        {
+          "value": "Travelers",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Nomadic",
+          "from": "Hive 5.1"
+        },
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Decided to stop by for a visit as Brockton Bay was interesting",
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
+    },
+    {
+      "names": [
+        {
+          "value": "Somer's Rock meet",
+          "from": "Hive 5.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Hive 5.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "A one-off villains' moot to discuss the problem of the growth of the Azn Bad Boys",
+          "from": "Hive 5.1"
+        }
+      ],
+      "from": "Hive 5.1"
     }
   ],
 
@@ -7574,7 +8437,7 @@
     },
     {
       "first": "Purity",
-      "relationship": "has rejoined",
+      "relationship": "rejoined",
       "inv_relationship": "was rejoined by",
       "second": "Empire Eighty-Eight",
       "from": "Interlude 3½ (Bonus)"
@@ -7754,8 +8617,484 @@
       "inv_relationship": "was rescued by",
       "second": "Angelica",
       "from": "Interlude 4"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "attend",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Grue",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Regent",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Fenja",
+      "relationship": "has twin",
+      "inv_relationship": "has twin",
+      "second": "Menja",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Fenja",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Fenja",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Menja",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Menja",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "keeps close",
+      "inv_relationship": "is kept close by",
+      "second": "Fenja",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "keeps close",
+      "inv_relationship": "is kept close by",
+      "second": "Menja",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Purity",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Krieg",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Krieg",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Night",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Night",
+      "relationship": "was previously member of",
+      "inv_relationship": "previously had member",
+      "second": "Empire Eighty-Eight",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Night",
+      "relationship": "previously partnered with",
+      "inv_relationship": "previously partnered with",
+      "second": "Fog",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Night",
+      "relationship": "rejoined",
+      "inv_relationship": "was rejoined by",
+      "second": "Empire Eighty-Eight",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Night",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Fog",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Fog",
+      "relationship": "was previously member of",
+      "inv_relationship": "previously had member",
+      "second": "Empire Eighty-Eight",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Fog",
+      "relationship": "rejoined",
+      "inv_relationship": "was rejoined by",
+      "second": "Empire Eighty-Eight",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Fog",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Hookwolf",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Hookwolf",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "sits at the table at",
+      "inv_relationship": "has table-sitting attendee",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Purity",
+      "relationship": "sits at the table at",
+      "inv_relationship": "has table-sitting attendee",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Coil",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Coil",
+      "relationship": "sits at the table at",
+      "inv_relationship": "has table-sitting attendee",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Faultline's Crew",
+      "relationship": "attend",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Faultline",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Newter",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Newter",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Faultline's Crew",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Gregor the Snail",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Faultline's Crew",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Gregor the Snail",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Labyrinth",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Faultline's Crew",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Labyrinth",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Spitfire",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Faultline",
+      "relationship": "sits at the table at",
+      "inv_relationship": "has table-sitting attendee",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Faultline",
+      "relationship": "has a little feud with",
+      "inv_relationship": "has a little feud with",
+      "second": "Tattletale",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Grue",
+      "relationship": "sits at the table at",
+      "inv_relationship": "has table-sitting attendee",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Skidmark's villain team",
+      "relationship": "attend",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Skidmark",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Moist",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Squealer",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Skidmark",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Skidmark's villain team",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Moist",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Skidmark's villain team",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Squealer",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Skidmark's villain team",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "at the Somer's Rock meet, forbids to sit at the table",
+      "inv_relationship": "at the Somer's Rock meet, is forbidden to sit at the table by",
+      "second": "Skidmark",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Travelers",
+      "relationship": "attend",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Trickster",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Trickster",
+      "relationship": "sits at the table at",
+      "inv_relationship": "has table-sitting attendee",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Trickster",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Travelers",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Azn Bad Boys",
+      "relationship": "other villains meet to discuss the problem of them at",
+      "inv_relationship": "is about",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "is at the centre of the dangerous rise of",
+      "inv_relationship": "has its recent rise attributed to",
+      "second": "Azn Bad Boys",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Grue",
+      "relationship": "distributes footage of Bakuda's attack on the Undersiders to",
+      "inv_relationship": "has footage distributed of Bakuda's attack on the Undersiders by",
+      "second": "Somer's Rock meet",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Somer's Rock meet",
+      "relationship": "agree truce to fight",
+      "inv_relationship": "is up against an agreed truce between attendees of",
+      "second": "Azn Bad Boys",
+      "from": "Hive 5.1"
+    },
+    {
+      "first": "Hookwolf",
+      "relationship": "escaped twice while en route to",
+      "inv_relationship": "intended inmate escaped twice en route",
+      "second": "Birdcage",
+      "from": "Hive 5.2"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "attacked dogfighting ring owned by",
+      "inv_relationship": "his dogfighting rink was attacked by",
+      "second": "Hookwolf",
+      "from": "Hive 5.2"
+    },
+    {
+      "first": "Brutus",
+      "relationship": "attacked dogfighting ring owned by",
+      "inv_relationship": "his dogfighting rink was attacked by",
+      "second": "Hookwolf",
+      "from": "Hive 5.2"
+    },
+    {
+      "first": "Hookwolf",
+      "relationship": "at Somer's Rock meet, brings up grievance with",
+      "inv_relationship": "at Somer's Rock meet, has grievance brought up by",
+      "second": "Bitch",
+      "from": "Hive 5.2"
+    },
+    {
+      "first": "Coil",
+      "relationship": "has conversation about mercenary hiring (to deal with ABB) with",
+      "inv_relationship": "has conversation about mercenary hiring (to deal with ABB) with",
+      "second": "Faultline's Crew",
+      "from": "Hive 5.2"
+    },
+    {
+      "first": "Grue",
+      "relationship": "fights over making the Undersiders look bad",
+      "inv_relationship": "is fought over making the Undersiders look bad by",
+      "second": "Bitch",
+      "from": "Hive 5.2"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "doesn't like, but does respect",
+      "inv_relationship": "is respected but not liked by",
+      "second": "Bitch",
+      "from": "Hive 5.2"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "shows support for the stopping of the dogfighting ring to",
+      "inv_relationship": "is shown support for the stopping of the dogfighting ring by",
+      "second": "Bitch",
+      "from": "Hive 5.2"
     }
   ],
 
-  "up_to": "Interlude 4"
+  "up_to": "Hive 5.2"
 }

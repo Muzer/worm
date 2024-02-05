@@ -75,11 +75,13 @@ def main():
             character["id"] = "character-" + str(i)
             if "civilian_names" in character:
                 for name in character["civilian_names"]:
-                    assert name["value"] not in character_map
+                    assert name["value"] not in character_map or \
+                        character_map[name["value"]] == i
                     character_map[name["value"]] = i
             if "cape_names" in character:
                 for name in character["cape_names"]:
-                    assert name["value"] not in character_map
+                    assert name["value"] not in character_map or \
+                        character_map[name["value"]] == i
                     character_map[name["value"]] = i
             id_map["character-" + str(i)] = character
 
@@ -87,7 +89,8 @@ def main():
             group["id"] = "group-" + str(i)
             if "names" in group:
                 for name in group["names"]:
-                    assert name["value"] not in group_map
+                    assert name["value"] not in group_map or \
+                        group_map[name["value"]] == i
                     group_map[name["value"]] = i
             id_map["group-" + str(i)] = group
 
