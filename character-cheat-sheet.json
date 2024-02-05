@@ -984,6 +984,16 @@
               "value": "Includes fireproofing or can create extreme heat around him without burning; also doesn't appear to affect his oxygen supply",
               "provenance": "Direct witness",
               "from": "Gestation 1.4"
+            },
+            {
+              "value": "Enough to soften metal which he can then push through with his enhanced strength",
+              "provenance": "Direct witness",
+              "from": "Hive 5.9"
+            },
+            {
+              "value": "Can put out Sundancer's sun when sufficiently powered",
+              "provenance": "Direct witness",
+              "from": "Hive 5.9"
             }
           ],
           "from": "Gestation 1.3"
@@ -1725,6 +1735,11 @@
               "value": "Seeing the dogs transform is like seeing a sausage split its casing, only the casing is fur and skin",
               "provenance": "Direct witness",
               "from": "Hive 5.5"
+            },
+            {
+              "value": "When injured in transformed state, they'll heal when they return to normal",
+              "provenance": "Her own statement",
+              "from": "Hive 5.9"
             }
           ],
           "from": "Gestation 1.5"
@@ -5834,6 +5849,12 @@
           "from": "Hive 5.1"
         }
       ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Hive 5.9"
+        }
+      ],
       "occupations": [
         {
           "value": "Gang member",
@@ -5872,7 +5893,12 @@
             },
             {
               "value": "Carries either sword and round shield, or a spear",
-              "from": "Hive 5.8"
+              "from": "Hive 5.8",
+              "to": "Hive 5.9"
+            },
+            {
+              "value": "Carries a spear",
+              "from": "Hive 5.9"
             }
           ],
           "from": "Hive 5.1"
@@ -5896,7 +5922,13 @@
             {
               "value": "A hundred times more durable when grown",
               "provenance": "Taylor",
-              "from": "Hive 5.1"
+              "from": "Hive 5.1",
+              "to": "Hive 5.8"
+            },
+            {
+              "value": "A hundred times more durable when grown",
+              "provenance": "Taylor, direct witness",
+              "from": "Hive 5.8"
             },
             {
               "value": "Can shrink and grow quickly and at will",
@@ -5916,6 +5948,18 @@
           "from": "Hive 5.1"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Nessa",
+          "from": "Hive 5.9"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Hive 5.9"
+        }
+      ],
       "occupations": [
         {
           "value": "Gang member",
@@ -5954,7 +5998,12 @@
             },
             {
               "value": "Carries either sword and round shield, or a spear",
-              "from": "Hive 5.8"
+              "from": "Hive 5.8",
+              "to": "Hive 5.9"
+            },
+            {
+              "value": "Carries a sword and a round shield",
+              "from": "Hive 5.9"
             }
           ],
           "from": "Hive 5.1"
@@ -5978,7 +6027,13 @@
             {
               "value": "A hundred times more durable when grown",
               "provenance": "Taylor",
-              "from": "Hive 5.1"
+              "from": "Hive 5.1",
+              "to": "Hive 5.8"
+            },
+            {
+              "value": "A hundred times more durable when grown",
+              "provenance": "Taylor, direct witness",
+              "from": "Hive 5.8"
             },
             {
               "value": "Can shrink and grow quickly and at will",
@@ -6668,7 +6723,34 @@
               "from": "Hive 5.6"
             }
           ],
-          "from": "Hive 5.6"
+          "from": "Hive 5.6",
+          "to": "Hive 5.8"
+        },
+        {
+          "brief_desc": "Miniature suns",
+          "notes": [
+            {
+              "value": "Can produce a ball of light larger than a basketball, smaller than a beachball, between her hands; a miniature sun",
+              "provenance": "Direct witness",
+              "from": "Hive 5.8"
+            },
+            {
+              "value": "Sun can move quickly, via an erratic route \"like it had a mind of its own\", to a target",
+              "provenance": "Direct witness",
+              "from": "Hive 5.8"
+            },
+            {
+              "value": "Sun is incredibly hot and bright",
+              "provenance": "Direct witness",
+              "from": "Hive 5.8"
+            },
+            {
+              "value": "She is fireproof",
+              "provenance": "Direct witness",
+              "from": "Hive 5.9"
+            }
+          ],
+          "from": "Hive 5.8"
         }
       ],
       "from": "Hive 5.6"
@@ -9927,7 +10009,7 @@
       "from": "Hive 5.6"
     },
     {
-      "first": "Fenja",
+      "first": "Menja",
       "relationship": "during ABB raid, abandoned the rest of",
       "inv_relationship": "during ABB raid, was abandoned by",
       "second": "Kaiser's ABB raid team",
@@ -10065,8 +10147,99 @@
       "inv_relationship": "during ABB raid, fought",
       "second": "Menja",
       "from": "Hive 5.8"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, fought",
+      "inv_relationship": "during ABB raid, fought",
+      "second": "Judas",
+      "from": "Hive 5.9"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, fought",
+      "inv_relationship": "during ABB raid, fought",
+      "second": "Angelica",
+      "from": "Hive 5.9"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, fought",
+      "inv_relationship": "during ABB raid, fought",
+      "second": "Skitter",
+      "from": "Hive 5.9"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, fought",
+      "inv_relationship": "during ABB raid, fought",
+      "second": "Sundancer",
+      "from": "Hive 5.9"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, disabled",
+      "inv_relationship": "during ABB raid, was disabled by",
+      "second": "Kaiser",
+      "from": "Hive 5.9"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, stabbed and disabled",
+      "inv_relationship": "during ABB raid, was stabbed and disabled by",
+      "second": "Menja",
+      "from": "Hive 5.9"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, disabled",
+      "inv_relationship": "during ABB raid, was disabled by",
+      "second": "Sundancer",
+      "from": "Hive 5.9"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, fought",
+      "inv_relationship": "during ABB raid, fought",
+      "second": "Bitch",
+      "from": "Hive 5.9"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, fought",
+      "inv_relationship": "during ABB raid, fought",
+      "second": "Brutus",
+      "from": "Hive 5.9"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, disabled",
+      "inv_relationship": "during ABB raid, was disabled by",
+      "second": "Bitch",
+      "from": "Hive 5.9"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "during ABB raid, disabled",
+      "inv_relationship": "during ABB raid, was disabled by",
+      "second": "Lung",
+      "from": "Hive 5.9"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "during ABB raid, removed the eyes of",
+      "inv_relationship": "during ABB raid, had eyes removed by",
+      "second": "Lung",
+      "from": "Hive 5.9"
+    },
+    {
+      "first": "Kaiser's ABB raid team",
+      "relationship": "during ABB raid, defeated",
+      "inv_relationship": "during ABB raid, was defeated by",
+      "second": "Lung",
+      "from": "Hive 5.9"
     }
   ],
 
-  "up_to": "Hive 5.8"
+  "up_to": "Hive 5.9"
 }
