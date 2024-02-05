@@ -2068,6 +2068,11 @@
               "value": "Guns keyed to her fingerprints",
               "provenance": "Tattletale",
               "from": "Shell 4.9"
+            },
+            {
+              "value": "While trying to make a space distortion grenade by studying Vista's power, instead made a space distortion grenade that only works on living material, and doesn't kill you",
+              "provenance": "Her own statement",
+              "from": "Shell 4.10"
             }
           ],
           "from": "Gestation 1.6"
@@ -5982,8 +5987,8 @@
     },
     {
       "first": "Taylor",
-      "relationship": "used to be best friends with",
-      "inv_relationship": "used to be best friends with",
+      "relationship": "was previously best friends with",
+      "inv_relationship": "was previously best friends with",
       "second": "Emma Barnes",
       "from": "Gestation 1.1"
     },
@@ -6046,15 +6051,15 @@
     },
     {
       "first": "Taylor",
-      "relationship": "was primarily responsible for subduing",
-      "inv_relationship": "was subdued primarily by",
+      "relationship": "was primarily responsible for disabling",
+      "inv_relationship": "was disabled primarily by",
       "second": "Lung",
       "from": "Gestation 1.5"
     },
     {
       "first": "'the children'",
-      "relationship": "helped subdue",
-      "inv_relationship": "was subdued in part by",
+      "relationship": "helped disable",
+      "inv_relationship": "was disabled in part by",
       "second": "Lung",
       "from": "Gestation 1.5"
     },
@@ -6095,8 +6100,8 @@
     },
     {
       "first": "Armsmaster",
-      "relationship": "invites to join the Wards",
-      "inv_relationship": "is invited to join the Wards by",
+      "relationship": "invited to join the Wards",
+      "inv_relationship": "was invited to join the Wards by",
       "second": "Taylor",
       "from": "Gestation 1.6"
     },
@@ -6264,7 +6269,7 @@
     },
     {
       "first": "Alexandria",
-      "relationship": "is a member of",
+      "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Protectorate",
       "from": "Insinuation 2.6"
@@ -6600,8 +6605,8 @@
     },
     {
       "first": "'the boss'",
-      "relationship": "pays a lot for a job to happen at a specific time",
-      "inv_relationship": "is paid a lot for a job to happen at a specific time by",
+      "relationship": "offered to pay a lot for a job to happen at a specific time",
+      "inv_relationship": "was offered to be paid a lot for a job to happen at a specific time by",
       "second": "Undersiders",
       "from": "Agitation 3.3"
     },
@@ -6635,8 +6640,8 @@
     },
     {
       "first": "Triumph",
-      "relationship": "graduated from",
-      "inv_relationship": "has former graduated member",
+      "relationship": "previously graduated from",
+      "inv_relationship": "has previous graduated member",
       "second": "Wards East-North-East",
       "from": "Agitation 3.3"
     },
@@ -6796,99 +6801,92 @@
     },
     {
       "first": "Aegis",
-      "relationship": "at the bank robbery, swaps clothes with",
-      "inv_relationship": "at the bank robbery, swaps clothes with",
+      "relationship": "at the bank robbery, swapped clothes with",
+      "inv_relationship": "at the bank robbery, swapped clothes with",
       "second": "Clockblocker",
       "from": "Agitation 3.9"
     },
     {
-      "first": "Aegis",
-      "relationship": "at the bank robbery, fights",
-      "inv_relationship": "at the bank robbery, fights",
-      "second": "Bitch",
-      "from": "Agitation 3.9"
-    },
-    {
       "first": "Taylor",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Clockblocker",
       "from": "Agitation 3.9"
     },
     {
       "first": "Bitch",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Aegis",
       "from": "Agitation 3.9"
     },
     {
       "first": "Brutus",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Aegis",
       "from": "Agitation 3.9"
     },
     {
       "first": "Angelica",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Aegis",
       "from": "Agitation 3.9"
     },
     {
       "first": "Bitch",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Gallant",
       "from": "Agitation 3.10"
     },
     {
       "first": "Judas",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Gallant",
       "from": "Agitation 3.10"
     },
     {
       "first": "Kid Win",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Bitch",
       "from": "Agitation 3.10"
     },
     {
       "first": "Grue",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Vista",
       "from": "Agitation 3.10"
     },
     {
       "first": "Kid Win",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Judas",
       "from": "Agitation 3.10"
     },
     {
       "first": "Kid Win",
-      "relationship": "at the bank robbery, saves",
-      "inv_relationship": "at the bank robbery, is saved by",
+      "relationship": "at the bank robbery, saved",
+      "inv_relationship": "at the bank robbery, was saved by",
       "second": "Aegis",
       "from": "Agitation 3.10"
     },
     {
       "first": "Regent",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Aegis",
       "from": "Agitation 3.10"
     },
     {
       "first": "Regent",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Kid Win",
       "from": "Agitation 3.10"
     },
@@ -6908,22 +6906,22 @@
     },
     {
       "first": "Glory Girl",
-      "relationship": "at the bank robbery, saves",
-      "inv_relationship": "at the bank robbery, is saved by",
+      "relationship": "at the bank robbery, saved",
+      "inv_relationship": "at the bank robbery, was saved by",
       "second": "Aegis",
       "from": "Agitation 3.11"
     },
     {
       "first": "Panacea",
-      "relationship": "at the bank robbery, disables the power of",
-      "inv_relationship": "at the bank robbery, has power disabled by",
+      "relationship": "at the bank robbery, disabled the power of",
+      "inv_relationship": "at the bank robbery, had power disabled by",
       "second": "Taylor",
       "from": "Agitation 3.11"
     },
     {
       "first": "Taylor",
-      "relationship": "at the bank robbery, takes hostage",
-      "inv_relationship": "at the bank robbery, is taken hostage by",
+      "relationship": "at the bank robbery, took hostage",
+      "inv_relationship": "at the bank robbery, was taken hostage by",
       "second": "Panacea",
       "from": "Agitation 3.11"
     },
@@ -7006,50 +7004,50 @@
     },
     {
       "first": "Tattletale",
-      "relationship": "at the bank robbery, saves",
-      "inv_relationship": "at the bank robbery, is saved by",
+      "relationship": "at the bank robbery, saved",
+      "inv_relationship": "at the bank robbery, was saved by",
       "second": "Taylor",
       "from": "Agitation 3.11"
     },
     {
       "first": "Lady Photon",
-      "relationship": "was member of",
-      "inv_relationship": "had member",
+      "relationship": "was previously member of",
+      "inv_relationship": "previously had member",
       "second": "Brockton Bay Brigade",
       "from": "Agitation 3.12"
     },
     {
       "first": "Manpower",
-      "relationship": "was member of",
-      "inv_relationship": "had member",
+      "relationship": "was previously member of",
+      "inv_relationship": "previously had member",
       "second": "Brockton Bay Brigade",
       "from": "Agitation 3.12"
     },
     {
       "first": "Brandish",
-      "relationship": "was member of",
-      "inv_relationship": "had member",
+      "relationship": "was previously member of",
+      "inv_relationship": "previously had member",
       "second": "Brockton Bay Brigade",
       "from": "Agitation 3.12"
     },
     {
       "first": "Flashbang",
-      "relationship": "was member of",
-      "inv_relationship": "had member",
+      "relationship": "was previously member of",
+      "inv_relationship": "previously had member",
       "second": "Brockton Bay Brigade",
       "from": "Agitation 3.12"
     },
     {
       "first": "Fleur",
-      "relationship": "was member of",
-      "inv_relationship": "had member",
+      "relationship": "was previously member of",
+      "inv_relationship": "previously had member",
       "second": "Brockton Bay Brigade",
       "from": "Agitation 3.12"
     },
     {
       "first": "Lightstar",
-      "relationship": "was member of",
-      "inv_relationship": "had member",
+      "relationship": "was previously member of",
+      "inv_relationship": "previously had member",
       "second": "Brockton Bay Brigade",
       "from": "Agitation 3.12"
     },
@@ -7090,36 +7088,36 @@
     },
     {
       "first": "Tattletale",
-      "relationship": "at the bank robbery, threatens to reveal a dark secret of",
-      "inv_relationship": "at the bank robbery, is threatened with revealing a dark secret by",
+      "relationship": "at the bank robbery, threatened to reveal a dark secret of",
+      "inv_relationship": "at the bank robbery, was threatened with revealing a dark secret by",
       "second": "Panacea",
       "from": "Agitation 3.12"
     },
     {
       "first": "Taylor",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Panacea",
       "from": "Agitation 3.12"
     },
     {
       "first": "Taylor",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Glory Girl",
       "from": "Agitation 3.12"
     },
     {
       "first": "Tattletale",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Glory Girl",
       "from": "Agitation 3.12"
     },
     {
       "first": "Regent",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Aegis",
       "from": "Agitation 3.12"
     },
@@ -7174,8 +7172,8 @@
     },
     {
       "first": "Regent",
-      "relationship": "at the bank robbery, disables",
-      "inv_relationship": "at the bank robbery, is disabled by",
+      "relationship": "at the bank robbery, disabled",
+      "inv_relationship": "at the bank robbery, was disabled by",
       "second": "Browbeat",
       "from": "Interlude 3"
     },
@@ -7216,36 +7214,36 @@
     },
     {
       "first": "Panacea",
-      "relationship": "heals",
-      "inv_relationship": "is healed by",
+      "relationship": "healed",
+      "inv_relationship": "was healed by",
       "second": "Gallant",
       "from": "Interlude 3"
     },
     {
       "first": "Panacea",
-      "relationship": "heals",
-      "inv_relationship": "is healed by",
+      "relationship": "healed",
+      "inv_relationship": "was healed by",
       "second": "Aegis",
       "from": "Interlude 3"
     },
     {
       "first": "Panacea",
-      "relationship": "heals",
-      "inv_relationship": "is healed by",
+      "relationship": "healed",
+      "inv_relationship": "was healed by",
       "second": "Clockblocker",
       "from": "Interlude 3"
     },
     {
       "first": "Panacea",
-      "relationship": "heals",
-      "inv_relationship": "is healed by",
+      "relationship": "healed",
+      "inv_relationship": "was healed by",
       "second": "Vista",
       "from": "Interlude 3"
     },
     {
       "first": "Panacea",
-      "relationship": "heals",
-      "inv_relationship": "is healed by",
+      "relationship": "healed",
+      "inv_relationship": "was healed by",
       "second": "Browbeat",
       "from": "Interlude 3"
     },
@@ -7265,8 +7263,8 @@
     },
     {
       "first": "Taylor",
-      "relationship": "shares trigger event story with",
-      "inv_relationship": "are told her trigger event story by",
+      "relationship": "shared trigger event story with",
+      "inv_relationship": "were told her trigger event story by",
       "second": "Undersiders",
       "from": "Shell 4.3"
     },
@@ -7300,22 +7298,22 @@
     },
     {
       "first": "Grue",
-      "relationship": "shares trigger event story with",
-      "inv_relationship": "are told his trigger event story by",
+      "relationship": "shared trigger event story with",
+      "inv_relationship": "were told his trigger event story by",
       "second": "Undersiders",
       "from": "Shell 4.3"
     },
     {
       "first": "Taylor",
-      "relationship": "agrees to make a costume for $1500 for",
-      "inv_relationship": "agrees to pay $1500 for a costume by",
+      "relationship": "agreed to make a costume for $1500 for",
+      "inv_relationship": "agreed to pay $1500 for a costume by",
       "second": "Grue",
       "from": "Shell 4.4"
     },
     {
       "first": "Taylor",
-      "relationship": "agrees to make a costume for $1500 for",
-      "inv_relationship": "agrees to pay $1500 for a costume by",
+      "relationship": "agreed to make a costume for $1500 for",
+      "inv_relationship": "agreed to pay $1500 for a costume by",
       "second": "Tattletale",
       "from": "Shell 4.4"
     },
@@ -7328,15 +7326,15 @@
     },
     {
       "first": "Über",
-      "relationship": "steals money from",
-      "inv_relationship": "has money stolen by",
+      "relationship": "stole money from",
+      "inv_relationship": "had money stolen by",
       "second": "Bitch",
       "from": "Shell 4.5"
     },
     {
       "first": "Leet",
-      "relationship": "steals money from",
-      "inv_relationship": "has money stolen by",
+      "relationship": "stole money from",
+      "inv_relationship": "had money stolen by",
       "second": "Bitch",
       "from": "Shell 4.5"
     },
@@ -7350,28 +7348,28 @@
     {
       "first": "Undersiders",
       "relationship": "in stolen money fight, disabled",
-      "inv_relationship": "in stolen money fight, is disabled by",
+      "inv_relationship": "in stolen money fight, was disabled by",
       "second": "Über",
       "from": "Shell 4.6"
     },
     {
       "first": "Taylor",
       "relationship": "in stolen money fight, disabled",
-      "inv_relationship": "in stolen money fight, is disabled by",
+      "inv_relationship": "in stolen money fight, was disabled by",
       "second": "Leet",
       "from": "Shell 4.6"
     },
     {
       "first": "Bakuda",
-      "relationship": "hires",
-      "inv_relationship": "is hired by",
+      "relationship": "hired",
+      "inv_relationship": "was hired by",
       "second": "Über",
       "from": "Shell 4.6"
     },
     {
       "first": "Bakuda",
-      "relationship": "hires",
-      "inv_relationship": "is hired by",
+      "relationship": "hired",
+      "inv_relationship": "was hired by",
       "second": "Leet",
       "from": "Shell 4.6"
     },
@@ -7462,8 +7460,8 @@
     },
     {
       "first": "Purity",
-      "relationship": "was member of",
-      "inv_relationship": "had member",
+      "relationship": "was previously member of",
+      "inv_relationship": "previously had member",
       "second": "Empire Eighty-Eight",
       "from": "Interlude 3½ (Bonus)"
     },
@@ -7518,8 +7516,8 @@
     },
     {
       "first": "Bakuda",
-      "relationship": "captures",
-      "inv_relationship": "are captured by",
+      "relationship": "captured",
+      "inv_relationship": "were captured by",
       "second": "Undersiders",
       "from": "Shell 4.7"
     },
@@ -7532,15 +7530,15 @@
     },
     {
       "first": "Park Jihoo",
-      "relationship": "refuses to shoot",
-      "inv_relationship": "are refused to be shot by",
+      "relationship": "refused to shoot",
+      "inv_relationship": "were refused to be shot by",
       "second": "Undersiders",
       "from": "Shell 4.8"
     },
     {
       "first": "Bakuda",
-      "relationship": "kills",
-      "inv_relationship": "is killed by",
+      "relationship": "killed",
+      "inv_relationship": "was killed by",
       "second": "Park Jihoo",
       "from": "Shell 4.8"
     },
@@ -7553,8 +7551,8 @@
     },
     {
       "first": "Undersiders",
-      "relationship": "escape from",
-      "inv_relationship": "is escaped from by",
+      "relationship": "escaped from",
+      "inv_relationship": "was escaped from by",
       "second": "Bakuda",
       "from": "Shell 4.8"
     },
@@ -7564,8 +7562,29 @@
       "inv_relationship": "is being pretended to be led by",
       "second": "Azn Bad Boys",
       "from": "Shell 4.9"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "shot",
+      "inv_relationship": "was shot by",
+      "second": "Taylor",
+      "from": "Shell 4.10"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "were recaptured by",
+      "inv_relationship": "recaptured",
+      "second": "Bakuda",
+      "from": "Shell 4.10"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "stabbed in the foot",
+      "inv_relationship": "was stabbed in the foot by",
+      "second": "Bakuda",
+      "from": "Shell 4.10"
     }
   ],
 
-  "up_to": "Shell 4.9"
+  "up_to": "Shell 4.10"
 }
