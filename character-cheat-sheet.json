@@ -382,6 +382,10 @@
         {
           "value": "Finds acting as a supervillain to be an escape",
           "from": "Shell 4.3"
+        },
+        {
+          "value": "Is freaked out by drugs",
+          "from": "Hive 5.8"
         }
       ],
       "parahuman_type": [
@@ -921,7 +925,13 @@
             {
               "value": "According to rumour, grows wings if he fights long enough",
               "provenance": "Online",
-              "from": "Gestation 1.3"
+              "from": "Gestation 1.3",
+              "to": "Hive 5.8"
+            },
+            {
+              "value": "Grows wings if he fights long enough",
+              "provenance": "Online, direct witness",
+              "from": "Hive 5.8"
             },
             {
               "value": "Starts to return to normal once nobody is left to fight",
@@ -932,6 +942,21 @@
               "value": "Gains enhanced hearing",
               "provenance": "Direct witness",
               "from": "Gestation 1.4"
+            },
+            {
+              "value": "With prolonged fighting grows to fifteen feet",
+              "provenance": "Direct witness",
+              "from": "Hive 5.8"
+            },
+            {
+              "value": "Grows layers of scales that make him look barely human",
+              "provenance": "Direct witness",
+              "from": "Hive 5.8"
+            },
+            {
+              "value": "Shape of his skull becomes catlike, nose and mouth become a single X-shaped opening bristling with pointed teeth sticking in every direction",
+              "provenance": "Direct witness",
+              "from": "Hive 5.8"
             }
           ],
           "from": "Gestation 1.3"
@@ -1050,7 +1075,13 @@
             {
               "value": "Can teleport, after which his original self remains where it is, active for 5–10 seconds before disintegrating into a cloud of carbon ash",
               "provenance": "Parahumans Online Wiki",
-              "from": "Insinuation 2.2"
+              "from": "Insinuation 2.2",
+              "to": "Hive 5.6"
+            },
+            {
+              "value": "Can teleport, after which his original self remains where it is, active for 5–10 seconds before disintegrating into a cloud of carbon ash",
+              "provenance": "Parahumans Online Wiki, direct witness",
+              "from": "Hive 5.6"
             },
             {
               "value": "Can repeatedly duplicate himself (not limited to one double at a time)",
@@ -1060,11 +1091,12 @@
             {
               "value": "Duplicating himself also duplicates held objects (eg grenades)",
               "provenance": "Parahumans Online Wiki",
-              "from": "Insinuation 2.2"
+              "from": "Insinuation 2.2",
+              "to": "Hive 5.7"
             },
             {
-              "value": "He can't switch the carrying held objects ability off, so things touching him will come with him when he duplicates",
-              "provenance": "Direct witness",
+              "value": "Duplicating himself unavoidably also duplicates held or touched objects (eg grenades, bugs)",
+              "provenance": "Parahumans Online Wiki, direct witness",
               "from": "Hive 5.7"
             }
           ],
@@ -1661,7 +1693,7 @@
             },
             {
               "value": "Dogs are made monstrous by transforming ordinary dogs using her power",
-              "provenance": "Parahumans Online Wiki, Direct witness",
+              "provenance": "Parahumans Online Wiki, direct witness",
               "from": "Agitation 3.7"
             },
             {
@@ -1810,12 +1842,12 @@
             },
             {
               "value": "If he uses it too much, it backfires and causes his arm to cramp up",
-              "provenance": "His own statement",
+              "provenance": "His own statement, direct witness",
               "from": "Shell 4.9"
             },
             {
               "value": "If he continues to use his power after a backfire, goes unconscious, and becomes sore and powerless for a while",
-              "provenance": "Tattletale",
+              "provenance": "Tattletale, direct witness",
               "from": "Shell 4.9"
             }
           ],
@@ -1917,7 +1949,7 @@
             },
             {
               "value": "Other Halberd powers include ability to cut through steel like butter, plasma injectors, directed EMP",
-              "provenance": "Common knowledge",
+              "provenance": "Taylor",
               "from": "Gestation 1.6"
             },
             {
@@ -2090,7 +2122,13 @@
             {
               "value": "Tinker with specialty in designing and building high tech bombs",
               "provenance": "Armsmaster",
-              "from": "Gestation 1.6"
+              "from": "Gestation 1.6",
+              "to": "Shell 4.7"
+            },
+            {
+              "value": "Tinker with specialty in designing and building high tech bombs",
+              "provenance": "Armsmaster, direct witness",
+              "from": "Shell 4.7"
             },
             {
               "value": "Made a bomb that disguises itself as a person",
@@ -2131,7 +2169,13 @@
             {
               "value": "Can detonate her bombs using toe rings, but pretends this is through thought",
               "provenance": "Tattletale",
-              "from": "Shell 4.9"
+              "from": "Shell 4.9",
+              "to": "Shell 4.10"
+            },
+            {
+              "value": "Can detonate her bombs using toe rings, but pretends this is through thought",
+              "provenance": "Tattletale, direct witness",
+              "from": "Shell 4.10"
             },
             {
               "value": "Goggles can see heat signatures",
@@ -2652,12 +2696,12 @@
             },
             {
               "value": "Makes him sound like the guy who narrated trailers for action movies or late night commercials; overdramatic and intense about everything no matter how mundane, like an overacted gallant knight in a kid's movie",
-              "provenance": "Taylor",
+              "provenance": "Taylor, direct witness",
               "from": "Shell 4.5"
             },
             {
               "value": "Makes him talented; for instance playing harmonica, parkour stunts, Muay Thai; can pull them off as if he'd been working on them for a few hours a day most of his life",
-              "provenance": "Taylor",
+              "provenance": "Taylor, direct witness",
               "from": "Shell 4.6"
             },
             {
@@ -2808,7 +2852,7 @@
       ],
       "occupations": [
         {
-          "value": "Teacher, Computer class",
+          "value": "Teacher, computer class",
           "from": "Insinuation 2.2"
         }
       ],
@@ -3468,7 +3512,7 @@
             },
             {
               "value": "Flight",
-              "provenance": "Grue, Direct witness",
+              "provenance": "Grue, direct witness",
               "from": "Agitation 3.9"
             }
           ],
@@ -3485,7 +3529,7 @@
             },
             {
               "value": "His entire biology is filled with so many redundancies and reinforcements you can't put him down",
-              "provenance": "Grue, Direct witness",
+              "provenance": "Grue, direct witness",
               "from": "Agitation 3.9"
             },
             {
@@ -3507,7 +3551,7 @@
             },
             {
               "value": "Can abuse his body to make it seem like he's super strong, eg throw punches hard enough to break hands/mangle joints/tear muscles",
-              "provenance": "Tattletale, Direct witness",
+              "provenance": "Tattletale, direct witness",
               "from": "Agitation 3.9"
             },
             {
@@ -3598,7 +3642,13 @@
             {
               "value": "Can transform into an extremely lightweight form which can pass through glass and thin walls and is nearly invisible",
               "provenance": "Tattletale",
-              "from": "Agitation 3.3"
+              "from": "Agitation 3.3",
+              "to": "Hive 5.3"
+            },
+            {
+              "value": "Can transform into an extremely lightweight form which can pass through glass and thin walls and is nearly invisible",
+              "provenance": "Tattletale, direct witness",
+              "from": "Hive 5.3"
             },
             {
               "value": "When she shoots things they only remain in the wispy state for half a second before becoming normal",
@@ -4100,16 +4150,22 @@
             {
               "value": "Can create metal from thin air",
               "provenance": "Tattletale",
-              "from": "Agitation 3.11"
+              "from": "Agitation 3.11",
+              "to": "Interlude 3½ (Bonus)"
+            },
+            {
+              "value": "Can create metal from thin air",
+              "provenance": "Tattletale, direct witness",
+              "from": "Interlude 3½ (Bonus)"
             },
             {
               "value": "Can bring metal to sprout from any solid surface around him, including the metal he had already created",
-              "provenance": "Purity",
+              "provenance": "Direct witness",
               "from": "Interlude 3½ (Bonus)"
             },
             {
               "value": "Can bring thirty-foot spears of iron to erupt from ground or walls, create finely-worked suit of armour and embellish it with blades and curving spikes",
-              "provenance": "Purity",
+              "provenance": "Direct witness",
               "from": "Interlude 3½ (Bonus)"
             }
           ],
@@ -4442,7 +4498,7 @@
             },
             {
               "value": "He can stop time for whatever he touches; the person or object affected is put on 'pause'",
-              "provenance": "Grue, Direct witness",
+              "provenance": "Grue, direct witness",
               "from": "Agitation 3.9"
             },
             {
@@ -4458,7 +4514,7 @@
             },
             {
               "value": "The stopped person or thing can't be hurt or moved; he uses this defensively to make unbreakable shields",
-              "provenance": "Grue, Direct witness",
+              "provenance": "Grue, direct witness",
               "from": "Agitation 3.9"
             },
             {
@@ -4537,7 +4593,7 @@
             },
             {
               "value": "Can stretch a building like taffy, so it's twice as tall, or squeeze two sidewalks together so she can cross the street in one step",
-              "provenance": "Grue, Direct witness",
+              "provenance": "Grue, direct witness",
               "from": "Agitation 3.9"
             },
             {
@@ -4558,7 +4614,7 @@
             },
             {
               "value": "Can also do funny things with gravity",
-              "provenance": "Tattletale, Direct witness",
+              "provenance": "Tattletale, direct witness",
               "from": "Agitation 3.9"
             }
           ],
@@ -4681,7 +4737,7 @@
             },
             {
               "value": "Has created flying skateboard, laser pistols, high tech visor",
-              "provenance": "Tattletale, Direct witness",
+              "provenance": "Tattletale, direct witness",
               "from": "Agitation 3.8"
             },
             {
@@ -4791,7 +4847,7 @@
             },
             {
               "value": "Fires blasts of light which feel like getting punched in the gut, and mess with your feelings",
-              "provenance": "Tattletale, Direct witness",
+              "provenance": "Tattletale, direct witness",
               "from": "Agitation 3.10"
             },
             {
@@ -5480,7 +5536,7 @@
           "to": "Hive 5.4"
         },
         {
-          "value": "Teacher, Math",
+          "value": "Teacher, math",
           "from": "Hive 5.4"
         }
       ],
@@ -5813,6 +5869,10 @@
             {
               "value": "Closed-face helms",
               "from": "Hive 5.1"
+            },
+            {
+              "value": "Carries either sword and round shield, or a spear",
+              "from": "Hive 5.8"
             }
           ],
           "from": "Hive 5.1"
@@ -5825,12 +5885,23 @@
             {
               "value": "Can grow to be three storeys tall",
               "provenance": "Taylor",
-              "from": "Hive 5.1"
+              "from": "Hive 5.1",
+              "to": "Hive 5.8"
+            },
+            {
+              "value": "Can grow to be three storeys tall",
+              "provenance": "Taylor, direct witness",
+              "from": "Hive 5.8"
             },
             {
               "value": "A hundred times more durable when grown",
               "provenance": "Taylor",
               "from": "Hive 5.1"
+            },
+            {
+              "value": "Can shrink and grow quickly and at will",
+              "provenance": "Direct witness",
+              "from": "Hive 5.8"
             }
           ],
           "from": "Hive 5.1"
@@ -5880,6 +5951,10 @@
             {
               "value": "Closed-face helms",
               "from": "Hive 5.1"
+            },
+            {
+              "value": "Carries either sword and round shield, or a spear",
+              "from": "Hive 5.8"
             }
           ],
           "from": "Hive 5.1"
@@ -5892,12 +5967,23 @@
             {
               "value": "Can grow to be three storeys tall",
               "provenance": "Taylor",
-              "from": "Hive 5.1"
+              "from": "Hive 5.1",
+              "to": "Hive 5.8"
+            },
+            {
+              "value": "Can grow to be three storeys tall",
+              "provenance": "Taylor, direct witness",
+              "from": "Hive 5.8"
             },
             {
               "value": "A hundred times more durable when grown",
               "provenance": "Taylor",
               "from": "Hive 5.1"
+            },
+            {
+              "value": "Can shrink and grow quickly and at will",
+              "provenance": "Direct witness",
+              "from": "Hive 5.8"
             }
           ],
           "from": "Hive 5.1"
@@ -6192,13 +6278,8 @@
           "from": "Hive 5.5"
         },
         {
-          "brief_desc": "Unusual biology",
+          "brief_desc": "Agile",
           "notes": [
-            {
-              "value": "Is unable to be bitten by bugs",
-              "provenance": "His own statement",
-              "from": "Hive 5.6"
-            },
             {
               "value": "Can leap fifteen-foot gaps as fast as a punch",
               "provenance": "Direct witness",
@@ -6212,7 +6293,7 @@
           "notes": [
             {
               "value": "His bodily fluids are potent hallucinogens",
-              "provenance": "Online, Direct witness",
+              "provenance": "Online, direct witness",
               "from": "Hive 5.6"
             },
             {
@@ -6557,6 +6638,12 @@
         {
           "value": "villain",
           "from": "Hive 5.6"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Caucasian, pale",
+          "from": "Hive 5.8"
         }
       ],
       "cape_costumes": [
@@ -9869,8 +9956,8 @@
     },
     {
       "first": "Oni Lee",
-      "relationship": "fought against",
-      "inv_relationship": "fought against",
+      "relationship": "fought",
+      "inv_relationship": "fought",
       "second": "Kaiser's ABB raid team",
       "from": "Hive 5.6"
     },
@@ -9883,8 +9970,8 @@
     },
     {
       "first": "Lung",
-      "relationship": "fought against",
-      "inv_relationship": "fought against",
+      "relationship": "fought",
+      "inv_relationship": "fought",
       "second": "Kaiser's ABB raid team",
       "from": "Hive 5.6"
     },
@@ -9936,8 +10023,50 @@
       "inv_relationship": "during ABB raid, was stabbed by",
       "second": "Judas",
       "from": "Hive 5.7"
+    },
+    {
+      "first": "Oni Lee",
+      "relationship": "during ABB raid, retreated from",
+      "inv_relationship": "during ABB raid, was retreated from by",
+      "second": "Kaiser's ABB raid team",
+      "from": "Hive 5.7"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "during ABB raid, didn't want to save",
+      "inv_relationship": "during ABB raid, was argued against saving by",
+      "second": "Newter",
+      "from": "Hive 5.8"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "during ABB raid, led the initiative to save",
+      "inv_relationship": "during ABB raid, was saved by an initiative led by",
+      "second": "Newter",
+      "from": "Hive 5.8"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "during ABB raid, gave first aid to",
+      "inv_relationship": "during ABB raid, received first aid from",
+      "second": "Newter",
+      "from": "Hive 5.8"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, fought",
+      "inv_relationship": "during ABB raid, fought",
+      "second": "Fenja",
+      "from": "Hive 5.8"
+    },
+    {
+      "first": "Lung",
+      "relationship": "during ABB raid, fought",
+      "inv_relationship": "during ABB raid, fought",
+      "second": "Menja",
+      "from": "Hive 5.8"
     }
   ],
 
-  "up_to": "Hive 5.7"
+  "up_to": "Hive 5.8"
 }
