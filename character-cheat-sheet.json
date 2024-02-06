@@ -559,6 +559,11 @@
               "value": "After meeting with school when she still had concussion, found her range was extended from 2 blocks to 3½",
               "provenance": "PoV",
               "from": "Hive 5.5"
+            },
+            {
+              "value": "Bugs can be set to do fairly complex tasks (eg stealing money from a safe, collecting it into bags, and moving it some distance away) with very little conscious effort on her part",
+              "provenance": "PoV",
+              "from": "Hive 5.8"
             }
           ],
           "from": "Gestation 1.1"
@@ -1462,6 +1467,10 @@
             {
               "value": "Compact utility belt sits diagonally across hips, with a variety of compact pockets and pouches",
               "from": "Agitation 3.7"
+            },
+            {
+              "value": "Carries a gun",
+              "from": "Tangle 6.1"
             }
           ],
           "from": "Gestation 1.5"
@@ -1648,6 +1657,10 @@
         {
           "value": "Didn't tell the Undersiders about the dogfighting ring",
           "from": "Hive 5.2"
+        },
+        {
+          "value": "Power messed up her ability to understand human body language and tone",
+          "from": "Hive 5.10"
         }
       ],
       "parahuman_type": [
@@ -1740,6 +1753,11 @@
               "value": "When injured in transformed state, they'll heal when they return to normal",
               "provenance": "Her own statement",
               "from": "Hive 5.9"
+            },
+            {
+              "value": "Has extra ability to understand dogs by their body language and tone, at the expense of her ability to understand people by theirs",
+              "provenance": "Taylor and Tattletale's power",
+              "from": "Hive 5.10"
             }
           ],
           "from": "Gestation 1.5"
@@ -3138,6 +3156,12 @@
           "from": "Insinuation 2.6"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Emily",
+          "from": "Interlude 5"
+        }
+      ],
       "pronouns": [
         {
           "value": "she/her",
@@ -3162,6 +3186,12 @@
           "from": "Insinuation 2.6"
         }
       ],
+      "appearance": [
+        {
+          "value": "Dense covering of freckles on face and hands, curly brown hair",
+          "from": "Interlude 5"
+        }
+      ],
       "cape_costumes": [
         {
           "brief_desc": "Red and black",
@@ -3172,6 +3202,19 @@
             }
           ],
           "from": "Hive 5.1"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Spit fire",
+          "notes": [
+            {
+              "value": "Spews a geyser of fluid out the nozzle at the base of her mask, which ignites on contact",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.1"
+            }
+          ],
+          "from": "Tangle 6.1"
         }
       ],
       "from": "Insinuation 2.6"
@@ -3213,6 +3256,10 @@
         {
           "value": "Very good at finding hidden strengths in those who work for her",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Owns Palanquin and other cover businesses across Brockton Bay",
+          "from": "Interlude 5"
         }
       ],
       "parahuman_type": [
@@ -3224,7 +3271,16 @@
       "appearance": [
         {
           "value": "Straight black hair in a long bristling ponytail",
-          "from": "Hive 5.1"
+          "from": "Hive 5.1",
+          "to_soft": "Interlude 5"
+        },
+        {
+          "value": "Wavy black hair tied back in a ponytail",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Features too sharp to be called conventionally attractive, but still more sharp than Newter or Gregor the Snail",
+          "from": "Interlude 5"
         }
       ],
       "cape_costumes": [
@@ -3237,6 +3293,29 @@
             }
           ],
           "from": "Hive 5.1"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Slice",
+          "notes": [
+            {
+              "value": "Can slice arbitrary things, from thin coin-shaped slices of wood to entire buildings",
+              "provenance": "Direct witness",
+              "from": "Interlude 5"
+            },
+            {
+              "value": "Does not work on living things (Manton effect)",
+              "provenance": "Direct witness",
+              "from": "Interlude 5"
+            },
+            {
+              "value": "Power activated with a swipe gesture, and crackles with red and blue energy",
+              "provenance": "Direct witness",
+              "from": "Interlude 5"
+            }
+          ],
+          "from": "Interlude 5"
         }
       ],
       "from": "Insinuation 2.6"
@@ -4673,6 +4752,11 @@
               "value": "Forcefields are not privy to the Manton effect, so can create one through a person's body to cut them in half",
               "provenance": "Regent",
               "from": "Agitation 3.3"
+            },
+            {
+              "value": "Was once affected by the Manton effect, but somehow found a way past it; possibly a second trigger event",
+              "provenance": "Faultline and Gregor the Snail",
+              "from": "Interlude 5"
             }
           ],
           "from": "Agitation 3.3"
@@ -6253,12 +6337,24 @@
         {
           "value": "Takes point during ABB raid",
           "from": "Hive 5.6"
+        },
+        {
+          "value": "Roughly 16",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Faultline thinks likely made monstrous by drinking powers-in-a-bottle as part of experiments by a mysterious organisation",
+          "from": "Interlude 5"
         }
       ],
       "parahuman_type": [
         {
           "value": "villain",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "monstrous",
+          "from": "Interlude 5"
         }
       ],
       "appearance": [
@@ -6333,12 +6429,22 @@
           "from": "Hive 5.5"
         },
         {
-          "brief_desc": "Agile",
+          "brief_desc": "Unique biology",
           "notes": [
             {
               "value": "Can leap fifteen-foot gaps as fast as a punch",
               "provenance": "Direct witness",
               "from": "Hive 5.6"
+            },
+            {
+              "value": "Tougher than he looks",
+              "provenance": "His own statement",
+              "from": "Hive 5.10"
+            },
+            {
+              "value": "Can't get infected",
+              "provenance": "His own statement",
+              "from": "Hive 5.10"
             }
           ],
           "from": "Hive 5.6"
@@ -6377,6 +6483,11 @@
         {
           "value": "Gregor the Snail",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Gregster",
+          "from": "Interlude 5",
+          "note": "Nickname used by Newter"
         }
       ],
       "pronouns": [
@@ -6401,12 +6512,44 @@
         {
           "value": "When he received his power, became a freak that couldn't hope to pass in normal society; wound up homeless or living in sewer before Faultline found him",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Has PoV Interlude",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Slightly accented, with words and sounds very careful",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Hires people to run errands for him where his appearance would interfere, so as not to feel indebted to friends",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "His last such assistant tried to blackmail him into more pay in exchange for not turning him into the police, but Gregor 'dissuaded' him",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Late twenties or early thirties",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Speaks Icelandic, though he had to ask an expert to find out what the language was",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Faultline thinks likely made monstrous by drinking powers-in-a-bottle as part of experiments by a mysterious organisation",
+          "from": "Interlude 5"
         }
       ],
       "parahuman_type": [
         {
           "value": "villain",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "monstrous",
+          "from": "Interlude 5"
         }
       ],
       "appearance": [
@@ -6425,6 +6568,41 @@
         {
           "value": "Ʊ tattoo on his upper arm",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Ruined, rotten brown fingernails",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Shell or scale growths no larger than silver dollars, with prominent spiral shape",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Three times the ideal weight for his 5'10\" height",
+          "from": "Interlude 5"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Concoct chemicals",
+          "notes": [
+            {
+              "value": "Can concoct a variety of chemicals in his stomach and project them in a stream from his skin",
+              "provenance": "His own statement, direct witness",
+              "from": "Tangle 6.1"
+            },
+            {
+              "value": "E.g. adhesives, lubricants, strong acids",
+              "provenance": "His own statement",
+              "from": "Tangle 6.1"
+            },
+            {
+              "value": "E.g. fire retardants",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.1"
+            }
+          ],
+          "from": "Tangle 6.1"
         }
       ],
       "from": "Hive 5.1"
@@ -6434,6 +6612,17 @@
         {
           "value": "Labyrinth",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "L",
+          "from": "Hive 5.10",
+          "note": "Nickname used by Newter"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Elle",
+          "from": "Interlude 5"
         }
       ],
       "pronouns": [
@@ -6454,10 +6643,30 @@
           "from": "Hive 5.1"
         }
       ],
+      "notes": [
+        {
+          "value": "Can't or doesn't talk",
+          "from": "Hive 5.7"
+        },
+        {
+          "value": "Was normal before, but since getting powers, has been in her own little world",
+          "from": "Hive 5.10"
+        },
+        {
+          "value": "Lucidity gets better or worse depending on environmental factors",
+          "from": "Hive 5.10"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "villain",
           "from": "Hive 5.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Platinum-white blonde hair of the sort that rarely lasts through puberty",
+          "from": "Interlude 5"
         }
       ],
       "cape_costumes": [
@@ -6495,6 +6704,11 @@
               "value": "However, they're not hallucinations",
               "provenance": "Her own gesture",
               "from": "Hive 5.7"
+            },
+            {
+              "value": "Makes prettier things when she's happier",
+              "provenance": "Newter",
+              "from": "Hive 5.10"
             }
           ],
           "from": "Hive 5.7"
@@ -6587,6 +6801,12 @@
           "from": "Hive 5.1"
         }
       ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Hive 5.1"
+        }
+      ],
       "occupations": [
         {
           "value": "Villain team leader",
@@ -6623,6 +6843,29 @@
             }
           ],
           "from": "Hive 5.1"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Teleport things",
+          "notes": [
+            {
+              "value": "He can teleport any object in his line of sight",
+              "provenance": "Tattletale",
+              "from": "Tangle 6.1"
+            },
+            {
+              "value": "However, when he teleports things he has to swap two objects of roughly equivalent mass",
+              "provenance": "Tattletale",
+              "from": "Tangle 6.1"
+            },
+            {
+              "value": "The bigger the mass difference, the slower the swap and shorter the range",
+              "provenance": "Tattletale",
+              "from": "Tangle 6.1"
+            }
+          ],
+          "from": "Tangle 6.1"
         }
       ],
       "from": "Hive 5.1"
@@ -6784,6 +7027,18 @@
           "from": "Hive 5.6"
         }
       ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Bulky armor",
+          "notes": [
+            {
+              "value": "Bulky armor and square mask, red and black",
+              "from": "Tangle 6.1"
+            }
+          ],
+          "from": "Tangle 6.1"
+        }
+      ],
       "powers": [
         {
           "brief_desc": "Easily lethal",
@@ -6794,10 +7049,332 @@
               "from": "Hive 5.6"
             }
           ],
-          "from": "Hive 5.6"
+          "from": "Hive 5.6",
+          "to": "Tangle 6.1"
+        },
+        {
+          "brief_desc": "Turn things into rockets",
+          "notes": [
+            {
+              "value": "By touching an object can make it rocket off at a few hundred feet a second",
+              "provenance": "Skitter",
+              "from": "Tangle 6.1"
+            },
+            {
+              "value": "Works on objects at least as small as ball bearings and at least as big as cars",
+              "provenance": "Skitter",
+              "from": "Tangle 6.1"
+            }
+          ],
+          "from": "Tangle 6.1"
         }
       ],
       "from": "Hive 5.6"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Laura",
+          "from": "Interlude 5"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 5"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Dark-haired, European cast to features",
+          "from": "Interlude 5"
+        }
+      ],
+      "from": "Interlude 5"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Mary",
+          "from": "Interlude 5"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 5"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Blonde with blue lipstick and pink highlights in hair",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Couldn't have been older than 16",
+          "from": "Interlude 5"
+        }
+      ],
+      "from": "Interlude 5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Chevalier",
+          "from": "Interlude 5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team leader",
+          "from": "Interlude 5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Philadelphia",
+          "from": "Interlude 5"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Interlude 5"
+        }
+      ],
+      "from": "Interlude 5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Myrddin",
+          "from": "Interlude 5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team leader",
+          "from": "Interlude 5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Chicago",
+          "from": "Interlude 5"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Interlude 5"
+        }
+      ],
+      "from": "Interlude 5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Shamrock",
+          "from": "Interlude 5"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain",
+          "from": "Interlude 5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Las Vegas",
+          "from": "Interlude 5"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Interlude 5"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Attractive redheaded girl",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Ʊ tattoo on his upper arm",
+          "from": "Interlude 5"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Manipulate probabilities",
+          "notes": [
+            {
+              "value": "Some sort of probability manipulation power",
+              "provenance": "Faultline's speculation",
+              "from": "Interlude 5"
+            }
+          ],
+          "from": "Interlude 5"
+        }
+      ],
+      "from": "Interlude 5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "The Dealer",
+          "from": "Interlude 5"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Interlude 5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain",
+          "from": "Interlude 5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Tallahassee, Florida",
+          "from": "Interlude 5"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Rumours he was selling powers in a bottle for around $35,000",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Claimed to be sold from a metal suitcase with a Ʊ symbol engraved on the inside of the lid",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "People he dealt to didn't get the tattoos, so Faultline speculates he stole some work from the group that has been experimenting",
+          "from": "Interlude 5"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Interlude 5"
+        }
+      ],
+      "from": "Interlude 5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Sybill",
+          "from": "Interlude 5"
+        }
+      ],
+      "notes": [
+        {
+          "value": "An individual made monstrous by their powers, Faultline thinks likely by drinking powers-in-a-bottle",
+          "from": "Interlude 5"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "monstrous",
+          "from": "Interlude 5"
+        }
+      ],
+      "from": "Interlude 5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Scarab",
+          "from": "Interlude 5"
+        }
+      ],
+      "notes": [
+        {
+          "value": "An individual made monstrous by their powers, Faultline thinks likely by drinking powers-in-a-bottle",
+          "from": "Interlude 5"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "monstrous",
+          "from": "Interlude 5"
+        }
+      ],
+      "from": "Interlude 5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Genesis",
+          "from": "Tangle 6.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Tangle 6.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team member",
+          "from": "Tangle 6.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Nomadic",
+          "from": "Tangle 6.1"
+        },
+        {
+          "value": "Brockton Bay",
+          "from": "Tangle 6.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Tangle 6.1"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Remote controlled projection",
+          "notes": [
+            {
+              "value": "Can remotely control strange creatures which she creates",
+              "provenance": "Tattletale",
+              "from": "Tangle 6.1"
+            },
+            {
+              "value": "Produced a triceratops-bull-cyborg, when that was destroyed she could make a lady knight in shining armour in two minutes",
+              "provenance": "Tattletale",
+              "from": "Tangle 6.1"
+            },
+            {
+              "value": "Produced a large, four armed hairless gorilla with vest, mask, and leggings in red and black, and six-inch claws on each finger and toe",
+              "provenance": "Tattletale",
+              "from": "Tangle 6.1"
+            }
+          ],
+          "from": "Tangle 6.1"
+        }
+      ],
+      "from": "Tangle 6.1"
     }
   ],
 
@@ -7185,6 +7762,10 @@
         {
           "value": "Brockton Bay",
           "from": "Insinuation 2.6"
+        },
+        {
+          "value": "Palanquin Nightclub",
+          "from": "Interlude 5"
         }
       ],
       "notes": [
@@ -7400,6 +7981,10 @@
       ],
       "notes": [
         {
+          "value": "Villain team",
+          "from": "Hive 5.1"
+        },
+        {
           "value": "Hardcore addicts and dealers who happen to have superpowers",
           "from": "Hive 5.1"
         },
@@ -7428,6 +8013,10 @@
         }
       ],
       "notes": [
+        {
+          "value": "Villain team",
+          "from": "Hive 5.1"
+        },
         {
           "value": "Decided to stop by for a visit as Brockton Bay was interesting",
           "from": "Hive 5.1"
@@ -7470,6 +8059,12 @@
           "note": "Not official name"
         }
       ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Interlude 5"
+        }
+      ],
       "based_in": [
         {
           "value": "Brockton Bay",
@@ -7480,9 +8075,114 @@
         {
           "value": "One of three one-off teams of villains intended to strike an ABB target near the Merchants' former HQ",
           "from": "Hive 5.5"
+        },
+        {
+          "value": "Part of the first ABB raid",
+          "from": "Tangle 6.1"
         }
       ],
       "from": "Hive 5.5"
+    },
+    {
+      "names": [
+        {
+          "value": "Philadelphia Protectorate",
+          "from": "Interlude 5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Philadelphia",
+          "from": "Interlude 5"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hero team",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Philadelphia's Protectorate team",
+          "from": "Interlude 5"
+        }
+      ],
+      "from": "Interlude 5"
+    },
+    {
+      "names": [
+        {
+          "value": "Chicago Protectorate",
+          "from": "Interlude 5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Chicago",
+          "from": "Interlude 5"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hero team",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Chicago's Protectorate team",
+          "from": "Interlude 5"
+        }
+      ],
+      "from": "Interlude 5"
+    },
+    {
+      "names": [
+        {
+          "value": "Dragonslayers",
+          "from": "Interlude 5"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Villain team",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Uses tinker technology stolen from the most powerful and highest profile tinker in the world for petty theft and mercenary work",
+          "from": "Interlude 5"
+        }
+      ],
+      "from": "Interlude 5"
+    },
+    {
+      "names": [
+        {
+          "value": "Grue's ABB raid team",
+          "from": "Tangle 6.1",
+          "note": "Not official name"
+        }
+      ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Tangle 6.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Tangle 6.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "One-off team of villains intended to strike an ABB tenement building-cum-barracks",
+          "from": "Tangle 6.1"
+        },
+        {
+          "value": "Part of the fourth ABB raid",
+          "from": "Tangle 6.1"
+        }
+      ],
+      "from": "Tangle 6.1"
     }
   ],
 
@@ -7664,6 +8364,20 @@
       "relationship": "is part of",
       "inv_relationship": "has team",
       "second": "Protectorate",
+      "from": "Gestation 1.6"
+    },
+    {
+      "first": "New York Protectorate",
+      "relationship": "previously foiled the plans of",
+      "inv_relationship": "previously had plans foiled by",
+      "second": "Bakuda",
+      "from": "Gestation 1.6"
+    },
+    {
+      "first": "Lung",
+      "relationship": "previously recruited",
+      "inv_relationship": "was previously recruited by",
+      "second": "Bakuda",
       "from": "Gestation 1.6"
     },
     {
@@ -9877,43 +10591,43 @@
     },
     {
       "first": "Tattletale",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
+      "relationship": "joined first raid on ABB with",
+      "inv_relationship": "joined first raid on ABB with",
       "second": "Faultline",
       "from": "Hive 5.5"
     },
     {
       "first": "Tattletale",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
+      "relationship": "joined first raid on ABB with",
+      "inv_relationship": "joined first raid on ABB with",
       "second": "Trickster",
       "from": "Hive 5.5"
     },
     {
       "first": "Tattletale",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
+      "relationship": "joined first raid on ABB with",
+      "inv_relationship": "joined first raid on ABB with",
       "second": "Regent",
       "from": "Hive 5.5"
     },
     {
       "first": "Trickster",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
+      "relationship": "joined first raid on ABB with",
+      "inv_relationship": "joined first raid on ABB with",
       "second": "Faultline",
       "from": "Hive 5.5"
     },
     {
       "first": "Regent",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
+      "relationship": "joined first raid on ABB with",
+      "inv_relationship": "joined first raid on ABB with",
       "second": "Trickster",
       "from": "Hive 5.5"
     },
     {
       "first": "Regent",
-      "relationship": "joined raid on ABB with",
-      "inv_relationship": "joined raid on ABB with",
+      "relationship": "joined first raid on ABB with",
+      "inv_relationship": "joined first raid on ABB with",
       "second": "Faultline",
       "from": "Hive 5.5"
     },
@@ -10238,8 +10952,260 @@
       "inv_relationship": "during ABB raid, was defeated by",
       "second": "Lung",
       "from": "Hive 5.9"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "turned in to the authorities",
+      "inv_relationship": "was turned in to the authorities by",
+      "second": "Lung",
+      "from": "Hive 5.10"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "stole money from",
+      "inv_relationship": "had money stolen by",
+      "second": "Azn Bad Boys",
+      "from": "Hive 5.10"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "distributed stolen money to",
+      "inv_relationship": "was given stolen money by",
+      "second": "Kaiser's ABB raid team",
+      "from": "Hive 5.10"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "gave her share of the ABB money, in exchange for answering a question, to",
+      "inv_relationship": "received share of the ABB money, in exchange for answering a question, from",
+      "second": "Bitch",
+      "from": "Hive 5.10"
+    },
+    {
+      "first": "Chevalier",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Philadelphia Protectorate",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Philadelphia Protectorate",
+      "relationship": "is part of",
+      "inv_relationship": "has team",
+      "second": "Protectorate",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Myrddin",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Chicago Protectorate",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Chicago Protectorate",
+      "relationship": "is part of",
+      "inv_relationship": "has team",
+      "second": "Protectorate",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Faultline's Crew",
+      "relationship": "on a previous job in Philadelphia, didn't lose to",
+      "inv_relationship": "on a previous job in Philadelphia, didn't win against",
+      "second": "Chevalier",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Faultline's Crew",
+      "relationship": "on a previous job in Philadelphia, didn't lose to",
+      "inv_relationship": "on a previous job in Philadelphia, didn't win against",
+      "second": "Myrddin",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Newter",
+      "relationship": "sells hallucinogenic bodily fluids to",
+      "inv_relationship": "buys hallucinogenic bodily fluids from",
+      "second": "Laura",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Newter",
+      "relationship": "sells hallucinogenic bodily fluids to",
+      "inv_relationship": "buys hallucinogenic bodily fluids from",
+      "second": "Mary",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Faultline",
+      "relationship": "gave gift of colourful bedspread and pillowcase to",
+      "inv_relationship": "received gift of colourful bedspread and pillowcase from",
+      "second": "Labyrinth",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Spitfire",
+      "relationship": "lives with",
+      "inv_relationship": "live with",
+      "second": "Faultline's Crew",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Labyrinth",
+      "relationship": "lives with",
+      "inv_relationship": "live with",
+      "second": "Faultline's Crew",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Faultline's Crew",
+      "relationship": "were previously finding information about",
+      "inv_relationship": "information about them was previously being pursued by",
+      "second": "Dragonslayers",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Faultline's Crew",
+      "relationship": "previously recruited from an asylum while on a job",
+      "inv_relationship": "was previously recruited from an asylum while they were on a job by",
+      "second": "Labyrinth",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Gregor the Snail",
+      "relationship": "attacks in order to try to induce a second trigger",
+      "inv_relationship": "is attacked in order to try to induce a second trigger by",
+      "second": "Faultline",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Faultline",
+      "relationship": "hired private investigators to search for",
+      "inv_relationship": "is being searched for by private investigators hired by",
+      "second": "Shamrock",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Faultline",
+      "relationship": "hopes to recruit",
+      "inv_relationship": "is hoped to be recruited by",
+      "second": "Shamrock",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Grue",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Grue's ABB raid team",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Grue's ABB raid team",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Grue's ABB raid team",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Spitfire",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Grue's ABB raid team",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Gregor the Snail",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Grue's ABB raid team",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "dropped grievance against",
+      "inv_relationship": "had grievance against dropped by",
+      "second": "Bitch",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Grue's ABB raid team",
+      "relationship": "destroyed a barracks of",
+      "inv_relationship": "had barracks destroyed by",
+      "second": "Grue's ABB raid team",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Genesis",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Travelers",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Genesis",
+      "relationship": "joined first on ABB with",
+      "inv_relationship": "joined first on ABB with",
+      "second": "Faultline",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Genesis",
+      "relationship": "joined first on ABB with",
+      "inv_relationship": "joined first on ABB with",
+      "second": "Trickster",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Genesis",
+      "relationship": "joined first on ABB with",
+      "inv_relationship": "joined first on ABB with",
+      "second": "Regent",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Genesis",
+      "relationship": "joined first raid on ABB with",
+      "inv_relationship": "joined first on ABB with",
+      "second": "Tattletale",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "joined third raid on ABB with",
+      "inv_relationship": "joined third raid on ABB with",
+      "second": "Grue",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "joined third raid on ABB with",
+      "inv_relationship": "joined third raid on ABB with",
+      "second": "Ballistic",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Grue",
+      "relationship": "joined third raid on ABB with",
+      "inv_relationship": "joined third raid on ABB with",
+      "second": "Ballistic",
+      "from": "Tangle 6.1"
+    },
+    {
+      "first": "Regent",
+      "relationship": "joined fourth raid on ABB with",
+      "inv_relationship": "joined fourth raid on ABB with",
+      "second": "Bitch",
+      "from": "Tangle 6.1"
     }
   ],
 
-  "up_to": "Hive 5.9"
+  "up_to": "Tangle 6.1"
 }
