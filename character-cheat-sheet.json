@@ -858,6 +858,10 @@
         {
           "value": "Escaped arrest after being blinded by Skitter",
           "from": "Tangle 6.2"
+        },
+        {
+          "value": "Brought into custody",
+          "from": "Tangle 6.4"
         }
       ],
       "parahuman_type": [
@@ -2125,6 +2129,10 @@
         {
           "value": "Now has three hundred soldiers with implanted bombs",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Brought into custody",
+          "from": "Tangle 6.4"
         }
       ],
       "parahuman_type": [
@@ -7527,6 +7535,12 @@
           "from": "Gestation 1.3"
         }
       ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Tangle 6.4"
+        }
+      ],
       "based_in": [
         {
           "value": "Brockton Bay",
@@ -8089,6 +8103,10 @@
         {
           "value": "Make drugs and sell to children",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "After ABB defeat, trying to do what they did but with local drugheads and hobos and zero control over the situation",
+          "from": "Tangle 6.4"
         }
       ],
       "from": "Hive 5.1"
@@ -8118,6 +8136,10 @@
         {
           "value": "Decided to stop by for a visit as Brockton Bay was interesting",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Hit an art gallery and an airport after ABB defeat",
+          "from": "Tangle 6.4"
         }
       ],
       "from": "Hive 5.1"
@@ -8285,6 +8307,48 @@
         }
       ],
       "from": "Tangle 6.1"
+    },
+    {
+      "names": [
+        {
+          "value": "Medhall Corporation",
+          "from": "Tangle 6.4"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Tangle 6.4"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Head offices assaulted by armed forces right after the defeat of ABB",
+          "from": "Tangle 6.4"
+        }
+      ],
+      "from": "Tangle 6.4"
+    },
+    {
+      "names": [
+        {
+          "value": "Brockton Bay fundraiser",
+          "from": "Tangle 6.4"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Tangle 6.4"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Fundraiser to raise morale and support for the heroes to draw attention away from the villains, and to celebrate defeating the ABB",
+          "from": "Tangle 6.4"
+        }
+      ],
+      "from": "Tangle 6.4"
     }
   ],
 
@@ -11355,8 +11419,113 @@
       "inv_relationship": "are known about by",
       "second": "Undersiders",
       "from": "Tangle 6.3"
+    },
+    {
+      "first": "Wards East-North-East",
+      "relationship": "jointly defeated",
+      "inv_relationship": "were defeated jointly by",
+      "second": "Azn Bad Boys",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Protectorate East-North-East",
+      "relationship": "jointly defeated",
+      "inv_relationship": "were defeated jointly by",
+      "second": "Azn Bad Boys",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "managed the superbomb crisis of",
+      "inv_relationship": "superbomb crisis was managed by",
+      "second": "Bakuda",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Vista",
+      "relationship": "managed the superbomb crisis of",
+      "inv_relationship": "superbomb crisis was managed by",
+      "second": "Bakuda",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Coil",
+      "relationship": "close to open warfare with",
+      "inv_relationship": "close to open warfare with",
+      "second": "Empire Eighty-Eight",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "considers her first real friend since Emma",
+      "inv_relationship": "is considered her first real friend since Emma by",
+      "second": "Tattletale",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Protectorate East-North-East",
+      "relationship": "will attend",
+      "inv_relationship": "will be attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Wards East-North-East",
+      "relationship": "will attend",
+      "inv_relationship": "will be attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Parahuman Response Team",
+      "relationship": "will attend",
+      "inv_relationship": "will be attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "votes for attacking",
+      "inv_relationship": "is voted for attacking by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Regent",
+      "relationship": "votes for attacking",
+      "inv_relationship": "is voted for attacking by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "votes for attacking",
+      "inv_relationship": "is voted for attacking by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "votes for attacking",
+      "inv_relationship": "is voted for attacking by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Grue",
+      "relationship": "votes against attacking",
+      "inv_relationship": "is voted against attacking by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.4"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "plan to attack",
+      "inv_relationship": "is planned to be attacked by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.4"
     }
   ],
 
-  "up_to": "Tangle 6.3"
+  "up_to": "Tangle 6.4"
 }
