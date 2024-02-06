@@ -327,6 +327,11 @@
           "value": "Skitter",
           "note": "Was named this by Gallant after the bank robbery and it caught on via Lung after his escape; she doesn't love it but can cope with it",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Ladybug",
+          "note": "Nickname used by Aisha",
+          "from": "Tangle 6.3"
         }
       ],
       "civilian_names": [
@@ -1143,7 +1148,12 @@
       "civilian_names": [
         {
           "value": "Brian",
-          "from": "Insinuation 2.6"
+          "from": "Insinuation 2.6",
+          "to": "Tangle 6.3"
+        },
+        {
+          "value": "Brian Laborn",
+          "from": "Tangle 6.3"
         }
       ],
       "pronouns": [
@@ -1203,7 +1213,7 @@
           "from": "Shell 4.2"
         },
         {
-          "value": "Parents split up when he was 13; Brian lived with his father",
+          "value": "Parents split up when he was 13; he lived with his father",
           "from": "Shell 4.4"
         },
         {
@@ -5723,6 +5733,24 @@
           "from": "Shell 4.4"
         }
       ],
+      "appearance": [
+        {
+          "value": "Similar eyes to Grue's",
+          "from": "Tangle 6.3"
+        },
+        {
+          "value": "Beautiful, as feminine as Grue was masculine, high cheekbones, long neck, breasts larger than Taylor's despite being two or three years younger, good legs, waist, and hips",
+          "from": "Tangle 6.3"
+        },
+        {
+          "value": "Streak of hair bleached, some of which dyed into a stripe of purple",
+          "from": "Tangle 6.3"
+        },
+        {
+          "value": "Looked as if she'd gone out of her way to look trashy",
+          "from": "Tangle 6.3"
+        }
+      ],
       "from": "Shell 4.4"
     },
     {
@@ -7412,6 +7440,39 @@
         }
       ],
       "from": "Tangle 6.1"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Mrs. Henderson",
+          "from": "Tangle 6.3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Tangle 6.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Caseworker",
+          "from": "Tangle 6.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Tangle 6.3"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Solid, heavyset black woman",
+          "from": "Tangle 6.3"
+        }
+      ],
+      "from": "Tangle 6.3"
     }
   ],
 
@@ -11265,9 +11326,37 @@
       "relationship": "is feeling increasingly lousy and ambivalent at the idea of betraying",
       "inv_relationship": "the idea of betraying them feels increasingly lousy and ambivalent to",
       "second": "Undersiders",
+      "from": "Tangle 6.2"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "visited the apartment of",
+      "inv_relationship": "was visited in his apartment by",
+      "second": "Grue",
+      "from": "Tangle 6.2"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "thinks she's a very different person to",
+      "inv_relationship": "is thought to be a very different person by",
+      "second": "Grue",
+      "from": "Tangle 6.3"
+    },
+    {
+      "first": "Mrs. Henderson",
+      "relationship": "is caseworker of",
+      "inv_relationship": "has caseworker",
+      "second": "Aisha",
+      "from": "Tangle 6.3"
+    },
+    {
+      "first": "Aisha",
+      "relationship": "knows about",
+      "inv_relationship": "are known about by",
+      "second": "Undersiders",
       "from": "Tangle 6.3"
     }
   ],
 
-  "up_to": "Tangle 6.2"
+  "up_to": "Tangle 6.3"
 }
