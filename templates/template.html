@@ -38,7 +38,7 @@
     <h2>Characters</h2>
 
     {% for character in character_objects if check_chapter(character, chapter_id, chapter_map) %}
-    <a id="{{ character.id }}" />
+    <a id="{{ character.id }}"></a>
     {% for state in character.state if check_chapter(state, chapter_id, chapter_map) %}
     {% if loop.first %}
     {% if state.value == "dead" %}
@@ -345,7 +345,7 @@
 
     <h2>Groups</h2>
     {% for group in group_objects if check_chapter(group, chapter_id, chapter_map) %}
-    <a id="{{ group.id }}" />
+    <a id="{{ group.id }}"></a>
     {% if "state" in group %}
     {% for state in group.state if check_chapter(state, chapter_id, chapter_map) %}
     {% if loop.first %}

@@ -363,7 +363,12 @@
         },
         {
           "value": "Headquarters of the Undersiders (secondary)",
-          "from": "Agitation 3.4"
+          "from": "Agitation 3.4",
+          "to": "Tangle 6.1"
+        },
+        {
+          "value": "Headquarters of the Undersiders",
+          "from": "Tangle 6.1"
         }
       ],
       "notes": [
@@ -421,6 +426,10 @@
         {
           "value": "Attractiveness somewhere between nerd and plain",
           "from": "Insinuation 2.7"
+        },
+        {
+          "value": "Her silhouette is hard to make out through her cloud of bugs",
+          "from": "Tangle 6.2"
         }
       ],
       "cape_costumes": [
@@ -840,6 +849,10 @@
         {
           "value": "Reached out to Bakuda when she was at Cornell",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Escaped arrest after being blinded by Skitter",
+          "from": "Tangle 6.2"
         }
       ],
       "parahuman_type": [
@@ -1158,6 +1171,10 @@
         {
           "value": "His own apartment",
           "from": "Insinuation 2.7"
+        },
+        {
+          "value": "Southeast end of downtown",
+          "from": "Tangle 6.2"
         }
       ],
       "notes": [
@@ -1228,6 +1245,22 @@
         {
           "value": "Two or three years older than Regent/Taylor",
           "from": "Agitation 3.2"
+        },
+        {
+          "value": "Hair (still in cornrows) forming long, loose ponytail",
+          "from": "Tangle 6.2"
+        },
+        {
+          "value": "Described as six foot, though this contradicts Taylor's earlier description",
+          "from": "Tangle 6.2"
+        },
+        {
+          "value": "Wide, genial smile; a smile that hid nothing, as honest and unguarded as you'd expect from a ten-year-old finding out he'd just unwrapped the exact gift he wanted for his birthday",
+          "from": "Tangle 6.2"
+        },
+        {
+          "value": "Broad shoulders",
+          "from": "Tangle 6.2"
         }
       ],
       "cape_costumes": [
@@ -1409,6 +1442,10 @@
         {
           "value": "A year older than Taylor",
           "from": "Agitation 3.4"
+        },
+        {
+          "value": "Doesn't do the relationship thing, because her power takes the mystery out of things when relationships are founded on self delusion and lies",
+          "from": "Tangle 6.2"
         }
       ],
       "parahuman_type": [
@@ -1469,8 +1506,8 @@
               "from": "Agitation 3.7"
             },
             {
-              "value": "Carries a gun",
-              "from": "Tangle 6.1"
+              "value": "Carries a small handgun",
+              "from": "Agitation 3.12"
             }
           ],
           "from": "Gestation 1.5"
@@ -8180,6 +8217,10 @@
         {
           "value": "Part of the fourth ABB raid",
           "from": "Tangle 6.1"
+        },
+        {
+          "value": "Makes front page in the local news",
+          "from": "Tangle 6.2"
         }
       ],
       "from": "Tangle 6.1"
@@ -8497,6 +8538,13 @@
       "relationship": "teaches at",
       "inv_relationship": "employs teacher",
       "second": "Winslow High School",
+      "from": "Insinuation 2.2"
+    },
+    {
+      "first": "Mrs. Knott",
+      "relationship": "teaches",
+      "inv_relationship": "is taught by",
+      "second": "Taylor",
       "from": "Insinuation 2.2"
     },
     {
@@ -9526,6 +9574,13 @@
       "relationship": "teaches at",
       "inv_relationship": "employs teacher",
       "second": "Winslow High School",
+      "from": "Shell 4.1"
+    },
+    {
+      "first": "Mr. Quinlan",
+      "relationship": "teaches",
+      "inv_relationship": "is taught by",
+      "second": "Taylor",
       "from": "Shell 4.1"
     },
     {
@@ -11139,7 +11194,7 @@
       "first": "Grue's ABB raid team",
       "relationship": "destroyed a barracks of",
       "inv_relationship": "had barracks destroyed by",
-      "second": "Grue's ABB raid team",
+      "second": "Azn Bad Boys",
       "from": "Tangle 6.1"
     },
     {
@@ -11204,8 +11259,15 @@
       "inv_relationship": "joined fourth raid on ABB with",
       "second": "Bitch",
       "from": "Tangle 6.1"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "is feeling increasingly lousy and ambivalent at the idea of betraying",
+      "inv_relationship": "the idea of betraying them feels increasingly lousy and ambivalent to",
+      "second": "Undersiders",
+      "from": "Tangle 6.3"
     }
   ],
 
-  "up_to": "Tangle 6.1"
+  "up_to": "Tangle 6.2"
 }
