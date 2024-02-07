@@ -3221,7 +3221,7 @@
       "cape_names": [
         {
           "value": "'the boss'",
-          "notes": "What they're referred to as to Taylor",
+          "note": "What they're referred to as to Taylor",
           "from": "Insinuation 2.6"
         }
       ],
@@ -4437,7 +4437,7 @@
         },
         {
           "value": "'the boss' ",
-          "notes": "What they were referred to as when anonymous to Taylor",
+          "note": "What they were referred to as when anonymous to Taylor",
           "from": "Tangle 6.7"
         }
       ],
@@ -4784,7 +4784,7 @@
         {
           "value": "Clock",
           "from": "Interlude 3",
-          "notes": "Affectionate nickname"
+          "note": "Affectionate nickname"
         }
       ],
       "pronouns": [
@@ -5024,7 +5024,7 @@
         {
           "value": "Kid",
           "from": "Interlude 3",
-          "notes": "Affectionate nickname"
+          "note": "Affectionate nickname"
         }
       ],
       "pronouns": [
