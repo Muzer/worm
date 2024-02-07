@@ -163,7 +163,11 @@ def main():
                 id_map=id_map,
                 book="Worm"
             )
-            with open(os.path.join("out", chapter_filename), "w", encoding="utf-8") as out:
+            with open(
+                os.path.join("out", chapter_filename),
+                "w",
+                encoding="utf-8"
+            ) as out:
                 out.write(content)
 
             prev_chapter = chapter
