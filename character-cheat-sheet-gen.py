@@ -49,22 +49,27 @@ def main():
     environment.globals.update(check_chapter=check_chapter)
     environment.globals.update(get_best_name=get_best_name)
     template = environment.get_template("template.html")
+    index = environment.get_template("index.html")
 
     with open("character-cheat-sheet.json", "r", encoding="utf-8") as fd:
         data = json.load(fd)
 
-        chapter_list = data["chapters"]
+        chapter_list = [
+            (book["name"], chapter) for book in data["books"]
+            for chapter in book["chapters"]
+        ]
         character_objects = data["characters"]
         group_objects = data["groups"]
         association_objects = data["associations"]
 
         assert len(chapter_list) == len(set(chapter_list)), "Duplicate chapter"
         chapter_map = {
-            chapter: i for i, chapter in enumerate(chapter_list)
+            chapter[1]: i for i, chapter in enumerate(chapter_list)
         }
         chapter_filenames = {
-            chapter:
-                chapter.replace(" ", "-").replace("#", "").lower() + ".html"
+            chapter[1]:
+                chapter[0].replace(" ", "-").replace("#", "").lower() + "-" +
+                chapter[1].replace(" ", "-").replace("#", "").lower() + ".html"
             for chapter in chapter_list
         }
 
@@ -140,18 +145,40 @@ def main():
                     new_assoc["to_soft"] = association["to_soft"]
                 obj["associations"] += [new_assoc]
 
+        index_content = index.render(
+            chapter_list=chapter_list,
+            character_objects=character_objects,
+            group_objects=group_objects,
+            association_objects=association_objects,
+            chapter_map=chapter_map,
+            chapter_filenames=chapter_filenames,
+            character_map=character_map,
+            group_map=group_map,
+            id_map=id_map
+        )
+        with open(
+            os.path.join("out", "index.html"),
+            "w",
+            encoding="utf-8"
+        ) as index_out:
+            index_out.write(index_content)
+
         prev_chapter = None
         for chapter in chapter_list:
-            chapter_id = chapter_map[chapter]
-            chapter_filename = chapter_filenames[chapter]
+            chapter_id = chapter_map[chapter[1]]
+            chapter_filename = chapter_filenames[chapter[1]]
+            next_chapter = None
             if chapter_id < len(chapter_list) - 1:
                 next_chapter = chapter_list[chapter_id + 1]
 
             content = template.render(
-                chapter=chapter,
+                book=chapter[0],
+                chapter=chapter[1],
                 chapter_id=chapter_id,
-                prev_chapter=prev_chapter,
-                next_chapter=next_chapter,
+                prev_book=None if prev_chapter is None else prev_chapter[0],
+                prev_chapter=None if prev_chapter is None else prev_chapter[1],
+                next_book=None if next_chapter is None else next_chapter[0],
+                next_chapter=None if next_chapter is None else next_chapter[1],
                 chapter_list=chapter_list,
                 character_objects=character_objects,
                 group_objects=group_objects,
@@ -160,8 +187,7 @@ def main():
                 chapter_filenames=chapter_filenames,
                 character_map=character_map,
                 group_map=group_map,
-                id_map=id_map,
-                book="Worm"
+                id_map=id_map
             )
             with open(
                 os.path.join("out", chapter_filename),

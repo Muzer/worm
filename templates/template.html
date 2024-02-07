@@ -19,7 +19,7 @@
       <ul>
         {% for each_chapter in chapter_list %}
         <li>
-          <a href="{{ chapter_filenames[each_chapter] }}">{{ each_chapter }}</a>
+          <a href="{{ chapter_filenames[each_chapter[1]] }}">{{ each_chapter[0] }}: {{ each_chapter[1] }}</a>
         </li>
         {% endfor %}
       </ul>

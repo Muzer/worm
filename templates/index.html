@@ -1,0 +1,22 @@
+{# templates/index.html #}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Character Cheat Sheet</title>
+  </head>
+  <body>
+    <h1>Character Cheat Sheet</h1>
+    <div id="chapter-list" style="display:block;">
+      <h2>Chapter list</h2>
+      <ul>
+        {% for each_chapter in chapter_list %}
+        <li>
+          <a href="{{ chapter_filenames[each_chapter[1]] }}">{{ each_chapter[0] }}: {{ each_chapter[1] }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </body>
+</html>
