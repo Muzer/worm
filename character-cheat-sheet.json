@@ -7738,12 +7738,24 @@
             {
               "value": "By touching an object can make it rocket off at a few hundred feet a second",
               "provenance": "Skitter",
-              "from": "Tangle 6.1"
+              "from": "Tangle 6.1",
+              "to": "Tangle 6.7"
+            },
+            {
+              "value": "By touching an object can make it rocket off at a few hundred feet a second",
+              "provenance": "Skitter, direct witness",
+              "from": "Tangle 6.7"
             },
             {
               "value": "Works on objects at least as small as ball bearings and at least as big as cars",
               "provenance": "Skitter",
-              "from": "Tangle 6.1"
+              "from": "Tangle 6.1",
+              "to": "Tangle 6.7"
+            },
+            {
+              "value": "Works on objects at least as small as ball bearings and at least as big as cars",
+              "provenance": "Skitter, direct witness",
+              "from": "Tangle 6.7"
             }
           ],
           "from": "Tangle 6.1"
