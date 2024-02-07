@@ -2034,7 +2034,18 @@
             {
               "value": "Other Halberd powers include ability to cut through steel like butter, plasma injectors, directed EMP",
               "provenance": "Taylor",
-              "from": "Gestation 1.6"
+              "from": "Gestation 1.6",
+              "to": "Tangle 6.5"
+            },
+            {
+              "value": "Other Halberd powers include ability to cut through steel like butter, plasma injectors",
+              "provenance": "Taylor",
+              "from": "Tangle 6.5"
+            },
+            {
+              "value": "Halberd can also shoot directed EMP blasts",
+              "provenance": "Taylor, direct witness",
+              "from": "Tangle 6.5"
             },
             {
               "value": "Has souped up his motorcycle",
@@ -4577,6 +4588,42 @@
           "from": "Agitation 3.2"
         }
       ],
+      "appearance": [
+        {
+          "value": "Big, muscular and tough",
+          "from": "Tangle 6.5"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Gladiator/lion",
+          "notes": [
+            {
+              "value": "Gold lion helm, shoulderpads and belt, and skintight suit",
+              "from": "Tangle 6.5"
+            }
+          ],
+          "from": "Tangle 6.5"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Sonic shout",
+          "notes": [
+            {
+              "value": "Sonic shout allows him to punch holes through concrete",
+              "provenance": "Taylor, direct witness",
+              "from": "Tangle 6.5"
+            },
+            {
+              "value": "Shockwaves can disorient and make you see double",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.5"
+            }
+          ],
+          "from": "Tangle 6.5"
+        }
+      ],
       "from": "Agitation 3.2"
     },
     {
@@ -5148,6 +5195,10 @@
             {
               "value": "White and dark gray, with cobalt blue lines tracing it like you might see on a circuit board",
               "from": "Hive 5.3"
+            },
+            {
+              "value": "Cobalt blue lines glow brilliant blue-white when charged",
+              "from": "Tangle 6.5"
             }
           ],
           "from": "Hive 5.3"
@@ -5160,12 +5211,24 @@
             {
               "value": "Charges powers while she stands still and concentrates",
               "provenance": "Taylor",
-              "from": "Hive 5.3"
+              "from": "Hive 5.3",
+              "to": "Tangle 6.5"
+            },
+            {
+              "value": "Charges powers while she stands still and concentrates",
+              "provenance": "Taylor, direct witness",
+              "from": "Tangle 6.5"
             },
             {
               "value": "Every second spent charging gives her a few seconds of greatly enhanced speed, some extra strength and some electromagnetic powers",
               "provenance": "Taylor",
-              "from": "Hive 5.3"
+              "from": "Hive 5.3",
+              "to": "Tangle 6.5"
+            },
+            {
+              "value": "Every second spent charging gives her a few seconds of greatly enhanced speed, some extra strength and some electromagnetic powers",
+              "provenance": "Taylor, direct witness",
+              "from": "Tangle 6.5"
             }
           ],
           "from": "Hive 5.3"
@@ -5202,6 +5265,24 @@
         {
           "value": "hero",
           "from": "Agitation 3.5"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Kinetic energy manipulator",
+          "notes": [
+            {
+              "value": "Can control energies of movement, acceleration, and motion like other capes can manipulate flame or electricity",
+              "provenance": "Taylor, direct witness",
+              "from": "Tangle 6.5"
+            },
+            {
+              "value": "Can use energy from others applying force to him to move in directions he wishes",
+              "provenance": "Taylor, direct witness",
+              "from": "Tangle 6.5"
+            }
+          ],
+          "from": "Tangle 6.5"
         }
       ],
       "from": "Agitation 3.5"
@@ -8025,6 +8106,10 @@
         {
           "value": "Wards East-North-East HQ based in the Brockton Bay office",
           "from": "Interlude 3"
+        },
+        {
+          "value": "Are equipped with standard issue 'containment foam'; tinker-designed nonlethal weaponry designed to subdue supervillains. Ejected as a liquid before expanding into sticky foam; flexible and porous, impact-resistant, disables all but the strongest villains, resistance to high temperatures and strong insulator",
+          "from": "Tangle 6.5"
         }
       ],
       "from": "Interlude 3"
@@ -8340,6 +8425,10 @@
         {
           "value": "Brockton Bay",
           "from": "Tangle 6.4"
+        },
+        {
+          "value": "Forsberg Gallery",
+          "from": "Tangle 6.5"
         }
       ],
       "notes": [
@@ -8416,7 +8505,8 @@
       "relationship": "leads",
       "inv_relationship": "is led by",
       "second": "Azn Bad Boys",
-      "from": "Shell 4.11"
+      "from": "Shell 4.11",
+      "to_soft": "Tangle 6.4"
     },
     {
       "first": "Oni Lee",
@@ -8985,7 +9075,8 @@
       "relationship": "is in territorial dispute with",
       "inv_relationship": "is in territorial dispute with",
       "second": "Empire Eighty-Eight",
-      "from": "Interlude 2"
+      "from": "Interlude 2",
+      "to_soft": "Tangle 6.4"
     },
     {
       "first": "Panacea",
@@ -9875,7 +9966,8 @@
       "relationship": "has priority target",
       "inv_relationship": "is targeted with priority by",
       "second": "Azn Bad Boys",
-      "from": "Interlude 3½ (Bonus)"
+      "from": "Interlude 3½ (Bonus)",
+      "to_soft": "Tangle 6.4"
     },
     {
       "first": "Purity",
@@ -9973,7 +10065,8 @@
       "relationship": "intends to eliminate",
       "inv_relationship": "is intended to be eliminated by",
       "second": "Azn Bad Boys",
-      "from": "Interlude 3½ (Bonus)"
+      "from": "Interlude 3½ (Bonus)",
+      "to_soft": "Tangle 6.4"
     },
     {
       "first": "Bakuda",
@@ -10527,7 +10620,8 @@
       "relationship": "is at the centre of the dangerous rise of",
       "inv_relationship": "has its recent rise attributed to",
       "second": "Azn Bad Boys",
-      "from": "Hive 5.1"
+      "from": "Hive 5.1",
+      "to_soft": "Tangle 6.4"
     },
     {
       "first": "Grue",
@@ -10541,7 +10635,8 @@
       "relationship": "agreed truce to fight",
       "inv_relationship": "is up against an agreed truce between attendees of",
       "second": "Azn Bad Boys",
-      "from": "Hive 5.1"
+      "from": "Hive 5.1",
+      "to_soft": "Tangle 6.4"
     },
     {
       "first": "Hookwolf",
@@ -11467,54 +11562,57 @@
       "relationship": "will attend",
       "inv_relationship": "will be attended by",
       "second": "Brockton Bay fundraiser",
-      "from": "Tangle 6.4"
+      "from": "Tangle 6.4",
+      "to": "Tangle 6.5"
     },
     {
       "first": "Wards East-North-East",
       "relationship": "will attend",
       "inv_relationship": "will be attended by",
       "second": "Brockton Bay fundraiser",
-      "from": "Tangle 6.4"
+      "from": "Tangle 6.4",
+      "to": "Tangle 6.5"
     },
     {
       "first": "Parahuman Response Team",
       "relationship": "will attend",
       "inv_relationship": "will be attended by",
       "second": "Brockton Bay fundraiser",
-      "from": "Tangle 6.4"
+      "from": "Tangle 6.4",
+      "to": "Tangle 6.5"
     },
     {
       "first": "Tattletale",
-      "relationship": "votes for attacking",
-      "inv_relationship": "is voted for attacking by",
+      "relationship": "voted for attacking",
+      "inv_relationship": "was voted for attacking by",
       "second": "Brockton Bay fundraiser",
       "from": "Tangle 6.4"
     },
     {
       "first": "Regent",
-      "relationship": "votes for attacking",
-      "inv_relationship": "is voted for attacking by",
+      "relationship": "voted for attacking",
+      "inv_relationship": "was voted for attacking by",
       "second": "Brockton Bay fundraiser",
       "from": "Tangle 6.4"
     },
     {
       "first": "Skitter",
-      "relationship": "votes for attacking",
-      "inv_relationship": "is voted for attacking by",
+      "relationship": "voted for attacking",
+      "inv_relationship": "was voted for attacking by",
       "second": "Brockton Bay fundraiser",
       "from": "Tangle 6.4"
     },
     {
       "first": "Bitch",
-      "relationship": "votes for attacking",
-      "inv_relationship": "is voted for attacking by",
+      "relationship": "voted for attacking",
+      "inv_relationship": "was voted for attacking by",
       "second": "Brockton Bay fundraiser",
       "from": "Tangle 6.4"
     },
     {
       "first": "Grue",
-      "relationship": "votes against attacking",
-      "inv_relationship": "is voted against attacking by",
+      "relationship": "voted against attacking",
+      "inv_relationship": "was voted against attacking by",
       "second": "Brockton Bay fundraiser",
       "from": "Tangle 6.4"
     },
@@ -11523,9 +11621,206 @@
       "relationship": "plan to attack",
       "inv_relationship": "is planned to be attacked by",
       "second": "Brockton Bay fundraiser",
-      "from": "Tangle 6.4"
+      "from": "Tangle 6.4",
+      "to": "Tangle 6.5"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "jumped through the roof of",
+      "inv_relationship": "was jumped through the roof of by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "attacked",
+      "inv_relationship": "was attacked by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Protectorate East-North-East",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Assault",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Battery",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Velocity",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Triumph",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Dauntless",
+      "relationship": "did not attend",
+      "inv_relationship": "was not attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Wards East-North-East",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Vista",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Gallant",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Glory Girl",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Parahuman Response Team",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Emma Barnes",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Alan Barnes",
+      "relationship": "attended",
+      "inv_relationship": "was attended by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "covered in containment foam",
+      "inv_relationship": "was covered in containment foam by",
+      "second": "Glory Girl",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Grue",
+      "relationship": "covered in containment foam",
+      "inv_relationship": "was covered in containment foam by",
+      "second": "Clockblocker",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "covered in containment foam",
+      "inv_relationship": "was covered in containment foam by",
+      "second": "Shadow Stalker",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "covered in containment foam",
+      "inv_relationship": "was covered in containment foam by",
+      "second": "Shadow Stalker",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Grue",
+      "relationship": "covered in containment foam",
+      "inv_relationship": "was covered in containment foam by",
+      "second": "Assault",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "covered in containment foam",
+      "inv_relationship": "was covered in containment foam by",
+      "second": "Battery",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Brutus",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Triumph",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "has studied the powers of",
+      "inv_relationship": "have had powers studied by",
+      "second": "Undersiders",
+      "from": "Tangle 6.5"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "took hostage",
+      "inv_relationship": "was taken hostage by",
+      "second": "Regent",
+      "from": "Tangle 6.5"
     }
   ],
 
-  "up_to": "Tangle 6.4"
+  "up_to": "Tangle 6.5"
 }
