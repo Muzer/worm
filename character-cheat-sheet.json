@@ -354,7 +354,12 @@
       "occupations": [
         {
           "value": "School student",
-          "from": "Gestation 1.1"
+          "from": "Gestation 1.1",
+          "to_soft": "Tangle 6.9"
+        },
+        {
+          "value": "Villain team member",
+          "from": "Tangle 6.9"
         }
       ],
       "based_in": [
@@ -363,8 +368,9 @@
           "from": "Gestation 1.2"
         },
         {
-          "value": "A house on the outskirts of the Docks with Danny Hebert",
-          "from": "Insinuation 2.7"
+          "value": "A house on the outskirts of the Docks",
+          "from": "Insinuation 2.7",
+          "to_soft": "Tangle 6.9"
         },
         {
           "value": "Headquarters of the Undersiders (secondary)",
@@ -396,6 +402,14 @@
         {
           "value": "Is freaked out by drugs",
           "from": "Hive 5.8"
+        },
+        {
+          "value": "Has earned nearly $280,000 of illegitimate money",
+          "from": "Tangle 6.9"
+        },
+        {
+          "value": "Admits to herself she joined the Undersiders because she was lonely",
+          "from": "Tangle 6.9"
         }
       ],
       "parahuman_type": [
@@ -407,12 +421,23 @@
         {
           "value": "hero",
           "note": "In her own head, and as presented to Armsmaster",
-          "from": "Interlude 3"
+          "from": "Interlude 3",
+          "to": "Tangle 6.9"
+        },
+        {
+          "value": "hero",
+          "from": "Tangle 6.9",
+          "to_soft": "Tangle 6.9"
         },
         {
           "value": "villain",
           "note": "To the rest of the world",
-          "from": "Interlude 3"
+          "from": "Interlude 3",
+          "to": "Tangle 6.9"
+        },
+        {
+          "value": "villain",
+          "from": "Tangle 6.9"
         }
       ],
       "appearance": [
@@ -806,6 +831,10 @@
         {
           "value": "Lung",
           "from": "Gestation 1.3"
+        },
+        {
+          "value": "Prisoner 599",
+          "from": "Interlude 6"
         }
       ],
       "pronouns": [
@@ -817,13 +846,27 @@
       "occupations": [
         {
           "value": "Gang leader",
-          "from": "Gestation 1.3"
+          "from": "Gestation 1.3",
+          "to_soft": "Interlude 6"
+        },
+        {
+          "value": "Prison inmate",
+          "from": "Interlude 6"
         }
       ],
       "based_in": [
         {
           "value": "Brockton Bay",
-          "from": "Gestation 1.3"
+          "from": "Gestation 1.3",
+          "to_soft": "Interlude 6"
+        },
+        {
+          "value": "Baumann Parahuman Containment Center",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Cell Block W",
+          "from": "Interlude 6"
         }
       ],
       "notes": [
@@ -866,12 +909,30 @@
         {
           "value": "Brought into custody",
           "from": "Tangle 6.4"
+        },
+        {
+          "value": "Chance of escape from Baumann Parahuman Containment Center 0.000041%",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Half Japanese, half Chinese",
+          "from": "Interlude 6"
         }
       ],
       "parahuman_type": [
         {
           "value": "villain",
           "from": "Gestation 1.3"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Brute 4-9*",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Blaster 2-6* (fire and heat only)",
+          "from": "Interlude 6"
         }
       ],
       "appearance": [
@@ -882,6 +943,14 @@
         {
           "value": "Sprawling tattoos from the neck down depicting Eastern dragons",
           "from": "Gestation 1.3"
+        },
+        {
+          "value": "Tattoos also depict red and green flames",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Asian",
+          "from": "Interlude 6"
         }
       ],
       "cape_costumes": [
@@ -1813,6 +1882,11 @@
               "value": "Has extra ability to understand dogs by their body language and tone, at the expense of her ability to understand people by theirs",
               "provenance": "Taylor and Tattletale's power",
               "from": "Hive 5.10"
+            },
+            {
+              "value": "When returning to normal, outer bits of the dogs are shed and the ordinary dog is eventually revealed nested deep within",
+              "provenance": "Taylor",
+              "from": "Tangle 6.8"
             }
           ],
           "from": "Gestation 1.5"
@@ -1859,6 +1933,18 @@
         {
           "value": "Dropped out of school",
           "from": "Agitation 3.1"
+        },
+        {
+          "value": "Grew up wanting for nothing",
+          "from": "Tangle 6.8"
+        },
+        {
+          "value": "Previously went under a different cape name elsewhere",
+          "from": "Tangle 6.8"
+        },
+        {
+          "value": "Went out of his way to get out from under the thumb of his father",
+          "from": "Tangle 6.8"
         }
       ],
       "parahuman_type": [
@@ -1988,7 +2074,12 @@
       "prt_classification": [
         {
           "value": "Tinker (likely)",
-          "from": "Gestation 1.6"
+          "from": "Gestation 1.6",
+          "to": "Tangle 6.6"
+        },
+        {
+          "value": "Tinker",
+          "from": "Tangle 6.6"
         }
       ],
       "appearance": [
@@ -2108,6 +2199,16 @@
         {
           "value": "Bakuda",
           "from": "Gestation 1.6"
+        },
+        {
+          "value": "Prisoner 600",
+          "from": "Interlude 6"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Interlude 6"
         }
       ],
       "pronouns": [
@@ -2124,7 +2225,22 @@
         },
         {
           "value": "Gang leader",
-          "from": "Shell 4.6"
+          "from": "Shell 4.6",
+          "to_soft": "Shell 4.9"
+        },
+        {
+          "value": "Pretend gang leader",
+          "from": "Shell 4.9",
+          "to_soft": "Shell 4.11"
+        },
+        {
+          "value": "Gang leader's flunky",
+          "from": "Shell 4.11",
+          "to_soft": "Interlude 6"
+        },
+        {
+          "value": "Prison inmate",
+          "from": "Interlude 6"
         }
       ],
       "based_in": [
@@ -2135,7 +2251,16 @@
         },
         {
           "value": "Brockton Bay",
-          "from": "Gestation 1.6"
+          "from": "Gestation 1.6",
+          "to_soft": "Interlude 6"
+        },
+        {
+          "value": "Baumann Parahuman Containment Center",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Cell Block C",
+          "from": "Interlude 6"
         }
       ],
       "notes": [
@@ -2178,6 +2303,18 @@
         {
           "value": "Brought into custody",
           "from": "Tangle 6.4"
+        },
+        {
+          "value": "Hint of a nasal Boston accent",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Killed around fifty people before being captured; injured more, gave some brain damage, and froze others in time",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Chance of escape from Baumann Parahuman Containment Center 0.000126% or 0.000061% with monitoring",
+          "from": "Interlude 6"
         }
       ],
       "parahuman_type": [
@@ -2189,7 +2326,12 @@
       "prt_classification": [
         {
           "value": "Tinker",
-          "from": "Gestation 1.6"
+          "from": "Gestation 1.6",
+          "to": "Interlude 6"
+        },
+        {
+          "value": "Tinker 6 with bomb specialty",
+          "from": "Interlude 6"
         }
       ],
       "appearance": [
@@ -2199,7 +2341,16 @@
         },
         {
           "value": "Age and ethnicity hard to pinpoint from available photo",
-          "from": "Insinuation 2.2"
+          "from": "Insinuation 2.2",
+          "to": "Interlude 6"
+        },
+        {
+          "value": "About Canary's age",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Asian cast to her features, but with very pale blue eyes",
+          "from": "Interlude 6"
         }
       ],
       "cape_costumes": [
@@ -2334,6 +2485,26 @@
               "value": "Produced gluey string grenades",
               "provenance": "Direct witness",
               "from": "Shell 4.11"
+            },
+            {
+              "value": "Built a nine megaton superbomb that had a powerful enough EMP to wipe every hard drive and fry every circuit board for a fifth of America",
+              "provenance": "Her own statement",
+              "from": "Interlude 6"
+            },
+            {
+              "value": "Is able to understand triggers and catalysts in mechanisms built by other people",
+              "provenance": "Her own statement",
+              "from": "Interlude 6"
+            },
+            {
+              "value": "Builds a sedative bomb out of the contents of a prison truck",
+              "provenance": "Direct witness",
+              "from": "Interlude 6"
+            },
+            {
+              "value": "Can fix televisions",
+              "provenance": "Her own statement",
+              "from": "Interlude 6"
             }
           ],
           "from": "Gestation 1.6"
@@ -2358,6 +2529,12 @@
             }
           ],
           "from": "Shell 4.9"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Attacked by Lung after she failed him, in order that he can get a reputation as an unpredictable killer and thus avoid harm in prison",
+          "from": "Interlude 6"
         }
       ],
       "from": "Gestation 1.6"
@@ -2609,7 +2786,7 @@
           "from": "Interlude 1"
         },
         {
-          "value": "A house on the outskirts of the Docks with Taylor",
+          "value": "A house on the outskirts of the Docks",
           "from": "Insinuation 2.7"
         }
       ],
@@ -2678,6 +2855,10 @@
         {
           "value": "Car accident",
           "from": "Insinuation 2.4"
+        },
+        {
+          "value": "Use of a phone while driving",
+          "from": "Tangle 6.9"
         }
       ],
       "appearance": [
@@ -2903,6 +3084,12 @@
         {
           "value": "villain",
           "from": "Insinuation 2.1"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Tinker",
+          "from": "Shell 4.6"
         }
       ],
       "appearance": [
@@ -4488,6 +4675,18 @@
         {
           "value": "Was anonymous to the Undersiders, except Tattletale, with whom he'd made a deal, until after the fundraiser disruption",
           "from": "Tangle 6.7"
+        },
+        {
+          "value": "Wants to take over Brockton Bay",
+          "from": "Tangle 6.8"
+        },
+        {
+          "value": "Has been purchasing properties throughout the Docks",
+          "from": "Tangle 6.8"
+        },
+        {
+          "value": "Bought two of the three mayoral candidates of Brockton Bay; will make similar plays for the council election",
+          "from": "Tangle 6.8"
         }
       ],
       "appearance": [
@@ -4516,6 +4715,24 @@
         {
           "value": "villain",
           "from": "Interlude 2"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Control destinies",
+          "notes": [
+            {
+              "value": "Controls destinies, decides outcomes",
+              "provenance": "His own statement, confirmed by Tattletale",
+              "from": "Tangle 6.8"
+            },
+            {
+              "value": "Demonstrates by throwing coins to people and having them all come up heads",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.8"
+            }
+          ],
+          "from": "Tangle 6.8"
         }
       ],
       "from": "Interlude 2"
@@ -7897,6 +8114,353 @@
         }
       ],
       "from": "Tangle 6.7"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "The Number Man",
+          "from": "Tangle 6.8"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Banker",
+          "from": "Tangle 6.8"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Tangle 6.8"
+        }
+      ],
+      "from": "Tangle 6.8"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Canary",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Prisoner 601",
+          "from": "Interlude 6"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Paige Mcabee",
+          "from": "Interlude 6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Professional singer",
+          "from": "Interlude 6",
+          "to_soft": "Interlude 6"
+        },
+        {
+          "value": "Prison inmate",
+          "from": "Interlude 6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Massachusetts",
+          "from": "Interlude 6",
+          "to_soft": "Interlude 6"
+        },
+        {
+          "value": "Baumann Parahuman Containment Center",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Cell Block E",
+          "from": "Interlude 6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Has PoV Interlude",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Cleared of attempted murder, but guilty of aggravated assault with a parahuman ability and sexual assault with a parahuman ability",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "First demonstrated powers in early 2009",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Was a successful professional singer, in talks over record deals",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "After her biggest show yet, was confronted backstage by her ex who wanted half the money as he'd pushed her to get on stage, despite him cheating on her and told her she was never going to make it",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "She told him to go fuck himself, which he promptly did",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Chance of escape from Baumann Parahuman Containment Center 0.000025%",
+          "from": "Interlude 6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "rogue",
+          "from": "Interlude 6"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Master 8",
+          "from": "Interlude 6"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "All hair on her body the vibrant and startling yellow of a lemon; powers caused this",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Has feathers sticking out of her scalp, same shade as her hair; powers caused this",
+          "from": "Interlude 6"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Singing",
+          "notes": [
+            {
+              "value": "Can sing really well",
+              "provenance": "PoV",
+              "from": "Interlude 6"
+            },
+            {
+              "value": "Her singing makes people feel good; she can affect them, alter their emotions, and make them susceptible to following instructions",
+              "provenance": "PoV",
+              "from": "Interlude 6"
+            },
+            {
+              "value": "Her powers caused a change in her appearance (yellow hair, feathers)",
+              "provenance": "PoV",
+              "from": "Interlude 6"
+            }
+          ],
+          "from": "Interlude 6"
+        }
+      ],
+      "from": "Interlude 6"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Peter Regan",
+          "from": "Interlude 6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Judge",
+          "from": "Interlude 6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Massachusetts",
+          "from": "Interlude 6"
+        }
+      ],
+      "from": "Interlude 6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Dragon",
+          "from": "Interlude 6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Prison manager",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Producer of tinker tech for PRT",
+          "from": "Interlude 6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Canada",
+          "from": "Interlude 6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Newfoundland accent",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Best tinker in the world, according to Bakuda",
+          "from": "Interlude 6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Interlude 6"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Tinker",
+          "from": "Interlude 6"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Tinker",
+          "notes": [
+            {
+              "value": "Designed the Birdcage, containment foam among other PRT gear",
+              "provenance": "Canary",
+              "from": "Interlude 6"
+            },
+            {
+              "value": "Designs power armour, sporting a wildly different suit each time she deploys",
+              "provenance": "Canary",
+              "from": "Interlude 6"
+            }
+          ],
+          "from": "Interlude 6"
+        }
+      ],
+      "from": "Interlude 6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Lustrum",
+          "from": "Interlude 6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Prison inmate/cell block leader",
+          "from": "Interlude 6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Baumann Parahuman Containment Center",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Cell Block E",
+          "from": "Interlude 6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Pretty extreme feminist and misandrist",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Protects the girls in her block",
+          "from": "Interlude 6"
+        }
+      ],
+      "from": "Interlude 6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Marquis",
+          "from": "Interlude 6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Interlude 6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Prison inmate/cell block leader",
+          "from": "Interlude 6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 6",
+          "to_soft": "Interlude 6"
+        },
+        {
+          "value": "Baumann Parahuman Containment Center",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Cell Block W",
+          "from": "Interlude 6"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Divvies up cigarettes from food crates fairly",
+          "from": "Interlude 6"
+        }
+      ],
+      "from": "Interlude 6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Glaistig Uaine",
+          "from": "Interlude 6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Prison inmate/cell block leader",
+          "from": "Interlude 6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Baumann Parahuman Containment Center",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Cell Block C",
+          "from": "Interlude 6"
+        }
+      ],
+      "from": "Interlude 6"
     }
   ],
 
@@ -8250,12 +8814,24 @@
         {
           "value": "Primarily a family team",
           "from": "Interlude 2"
+        },
+        {
+          "value": "Powerful but controversial, with less public trust than the Protectorate",
+          "from": "Tangle 6.8"
         }
       ],
       "from": "Insinuation 2.2"
     },
     {
       "names": [
+        {
+          "value": "Baumann Parahuman Containment Center",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Baumann Detention Center",
+          "from": "Interlude 6"
+        },
         {
           "value": "Birdcage",
           "from": "Insinuation 2.2"
@@ -8265,6 +8841,10 @@
         {
           "value": "British Columbia",
           "from": "Hive 5.2"
+        },
+        {
+          "value": "A hollowed out mountain",
+          "from": "Interlude 6"
         }
       ],
       "notes": [
@@ -8275,6 +8855,42 @@
         {
           "value": "A prison without wardens, no communication with the outside world, no escapees, houses all the worst and most powerful villains ever captured, nobody knows who's still alive in there",
           "from": "Agitation 3.12"
+        },
+        {
+          "value": "Dragon had to design an AI to put it together",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Walls of the mountain lined with layers of a ceramic of Dragon's design, layers separated by dormant containment foam",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Prison nicknamed Birdcage because it is suspended in the centre of the empty mountain, hanging by the network of tubes that supply food",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Interior of tubes and interior of mountain are vacuums",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Three thousand antigrav drones lying dormant in the vacuum which wait for signals, motion, energy, or air leakage to awaken, after which they move to the source and detonate; some containing containment foam and others containing countermeasures for vacuum traversal methods, others still being lethal",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Dragon retains control of the structure and ability to observe those within, for responding to emergencies, but will not and cannot intervene in hostage taking or damage to resources; prisoners police themselves",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Internal walls metal of some sort painted dark blue",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Like the Mona Lisa of architecture, according to Bakuda",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Birdcage built deliberately fragile, so that if the outer wall is breached other walls will collapse and seal off small sections from the outside",
+          "from": "Interlude 6"
         }
       ],
       "from": "Insinuation 2.2"
@@ -8486,14 +9102,14 @@
     {
       "names": [
         {
+          "value": "Merchants",
+          "from": "Hive 5.5"
+        },
+        {
           "value": "Skidmark's villain team",
           "from": "Hive 5.1",
           "to": "Hive 5.5",
           "note": "Not official name"
-        },
-        {
-          "value": "Merchants",
-          "from": "Hive 5.5"
         }
       ],
       "based_in": [
@@ -8527,6 +9143,10 @@
         {
           "value": "After ABB defeat, trying to do what they did but with local drugheads and hobos and zero control over the situation",
           "from": "Tangle 6.4"
+        },
+        {
+          "value": "Too weak and self-centred to make a serious play for power",
+          "from": "Tangle 6.8"
         }
       ],
       "from": "Hive 5.1"
@@ -8756,6 +9376,12 @@
           "from": "Tangle 6.4"
         }
       ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Tangle 6.7"
+        }
+      ],
       "based_in": [
         {
           "value": "Brockton Bay",
@@ -8773,6 +9399,63 @@
         }
       ],
       "from": "Tangle 6.4"
+    },
+    {
+      "names": [
+        {
+          "value": "Cell Block W",
+          "from": "Interlude 6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "British Columbia",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Baumann Parahuman Containment Center",
+          "from": "Interlude 6"
+        }
+      ],
+      "from": "Interlude 6"
+    },
+    {
+      "names": [
+        {
+          "value": "Cell Block C",
+          "from": "Interlude 6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "British Columbia",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Baumann Parahuman Containment Center",
+          "from": "Interlude 6"
+        }
+      ],
+      "from": "Interlude 6"
+    },
+    {
+      "names": [
+        {
+          "value": "Cell Block E",
+          "from": "Interlude 6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "British Columbia",
+          "from": "Interlude 6"
+        },
+        {
+          "value": "Baumann Parahuman Containment Center",
+          "from": "Interlude 6"
+        }
+      ],
+      "from": "Interlude 6"
     }
   ],
 
@@ -8817,7 +9500,8 @@
       "relationship": "teaches",
       "inv_relationship": "is taught by",
       "second": "Taylor",
-      "from": "Gestation 1.1"
+      "from": "Gestation 1.1",
+      "to_soft": "Tangle 6.9"
     },
     {
       "first": "Sophia",
@@ -8848,7 +9532,16 @@
       "relationship": "is flunky of",
       "inv_relationship": "has flunky",
       "second": "Lung",
-      "from": "Gestation 1.3"
+      "from": "Gestation 1.3",
+      "to_soft": "Interlude 6"
+    },
+    {
+      "first": "Oni Lee",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Azn Bad Boys",
+      "from": "Gestation 1.3",
+      "to_soft": "Tangle 6.4"
     },
     {
       "first": "Grue",
@@ -8948,7 +9641,24 @@
       "relationship": "is flunky of",
       "inv_relationship": "has flunky",
       "second": "Lung",
-      "from": "Shell 4.11"
+      "from": "Shell 4.11",
+      "to_soft": "Interlude 6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Azn Bad Boys",
+      "from": "Gestation 1.6",
+      "to": "Shell 4.6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Azn Bad Boys",
+      "from": "Shell 4.11",
+      "to_soft": "Tangle 6.4"
     },
     {
       "first": "New York Protectorate",
@@ -9004,7 +9714,8 @@
       "relationship": "lives with",
       "inv_relationship": "lives with",
       "second": "Taylor",
-      "from": "Interlude 1"
+      "from": "Interlude 1",
+      "to_soft": "Tangle 6.9"
     },
     {
       "first": "Danny Hebert",
@@ -9053,7 +9764,8 @@
       "relationship": "attends",
       "inv_relationship": "is attended by",
       "second": "Winslow High School",
-      "from": "Insinuation 2.2"
+      "from": "Insinuation 2.2",
+      "to_soft": "Tangle 6.9"
     },
     {
       "first": "Sophia",
@@ -9095,7 +9807,8 @@
       "relationship": "teaches",
       "inv_relationship": "is taught by",
       "second": "Taylor",
-      "from": "Insinuation 2.2"
+      "from": "Insinuation 2.2",
+      "to_soft": "Tangle 6.9"
     },
     {
       "first": "Armsmaster",
@@ -9109,7 +9822,8 @@
       "relationship": "is expected to be sent to",
       "inv_relationship": "is expected to admit",
       "second": "Birdcage",
-      "from": "Agitation 3.6"
+      "from": "Insinuation 2.3",
+      "to": "Agitation 3.6"
     },
     {
       "first": "Sparky",
@@ -9250,7 +9964,8 @@
       "relationship": "plans on betraying",
       "inv_relationship": "is planned to be betrayed by",
       "second": "Undersiders",
-      "from": "Insinuation 2.6"
+      "from": "Insinuation 2.6",
+      "to_soft": "Tangle 6.9"
     },
     {
       "first": "Tattletale",
@@ -9632,7 +10347,8 @@
       "relationship": "will be sent to",
       "inv_relationship": "will admit",
       "second": "Birdcage",
-      "from": "Agitation 3.6"
+      "from": "Agitation 3.6",
+      "to": "Interlude 6"
     },
     {
       "first": "Über",
@@ -10157,7 +10873,8 @@
       "relationship": "teaches at",
       "inv_relationship": "employs teacher",
       "second": "Winslow High School",
-      "from": "Shell 4.1"
+      "from": "Shell 4.1",
+      "to_soft": "Tangle 6.9"
     },
     {
       "first": "Mr. Quinlan",
@@ -11139,7 +11856,7 @@
       "first": "Taylor",
       "relationship": "at the mall, punched",
       "inv_relationship": "at the mall, was punched by",
-      "second": "Alan Barnes",
+      "second": "Emma Barnes",
       "from": "Hive 5.3"
     },
     {
@@ -11220,13 +11937,6 @@
       "from": "Hive 5.4"
     },
     {
-      "first": "Winslow High School",
-      "relationship": "utterly failed in bullying meeting to help",
-      "inv_relationship": "was utterly failed in bullying meeting by",
-      "second": "Taylor Hebert",
-      "from": "Hive 5.4"
-    },
-    {
       "first": "Coil",
       "relationship": "hired (to deal with ABB)",
       "inv_relationship": "were hired (to deal with ABB) by",
@@ -11238,14 +11948,16 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Kaiser's ABB raid team",
-      "from": "Hive 5.5"
+      "from": "Hive 5.5",
+      "to_soft": "Interlude 5"
     },
     {
       "first": "Bitch",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Kaiser's ABB raid team",
-      "from": "Hive 5.5"
+      "from": "Hive 5.5",
+      "to_soft": "Interlude 5"
     },
     {
       "first": "Tattletale",
@@ -11301,63 +12013,72 @@
       "relationship": "leads",
       "inv_relationship": "is led by",
       "second": "Kaiser's ABB raid team",
-      "from": "Hive 5.5"
+      "from": "Hive 5.5",
+      "to_soft": "Interlude 5"
     },
     {
       "first": "Fenja",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Kaiser's ABB raid team",
-      "from": "Hive 5.5"
+      "from": "Hive 5.5",
+      "to_soft": "Interlude 5"
     },
     {
       "first": "Menja",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Kaiser's ABB raid team",
-      "from": "Hive 5.5"
+      "from": "Hive 5.5",
+      "to_soft": "Interlude 5"
     },
     {
       "first": "Newter",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Kaiser's ABB raid team",
-      "from": "Hive 5.5"
+      "from": "Hive 5.5",
+      "to_soft": "Interlude 5"
     },
     {
       "first": "Labyrinth",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Kaiser's ABB raid team",
-      "from": "Hive 5.5"
+      "from": "Hive 5.5",
+      "to_soft": "Interlude 5"
     },
     {
       "first": "Brutus",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Kaiser's ABB raid team",
-      "from": "Hive 5.5"
+      "from": "Hive 5.5",
+      "to_soft": "Interlude 5"
     },
     {
       "first": "Judas",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Kaiser's ABB raid team",
-      "from": "Hive 5.5"
+      "from": "Hive 5.5",
+      "to_soft": "Interlude 5"
     },
     {
       "first": "Angelica",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Kaiser's ABB raid team",
-      "from": "Hive 5.5"
+      "from": "Hive 5.5",
+      "to_soft": "Interlude 5"
     },
     {
       "first": "Sundancer",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Kaiser's ABB raid team",
-      "from": "Hive 5.5"
+      "from": "Hive 5.5",
+      "to_soft": "Interlude 5"
     },
     {
       "first": "Sundancer",
@@ -11753,36 +12474,36 @@
     },
     {
       "first": "Grue",
-      "relationship": "leads",
-      "inv_relationship": "is led by",
+      "relationship": "led",
+      "inv_relationship": "was led by",
       "second": "Grue's ABB raid team",
       "from": "Tangle 6.1"
     },
     {
       "first": "Skitter",
-      "relationship": "is member of",
-      "inv_relationship": "has member",
+      "relationship": "was member of",
+      "inv_relationship": "had member",
       "second": "Grue's ABB raid team",
       "from": "Tangle 6.1"
     },
     {
       "first": "Tattletale",
-      "relationship": "is member of",
-      "inv_relationship": "has member",
+      "relationship": "was member of",
+      "inv_relationship": "had member",
       "second": "Grue's ABB raid team",
       "from": "Tangle 6.1"
     },
     {
       "first": "Spitfire",
-      "relationship": "is member of",
-      "inv_relationship": "has member",
+      "relationship": "was member of",
+      "inv_relationship": "had member",
       "second": "Grue's ABB raid team",
       "from": "Tangle 6.1"
     },
     {
       "first": "Gregor the Snail",
-      "relationship": "is member of",
-      "inv_relationship": "has member",
+      "relationship": "was member of",
+      "inv_relationship": "had member",
       "second": "Grue's ABB raid team",
       "from": "Tangle 6.1"
     },
@@ -11868,6 +12589,14 @@
       "relationship": "is feeling increasingly lousy and ambivalent at the idea of betraying",
       "inv_relationship": "the idea of betraying them feels increasingly lousy and ambivalent to",
       "second": "Undersiders",
+      "from": "Tangle 6.2",
+      "to": "Tangle 6.9"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "Tattletale thinks has mutual romantic feelings for",
+      "inv_relationship": "Tattletale thinks has mutual romantic feelings for",
+      "second": "Grue",
       "from": "Tangle 6.2"
     },
     {
@@ -12384,8 +13113,346 @@
       "inv_relationship": "was asked for a meeting by",
       "second": "Coil",
       "from": "Tangle 6.7"
+    },
+    {
+      "first": "Coil",
+      "relationship": "asked to come to Brockton Bay",
+      "inv_relationship": "were asked to come to Brockton Bay by",
+      "second": "Travelers",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "offered some sort of fix to",
+      "inv_relationship": "were offered some sort of fix by",
+      "second": "Travelers",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "made plays against",
+      "inv_relationship": "had plays made against by",
+      "second": "Empire Eighty-Eight",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "damaged the position of",
+      "inv_relationship": "had position damaged by",
+      "second": "Protectorate East-North-East",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "damaged the position of",
+      "inv_relationship": "had position damaged by",
+      "second": "Wards East-North-East",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "offered territory (to help him keep control of the city) to",
+      "inv_relationship": "were offered territory (to help him keep control of the city) by",
+      "second": "Undersiders",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "offered territory (to help him keep control of the city) to",
+      "inv_relationship": "were offered territory (to help him keep control of the city) by",
+      "second": "Travelers",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Travelers",
+      "relationship": "agreed to the offer of",
+      "inv_relationship": "had offer agreed to by",
+      "second": "Coil",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "offered to ramp up dog protection efforts for",
+      "inv_relationship": "was offered ramping up dog protection efforts by",
+      "second": "Bitch",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "knows about the background of",
+      "inv_relationship": "background known by",
+      "second": "Regent",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Protectorate",
+      "relationship": "know about the background of",
+      "inv_relationship": "background known by",
+      "second": "Regent",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "offered to help prove himself to his father",
+      "inv_relationship": "was offered to help prove himself to his father by",
+      "second": "Regent",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "offered to grant him custody of Aisha upon taking power",
+      "inv_relationship": "was offered to have custody of Aisha granted to him upon taking power by",
+      "second": "Grue",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "asked that when he takes control, he make the city work to",
+      "inv_relationship": "was asked that when he takes control, he make the city work",
+      "second": "Coil",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "has a bank account arranged by",
+      "inv_relationship": "arranged a bank account for",
+      "second": "The Number Man",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Grue",
+      "relationship": "has a bank account arranged by",
+      "inv_relationship": "arranged a bank account for",
+      "second": "The Number Man",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "has a bank account arranged by",
+      "inv_relationship": "arranged a bank account for",
+      "second": "The Number Man",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "has a bank account arranged by",
+      "inv_relationship": "arranged a bank account for",
+      "second": "The Number Man",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Regent",
+      "relationship": "has a bank account arranged by",
+      "inv_relationship": "arranged a bank account for",
+      "second": "The Number Man",
+      "from": "Tangle 6.8"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "previously suggested she tell her boss how silly his combover looked",
+      "inv_relationship": "was previously suggested to tell her boss how silly his combover looked by",
+      "second": "Annette Rose Hebert",
+      "from": "Tangle 6.9"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "was given an intervention by",
+      "inv_relationship": "gave an intervention to",
+      "second": "Danny Hebert",
+      "from": "Tangle 6.9"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "decided not to betray",
+      "inv_relationship": "was decided not to be betrayed by",
+      "second": "Undersiders",
+      "from": "Tangle 6.9"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "ran away from",
+      "inv_relationship": "was run away from by",
+      "second": "Danny Hebert",
+      "from": "Tangle 6.9"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "helped escape her father",
+      "inv_relationship": "was helped to escape her father by",
+      "second": "Skitter",
+      "from": "Tangle 6.9"
+    },
+    {
+      "first": "Peter Regan",
+      "relationship": "sentenced",
+      "inv_relationship": "was sentenced by",
+      "second": "Canary",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Canary",
+      "relationship": "is inmate of",
+      "inv_relationship": "has inmate",
+      "second": "Baumann Parahuman Containment Center",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "is inmate of",
+      "inv_relationship": "has inmate",
+      "second": "Baumann Parahuman Containment Center",
+      "from": "Interlude 6",
+      "to_soft": "Interlude 6"
+    },
+    {
+      "first": "Lung",
+      "relationship": "is inmate of",
+      "inv_relationship": "has inmate",
+      "second": "Baumann Parahuman Containment Center",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Lung",
+      "relationship": "shared a van to the birdcage with",
+      "inv_relationship": "shared a van to the birdcage with",
+      "second": "Canary",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "shared a van to the birdcage with",
+      "inv_relationship": "shared a van to the birdcage with",
+      "second": "Canary",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "shared a van to the birdcage with",
+      "inv_relationship": "shared a van to the birdcage with",
+      "second": "Lung",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "led the plan (which failed) to escape en route to Birdcage with",
+      "inv_relationship": "joined plan (which failed) to escape en route to Birdcage made by",
+      "second": "Lung",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "led the plan (which failed) to escape en route to Birdcage with",
+      "inv_relationship": "joined plan (which failed) to escape en route to Birdcage made by",
+      "second": "Canary",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Lung",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Cell Block W",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Dragon",
+      "relationship": "designed",
+      "inv_relationship": "was designed by",
+      "second": "Baumann Parahuman Containment Center",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Dragon",
+      "relationship": "designed much of the gear for",
+      "inv_relationship": "much of their gear designed by",
+      "second": "Parahuman Response Team",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Dragonslayers",
+      "relationship": "stole tinker tech from",
+      "inv_relationship": "had tinker tech stolen by",
+      "second": "Dragon",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Cell Block C",
+      "from": "Interlude 6",
+      "to_soft": "Interlude 6"
+    },
+    {
+      "first": "Dragon",
+      "relationship": "tried to help avoid the birdcage",
+      "inv_relationship": "was unsuccessfully helped in avoiding the birdcage by",
+      "second": "Canary",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Canary",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Cell Block E",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Lustrum",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Cell Block E",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Marquis",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Cell Block W",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Glaistig Uaine",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Cell Block C",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Lung",
+      "relationship": "does not like, but finds fair",
+      "inv_relationship": "is found fair by but not liked by",
+      "second": "Marquis",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Lung",
+      "relationship": "bought favour in exchange for information about Brockton Bay from",
+      "inv_relationship": "sold favour in exchange for information about Brockton Bay to",
+      "second": "Marquis",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "won favour for fixing televisions from",
+      "inv_relationship": "gave favour for fixing televisions to",
+      "second": "Glaistig Uaine",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Bakuda",
+      "relationship": "failed",
+      "inv_relationship": "was failed by",
+      "second": "Lung",
+      "from": "Interlude 6"
+    },
+    {
+      "first": "Lung",
+      "relationship": "killed",
+      "inv_relationship": "was killed by",
+      "second": "Bakuda",
+      "from": "Interlude 6"
     }
   ],
 
-  "up_to": "Tangle 6.6"
+  "up_to": "Interlude 6"
 }
