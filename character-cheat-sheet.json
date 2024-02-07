@@ -4436,8 +4436,9 @@
           "from": "Interlude 2"
         },
         {
-          "value": "'the boss' ",
+          "value": "'the boss'",
           "note": "What they were referred to as when anonymous to Taylor",
+          "is_duplicate": true,
           "from": "Tangle 6.7"
         }
       ],

@@ -76,12 +76,16 @@ def main():
             character["id"] = "character-" + str(i)
             if "civilian_names" in character:
                 for name in character["civilian_names"]:
+                    if "is_duplicate" in name and name["is_duplicate"]:
+                        continue
                     assert name["value"] not in character_map or \
                         character_map[name["value"]] == i, \
                         f'Duplicate {name["value"]}'
                     character_map[name["value"]] = i
             if "cape_names" in character:
                 for name in character["cape_names"]:
+                    if "is_duplicate" in name and name["is_duplicate"]:
+                        continue
                     assert name["value"] not in character_map or \
                         character_map[name["value"]] == i, \
                         f'Duplicate {name["value"]}'
@@ -92,6 +96,8 @@ def main():
             group["id"] = "group-" + str(i)
             if "names" in group:
                 for name in group["names"]:
+                    if "is_duplicate" in name and name["is_duplicate"]:
+                        continue
                     assert name["value"] not in group_map or \
                         group_map[name["value"]] == i, \
                         f'Duplicate {name["value"]}'
