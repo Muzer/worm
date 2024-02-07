@@ -499,6 +499,10 @@
             {
               "value": "Pouch also contains combat knife, blade over 6\" long, textured handle with three symmetrical indents on each side for grip, strong enough to be used as a crowbar; 21\" telescoping combat baton",
               "from": "Agitation 3.6"
+            },
+            {
+              "value": "Pouch also contains smelling salts",
+              "from": "Tangle 6.7"
             }
           ],
           "from": "Gestation 1.2"
@@ -2062,6 +2066,36 @@
               "value": "Has a lie detector",
               "provenance": "Direct witness, confirmed by his own statement",
               "from": "Agitation 3.5"
+            },
+            {
+              "value": "Specialises in condensing and integrating technology",
+              "provenance": "Tattletale's power",
+              "from": "Tangle 6.6"
+            },
+            {
+              "value": "Halberd modified to sense vibrations in the air, translating them into images, to combat Grue's power",
+              "provenance": "Tattletale's power",
+              "from": "Tangle 6.6"
+            },
+            {
+              "value": "Halberd modified to pass electrical charge in the brass between floor tiles to zap bugs",
+              "provenance": "Tattletale's power",
+              "from": "Tangle 6.6"
+            },
+            {
+              "value": "Halberd can reconfigure its physical shape",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.6"
+            },
+            {
+              "value": "Can analyse enemies and predict their movements ahead of time on a heads up display in his suit",
+              "provenance": "His own statement",
+              "from": "Tangle 6.6"
+            },
+            {
+              "value": "Can teleport his Halberd back into his hand if he drops it",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.7"
             }
           ],
           "from": "Gestation 1.6"
@@ -3213,7 +3247,8 @@
           "from": "Agitation 3.2"
         }
       ],
-      "from": "Insinuation 2.6"
+      "from": "Insinuation 2.6",
+      "to": "Tangle 6.7"
     },
     {
       "cape_names": [
@@ -3415,6 +3450,66 @@
         {
           "value": "villain",
           "from": "Insinuation 2.6"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Clown",
+          "notes": [
+            {
+              "value": "Clown makeup, jester's cap, teal and orange skintight costume, coattails",
+              "from": "Tangle 6.7"
+            },
+            {
+              "value": "Bells jangling from tips of cap, coattails, gloves, and boots",
+              "from": "Tangle 6.7"
+            },
+            {
+              "value": "Details different every time she goes out, but theme is the same",
+              "from": "Tangle 6.7"
+            }
+          ],
+          "from": "Tangle 6.7"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Pyrokinesis",
+          "notes": [
+            {
+              "value": "Minor pyrokinesis",
+              "provenance": "Taylor, direct witness",
+              "from": "Tangle 6.7"
+            }
+          ],
+          "from": "Tangle 6.7"
+        },
+        {
+          "brief_desc": "Deposit and retrieve items",
+          "notes": [
+            {
+              "value": "Ability to deposit items into thin air",
+              "provenance": "Taylor, direct witness",
+              "from": "Tangle 6.7"
+            },
+            {
+              "value": "Ability to retrieve those items just as easily",
+              "provenance": "Taylor, direct witness",
+              "from": "Tangle 6.7"
+            }
+          ],
+          "from": "Tangle 6.7"
+        },
+        {
+          "brief_desc": "Enhanced coordination",
+          "notes": [
+            {
+              "value": "Greatly enhanced coordination and balance",
+              "provenance": "Taylor, direct witness",
+              "from": "Tangle 6.7"
+            }
+          ],
+          "from": "Tangle 6.7"
         }
       ],
       "from": "Insinuation 2.6"
@@ -4339,6 +4434,11 @@
         {
           "value": "Coil",
           "from": "Interlude 2"
+        },
+        {
+          "value": "'the boss' ",
+          "notes": "What they were referred to as when anonymous to Taylor",
+          "from": "Tangle 6.7"
         }
       ],
       "pronouns": [
@@ -4351,6 +4451,10 @@
         {
           "value": "Villain in control of a private army",
           "from": "Interlude 2"
+        },
+        {
+          "value": "Boss/funder of villain teams",
+          "from": "Tangle 6.7"
         }
       ],
       "based_in": [
@@ -4375,6 +4479,14 @@
         {
           "value": "If he has powers, he's the only one in his organisation who does",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "A large part of the reason the Undersiders haven't failed a job yet",
+          "from": "Tangle 6.7"
+        },
+        {
+          "value": "Was anonymous to the Undersiders, except Tattletale, with whom he'd made a deal, until after the fundraiser disruption",
+          "from": "Tangle 6.7"
         }
       ],
       "appearance": [
@@ -4446,6 +4558,12 @@
           "from": "Interlude 2"
         }
       ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Tangle 6.7"
+        }
+      ],
       "occupations": [
         {
           "value": "Solo villain",
@@ -4462,6 +4580,37 @@
         {
           "value": "villain",
           "from": "Interlude 2"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Heavy cheeked caucasian with acne-scarred cheeks and long hair pulled back into a greasy ponytail",
+          "from": "Tangle 6.7"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Mask and goggles",
+          "notes": [
+            {
+              "value": "Upper half of face covered with metal mask and goggles",
+              "from": "Tangle 6.7"
+            }
+          ],
+          "from": "Tangle 6.7"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Mech",
+          "notes": [
+            {
+              "value": "Either has or is a mech; a steel giant with massive hands and a spout on its back spewing volumes of gray-black smoke",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.7"
+            }
+          ],
+          "from": "Tangle 6.7"
         }
       ],
       "from": "Interlude 2"
@@ -5094,6 +5243,12 @@
           "from": "Agitation 3.5"
         }
       ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Tangle 6.6"
+        }
+      ],
       "occupations": [
         {
           "value": "Hero team member",
@@ -5110,6 +5265,50 @@
         {
           "value": "hero",
           "from": "Agitation 3.5"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Racing stripes",
+          "notes": [
+            {
+              "value": "Red costume with racing stripes down either side and two stripes meeting in a 'v' at his chest",
+              "from": "Tangle 6.6"
+            },
+            {
+              "value": "No cup",
+              "from": "Tangle 6.6"
+            }
+          ],
+          "from": "Tangle 6.6"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Speedster",
+          "notes": [
+            {
+              "value": "Changes states to allow him to move very fast without need of rest",
+              "provenance": "Taylor, direct witness",
+              "from": "Tangle 6.6"
+            },
+            {
+              "value": "Fast enough that wasps can't reach him",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.6"
+            },
+            {
+              "value": "When in enhanced speed state, can't hit as hard, can't affect the world around him or be affected by it as much, can't hold or move things easily; strength loss proportional to max speed",
+              "provenance": "Taylor, direct witness",
+              "from": "Tangle 6.6"
+            },
+            {
+              "value": "Perceptions enhanced as well",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.6"
+            }
+          ],
+          "from": "Tangle 6.6"
         }
       ],
       "from": "Agitation 3.5"
@@ -5133,10 +5332,80 @@
           "from": "Agitation 3.5"
         }
       ],
+      "notes": [
+        {
+          "value": "Big deal/hometown hero in Brockton Bay",
+          "from": "Tangle 6.7"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "hero",
           "from": "Agitation 3.5"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Empowered gear",
+          "notes": [
+            {
+              "value": "Arclance, spear that looks like it's made from white lightning; metal disc shield size of dinner plate surrounded by rings of the same energy, and boots that look like they're encased in white energy",
+              "from": "Tangle 6.7"
+            },
+            {
+              "value": "Armour (rumoured to be in early stages of empowerment though this is not visually apparent), white and gold, golden helmet in Greek or Spartan style, with slits for eyes, metal band covering nose, slit running down lower half of face; band of metal cresting top like mohawk",
+              "from": "Tangle 6.7"
+            }
+          ],
+          "from": "Tangle 6.7"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Imbue gear",
+          "notes": [
+            {
+              "value": "Power lets him imbue gear with a little bit of power every day",
+              "provenance": "TV and magazines",
+              "from": "Tangle 6.7"
+            },
+            {
+              "value": "Every bit of power parcelled out has permanent effects",
+              "provenance": "TV and magazines",
+              "from": "Tangle 6.7"
+            },
+            {
+              "value": "Expected that he would eventually surpass the Triumvirate",
+              "provenance": "TV and magazines",
+              "from": "Tangle 6.7"
+            },
+            {
+              "value": "Has empowered Arclance, spear that looks like it's made from white lightning",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.7"
+            },
+            {
+              "value": "Has empowered shield, metal disc size of dinner plate, surrounded by rings of the same energy that made up the spear",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.7"
+            },
+            {
+              "value": "Has empowered boots, feet looking like they're encased in the white crackling energy",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.7"
+            },
+            {
+              "value": "Shield can form into bubble-shaped forcefield in a ten foot radius",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.7"
+            },
+            {
+              "value": "Arclance can extend as far as needed, elongating faster than the eye can follow, and it hits with an electrical charge",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.7"
+            }
+          ],
+          "from": "Tangle 6.7"
         }
       ],
       "from": "Agitation 3.5"
@@ -5229,6 +5498,11 @@
               "value": "Every second spent charging gives her a few seconds of greatly enhanced speed, some extra strength and some electromagnetic powers",
               "provenance": "Taylor, direct witness",
               "from": "Tangle 6.5"
+            },
+            {
+              "value": "Enhanced speed is a temporary physiological change",
+              "provenance": "Online, magazines, and interviews",
+              "from": "Tangle 6.6"
             }
           ],
           "from": "Hive 5.3"
@@ -5576,10 +5850,22 @@
           "from": "Agitation 3.11"
         }
       ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Tangle 6.7"
+        }
+      ],
       "pronouns": [
         {
           "value": "he/him",
           "from": "Agitation 3.11"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Tangle 6.7"
         }
       ],
       "powers": [
@@ -7006,12 +7292,24 @@
             {
               "value": "He can teleport any object in his line of sight",
               "provenance": "Tattletale",
-              "from": "Tangle 6.1"
+              "from": "Tangle 6.1",
+              "to": "Tangle 6.7"
+            },
+            {
+              "value": "He can teleport any object in his line of sight",
+              "provenance": "Tattletale, direct witness",
+              "from": "Tangle 6.7"
             },
             {
               "value": "However, when he teleports things he has to swap two objects of roughly equivalent mass",
               "provenance": "Tattletale",
-              "from": "Tangle 6.1"
+              "from": "Tangle 6.1",
+              "to": "Tangle 6.7"
+            },
+            {
+              "value": "However, when he teleports things he has to swap two objects of roughly equivalent mass",
+              "provenance": "Tattletale, direct witness",
+              "from": "Tangle 6.7"
             },
             {
               "value": "The bigger the mass difference, the slower the swap and shorter the range",
@@ -7181,6 +7479,12 @@
           "from": "Hive 5.6"
         }
       ],
+      "appearance": [
+        {
+          "value": "Football player build",
+          "from": "Tangle 6.7"
+        }
+      ],
       "cape_costumes": [
         {
           "brief_desc": "Bulky armor",
@@ -7188,6 +7492,10 @@
             {
               "value": "Bulky armor and square mask, red and black",
               "from": "Tangle 6.1"
+            },
+            {
+              "value": "Angular armour",
+              "from": "Tangle 6.7"
             }
           ],
           "from": "Tangle 6.1"
@@ -7523,6 +7831,11 @@
               "value": "Produced a large, four armed hairless gorilla with vest, mask, and leggings in red and black, and six-inch claws on each finger and toe",
               "provenance": "Tattletale",
               "from": "Tangle 6.1"
+            },
+            {
+              "value": "Produced a creature from the black lagoon, replete with crustacean armour and octopus tentacles in place of arms and a face",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.7"
             }
           ],
           "from": "Tangle 6.1"
@@ -7562,6 +7875,27 @@
         }
       ],
       "from": "Tangle 6.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Eidolon",
+          "from": "Tangle 6.7"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Tangle 6.7"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Tangle 6.7"
+        }
+      ],
+      "from": "Tangle 6.7"
     }
   ],
 
@@ -8816,7 +9150,15 @@
       "relationship": "funds",
       "inv_relationship": "are funded by",
       "second": "Undersiders",
-      "from": "Insinuation 2.6"
+      "from": "Insinuation 2.6",
+      "to": "Tangle 6.7"
+    },
+    {
+      "first": "Coil",
+      "relationship": "funds",
+      "inv_relationship": "are funded by",
+      "second": "Undersiders",
+      "from": "Tangle 6.7"
     },
     {
       "first": "Grue",
@@ -8970,7 +9312,15 @@
       "relationship": "provides information, equipment, and fencing for",
       "inv_relationship": "is provided with information, equipment, and fencing by",
       "second": "Undersiders",
-      "from": "Insinuation 2.8"
+      "from": "Insinuation 2.8",
+      "to": "Tangle 6.7"
+    },
+    {
+      "first": "Coil",
+      "relationship": "provides information, equipment, and fencing for",
+      "inv_relationship": "is provided with information, equipment, and fencing by",
+      "second": "Undersiders",
+      "from": "Tangle 6.7"
     },
     {
       "first": "Brutus",
@@ -9132,7 +9482,15 @@
       "relationship": "possibly knows the identity of",
       "inv_relationship": "identity possibly known by",
       "second": "'the boss'",
-      "from": "Agitation 3.2"
+      "from": "Agitation 3.2",
+      "to": "Tangle 6.7"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "knew that 'the boss' was",
+      "inv_relationship": "was known to be 'the boss' by",
+      "second": "Coil",
+      "from": "Tangle 6.7"
     },
     {
       "first": "Wards East-North-East",
@@ -9146,7 +9504,15 @@
       "relationship": "offered to pay a lot for a job to happen at a specific time",
       "inv_relationship": "was offered to be paid a lot for a job to happen at a specific time by",
       "second": "Undersiders",
-      "from": "Agitation 3.3"
+      "from": "Agitation 3.3",
+      "to": "Tangle 6.7"
+    },
+    {
+      "first": "Coil",
+      "relationship": "offered to pay a lot for a job to happen at a specific time",
+      "inv_relationship": "was offered to be paid a lot for a job to happen at a specific time by",
+      "second": "Undersiders",
+      "from": "Tangle 6.7"
     },
     {
       "first": "Aegis",
@@ -9839,7 +10205,15 @@
       "relationship": "provides the illusion of stable employment for",
       "inv_relationship": "is provided the illusion of stable employment by",
       "second": "Grue",
-      "from": "Shell 4.4"
+      "from": "Shell 4.4",
+      "to": "Tangle 6.7"
+    },
+    {
+      "first": "Coil",
+      "relationship": "provides the illusion of stable employment for",
+      "inv_relationship": "is provided the illusion of stable employment by",
+      "second": "Grue",
+      "from": "Tangle 6.7"
     },
     {
       "first": "Grue",
@@ -10165,7 +10539,15 @@
       "relationship": "provided a doctor for",
       "inv_relationship": "were provided a doctor by",
       "second": "Undersiders",
-      "from": "Shell 4.11"
+      "from": "Shell 4.11",
+      "to": "Tangle 6.7"
+    },
+    {
+      "first": "Coil",
+      "relationship": "provided a doctor for",
+      "inv_relationship": "were provided a doctor by",
+      "second": "Undersiders",
+      "from": "Tangle 6.7"
     },
     {
       "first": "Grue",
@@ -11819,8 +12201,190 @@
       "inv_relationship": "was taken hostage by",
       "second": "Regent",
       "from": "Tangle 6.5"
+    },
+    {
+      "first": "Protectorate East-North-East",
+      "relationship": "(according to Tattletale) hate the guts of",
+      "inv_relationship": "is (according to Tattletale) hated by",
+      "second": "Armsmaster",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "negated the power of",
+      "inv_relationship": "had power negated by",
+      "second": "Grue",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "negated the power of",
+      "inv_relationship": "had power negated by",
+      "second": "Skitter",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "is seventh most prominent member of",
+      "inv_relationship": "has seventh most prominent member",
+      "second": "Protectorate",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Tattletale",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Velocity",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Regent",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Miss Militia",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Brutus",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Grue",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Angelica",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Judas",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Armsmaster",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "embarrassed",
+      "inv_relationship": "was embarrassed by",
+      "second": "Brockton Bay fundraiser",
+      "from": "Tangle 6.6"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "caught up with",
+      "inv_relationship": "were caught up with by",
+      "second": "Undersiders",
+      "from": "Tangle 6.7"
+    },
+    {
+      "first": "Dauntless",
+      "relationship": "blocked the escape of",
+      "inv_relationship": "had escape blocked by",
+      "second": "Undersiders",
+      "from": "Tangle 6.7"
+    },
+    {
+      "first": "Alexandria",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Triumvirate",
+      "from": "Tangle 6.7"
+    },
+    {
+      "first": "Legend",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Triumvirate",
+      "from": "Tangle 6.7"
+    },
+    {
+      "first": "Eidolon",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Triumvirate",
+      "from": "Tangle 6.7"
+    },
+    {
+      "first": "Dauntless",
+      "relationship": "eventually expected to surpass",
+      "inv_relationship": "eventually expected to be surpassed by",
+      "second": "Triumvirate",
+      "from": "Tangle 6.7"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "according to Tattletale, hates",
+      "inv_relationship": "according to Tattletale, is hated by",
+      "second": "Dauntless",
+      "from": "Tangle 6.7"
+    },
+    {
+      "first": "Travelers",
+      "relationship": "after the fundraiser, helped out",
+      "inv_relationship": "after the fundraiser, were helped out by",
+      "second": "Undersiders",
+      "from": "Tangle 6.7"
+    },
+    {
+      "first": "Circus",
+      "relationship": "after the fundraiser, helped out",
+      "inv_relationship": "after the fundraiser, were helped out by",
+      "second": "Undersiders",
+      "from": "Tangle 6.7"
+    },
+    {
+      "first": "Circus",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Dauntless",
+      "from": "Tangle 6.7"
+    },
+    {
+      "first": "Trainwreck",
+      "relationship": "after the fundraiser, helped out",
+      "inv_relationship": "after the fundraiser, were helped out by",
+      "second": "Undersiders",
+      "from": "Tangle 6.7"
+    },
+    {
+      "first": "Trainwreck",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Armsmaster",
+      "from": "Tangle 6.7"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "asked for a meeting with",
+      "inv_relationship": "was asked for a meeting by",
+      "second": "Coil",
+      "from": "Tangle 6.7"
     }
   ],
 
-  "up_to": "Tangle 6.5"
+  "up_to": "Tangle 6.6"
 }

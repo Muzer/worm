@@ -28,10 +28,30 @@
     <h2>Contents</h2>
     <ul>
     {% for character in character_objects if check_chapter(character, chapter_id, chapter_map) %}
+    {% for state in character.state if check_chapter(state, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    {% if state.value == "dead" %}
+      <li><s>Character: <a href="#{{ character.id }}">{{get_best_name(character, chapter_id, chapter_map)}}</a></s></li>
+    {% else %}
+      <li>Character: <a href="#{{ character.id }}">{{get_best_name(character, chapter_id, chapter_map)}}</a></li>
+    {% endif %}
+    {% endif %}
+    {% else %}
       <li>Character: <a href="#{{ character.id }}">{{get_best_name(character, chapter_id, chapter_map)}}</a></li>
     {% endfor %}
+    {% endfor %}
     {% for group in group_objects if check_chapter(group, chapter_id, chapter_map) %}
+    {% for state in group.state if check_chapter(state, chapter_id, chapter_map) %}
+    {% if loop.first %}
+    {% if state.value == "defunct" %}
+      <li><s>Group: <a href="#{{ group.id }}">{{get_best_name(group, chapter_id, chapter_map)}}</a></s></li>
+    {% else %}
       <li>Group: <a href="#{{ group.id }}">{{get_best_name(group, chapter_id, chapter_map)}}</a></li>
+    {% endif %}
+    {% endif %}
+    {% else %}
+      <li>Group: <a href="#{{ group.id }}">{{get_best_name(group, chapter_id, chapter_map)}}</a></li>
+    {% endfor %}
     {% endfor %}
     </ul>
 
