@@ -6665,6 +6665,11 @@
               "value": "Like a flying artillery turret",
               "provenance": "Online and old newspapers",
               "from": "Hive 5.1"
+            },
+            {
+              "value": "Can shoot light in a double helix shape, growing to become wider than she is tall",
+              "provenance": "Video footage on the news",
+              "from": "Buzz 7.7"
             }
           ],
           "from": "Interlude 3½ (Bonus)"
@@ -7038,6 +7043,12 @@
           "from": "Hive 5.1"
         }
       ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Buzz 7.7"
+        }
+      ],
       "occupations": [
         {
           "value": "Villain duo",
@@ -7064,6 +7075,31 @@
         {
           "value": "villain",
           "from": "Hive 5.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Cowl and cloak",
+          "notes": [
+            {
+              "value": "Black costume featuring cowl and cloak",
+              "from": "Buzz 7.7"
+            }
+          ],
+          "from": "Buzz 7.7"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Unknown deadly power",
+          "notes": [
+            {
+              "value": "Can quickly kill someone causing sprays of blood by an unknown method",
+              "provenance": "Video footage on the news",
+              "from": "Buzz 7.7"
+            }
+          ],
+          "from": "Buzz 7.7"
         }
       ],
       "from": "Hive 5.1"
@@ -7075,6 +7111,12 @@
           "from": "Hive 5.1"
         }
       ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Buzz 7.7"
+        }
+      ],
       "occupations": [
         {
           "value": "Villain duo",
@@ -7101,6 +7143,36 @@
         {
           "value": "villain",
           "from": "Hive 5.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Cowl and cloak",
+          "notes": [
+            {
+              "value": "Gray costume featuring cowl and cloak",
+              "from": "Buzz 7.7"
+            }
+          ],
+          "from": "Buzz 7.7"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Turn into fog",
+          "notes": [
+            {
+              "value": "Evaporates into a rolling cloud of white-gray fog",
+              "provenance": "Video footage on the news",
+              "from": "Buzz 7.7"
+            },
+            {
+              "value": "Fog cleans up blood and bodies",
+              "provenance": "Video footage on the news",
+              "from": "Buzz 7.7"
+            }
+          ],
+          "from": "Buzz 7.7"
         }
       ],
       "from": "Hive 5.1"
@@ -7120,11 +7192,21 @@
       ],
       "occupations": [
         {
+          "value": "Fighter in a parahuman fighting ring (rumoured)",
+          "from": "Buzz 7.7",
+          "to_soft": "Buzz 7.7"
+        },
+        {
           "value": "Gang member",
           "from": "Hive 5.1"
         }
       ],
       "based_in": [
+        {
+          "value": "New York (rumoured)",
+          "from": "Buzz 7.7",
+          "to_soft": "Buzz 7.7"
+        },
         {
           "value": "Brockton Bay",
           "from": "Hive 5.1"
@@ -7134,6 +7216,18 @@
         {
           "value": "A killer who thinks nothing of murdering non-Aryans",
           "from": "Hive 5.2"
+        },
+        {
+          "value": "Was rumoured to have been a top fighter in a New York parahuman fighting ring, but grew greedy and killed the man who ran it for access to the vault",
+          "from": "Buzz 7.7"
+        },
+        {
+          "value": "Was then sheltered by a local group of white supremacists",
+          "from": "Buzz 7.7"
+        },
+        {
+          "value": "Uncertain whether the ideology was always real for him or if it's an act that became reality when people celebrated him for racking up a body count",
+          "from": "Buzz 7.7"
         }
       ],
       "parahuman_type": [
@@ -7174,6 +7268,49 @@
             }
           ],
           "from": "Hive 5.2"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Transforms into blender of metal",
+          "notes": [
+            {
+              "value": "Can transform into something around the shape of Bitch's dogs though maybe a little larger",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.7"
+            },
+            {
+              "value": "Hollow with limbs thinner than the dogs, entire thing is a chainsaw whir of serrated blades, hooks, and needle points, shuffling and shifting around one another too fast for the eyes to follow",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.7"
+            },
+            {
+              "value": "Maintains quadruped shape with tail and elongated snout",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.7"
+            },
+            {
+              "value": "Can quickly transform back into a person, with the hooks and blades retracting back into his skin",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.7"
+            },
+            {
+              "value": "Can partially transform (eg arms only)",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.7"
+            },
+            {
+              "value": "Can produce a blast of wind",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.7"
+            },
+            {
+              "value": "Has enhanced senses and can somehow sense people through Grue's darkness",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.7"
+            }
+          ],
+          "from": "Buzz 7.7"
         }
       ],
       "from": "Hive 5.1"
@@ -8834,15 +8971,15 @@
           "from": "Buzz 7.3"
         }
       ],
-      "based_in": [
-        {
-          "value": "Brockton Bay",
-          "from": "Buzz 7.3"
-        }
-      ],
       "occupations": [
         {
           "value": "Prospective gang member",
+          "from": "Buzz 7.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
           "from": "Buzz 7.3"
         }
       ],
@@ -8871,15 +9008,15 @@
           "from": "Buzz 7.4"
         }
       ],
-      "based_in": [
-        {
-          "value": "Brockton Bay",
-          "from": "Buzz 7.4"
-        }
-      ],
       "occupations": [
         {
           "value": "Gang leader",
+          "from": "Buzz 7.4"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
           "from": "Buzz 7.4"
         }
       ],
@@ -8898,15 +9035,31 @@
           "from": "Buzz 7.6"
         }
       ],
-      "based_in": [
+      "pronouns": [
         {
-          "value": "Brockton Bay",
-          "from": "Buzz 7.6"
+          "value": "he/him",
+          "from": "Buzz 7.7"
         }
       ],
       "occupations": [
         {
+          "value": "Fighter in a parahuman fighting ring (rumoured)",
+          "from": "Buzz 7.7",
+          "to_soft": "Buzz 7.7"
+        },
+        {
           "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "New York (rumoured)",
+          "from": "Buzz 7.7",
+          "to_soft": "Buzz 7.7"
+        },
+        {
+          "value": "Brockton Bay",
           "from": "Buzz 7.6"
         }
       ],
@@ -8914,6 +9067,28 @@
         {
           "value": "villain",
           "from": "Buzz 7.6"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Pale, tall with muscle-heavy build you only see on cons and bodybuilders",
+          "from": "Buzz 7.7"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Slacks, chains, mask",
+          "notes": [
+            {
+              "value": "Black slacks in tatters around his feet, chains wrapped around forearms, hands, and calves",
+              "from": "Buzz 7.7"
+            },
+            {
+              "value": "Blue-white tiger mask",
+              "from": "Buzz 7.7"
+            }
+          ],
+          "from": "Buzz 7.7"
         }
       ],
       "from": "Buzz 7.6"
@@ -8925,15 +9100,15 @@
           "from": "Buzz 7.6"
         }
       ],
-      "based_in": [
-        {
-          "value": "Brockton Bay",
-          "from": "Buzz 7.6"
-        }
-      ],
       "occupations": [
         {
           "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
           "from": "Buzz 7.6"
         }
       ],
@@ -8952,15 +9127,31 @@
           "from": "Buzz 7.6"
         }
       ],
-      "based_in": [
+      "pronouns": [
         {
-          "value": "Brockton Bay",
-          "from": "Buzz 7.6"
+          "value": "she/her",
+          "from": "Buzz 7.7"
         }
       ],
       "occupations": [
         {
+          "value": "Fighter in a parahuman fighting ring (rumoured)",
+          "from": "Buzz 7.7",
+          "to_soft": "Buzz 7.7"
+        },
+        {
           "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "New York (rumoured)",
+          "from": "Buzz 7.7",
+          "to_soft": "Buzz 7.7"
+        },
+        {
+          "value": "Brockton Bay",
           "from": "Buzz 7.6"
         }
       ],
@@ -8968,6 +9159,28 @@
         {
           "value": "villain",
           "from": "Buzz 7.6"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Twenty-something, gymnast's build, scars criss-crossing her skin",
+          "from": "Buzz 7.7"
+        },
+        {
+          "value": "Hair in a bleached blonde buzz cut",
+          "from": "Buzz 7.7"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Metal cage",
+          "notes": [
+            {
+              "value": "Face covered by metal cage",
+              "from": "Buzz 7.7"
+            }
+          ],
+          "from": "Buzz 7.7"
         }
       ],
       "from": "Buzz 7.6"
@@ -8979,15 +9192,15 @@
           "from": "Buzz 7.6"
         }
       ],
-      "based_in": [
-        {
-          "value": "Brockton Bay",
-          "from": "Buzz 7.6"
-        }
-      ],
       "occupations": [
         {
           "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
           "from": "Buzz 7.6"
         }
       ],
@@ -9006,15 +9219,15 @@
           "from": "Buzz 7.6"
         }
       ],
-      "based_in": [
-        {
-          "value": "Brockton Bay",
-          "from": "Buzz 7.6"
-        }
-      ],
       "occupations": [
         {
           "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
           "from": "Buzz 7.6"
         }
       ],
@@ -9033,15 +9246,15 @@
           "from": "Buzz 7.6"
         }
       ],
-      "based_in": [
-        {
-          "value": "Brockton Bay",
-          "from": "Buzz 7.6"
-        }
-      ],
       "occupations": [
         {
           "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
           "from": "Buzz 7.6"
         }
       ],
@@ -9060,15 +9273,15 @@
           "from": "Buzz 7.6"
         }
       ],
-      "based_in": [
-        {
-          "value": "Brockton Bay",
-          "from": "Buzz 7.6"
-        }
-      ],
       "occupations": [
         {
           "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
           "from": "Buzz 7.6"
         }
       ],
@@ -14454,6 +14667,13 @@
       "from": "Buzz 7.6"
     },
     {
+      "first": "Sophia Hess",
+      "relationship": "injured the ear of",
+      "inv_relationship": "had ear injured by",
+      "second": "Skitter",
+      "from": "Buzz 7.6"
+    },
+    {
       "first": "Grue",
       "relationship": "arrived during the fight to help",
       "inv_relationship": "was given help in the fight with the arrival of",
@@ -14473,8 +14693,120 @@
       "inv_relationship": "was friendzoned by",
       "second": "Skitter",
       "from": "Buzz 7.6"
+    },
+    {
+      "first": "Purity",
+      "relationship": "destroyed a dog shelter belonging to",
+      "inv_relationship": "had a dog shelter destroyed by",
+      "second": "Bitch",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Purity",
+      "relationship": "threatened to destroy the city until the return of",
+      "inv_relationship": "until returned, city was threatened to be destroyed by",
+      "second": "Aster Klara Anders",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Coil",
+      "relationship": "admitted responsibility for the doxxing to",
+      "inv_relationship": "was told (by the man himself) responsibility for the doxxing lay with",
+      "second": "Kaiser",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Coil",
+      "relationship": "won't publicly announce responsibility for doxxing",
+      "inv_relationship": "will not be publicly announced as being doxxed by",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Fog",
+      "relationship": "is part of the subgroup led by",
+      "inv_relationship": "leads a subgroup containing",
+      "second": "Purity",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Night",
+      "relationship": "is part of the subgroup led by",
+      "inv_relationship": "leads a subgroup containing",
+      "second": "Purity",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Alabaster",
+      "relationship": "is part of the subgroup led by",
+      "inv_relationship": "leads a subgroup containing",
+      "second": "Purity",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Crusader",
+      "relationship": "is part of the subgroup led by",
+      "inv_relationship": "leads a subgroup containing",
+      "second": "Purity",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Stormtiger",
+      "relationship": "previously followed into white supremacy",
+      "inv_relationship": "was previously followed into white supremacy by",
+      "second": "Hookwolf",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Cricket",
+      "relationship": "previously followed into white supremacy",
+      "inv_relationship": "was previously followed into white supremacy by",
+      "second": "Hookwolf",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Hookwolf",
+      "relationship": "attacked",
+      "inv_relationship": "was attacked by",
+      "second": "Skitter",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Hookwolf",
+      "relationship": "attacked",
+      "inv_relationship": "was attacked by",
+      "second": "Grue",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Stormtiger",
+      "relationship": "attacked",
+      "inv_relationship": "was attacked by",
+      "second": "Skitter",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Stormtiger",
+      "relationship": "attacked",
+      "inv_relationship": "was attacked by",
+      "second": "Grue",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Cricket",
+      "relationship": "attacked",
+      "inv_relationship": "was attacked by",
+      "second": "Skitter",
+      "from": "Buzz 7.7"
+    },
+    {
+      "first": "Cricket",
+      "relationship": "attacked",
+      "inv_relationship": "was attacked by",
+      "second": "Grue",
+      "from": "Buzz 7.7"
     }
   ],
 
-  "up_to": "Buzz 7.6"
+  "up_to": "Buzz 7.7"
 }
