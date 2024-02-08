@@ -7293,6 +7293,16 @@
               "value": "Can quickly transform back into a person, with the hooks and blades retracting back into his skin",
               "provenance": "Direct witness",
               "from": "Buzz 7.7"
+            },
+            {
+              "value": "Can transform parts of his body, eg a hand",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.8"
+            },
+            {
+              "value": "Has interlocking grid of metal in place of muscle, which can stop bullets",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.8"
             }
           ],
           "from": "Buzz 7.7"
@@ -9100,6 +9110,11 @@
               "value": "Has enhanced senses and can somehow sense people through Grue's darkness",
               "provenance": "Direct witness",
               "from": "Buzz 7.7"
+            },
+            {
+              "value": "Blades are made of compressed air and he can continue adding compressed air to them at all times",
+              "provenance": "Hookwolf",
+              "from": "Buzz 7.8"
             }
           ],
           "from": "Buzz 7.7"
@@ -9169,6 +9184,12 @@
           "from": "Buzz 7.6"
         }
       ],
+      "notes": [
+        {
+          "value": "Strangled, strained voice",
+          "from": "Buzz 7.8"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "villain",
@@ -9192,9 +9213,42 @@
             {
               "value": "Face covered by metal cage",
               "from": "Buzz 7.7"
+            },
+            {
+              "value": "Carries two scythe-like weapons, each about as long as her forearm",
+              "from": "Buzz 7.8"
             }
           ],
           "from": "Buzz 7.7"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Enhanced reflexes",
+          "notes": [
+            {
+              "value": "Movements too efficient; no visible delay in reactions",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.8"
+            }
+          ],
+          "from": "Buzz 7.8"
+        },
+        {
+          "brief_desc": "Sound-related powers",
+          "notes": [
+            {
+              "value": "Has echolocation",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.8"
+            },
+            {
+              "value": "Can send out a continuous blast of sound to disorient others",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.8"
+            }
+          ],
+          "from": "Buzz 7.8"
         }
       ],
       "from": "Buzz 7.6"
@@ -14819,8 +14873,50 @@
       "inv_relationship": "was attacked by",
       "second": "Grue",
       "from": "Buzz 7.7"
+    },
+    {
+      "first": "Cricket",
+      "relationship": "injured",
+      "inv_relationship": "was injured by",
+      "second": "Grue",
+      "from": "Buzz 7.8"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Cricket",
+      "from": "Buzz 7.8"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "escaped",
+      "inv_relationship": "was escaped from by",
+      "second": "Hookwolf",
+      "from": "Buzz 7.8"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "escaped",
+      "inv_relationship": "was escaped from by",
+      "second": "Stormtiger",
+      "from": "Buzz 7.8"
+    },
+    {
+      "first": "Grue",
+      "relationship": "escaped",
+      "inv_relationship": "was escaped from by",
+      "second": "Hookwolf",
+      "from": "Buzz 7.8"
+    },
+    {
+      "first": "Grue",
+      "relationship": "escaped",
+      "inv_relationship": "was escaped from by",
+      "second": "Stormtiger",
+      "from": "Buzz 7.8"
     }
   ],
 
-  "up_to": "Buzz 7.7"
+  "up_to": "Buzz 7.8"
 }
