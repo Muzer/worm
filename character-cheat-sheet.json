@@ -7293,21 +7293,6 @@
               "value": "Can quickly transform back into a person, with the hooks and blades retracting back into his skin",
               "provenance": "Direct witness",
               "from": "Buzz 7.7"
-            },
-            {
-              "value": "Can partially transform (eg arms only)",
-              "provenance": "Direct witness",
-              "from": "Buzz 7.7"
-            },
-            {
-              "value": "Can produce a blast of wind",
-              "provenance": "Direct witness",
-              "from": "Buzz 7.7"
-            },
-            {
-              "value": "Has enhanced senses and can somehow sense people through Grue's darkness",
-              "provenance": "Direct witness",
-              "from": "Buzz 7.7"
             }
           ],
           "from": "Buzz 7.7"
@@ -9063,6 +9048,12 @@
           "from": "Buzz 7.6"
         }
       ],
+      "notes": [
+        {
+          "value": "Deeper voice than Brian's",
+          "from": "Buzz 7.7"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "villain",
@@ -9085,6 +9076,29 @@
             },
             {
               "value": "Blue-white tiger mask",
+              "from": "Buzz 7.7"
+            }
+          ],
+          "from": "Buzz 7.7"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Air blades",
+          "notes": [
+            {
+              "value": "By flexing his hands he can congeal air into a half-dozen pale, translucent blades jutting from each hand",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.7"
+            },
+            {
+              "value": "Can dismiss the blades to produce a blast of wind",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.7"
+            },
+            {
+              "value": "Has enhanced senses and can somehow sense people through Grue's darkness",
+              "provenance": "Direct witness",
               "from": "Buzz 7.7"
             }
           ],
