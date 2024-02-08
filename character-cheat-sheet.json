@@ -14107,16 +14107,79 @@
       "from": "Buzz 7.4"
     },
     {
+      "first": "Coil",
+      "relationship": "doxxed",
+      "inv_relationship": "was doxxed by",
+      "second": "Kaiser",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Coil",
+      "relationship": "doxxed",
+      "inv_relationship": "was doxxed by",
+      "second": "Purity",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Coil",
+      "relationship": "doxxed",
+      "inv_relationship": "was doxxed by",
+      "second": "Hookwolf",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Coil",
+      "relationship": "doxxed",
+      "inv_relationship": "was doxxed by",
+      "second": "Krieg",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Coil",
+      "relationship": "doxxed",
+      "inv_relationship": "was doxxed by",
+      "second": "Theo",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Coil",
+      "relationship": "doxxed",
+      "inv_relationship": "was doxxed by",
+      "second": "Aster",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Coil",
+      "relationship": "doxxed",
+      "inv_relationship": "was doxxed by",
+      "second": "Allfather",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Coil",
+      "relationship": "doxxed",
+      "inv_relationship": "was doxxed by",
+      "second": "Fenja",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Coil",
+      "relationship": "doxxed",
+      "inv_relationship": "was doxxed by",
+      "second": "Menja",
+      "from": "Buzz 7.4"
+    },
+    {
       "first": "Tattletale",
-      "relationship": "helped with the doxxing of members of",
-      "inv_relationship": "members were doxxed with the help of",
+      "relationship": "helped with the information gathering used in doxxing of members of",
+      "inv_relationship": "members were doxxed with information in part gathered by",
       "second": "Empire Eighty-Eight",
       "from": "Buzz 7.4"
     },
     {
       "first": "Undersiders",
-      "relationship": "were blamed for the doxxing of",
-      "inv_relationship": "blamed for the doxxing",
+      "relationship": "look guilty for the doxxing of",
+      "inv_relationship": "were doxxed with the culprits appearing to be",
       "second": "Empire Eighty-Eight",
       "from": "Buzz 7.4"
     }
