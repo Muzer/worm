@@ -470,6 +470,10 @@
         {
           "value": "Her silhouette is hard to make out through her cloud of bugs",
           "from": "Tangle 6.2"
+        },
+        {
+          "value": "Has different skin colour to Grue",
+          "from": "Buzz 7.4"
         }
       ],
       "cape_costumes": [
@@ -617,6 +621,16 @@
               "value": "Bugs can be set to do fairly complex tasks (eg stealing money from a safe, collecting it into bags, and moving it some distance away) with very little conscious effort on her part",
               "provenance": "PoV",
               "from": "Hive 5.8"
+            },
+            {
+              "value": "Can spell out words with her bugs",
+              "provenance": "PoV",
+              "from": "Tangle 6.6"
+            },
+            {
+              "value": "Shapes bugs into a humanoid figure, and uses that to pretend that she can transform into a bug-creature immune to guns",
+              "provenance": "PoV",
+              "from": "Buzz 7.3"
             }
           ],
           "from": "Gestation 1.1"
@@ -1795,6 +1809,10 @@
         {
           "value": "Power messed up her ability to understand human body language and tone",
           "from": "Hive 5.10"
+        },
+        {
+          "value": "Rescues stray dogs due to be euthanised and gives them shelter in isolated buildings",
+          "from": "Tangle 6.8"
         }
       ],
       "parahuman_type": [
@@ -1897,6 +1915,16 @@
               "value": "When returning to normal, outer bits of the dogs are shed and the ordinary dog is eventually revealed nested deep within",
               "provenance": "Taylor",
               "from": "Tangle 6.8"
+            },
+            {
+              "value": "Transforming the dogs can heal certain diseases",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.3"
+            },
+            {
+              "value": "However the healing doesn't work on older injuries as Bitch makes a 'blueprint' presumably of what she expects the dog to look like; gets rid of disease, cancer, parasites, and damage taken when big though",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.3"
             }
           ],
           "from": "Gestation 1.5"
@@ -4550,7 +4578,12 @@
       "civilian_names": [
         {
           "value": "Max",
-          "from": "Interlude 3½ (Bonus)"
+          "from": "Interlude 3½ (Bonus)",
+          "to": "Buzz 7.4"
+        },
+        {
+          "value": "Max Anders",
+          "from": "Buzz 7.4"
         }
       ],
       "pronouns": [
@@ -4563,12 +4596,20 @@
         {
           "value": "Gang leader",
           "from": "Interlude 2"
+        },
+        {
+          "value": "Corporate CEO and president",
+          "from": "Buzz 7.4"
         }
       ],
       "based_in": [
         {
           "value": "Brockton Bay",
           "from": "Interlude 2"
+        },
+        {
+          "value": "Penthouse apartment downtown",
+          "from": "Buzz 7.4"
         }
       ],
       "notes": [
@@ -4603,6 +4644,14 @@
         {
           "value": "Takes Empire Eighty-Eight members and abandons the group during the ABB raid",
           "from": "Hive 5.6"
+        },
+        {
+          "value": "Twice divorced",
+          "from": "Buzz 7.4"
+        },
+        {
+          "value": "Drives a black BMW",
+          "from": "Buzz 7.4"
         }
       ],
       "parahuman_type": [
@@ -6471,7 +6520,18 @@
       "civilian_names": [
         {
           "value": "Kayden",
-          "from": "Interlude 3½ (Bonus)"
+          "from": "Interlude 3½ (Bonus)",
+          "to": "Buzz 7.4"
+        },
+        {
+          "value": "Kayden Anders",
+          "from": "Buzz 7.4"
+        },
+        {
+          "value": "Kayden Russel",
+          "note": "Maiden name",
+          "from": "Buzz 7.4",
+          "to_soft": "Buzz 7.4"
         }
       ],
       "pronouns": [
@@ -6489,6 +6549,10 @@
         {
           "value": "Gang second-in-command",
           "from": "Interlude 3½ (Bonus)"
+        },
+        {
+          "value": "Interior decorator",
+          "from": "Buzz 7.4"
         }
       ],
       "based_in": [
@@ -6537,6 +6601,10 @@
         {
           "value": "Brown hair and dark hazel eyes",
           "from": "Interlude 3½ (Bonus)"
+        },
+        {
+          "value": "Mousy",
+          "from": "Buzz 7.4"
         }
       ],
       "cape_costumes": [
@@ -6604,7 +6672,12 @@
       "civilian_names": [
         {
           "value": "Aster",
-          "from": "Interlude 3½ (Bonus)"
+          "from": "Interlude 3½ (Bonus)",
+          "to": "Buzz 7.4"
+        },
+        {
+          "value": "Aster Klara Anders",
+          "from": "Buzz 7.4"
         }
       ],
       "pronouns": [
@@ -6629,6 +6702,10 @@
     },
     {
       "civilian_names": [
+        {
+          "value": "Theodore Richard Anders",
+          "from": "Buzz 7.4"
+        },
         {
           "value": "Theo",
           "from": "Interlude 3½ (Bonus)"
@@ -6910,16 +6987,36 @@
           "from": "Hive 5.1"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "James Fliescher",
+          "from": "Buzz 7.4"
+        }
+      ],
       "occupations": [
         {
           "value": "Gang member",
           "from": "Hive 5.1"
+        },
+        {
+          "value": "Head of a pharmacy chain",
+          "from": "Buzz 7.4"
         }
       ],
       "based_in": [
         {
           "value": "Brockton Bay",
           "from": "Hive 5.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Father of three, married",
+          "from": "Buzz 7.4"
+        },
+        {
+          "value": "Twice a year went on vacation, but lied about his destination; always went to London in actuality",
+          "from": "Buzz 7.4"
         }
       ],
       "parahuman_type": [
@@ -8614,7 +8711,7 @@
           "from": "Buzz 7.2"
         },
         {
-          "value": "Dog rescue",
+          "value": "Bitch's dog rescue",
           "from": "Buzz 7.2"
         }
       ],
@@ -8626,6 +8723,18 @@
         {
           "value": "Newest dog in the rescue, not used to things",
           "from": "Buzz 7.2"
+        },
+        {
+          "value": "Bought as a puppy for a 12-year-old, grew too big and unruly to stay in the house",
+          "from": "Buzz 7.3"
+        },
+        {
+          "value": "Caged outside and ignored, got a foot infection; owners decided it was easier to leave him at a shelter",
+          "from": "Buzz 7.3"
+        },
+        {
+          "value": "Came off as too wild and excitable to be adopted; Rachel saved him the week he was due to be put down",
+          "from": "Buzz 7.3"
         }
       ],
       "appearance": [
@@ -8654,6 +8763,129 @@
         }
       ],
       "from": "Buzz 7.2"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Bullet",
+          "from": "Buzz 7.3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Buzz 7.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.3"
+        },
+        {
+          "value": "Bitch's dog rescue",
+          "from": "Buzz 7.3"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Is a dog",
+          "from": "Buzz 7.3"
+        },
+        {
+          "value": "Smartest in the group",
+          "from": "Buzz 7.3"
+        },
+        {
+          "value": "Bred to run around all day with hunters; craves exercise",
+          "from": "Buzz 7.3"
+        },
+        {
+          "value": "Used as a beta in a dogfighting ring, shoulder was torn up badly so it hurts too much to run as much as she needs",
+          "from": "Buzz 7.3"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "White dog with nub of a tail and chestnut coloured patches on its body and ears",
+          "from": "Buzz 7.3"
+        },
+        {
+          "value": "Skitter calls her awfully pretty",
+          "from": "Buzz 7.3"
+        }
+      ],
+      "from": "Buzz 7.3"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Tom",
+          "from": "Buzz 7.3"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Buzz 7.3"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.3"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Prospective gang member",
+          "from": "Buzz 7.3"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Teenage boy",
+          "from": "Buzz 7.3"
+        },
+        {
+          "value": "Carries a gun",
+          "from": "Buzz 7.3"
+        }
+      ],
+      "from": "Buzz 7.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Allfather",
+          "from": "Buzz 7.4"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Richard Anders",
+          "from": "Buzz 7.4"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.4"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang leader",
+          "from": "Buzz 7.4"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Buzz 7.4"
+        }
+      ],
+      "from": "Buzz 7.4"
     }
   ],
 
@@ -9158,6 +9390,14 @@
         {
           "value": "White supremacist",
           "from": "Interlude 2"
+        },
+        {
+          "value": "Formed by Kaiser's predecessor",
+          "from": "Buzz 7.3"
+        },
+        {
+          "value": "When set up, forced the hand of more closet racists to come out into the open, and attracted those from nearby, leading to the biggest collection of racists above the bible belt and possibly the biggest congregation of racist supervillains",
+          "from": "Buzz 7.3"
         }
       ],
       "from": "Insinuation 2.6"
@@ -9558,6 +9798,10 @@
         {
           "value": "Head offices assaulted by armed forces right after the defeat of ABB",
           "from": "Tangle 6.4"
+        },
+        {
+          "value": "Pharmaceutical company",
+          "from": "Buzz 7.4"
         }
       ],
       "from": "Tangle 6.4"
@@ -10236,6 +10480,27 @@
       "relationship": "belongs to",
       "inv_relationship": "owns",
       "second": "Bitch",
+      "from": "Insinuation 2.9"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "uses her powers on",
+      "inv_relationship": "is subjected to the powers of",
+      "second": "Brutus",
+      "from": "Insinuation 2.9"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "uses her powers on",
+      "inv_relationship": "is subjected to the powers of",
+      "second": "Judas",
+      "from": "Insinuation 2.9"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "uses her powers on",
+      "inv_relationship": "is subjected to the powers of",
+      "second": "Angelica",
       "from": "Insinuation 2.9"
     },
     {
@@ -13735,8 +14000,127 @@
       "inv_relationship": "had heartworm destroyed using her powers by",
       "second": "Sirius",
       "from": "Buzz 7.2"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "previously used her powers on",
+      "inv_relationship": "previously was subjected to the powers of",
+      "second": "Rollo",
+      "from": "Buzz 7.2"
+    },
+    {
+      "first": "Tom",
+      "relationship": "wants to become a member of",
+      "inv_relationship": "membership is desired by",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.3"
+    },
+    {
+      "first": "Tom",
+      "relationship": "fired a warning shot at",
+      "inv_relationship": "received a warning shot from",
+      "second": "Bitch",
+      "from": "Buzz 7.3"
+    },
+    {
+      "first": "Grue",
+      "relationship": "agreed to come as backup at dog rescue to help",
+      "inv_relationship": "asked (which was agreed) to come as backup at dog rescue",
+      "second": "Skitter",
+      "from": "Buzz 7.3"
+    },
+    {
+      "first": "Tom",
+      "relationship": "attempted to shoot",
+      "inv_relationship": "was attempted to be shot by",
+      "second": "Skitter",
+      "from": "Buzz 7.3"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "stabbed",
+      "inv_relationship": "was stabbed by",
+      "second": "Tom",
+      "from": "Buzz 7.3"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "saved",
+      "inv_relationship": "was saved by",
+      "second": "Bitch",
+      "from": "Buzz 7.3"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "persuaded to move her dogs somewhere safer",
+      "inv_relationship": "was persuaded to move her dogs somewhere safer by",
+      "second": "Bitch",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "gave relationship advice to",
+      "inv_relationship": "was given relationship advice by",
+      "second": "Skitter",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "is president and CEO of",
+      "inv_relationship": "has president and CEO",
+      "second": "Medhall Corporation",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Allfather",
+      "relationship": "has son",
+      "inv_relationship": "has father",
+      "second": "Kaiser",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Allfather",
+      "relationship": "previously founded",
+      "inv_relationship": "was previously founded by",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Allfather",
+      "relationship": "previously led",
+      "inv_relationship": "was previously led by",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Krieg",
+      "relationship": "is connected to",
+      "inv_relationship": "is connected to",
+      "second": "Medhall Corporation",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Coil",
+      "relationship": "doxxed members of",
+      "inv_relationship": "members were doxxed by",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "helped with the doxxing of members of",
+      "inv_relationship": "members were doxxed with the help of",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.4"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "were blamed for the doxxing of",
+      "inv_relationship": "blamed for the doxxing",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.4"
     }
   ],
 
-  "up_to": "Buzz 7.2"
+  "up_to": "Buzz 7.4"
 }
