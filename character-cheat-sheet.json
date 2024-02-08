@@ -803,6 +803,10 @@
         {
           "value": "Black hair normally long enough to reach the small of her back",
           "from": "Agitation 3.1"
+        },
+        {
+          "value": "Curves and chest",
+          "from": "Buzz 7.5"
         }
       ],
       "from": "Gestation 1.1"
@@ -8886,6 +8890,195 @@
         }
       ],
       "from": "Buzz 7.4"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Stormtiger",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "from": "Buzz 7.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Othala",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "from": "Buzz 7.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Cricket",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "from": "Buzz 7.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Rune",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "from": "Buzz 7.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Victor",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "from": "Buzz 7.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Alabaster",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "from": "Buzz 7.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Crusader",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Gang member",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Buzz 7.6"
+        }
+      ],
+      "from": "Buzz 7.6"
     }
   ],
 
@@ -14178,12 +14371,110 @@
     },
     {
       "first": "Undersiders",
-      "relationship": "look guilty for the doxxing of",
+      "relationship": "looked guilty for the doxxing of",
       "inv_relationship": "were doxxed with the culprits appearing to be",
       "second": "Empire Eighty-Eight",
       "from": "Buzz 7.4"
+    },
+    {
+      "first": "Grue",
+      "relationship": "suggested they retreat from the Docks",
+      "inv_relationship": "were suggested to retreat from the Docks by",
+      "second": "Undersiders",
+      "from": "Buzz 7.5"
+    },
+    {
+      "first": "Grue",
+      "relationship": "invited to stay at his apartment",
+      "inv_relationship": "was invited to stay at his apartment by",
+      "second": "Skitter",
+      "from": "Buzz 7.5"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "kissed (to annoy Sophia)",
+      "inv_relationship": "was kissed (to annoy Sophia) by",
+      "second": "Grue",
+      "from": "Buzz 7.5"
+    },
+    {
+      "first": "Stormtiger",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.6"
+    },
+    {
+      "first": "Othala",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.6"
+    },
+    {
+      "first": "Cricket",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.6"
+    },
+    {
+      "first": "Rune",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.6"
+    },
+    {
+      "first": "Victor",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.6"
+    },
+    {
+      "first": "Alabaster",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.6"
+    },
+    {
+      "first": "Crusader",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Empire Eighty-Eight",
+      "from": "Buzz 7.6"
+    },
+    {
+      "first": "Sophia Hess",
+      "relationship": "attacked in the bookshop",
+      "inv_relationship": "was attacked in the bookshop by",
+      "second": "Skitter",
+      "from": "Buzz 7.6"
+    },
+    {
+      "first": "Grue",
+      "relationship": "arrived during the fight to help",
+      "inv_relationship": "was given help in the fight with the arrival of",
+      "second": "Skitter",
+      "from": "Buzz 7.6"
+    },
+    {
+      "first": "Sophia Hess",
+      "relationship": "ran away from",
+      "inv_relationship": "was run away from by",
+      "second": "Skitter",
+      "from": "Buzz 7.6"
+    },
+    {
+      "first": "Grue",
+      "relationship": "friendzoned",
+      "inv_relationship": "was friendzoned by",
+      "second": "Skitter",
+      "from": "Buzz 7.6"
     }
   ],
 
-  "up_to": "Buzz 7.4"
+  "up_to": "Buzz 7.6"
 }
