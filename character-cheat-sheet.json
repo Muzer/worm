@@ -420,6 +420,10 @@
         {
           "value": "Admits to herself she joined the Undersiders because she was lonely",
           "from": "Tangle 6.9"
+        },
+        {
+          "value": "She notes she is not good at repartee, banter, or name calling",
+          "from": "Buzz 7.9"
         }
       ],
       "parahuman_type": [
@@ -6108,6 +6112,11 @@
         {
           "value": "Lady Photon",
           "from": "Agitation 3.11"
+        },
+        {
+          "value": "Photon Mom",
+          "note": "Nickname coined by the media but annoys her",
+          "from": "Buzz 7.9"
         }
       ],
       "pronouns": [
@@ -6119,7 +6128,12 @@
       "occupations": [
         {
           "value": "Hero team member",
-          "from": "Agitation 3.11"
+          "from": "Agitation 3.11",
+          "to": "Buzz 7.9"
+        },
+        {
+          "value": "Hero team leader",
+          "from": "Buzz 7.9"
         }
       ],
       "based_in": [
@@ -6132,6 +6146,41 @@
         {
           "value": "hero",
           "from": "Agitation 3.11"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Flight",
+          "notes": [
+            {
+              "value": "Can fly",
+              "provenance": "Taylor, direct witness",
+              "from": "Buzz 7.9"
+            }
+          ],
+          "from": "Buzz 7.9"
+        },
+        {
+          "brief_desc": "Forcefield bubbles",
+          "notes": [
+            {
+              "value": "Can raise forcefield bubbles around herself",
+              "provenance": "Taylor, direct witness",
+              "from": "Buzz 7.9"
+            }
+          ],
+          "from": "Buzz 7.9"
+        },
+        {
+          "brief_desc": "Lasers",
+          "notes": [
+            {
+              "value": "Ability to project lasers from her hand",
+              "provenance": "Taylor, direct witness",
+              "from": "Buzz 7.9"
+            }
+          ],
+          "from": "Buzz 7.9"
         }
       ],
       "from": "Agitation 3.11"
@@ -6173,6 +6222,37 @@
           "from": "Agitation 3.11"
         }
       ],
+      "appearance": [
+        {
+          "value": "Seven foot tall athletic figure",
+          "from": "Buzz 7.9"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "White and yellow",
+          "notes": [
+            {
+              "value": "White and yellow costume",
+              "from": "Buzz 7.9"
+            }
+          ],
+          "from": "Buzz 7.9"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "EM shielding",
+          "notes": [
+            {
+              "value": "Personal electromagnetic shielding makes him durable",
+              "provenance": "Taylor, direct witness",
+              "from": "Buzz 7.9"
+            }
+          ],
+          "from": "Buzz 7.9"
+        }
+      ],
       "from": "Agitation 3.11"
     },
     {
@@ -6200,6 +6280,41 @@
           "from": "Agitation 3.11"
         }
       ],
+      "powers": [
+        {
+          "brief_desc": "Flight",
+          "notes": [
+            {
+              "value": "Can fly",
+              "provenance": "Taylor, direct witness",
+              "from": "Buzz 7.9"
+            }
+          ],
+          "from": "Buzz 7.9"
+        },
+        {
+          "brief_desc": "Forcefield bubbles",
+          "notes": [
+            {
+              "value": "Can raise forcefield bubbles around herself",
+              "provenance": "Taylor, direct witness",
+              "from": "Buzz 7.9"
+            }
+          ],
+          "from": "Buzz 7.9"
+        },
+        {
+          "brief_desc": "Lasers",
+          "notes": [
+            {
+              "value": "Ability to project lasers from her hand",
+              "provenance": "Taylor, direct witness",
+              "from": "Buzz 7.9"
+            }
+          ],
+          "from": "Buzz 7.9"
+        }
+      ],
       "from": "Agitation 3.11"
     },
     {
@@ -6207,6 +6322,12 @@
         {
           "value": "Shielder",
           "from": "Agitation 3.11"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Buzz 7.9"
         }
       ],
       "occupations": [
@@ -6225,6 +6346,19 @@
         {
           "value": "hero",
           "from": "Agitation 3.11"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Forcefields",
+          "notes": [
+            {
+              "value": "Can produce bright blue forcefields which can deflect Purity's beams of light",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.9"
+            }
+          ],
+          "from": "Buzz 7.9"
         }
       ],
       "from": "Agitation 3.11"
@@ -7043,6 +7177,12 @@
           "from": "Hive 5.1"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Mrs. Schmidt",
+          "from": "Buzz 7.10"
+        }
+      ],
       "pronouns": [
         {
           "value": "she/her",
@@ -7062,6 +7202,21 @@
       ],
       "based_in": [
         {
+          "value": "Hesse",
+          "from": "Buzz 7.10",
+          "to_soft": "Buzz 7.10"
+        },
+        {
+          "value": "London",
+          "from": "Buzz 7.10",
+          "to_soft": "Buzz 7.10"
+        },
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.10",
+          "to_soft": "Buzz 7.10"
+        },
+        {
           "value": "Boston",
           "from": "Hive 5.1",
           "to_soft": "Hive 5.1"
@@ -7069,6 +7224,12 @@
         {
           "value": "Brockton Bay",
           "from": "Hive 5.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "No kids; cat; has dinners on rotation",
+          "from": "Buzz 7.10"
         }
       ],
       "parahuman_type": [
@@ -7084,6 +7245,22 @@
             {
               "value": "Black costume featuring cowl and cloak",
               "from": "Buzz 7.7"
+            },
+            {
+              "value": "High heeled boots that click as she walks",
+              "from": "Buzz 7.9"
+            },
+            {
+              "value": "No logos",
+              "from": "Buzz 7.9"
+            },
+            {
+              "value": "Carries flashbang grenades",
+              "from": "Buzz 7.9"
+            },
+            {
+              "value": "Carries smoke grenades, grenades, canisters, knives, something that looks like spray paint",
+              "from": "Buzz 7.10"
             }
           ],
           "from": "Buzz 7.7"
@@ -7096,10 +7273,38 @@
             {
               "value": "Can quickly kill someone causing sprays of blood by an unknown method",
               "provenance": "Video footage on the news",
-              "from": "Buzz 7.7"
+              "from": "Buzz 7.7",
+              "to": "Buzz 7.9"
             }
           ],
-          "from": "Buzz 7.7"
+          "from": "Buzz 7.7",
+          "to": "Buzz 7.9"
+        },
+        {
+          "brief_desc": "Become a monster when unseen",
+          "notes": [
+            {
+              "value": "Can turn into something so wrong she has a mental block that stops her transforming if anyone can see",
+              "provenance": "Tattletale 'not even remotely close to the truth'",
+              "from": "Buzz 7.9"
+            },
+            {
+              "value": "Transformed state can instantly cause a dozen gouges to appear in a person or animal, criss-crossing the surface of attack, and pushing them back hard",
+              "provenance": "Video footage on the news, direct witness",
+              "from": "Buzz 7.9"
+            },
+            {
+              "value": "Transformed state is lightning fast and all sharp",
+              "provenance": "Tattletale 'not even remotely close to the truth'",
+              "from": "Buzz 7.9"
+            },
+            {
+              "value": "Skin is smooth and oily, slick with a lubricant",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.10"
+            }
+          ],
+          "from": "Buzz 7.9"
         }
       ],
       "from": "Hive 5.1"
@@ -7109,6 +7314,12 @@
         {
           "value": "Fog",
           "from": "Hive 5.1"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Mr. Schmidt",
+          "from": "Buzz 7.10"
         }
       ],
       "pronouns": [
@@ -7130,6 +7341,21 @@
       ],
       "based_in": [
         {
+          "value": "Hesse",
+          "from": "Buzz 7.10",
+          "to_soft": "Buzz 7.10"
+        },
+        {
+          "value": "London",
+          "from": "Buzz 7.10",
+          "to_soft": "Buzz 7.10"
+        },
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.10",
+          "to_soft": "Buzz 7.10"
+        },
+        {
           "value": "Boston",
           "from": "Hive 5.1",
           "to_soft": "Hive 5.1"
@@ -7137,6 +7363,12 @@
         {
           "value": "Brockton Bay",
           "from": "Hive 5.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "No kids; cat; has dinners on rotation",
+          "from": "Buzz 7.10"
         }
       ],
       "parahuman_type": [
@@ -7152,6 +7384,10 @@
             {
               "value": "Gray costume featuring cowl and cloak",
               "from": "Buzz 7.7"
+            },
+            {
+              "value": "No logos",
+              "from": "Buzz 7.9"
             }
           ],
           "from": "Buzz 7.7"
@@ -7164,12 +7400,23 @@
             {
               "value": "Evaporates into a rolling cloud of white-gray fog",
               "provenance": "Video footage on the news",
-              "from": "Buzz 7.7"
+              "from": "Buzz 7.7",
+              "to": "Buzz 7.9"
+            },
+            {
+              "value": "Evaporates into a rolling cloud of white-gray fog",
+              "provenance": "Video footage on the news, direct witness",
+              "from": "Buzz 7.9"
             },
             {
               "value": "Fog cleans up blood and bodies",
               "provenance": "Video footage on the news",
               "from": "Buzz 7.7"
+            },
+            {
+              "value": "Fog crushes bugs alive in midair",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.9"
             }
           ],
           "from": "Buzz 7.7"
@@ -9258,6 +9505,11 @@
         {
           "value": "Rune",
           "from": "Buzz 7.6"
+        },
+        {
+          "value": "Sabrina the teenage Nazi",
+          "note": "Nickname used mentally by Skitter",
+          "from": "Buzz 7.9"
         }
       ],
       "occupations": [
@@ -9272,10 +9524,46 @@
           "from": "Buzz 7.6"
         }
       ],
+      "notes": [
+        {
+          "value": "Teenage girl",
+          "from": "Buzz 7.9"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "villain",
           "from": "Buzz 7.6"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Cowl and robe",
+          "notes": [
+            {
+              "value": "Cowl and robe",
+              "from": "Buzz 7.9"
+            }
+          ],
+          "from": "Buzz 7.9"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Telekinetic",
+          "notes": [
+            {
+              "value": "Powerful telekinetic capable of lifting nearly a ton, or several things weighing up to a ton",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.9"
+            },
+            {
+              "value": "Needs to touch things before she can move them",
+              "provenance": "Taylor",
+              "from": "Buzz 7.9"
+            }
+          ],
+          "from": "Buzz 7.9"
         }
       ],
       "from": "Buzz 7.6"
@@ -9341,6 +9629,12 @@
           "from": "Buzz 7.6"
         }
       ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Buzz 7.9"
+        }
+      ],
       "occupations": [
         {
           "value": "Gang member",
@@ -9359,7 +9653,67 @@
           "from": "Buzz 7.6"
         }
       ],
+      "powers": [
+        {
+          "brief_desc": "Ethereal simulacrums",
+          "notes": [
+            {
+              "value": "Can use his power to generate ethereal simulacrums of himself, or a legion of ghosts",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.9"
+            },
+            {
+              "value": "Produces half a dozen translucent replicas of himself, each armed with a ten foot long spear",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.9"
+            },
+            {
+              "value": "They can carry him up in the air, letting him fly, and can pass through walls, armour, and other solid barriers to impale people",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.9"
+            }
+          ],
+          "from": "Buzz 7.9"
+        }
+      ],
       "from": "Buzz 7.6"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Dr. Q",
+          "from": "Buzz 7.10"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Buzz 7.10"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Doctor",
+          "from": "Buzz 7.10"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.10"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Thin-lipped man, about Taylor's height",
+          "from": "Buzz 7.10"
+        },
+        {
+          "value": "Hair recently cut, slicked close to scalp, seemed too dark given the age of his hands and face",
+          "from": "Buzz 7.10"
+        }
+      ],
+      "from": "Buzz 7.10"
     }
   ],
 
@@ -11497,7 +11851,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "New Wave",
-      "from": "Agitation 3.11"
+      "from": "Agitation 3.11",
+      "to": "Buzz 7.9"
     },
     {
       "first": "Lady Photon",
@@ -14777,6 +15132,13 @@
       "from": "Buzz 7.7"
     },
     {
+      "first": "Purity",
+      "relationship": "lost custody of",
+      "inv_relationship": "had custody lost by",
+      "second": "Aster Klara Anders",
+      "from": "Buzz 7.7"
+    },
+    {
       "first": "Coil",
       "relationship": "admitted responsibility for the doxxing to",
       "inv_relationship": "was told (by the man himself) responsibility for the doxxing lay with",
@@ -14915,8 +15277,281 @@
       "inv_relationship": "was escaped from by",
       "second": "Stormtiger",
       "from": "Buzz 7.8"
+    },
+    {
+      "first": "Lady Photon",
+      "relationship": "leads",
+      "inv_relationship": "has leader",
+      "second": "New Wave",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Lady Photon",
+      "relationship": "has daughter",
+      "inv_relationship": "has mother",
+      "second": "Laserdream",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Laserdream",
+      "relationship": "has aunt",
+      "inv_relationship": "has niece",
+      "second": "Brandish",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Laserdream",
+      "relationship": "has uncle",
+      "inv_relationship": "has niece",
+      "second": "Flashbang",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Krieg",
+      "relationship": "joined in her rampage",
+      "inv_relationship": "was joined in her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Victor",
+      "relationship": "joined in her rampage",
+      "inv_relationship": "was joined in her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Othala",
+      "relationship": "joined in her rampage",
+      "inv_relationship": "was joined in her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Alabaster",
+      "relationship": "joined in her rampage",
+      "inv_relationship": "was joined in her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Night",
+      "relationship": "joined in her rampage",
+      "inv_relationship": "was joined in her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Fog",
+      "relationship": "joined in her rampage",
+      "inv_relationship": "was joined in her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Crusader",
+      "relationship": "joined in her rampage",
+      "inv_relationship": "was joined in her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Rune",
+      "relationship": "joined in her rampage",
+      "inv_relationship": "was joined in her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Grue",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Regent",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Lady Photon",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Laserdream",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Glory Girl",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Shielder",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Flashbang",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Brandish",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Vista",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Manpower",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Aegis",
+      "relationship": "fought against the rampage of",
+      "inv_relationship": "was fought against during her rampage by",
+      "second": "Purity",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Rune",
+      "relationship": "injured",
+      "inv_relationship": "was injured by",
+      "second": "Grue",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Night",
+      "relationship": "besides the gender difference, is very similar to",
+      "inv_relationship": "besides the gender difference, is very similar to",
+      "second": "Fog",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Night",
+      "relationship": "injured",
+      "inv_relationship": "was injured by",
+      "second": "Brutus",
+      "from": "Buzz 7.9"
+    },
+    {
+      "first": "Night",
+      "relationship": "injured",
+      "inv_relationship": "was injured by",
+      "second": "Judas",
+      "from": "Buzz 7.10"
+    },
+    {
+      "first": "Fog",
+      "relationship": "injured",
+      "inv_relationship": "was injured by",
+      "second": "Angelica",
+      "from": "Buzz 7.10"
+    },
+    {
+      "first": "Night",
+      "relationship": "is married to",
+      "inv_relationship": "is married to",
+      "second": "Fog",
+      "from": "Buzz 7.10"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "shot",
+      "inv_relationship": "was shot by",
+      "second": "Night",
+      "from": "Buzz 7.10"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "revealed the location of Aster to",
+      "inv_relationship": "was told the location of Aster by",
+      "second": "Purity",
+      "from": "Buzz 7.10"
+    },
+    {
+      "first": "Dr. Q",
+      "relationship": "works for",
+      "inv_relationship": "employs",
+      "second": "Coil",
+      "from": "Buzz 7.10"
+    },
+    {
+      "first": "Dr. Q",
+      "relationship": "healed",
+      "inv_relationship": "was healed by",
+      "second": "Grue",
+      "from": "Buzz 7.10"
+    },
+    {
+      "first": "Dr. Q",
+      "relationship": "healed",
+      "inv_relationship": "was healed by",
+      "second": "Skitter",
+      "from": "Buzz 7.10"
     }
   ],
 
-  "up_to": "Buzz 7.8"
+  "up_to": "Buzz 7.10"
 }
