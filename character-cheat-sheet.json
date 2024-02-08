@@ -348,6 +348,11 @@
         {
           "value": "Taylor Hebert",
           "from": "Hive 5.4"
+        },
+        {
+          "value": "Little Owl",
+          "from": "Tangle 6.9",
+          "note": "Pet name formerly used by her mother"
         }
       ],
       "pronouns": [
@@ -1904,6 +1909,12 @@
         {
           "value": "Regent",
           "from": "Gestation 1.5"
+        },
+        {
+          "value": "Hijack",
+          "note": "Name used under Heartbreaker",
+          "from": "Buzz 7.1",
+          "to_soft": "Buzz 7.1"
         }
       ],
       "civilian_names": [
@@ -1925,6 +1936,11 @@
         }
       ],
       "based_in": [
+        {
+          "value": "Montreal",
+          "from": "Buzz 7.1",
+          "to_soft": "Buzz 7.1"
+        },
         {
           "value": "Brockton Bay",
           "from": "Gestation 1.5"
@@ -1950,6 +1966,18 @@
         {
           "value": "Went out of his way to get out from under the thumb of his father",
           "from": "Tangle 6.8"
+        },
+        {
+          "value": "Heartbreaker's women were not nice to him or his siblings",
+          "from": "Buzz 7.1"
+        },
+        {
+          "value": "Under Heartbreaker they had everything they could ask for in terms of money, his victims took care of chores so all the kids had to do was babysit; no school though some went to stay out of Heartbreaker's way",
+          "from": "Buzz 7.1"
+        },
+        {
+          "value": "Has killed people, when Heartbreaker was trying to break him",
+          "from": "Buzz 7.1"
         }
       ],
       "parahuman_type": [
@@ -2031,6 +2059,19 @@
             }
           ],
           "from": "Insinuation 2.9"
+        }
+      ],
+      "trigger_events": [
+        {
+          "number": 1,
+          "brief_desc": "Relatively young trigger event",
+          "notes": [
+            {
+              "value": "Had trigger event when ten or eleven",
+              "from": "Buzz 7.1"
+            }
+          ],
+          "from": "Buzz 7.1"
         }
       ],
       "from": "Gestation 1.5"
@@ -4231,7 +4272,13 @@
       "civilian_names": [
         {
           "value": "Angelica",
-          "from": "Insinuation 2.9"
+          "from": "Insinuation 2.9",
+          "to": "Agitation 3.8"
+        },
+        {
+          "value": "Angelica",
+          "note": "Was named by a previous owner",
+          "from": "Agitation 3.8"
         }
       ],
       "pronouns": [
@@ -4258,6 +4305,10 @@
         {
           "value": "Trained to hurt and kill; trained to listen to Bitch when her power is in use",
           "from": "Insinuation 2.9"
+        },
+        {
+          "value": "Was abused by a previous owner, which is how she lost her ear and eye",
+          "from": "Agitation 3.8"
         }
       ],
       "appearance": [
@@ -5791,10 +5842,69 @@
           "from": "Agitation 3.6"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Nikos Vasil",
+          "from": "Buzz 7.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Villain team leader",
+          "from": "Buzz 7.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Montreal",
+          "from": "Buzz 7.1"
+        }
+      ],
       "notes": [
         {
           "value": "Tattletale includes them as an example of capes fucked up in the head",
           "from": "Agitation 3.6"
+        },
+        {
+          "value": "Found beautiful women, made them love him, formed a cult-like group with them serving him hand and foot and committing crimes for his favour",
+          "from": "Buzz 7.1"
+        },
+        {
+          "value": "Was very protective of his children if they were threatened but didn't pay them much attention otherwise, unless it was to discipline or test them",
+          "from": "Buzz 7.1"
+        },
+        {
+          "value": "Discipline involved giving out a healthy dose of paralysing terror; testing happened on birthdays or after a bad day, he'd tried to set up a trigger event",
+          "from": "Buzz 7.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Buzz 7.1"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Emotion manipulation",
+          "notes": [
+            {
+              "value": "The ability to manipulate emotions",
+              "provenance": "Taylor",
+              "from": "Buzz 7.1"
+            },
+            {
+              "value": "Only needs proximity to affect people",
+              "provenance": "Taylor",
+              "from": "Buzz 7.1"
+            },
+            {
+              "value": "Effects are long-term or permanent",
+              "provenance": "Taylor",
+              "from": "Buzz 7.1"
+            }
+          ],
+          "from": "Buzz 7.1"
         }
       ],
       "from": "Agitation 3.6"
@@ -8461,6 +8571,12 @@
           "from": "Interlude 6"
         }
       ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 6"
+        }
+      ],
       "occupations": [
         {
           "value": "Prison inmate/cell block leader",
@@ -8478,6 +8594,66 @@
         }
       ],
       "from": "Interlude 6"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Sirius",
+          "from": "Buzz 7.2"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Buzz 7.2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.2"
+        },
+        {
+          "value": "Dog rescue",
+          "from": "Buzz 7.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Is a dog",
+          "from": "Buzz 7.2"
+        },
+        {
+          "value": "Newest dog in the rescue, not used to things",
+          "from": "Buzz 7.2"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Black lab",
+          "from": "Buzz 7.2"
+        }
+      ],
+      "from": "Buzz 7.2"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Rollo",
+          "from": "Buzz 7.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Is a dog",
+          "from": "Buzz 7.2"
+        },
+        {
+          "value": "Rachel mentions using her powers on this dog but does not elaborate on any details",
+          "from": "Buzz 7.2"
+        }
+      ],
+      "from": "Buzz 7.2"
     }
   ],
 
@@ -13300,6 +13476,13 @@
       "from": "Tangle 6.9"
     },
     {
+      "first": "Skitter",
+      "relationship": "lives with",
+      "inv_relationship": "live with",
+      "second": "Undersiders",
+      "from": "Tangle 6.9"
+    },
+    {
       "first": "Peter Regan",
       "relationship": "sentenced",
       "inv_relationship": "was sentenced by",
@@ -13468,8 +13651,92 @@
       "inv_relationship": "was killed by",
       "second": "Bakuda",
       "from": "Interlude 6"
+    },
+    {
+      "first": "Regent",
+      "relationship": "has father",
+      "inv_relationship": "has son",
+      "second": "Heartbreaker",
+      "from": "Buzz 7.1"
+    },
+    {
+      "first": "Regent",
+      "relationship": "previously worked for",
+      "inv_relationship": "previously employed",
+      "second": "Heartbreaker",
+      "from": "Buzz 7.1"
+    },
+    {
+      "first": "Regent",
+      "relationship": "previously lived with",
+      "inv_relationship": "previously lived with",
+      "second": "Heartbreaker",
+      "from": "Buzz 7.1"
+    },
+    {
+      "first": "Heartbreaker",
+      "relationship": "previously, by making him pointlessly kill people, tried to break",
+      "inv_relationship": "previously was attempted to be broken by making him pointlessly kill people by",
+      "second": "Regent",
+      "from": "Buzz 7.1"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "voted for accepting the offer of",
+      "inv_relationship": "had accepting his offer voted for by",
+      "second": "Coil",
+      "from": "Buzz 7.1"
+    },
+    {
+      "first": "Regent",
+      "relationship": "voted for accepting the offer of",
+      "inv_relationship": "had accepting his offer voted for by",
+      "second": "Coil",
+      "from": "Buzz 7.1"
+    },
+    {
+      "first": "Grue",
+      "relationship": "voted for accepting the offer of",
+      "inv_relationship": "had accepting his offer voted for by",
+      "second": "Coil",
+      "from": "Buzz 7.1"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "voted for accepting the offer of",
+      "inv_relationship": "had accepting his offer voted for by",
+      "second": "Coil",
+      "from": "Buzz 7.1"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "voted against accepting the offer of",
+      "inv_relationship": "had accepting his offer voted against by",
+      "second": "Coil",
+      "from": "Buzz 7.1"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "joined her to help with her dogs, on the condition that she doesn't mention Coil or ruin her day",
+      "inv_relationship": "had join her to help with her dogs, on the condition that she doesn't mention Coil or ruin her day",
+      "second": "Bitch",
+      "from": "Buzz 7.1"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "discovered the heartworm of",
+      "inv_relationship": "had heartworm discovered by",
+      "second": "Sirius",
+      "from": "Buzz 7.2"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "used her powers to destroy the heartworm of",
+      "inv_relationship": "had heartworm destroyed using her powers by",
+      "second": "Sirius",
+      "from": "Buzz 7.2"
     }
   ],
 
-  "up_to": "Interlude 6"
+  "up_to": "Buzz 7.2"
 }
