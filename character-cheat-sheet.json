@@ -2121,6 +2121,12 @@
           "from": "Gestation 1.6"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Colin",
+          "from": "Interlude 7"
+        }
+      ],
       "pronouns": [
         {
           "value": "he/him",
@@ -2271,6 +2277,11 @@
               "value": "Can teleport his Halberd back into his hand if he drops it",
               "provenance": "Direct witness",
               "from": "Tangle 6.7"
+            },
+            {
+              "value": "Develops a mode that blurs the end of the Halberd, where it can pass through and destroy objects without resistance; vulnerable to forcefields, fire, and intense energy, and takes up lots of space in the halberd even with Armsmaster's power",
+              "provenance": "Direct witness",
+              "from": "Interlude 7"
             }
           ],
           "from": "Gestation 1.6"
@@ -4151,6 +4162,10 @@
         {
           "value": "Stationed to protect the mall when Taylor visited with her dad",
           "from": "Hive 5.3"
+        },
+        {
+          "value": "Still has discipline problems with the Wards",
+          "from": "Interlude 7"
         }
       ],
       "appearance": [
@@ -5000,6 +5015,18 @@
           "from": "Agitation 3.2"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Hannah",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Hana",
+          "note": "Old name used before coming to America",
+          "from": "Interlude 7",
+          "to_soft": "Interlude 7"
+        }
+      ],
       "pronouns": [
         {
           "value": "she/her",
@@ -5014,14 +5041,80 @@
       ],
       "based_in": [
         {
+          "value": "A secluded village in a warzone",
+          "from": "Interlude 7",
+          "to_soft": "Interlude 7"
+        },
+        {
+          "value": "United Kingdom",
+          "from": "Interlude 7",
+          "to_soft": "Interlude 7"
+        },
+        {
           "value": "Brockton Bay",
           "from": "Agitation 3.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Has PoV Interlude",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Understands a small amount of Turkish",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "After saving 6 of the other children, made it back to her village, where they were picked up by allied guerilla fighters and eventually sent to the UK as refugees",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Her power was discovered when she passed through a metal detector as it detected her gun",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Rescued after that by an American in military uniform, and enlisted into the Wards",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "When she first went out in costume she barely knew a hundred English words",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "War was about the methodical eradication of her people",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Finds that people in America complain more emotionally about mundane things than her village did about death and genocide",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Trigger event was 26 years ago",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Goes to sleep to keep herself grounded with the memory of her trigger whenever she starts thinking that her life isn't real",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Really likes America; no longer has much of an accent",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Believes the entity is God or a warrior angel of His; likes the idea that it's a benign entity watching over humanity",
+          "from": "Interlude 7"
         }
       ],
       "parahuman_type": [
         {
           "value": "hero",
           "from": "Agitation 3.2"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Perfectly-shaped, white teeth, capped by a dentist; not really hers",
+          "from": "Interlude 7"
         }
       ],
       "cape_costumes": [
@@ -5031,6 +5124,10 @@
             {
               "value": "Modified military uniform, tight enough to accentuate her curves, scarf around lower face with embroidered American flag, similar sash around waist",
               "from": "Interlude 3"
+            },
+            {
+              "value": "Combat knife sheathed at her hip",
+              "from": "Interlude 7"
             }
           ],
           "from": "Interlude 3"
@@ -5046,7 +5143,99 @@
               "from": "Interlude 3"
             }
           ],
-          "from": "Interlude 3"
+          "from": "Interlude 3",
+          "to": "Interlude 7"
+        },
+        {
+          "brief_desc": "Summon guns",
+          "notes": [
+            {
+              "value": "Can summon guns out of a green and black shimmer crackling with energy, only being able to have one at a time (converting her one summoned gun to a different one via that blur if she wants something else)",
+              "provenance": "PoV",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "Appears to work with guns she's seen before, even if only in photos",
+              "provenance": "PoV",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "She cannot drop or leave behind the gun; if taken away she regains it in her hand shortly afterwards",
+              "provenance": "PoV",
+              "from": "Interlude 7"
+            }
+          ],
+          "from": "Interlude 7"
+        },
+        {
+          "brief_desc": "No sleep",
+          "notes": [
+            {
+              "value": "Does not need to sleep",
+              "provenance": "PoV",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "If she does sleep, her mind plays past events in perfect detail in lieu of dreaming",
+              "provenance": "PoV",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "This allows her to remember the entity when she's supposed to have forgotten it",
+              "provenance": "PoV",
+              "from": "Interlude 7"
+            }
+          ],
+          "from": "Interlude 7"
+        }
+      ],
+      "trigger_events": [
+        {
+          "number": 1,
+          "brief_desc": "Being marched through a booby-trapped forest",
+          "notes": [
+            {
+              "value": "Was forced to walk by a Turkish soldier through a booby-trapped forest, to clear the area for soldiers to pass",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "Was hiding in the cellar when her village was attacked by Turkish soldiers",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "Knew her parents were dead or dying when the enemy found her and dragged her into a group with the nine other village children",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "After one child died in an explosive booby trap, and the other was shot by a Turkish soldier after injuring his leg in a spiked booby trap, eventually comes to a place where she finds she can't continue walking",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "However knows if she stops the soldiers will start torturing the other children or perhaps herself to death",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "During trigger, sees something big in a way that transcended what she could see or feel; bigger than a planet except more; the thing that was too large to perceive in the first place extended",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "Looked as though there were mirror images of it, except existing in the same place; some moving differently, some rarely coming into contact with something the others didn't; each image was real and concrete",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "The entity was alive; each extension being as much a part of the connected whole as her hand or nose was to her; each was something the entity was aware of, controlled, and moved with intent and purpose",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "Sees that the entity is dying, as the outermost extensions are flaking off and breaking into fragments as it swam through a vacuum, not moving but adjusting itself through the existences that held the echoes, shrinking here and swelling there, carrying itself away faster than light",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "One of the fragments that flaked off seemed to grow, getting larger, looming in her consciousness until it was all she could perceive, as though the moon were falling directly on top of her",
+              "from": "Interlude 7"
+            }
+          ],
+          "from": "Interlude 7"
         }
       ],
       "from": "Agitation 3.2"
@@ -5506,6 +5695,10 @@
         {
           "value": "Has PoV Interlude",
           "from": "Interlude 3"
+        },
+        {
+          "value": "Expected to start helping out with his father's local business enterprise",
+          "from": "Interlude 7"
         }
       ],
       "parahuman_type": [
@@ -7627,7 +7820,12 @@
         },
         {
           "value": "monstrous",
-          "from": "Interlude 5"
+          "from": "Interlude 5",
+          "to": "Interlude 7"
+        },
+        {
+          "value": "Case Fifty-Three",
+          "from": "Interlude 7"
         }
       ],
       "appearance": [
@@ -7822,7 +8020,12 @@
         },
         {
           "value": "monstrous",
-          "from": "Interlude 5"
+          "from": "Interlude 5",
+          "to": "Interlude 7"
+        },
+        {
+          "value": "Case Fifty-Three",
+          "from": "Interlude 7"
         }
       ],
       "appearance": [
@@ -8597,7 +8800,12 @@
       "parahuman_type": [
         {
           "value": "monstrous",
-          "from": "Interlude 5"
+          "from": "Interlude 5",
+          "to": "Interlude 7"
+        },
+        {
+          "value": "Case Fifty-Three",
+          "from": "Interlude 7"
         }
       ],
       "from": "Interlude 5"
@@ -8618,7 +8826,12 @@
       "parahuman_type": [
         {
           "value": "monstrous",
-          "from": "Interlude 5"
+          "from": "Interlude 5",
+          "to": "Interlude 7"
+        },
+        {
+          "value": "Case Fifty-Three",
+          "from": "Interlude 7"
         }
       ],
       "from": "Interlude 5"
@@ -8947,6 +9160,10 @@
         {
           "value": "Best tinker in the world, according to Bakuda",
           "from": "Interlude 6"
+        },
+        {
+          "value": "Speaks through a computer with a synthetic voice to mask her identity",
+          "from": "Interlude 7"
         }
       ],
       "parahuman_type": [
@@ -8977,6 +9194,17 @@
             }
           ],
           "from": "Interlude 6"
+        },
+        {
+          "brief_desc": "No sleep",
+          "notes": [
+            {
+              "value": "Does not need to sleep",
+              "provenance": "Her own statement",
+              "from": "Interlude 7"
+            }
+          ],
+          "from": "Interlude 7"
         }
       ],
       "from": "Interlude 6"
@@ -9821,6 +10049,13 @@
           "from": "Buzz 7.12"
         }
       ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "note": "Being made to work for one at least",
+          "from": "Buzz 7.11"
+        }
+      ],
       "appearance": [
         {
           "value": "12 years old or so, dark circles under eyes, straight dark brown hair in need of trim",
@@ -9851,6 +10086,186 @@
         }
       ],
       "from": "Buzz 7.11"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Kovan",
+          "from": "Interlude 7"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Interlude 7"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Interlude 7"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "A secluded village in a warzone",
+          "from": "Interlude 7"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Older than Miss Militia",
+          "from": "Interlude 7"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Fat boy",
+          "from": "Interlude 7"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Shot through the head by a Turkish soldier, after walking into a booby trap and severely injuring his legs, while being marched through the forest to find said traps",
+          "from": "Interlude 7"
+        }
+      ],
+      "from": "Interlude 7"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Ashti",
+          "from": "Interlude 7"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Interlude 7"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 7"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "A secluded village in a warzone",
+          "from": "Interlude 7"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Stepped on an explosive booby trap, while being marched through the forest to find said traps",
+          "from": "Interlude 7"
+        }
+      ],
+      "from": "Interlude 7"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Behar",
+          "from": "Interlude 7"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Interlude 7"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "A secluded village in a warzone",
+          "from": "Interlude 7"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Shot by a Turkish soldier during Miss Militia's escape",
+          "from": "Interlude 7"
+        }
+      ],
+      "from": "Interlude 7"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Weld",
+          "from": "Interlude 7"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Interlude 7"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team leader",
+          "from": "Interlude 7"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Good kid with good record",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Good grades, high marks in tactics simulations",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Likeable, higher-than-average feedback, impressive given he's a Case Fifty-Three",
+          "from": "Interlude 7"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Boston",
+          "from": "Interlude 7"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Case Fifty-Three",
+          "from": "Interlude 7"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Ʊ brand in his heel",
+          "from": "Interlude 7"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Ferrous biology",
+          "notes": [
+            {
+              "value": "Absorbs metals through his skin",
+              "provenance": "Dragon",
+              "from": "Interlude 7"
+            },
+            {
+              "value": "Strong, tough",
+              "provenance": "Dragon",
+              "from": "Interlude 7"
+            }
+          ],
+          "from": "Interlude 7"
+        }
+      ],
+      "from": "Interlude 7"
     }
   ],
 
@@ -10401,6 +10816,18 @@
         {
           "value": "An attack from one warrants air raid sirens",
           "from": "Buzz 7.12"
+        },
+        {
+          "value": "Class S threat",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "They come one at a time, months apart, rarely hitting the same area twice in a short span of time",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Drawn to areas where they perceive vulnerability, where they think they can cause damage, eg nuclear reactors, the Birdcage, places hit by natural disasters, or ongoing conflict",
+          "from": "Interlude 7"
         }
       ],
       "from": "Agitation 3.6"
@@ -10717,6 +11144,31 @@
     {
       "names": [
         {
+          "value": "Boston Protectorate",
+          "from": "Interlude 5"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Boston",
+          "from": "Interlude 5"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hero team",
+          "from": "Interlude 5"
+        },
+        {
+          "value": "Boston's Protectorate team",
+          "from": "Interlude 5"
+        }
+      ],
+      "from": "Interlude 5"
+    },
+    {
+      "names": [
+        {
           "value": "Grue's ABB raid team",
           "from": "Tangle 6.1",
           "note": "Not official name"
@@ -10862,6 +11314,31 @@
         }
       ],
       "from": "Interlude 6"
+    },
+    {
+      "names": [
+        {
+          "value": "Boston Wards",
+          "from": "Interlude 7"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Boston",
+          "from": "Interlude 7"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hero team",
+          "from": "Interlude 7"
+        },
+        {
+          "value": "Boston's Wards team",
+          "from": "Interlude 7"
+        }
+      ],
+      "from": "Interlude 7"
     }
   ],
 
@@ -13897,6 +14374,20 @@
       "from": "Interlude 5"
     },
     {
+      "first": "Boston Protectorate",
+      "relationship": "is part of",
+      "inv_relationship": "has team",
+      "second": "Protectorate",
+      "from": "Interlude 5"
+    },
+    {
+      "first": "Faultline's Crew",
+      "relationship": "previously defeated",
+      "inv_relationship": "were previously defeated by",
+      "second": "Boston Protectorate",
+      "from": "Interlude 5"
+    },
+    {
       "first": "Faultline's Crew",
       "relationship": "previously recruited from an asylum while on a job",
       "inv_relationship": "was previously recruited from an asylum while they were on a job by",
@@ -15718,6 +16209,13 @@
       "from": "Buzz 7.10"
     },
     {
+      "first": "Aster Klara Anders",
+      "relationship": "reunited with",
+      "inv_relationship": "reunited with",
+      "second": "Purity",
+      "from": "Buzz 7.10"
+    },
+    {
       "first": "Cranston",
       "relationship": "works for",
       "inv_relationship": "employs",
@@ -15807,8 +16305,176 @@
       "inv_relationship": "was left by",
       "second": "Undersiders",
       "from": "Buzz 7.12"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "grew up in the same village as",
+      "inv_relationship": "grew up in the same village as",
+      "second": "Kovan",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "grew up in the same village as",
+      "inv_relationship": "grew up in the same village as",
+      "second": "Ashti",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Kovan",
+      "relationship": "grew up in the same village as",
+      "inv_relationship": "grew up in the same village as",
+      "second": "Ashti",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "grew up in the same village as",
+      "inv_relationship": "grew up in the same village as",
+      "second": "Behar",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Kovan",
+      "relationship": "grew up in the same village as",
+      "inv_relationship": "grew up in the same village as",
+      "second": "Behar",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Ashti",
+      "relationship": "grew up in the same village as",
+      "inv_relationship": "grew up in the same village as",
+      "second": "Behar",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "previously graduated from",
+      "inv_relationship": "has previous graduated member",
+      "second": "Wards East-North-East",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "lives with",
+      "inv_relationship": "live with",
+      "second": "Protectorate East-North-East",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Director Piggot",
+      "relationship": "decided to restructure",
+      "inv_relationship": "will be restructured by",
+      "second": "Wards East-North-East",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Director Piggot",
+      "relationship": "decided to restructure",
+      "inv_relationship": "will be restructured by",
+      "second": "Protectorate East-North-East",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Weld",
+      "relationship": "will be swapped with",
+      "inv_relationship": "will be swapped with",
+      "second": "Aegis",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Boston Wards",
+      "relationship": "is part of",
+      "inv_relationship": "has team",
+      "second": "Wards",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Aegis",
+      "relationship": "will lead",
+      "inv_relationship": "will be led by",
+      "second": "Boston Wards",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Weld",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Boston Wards",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Weld",
+      "relationship": "will lead",
+      "inv_relationship": "will be led by",
+      "second": "Wards East-North-East",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "decided to send to be transferred",
+      "inv_relationship": "will be transferred by",
+      "second": "Kid Win",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "decided to try to send to be transferred",
+      "inv_relationship": "will be attempted to be transferred by",
+      "second": "Shadow Stalker",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "decided, as a first backup option, to try to send to be transferred",
+      "inv_relationship": "will be attempted to be transferred, as a first backup option, by",
+      "second": "Browbeat",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "decided, as a second backup option, to send to be transferred",
+      "inv_relationship": "will be transferred, as a second backup option, by",
+      "second": "Clockblocker",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "will lead",
+      "inv_relationship": "will be led by",
+      "second": "Protectorate East-North-East",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "will lose leadership role and transfer away from",
+      "inv_relationship": "will lose as leader and have transferred away",
+      "second": "Protectorate East-North-East",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "will be transferred to",
+      "inv_relationship": "will have member",
+      "second": "Chicago Protectorate",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Dragon",
+      "relationship": "developed a program to predict movement of",
+      "inv_relationship": "had program to predict movement of developed by",
+      "second": "Endbringers",
+      "from": "Interlude 7"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "improved the program to predict movement of",
+      "inv_relationship": "had program to predict movement of improved by",
+      "second": "Endbringers",
+      "from": "Interlude 7"
     }
   ],
 
-  "up_to": "Buzz 7.12"
+  "up_to": "Interlude 7"
 }
