@@ -369,7 +369,8 @@
         },
         {
           "value": "Villain team member",
-          "from": "Tangle 6.9"
+          "from": "Tangle 6.9",
+          "to_soft": "Buzz 7.12"
         }
       ],
       "based_in": [
@@ -389,7 +390,8 @@
         },
         {
           "value": "Headquarters of the Undersiders",
-          "from": "Tangle 6.1"
+          "from": "Tangle 6.1",
+          "to_soft": "Buzz 7.12"
         }
       ],
       "notes": [
@@ -2653,6 +2655,10 @@
         {
           "value": "First parahuman to appear on Earth",
           "from": "Interlude 1"
+        },
+        {
+          "value": "Travels around solving crises",
+          "from": "Interlude 1"
         }
       ],
       "parahuman_type": [
@@ -3723,7 +3729,7 @@
       ],
       "cape_costumes": [
         {
-          "brief_desc": "Clown",
+          "brief_desc": "Jester",
           "notes": [
             {
               "value": "Clown makeup, jester's cap, teal and orange skintight costume, coattails",
@@ -3739,6 +3745,16 @@
             }
           ],
           "from": "Tangle 6.7"
+        },
+        {
+          "brief_desc": "Red and gold",
+          "notes": [
+            {
+              "value": "Red and gold costume and makeup",
+              "from": "Buzz 7.11"
+            }
+          ],
+          "from": "Buzz 7.11"
         }
       ],
       "powers": [
@@ -4800,6 +4816,10 @@
         {
           "value": "Bought two of the three mayoral candidates of Brockton Bay; will make similar plays for the council election",
           "from": "Tangle 6.8"
+        },
+        {
+          "value": "Headquartered underneath the skeleton of a high-rise",
+          "from": "Buzz 7.11"
         }
       ],
       "appearance": [
@@ -9679,7 +9699,7 @@
       "from": "Buzz 7.6"
     },
     {
-      "cape_names": [
+      "civilian_names": [
         {
           "value": "Dr. Q",
           "from": "Buzz 7.10"
@@ -9714,6 +9734,123 @@
         }
       ],
       "from": "Buzz 7.10"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Cranston",
+          "from": "Buzz 7.11"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.11"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Blonde woman who barely looks out of high school",
+          "from": "Buzz 7.11"
+        }
+      ],
+      "from": "Buzz 7.11"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Pearse",
+          "from": "Buzz 7.11"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.11"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Man, no more than 4' tall",
+          "from": "Buzz 7.11"
+        }
+      ],
+      "from": "Buzz 7.11"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Duchene",
+          "from": "Buzz 7.11"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.11"
+        }
+      ],
+      "from": "Buzz 7.11"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Dinah Alcott",
+          "from": "Buzz 7.11"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Buzz 7.11"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Buzz 7.11"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Was kidnapped from the middle school near Arcadia",
+          "from": "Buzz 7.12"
+        },
+        {
+          "value": "Uncle is one of the mayoral candidates",
+          "from": "Buzz 7.12"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "12 years old or so, dark circles under eyes, straight dark brown hair in need of trim",
+          "from": "Buzz 7.11"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Probability calculation",
+          "notes": [
+            {
+              "value": "Is given a scenario, and can calculate the probabilities of various outcomes given that scenario",
+              "provenance": "Direct witness",
+              "from": "Buzz 7.11"
+            },
+            {
+              "value": "Likely by seeing all potential outcomes of an event in a fraction of a second; power categorises outcomes and helps her figure out the chance an event will come to pass",
+              "provenance": "Coil",
+              "from": "Buzz 7.11"
+            },
+            {
+              "value": "Use of power is taxing so has to be kept limited",
+              "provenance": "Coil",
+              "from": "Buzz 7.11"
+            }
+          ],
+          "from": "Buzz 7.11"
+        }
+      ],
+      "from": "Buzz 7.11"
     }
   ],
 
@@ -10260,6 +10397,10 @@
         {
           "value": "Bad enough that enemies call a truce, everyone bands together to put them down when they attack",
           "from": "Agitation 3.6"
+        },
+        {
+          "value": "An attack from one warrants air raid sirens",
+          "from": "Buzz 7.12"
         }
       ],
       "from": "Agitation 3.6"
@@ -11222,7 +11363,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Undersiders",
-      "from": "Insinuation 2.6"
+      "from": "Insinuation 2.6",
+      "to_soft": "Buzz 7.12"
     },
     {
       "first": "Taylor",
@@ -11449,7 +11591,8 @@
       "relationship": "arranges regular morning coffee meetings with",
       "inv_relationship": "arranges regular morning coffee meetings with",
       "second": "Taylor",
-      "from": "Agitation 3.1"
+      "from": "Agitation 3.1",
+      "to_soft": "Buzz 7.12"
     },
     {
       "first": "Miss Militia",
@@ -11477,7 +11620,8 @@
       "relationship": "gives sparring lessons to",
       "inv_relationship": "receives sparring lessons from",
       "second": "Taylor",
-      "from": "Agitation 3.2"
+      "from": "Agitation 3.2",
+      "to_soft": "Buzz 7.12"
     },
     {
       "first": "Tattletale",
@@ -12160,20 +12304,20 @@
       "relationship": "teaches at",
       "inv_relationship": "employs teacher",
       "second": "Winslow High School",
-      "from": "Shell 4.1",
-      "to_soft": "Tangle 6.9"
+      "from": "Shell 4.1"
     },
     {
       "first": "Mr. Quinlan",
       "relationship": "teaches",
       "inv_relationship": "is taught by",
       "second": "Taylor",
-      "from": "Shell 4.1"
+      "from": "Shell 4.1",
+      "to_soft": "Tangle 6.9"
     },
     {
       "first": "Tattletale",
-      "relationship": "buys new clothes for",
-      "inv_relationship": "is bought new clothes by",
+      "relationship": "bought new clothes for",
+      "inv_relationship": "was bought new clothes by",
       "second": "Taylor",
       "from": "Shell 4.2"
     },
@@ -12189,6 +12333,27 @@
       "relationship": "thought to be responsible for shoving into the locker",
       "inv_relationship": "suspects was shoved into locker by",
       "second": "Taylor",
+      "from": "Shell 4.3"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "is friends with",
+      "inv_relationship": "is friends with",
+      "second": "Grue",
+      "from": "Shell 4.3"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "is friends with",
+      "inv_relationship": "is friends with",
+      "second": "Tattletale",
+      "from": "Shell 4.3"
+    },
+    {
+      "first": "Taylor",
+      "relationship": "is friends with",
+      "inv_relationship": "is friends with",
+      "second": "Regent",
       "from": "Shell 4.3"
     },
     {
@@ -14574,7 +14739,8 @@
       "relationship": "lives with",
       "inv_relationship": "live with",
       "second": "Undersiders",
-      "from": "Tangle 6.9"
+      "from": "Tangle 6.9",
+      "to_soft": "Buzz 7.12"
     },
     {
       "first": "Peter Regan",
@@ -15098,8 +15264,8 @@
     },
     {
       "first": "Grue",
-      "relationship": "arrived during the fight to help",
-      "inv_relationship": "was given help in the fight with the arrival of",
+      "relationship": "arrived during the bookshop fight to help",
+      "inv_relationship": "was given help in the bookshop fight with the arrival of",
       "second": "Skitter",
       "from": "Buzz 7.6"
     },
@@ -15550,8 +15716,99 @@
       "inv_relationship": "was healed by",
       "second": "Skitter",
       "from": "Buzz 7.10"
+    },
+    {
+      "first": "Cranston",
+      "relationship": "works for",
+      "inv_relationship": "employs",
+      "second": "Coil",
+      "from": "Buzz 7.11"
+    },
+    {
+      "first": "Pearse",
+      "relationship": "works for",
+      "inv_relationship": "employs",
+      "second": "Coil",
+      "from": "Buzz 7.11"
+    },
+    {
+      "first": "Duchene",
+      "relationship": "works for",
+      "inv_relationship": "employs",
+      "second": "Coil",
+      "from": "Buzz 7.11"
+    },
+    {
+      "first": "Travelers",
+      "relationship": "based in the HQ of",
+      "inv_relationship": "HQ is also base for",
+      "second": "Coil",
+      "from": "Buzz 7.11"
+    },
+    {
+      "first": "Coil",
+      "relationship": "apologised for doxxing of Empire Eighty-Eight to",
+      "inv_relationship": "received apology for doxxing of Empire Eighty-Eight from",
+      "second": "Undersiders",
+      "from": "Buzz 7.11"
+    },
+    {
+      "first": "Coil",
+      "relationship": "holds captive",
+      "inv_relationship": "is captive of",
+      "second": "Dinah Alcott",
+      "from": "Buzz 7.11"
+    },
+    {
+      "first": "Coil",
+      "relationship": "used the distraction of the bank robbery to capture",
+      "inv_relationship": "was captured during the distraction of the bank robbery by",
+      "second": "Dinah Alcott",
+      "from": "Buzz 7.11"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "wanted to abandon the relationship with",
+      "inv_relationship": "relationship wished to be abandoned by",
+      "second": "Coil",
+      "from": "Buzz 7.12"
+    },
+    {
+      "first": "Grue",
+      "relationship": "did not want to abandon the relationship with",
+      "inv_relationship": "relationship did not wish to be abandoned by",
+      "second": "Coil",
+      "from": "Buzz 7.12"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "did not want to abandon the relationship with",
+      "inv_relationship": "relationship did not wish to be abandoned by",
+      "second": "Coil",
+      "from": "Buzz 7.12"
+    },
+    {
+      "first": "Regent",
+      "relationship": "did not want to abandon the relationship with",
+      "inv_relationship": "relationship did not wish to be abandoned by",
+      "second": "Coil",
+      "from": "Buzz 7.12"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "did not want to abandon the relationship with",
+      "inv_relationship": "relationship did not wish to be abandoned by",
+      "second": "Coil",
+      "from": "Buzz 7.12"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "left",
+      "inv_relationship": "was left by",
+      "second": "Undersiders",
+      "from": "Buzz 7.12"
     }
   ],
 
-  "up_to": "Buzz 7.10"
+  "up_to": "Buzz 7.12"
 }
