@@ -6732,6 +6732,28 @@
           "from": "Agitation 3.11"
         }
       ],
+      "occupations": [
+        {
+          "value": "Endbringer",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Cunning manipulator",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Feels pain, does bleed, but few attacks penetrate far enough to seriously cause harm",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Extermination 8.2"
+        }
+      ],
       "powers": [
         {
           "brief_desc": "Suspected telepathy",
@@ -10629,6 +10651,12 @@
           "from": "Extermination 8.1"
         }
       ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Extermination 8.2"
+        }
+      ],
       "occupations": [
         {
           "value": "Endbringer",
@@ -10643,6 +10671,34 @@
         {
           "value": "Even on a good day for the capes, still kills one in four capes that attend to fight",
           "from": "Extermination 8.1"
+        },
+        {
+          "value": "Has many of the strengths of Behemoth and the Simurgh at once",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Not stupid; can display cunning and tactics enough to catch people off guard",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Feels pain, does bleed, but few attacks penetrate far enough to seriously cause harm",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Destroyed Newfoundland 9th May 2005, with nearly half a million dead; the island is simply gone",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Destroyed Kyushu 2nd/3rd November 1999, in his sixth appearance; 9½ million killed when the region was swamped with tidal waves from every direction while he disrupted prearranged evacuation attempts; nearly three million left homeless",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Heroes now split his targets into hard and soft; ones where heroes can afford to stand their ground and buy time wearing him down, and those where they cannot due to geographic vulnerability to water; Brockton Bay is a soft target",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "If injured enough will retreat back to the ocean, and if enough could delay the time until his next attack",
+          "from": "Extermination 8.2"
         }
       ],
       "parahuman_type": [
@@ -10651,7 +10707,194 @@
           "from": "Extermination 8.1"
         }
       ],
+      "appearance": [
+        {
+          "value": "Thirty feet tall",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Majority muscled not bulky, with the exception of hunched shoulders, neck, and upper torso, bearing cords of muscles that stand out like steel cables",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Top-heavy appearance, like an inverted teardrop with limbs and a tail",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Calves and forearms seem too long for his height, clawed fingers and digitigrade feet doubly so",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Moves with a languid grace, arms moving like pendulums, claws sweeping the water's surface; upper body swaying left and right as if to counterbalance",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Tail, forty or fifty feet long and whiplike, lashes behind and around him in time with his steps",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Face with no mouth, nose, or ears; flat, rigid expanse of the same scaly skin that covers the rest of him, like those on a crocodile's back",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Hard, featureless plane of his face broken up by four cracks or tears — one on the right and three on the left",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "In each crack, green orbs of his eyes glow with a light that pierces through the rain",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Head moves as fast as a person's eyeball might to look around",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Afterimage",
+          "notes": [
+            {
+              "value": "Afterimage, or water echo; causes splashes of water which, at the speeds he can move, is harder than concrete",
+              "provenance": "Legend, direct witness",
+              "from": "Extermination 8.2"
+            },
+            {
+              "value": "Gallons of water pour around him in the wake of his movements, roughly the same mass as the body part that had occupied that space",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.2"
+            }
+          ],
+          "from": "Extermination 8.2"
+        },
+        {
+          "brief_desc": "Crude hydrokinesis",
+          "notes": [
+            {
+              "value": "Has the ability to manipulate water",
+              "provenance": "Legend, direct witness",
+              "from": "Extermination 8.2"
+            },
+            {
+              "value": "Believed to be the cause behind his ability to swim faster than his normal speed, and faster than any speedster on record",
+              "provenance": "Legend",
+              "from": "Extermination 8.2"
+            },
+            {
+              "value": "Can do this on a macro scale; can cause entire shelves of land to crack and fall into the water",
+              "provenance": "Legend",
+              "from": "Extermination 8.2"
+            }
+          ],
+          "from": "Extermination 8.2"
+        }
+      ],
       "from": "Extermination 8.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Behemoth",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Endbringer",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Physical powerhouse",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Feels pain, does bleed, but few attacks penetrate far enough to seriously cause harm",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "from": "Extermination 8.2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Strider",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Mass teleportation",
+          "notes": [
+            {
+              "value": "Appears to be able to mass-teleport people to a nearby location",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.2"
+            },
+            {
+              "value": "Associated with air being sucked out of lungs, and a noise like thunder, and a feeling as though you've been struck by lightning",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.2"
+            }
+          ],
+          "from": "Extermination 8.2"
+        }
+      ],
+      "from": "Extermination 8.2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Carapacitator",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "from": "Extermination 8.2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "WCM",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Charge attack by Leviathan during Brockton Bay attack",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "from": "Extermination 8.2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Iron Falcon",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "from": "Extermination 8.2"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Saurian",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "from": "Extermination 8.2"
     }
   ],
 
@@ -11214,6 +11457,10 @@
         {
           "value": "Drawn to areas where they perceive vulnerability, where they think they can cause damage, eg nuclear reactors, the Birdcage, places hit by natural disasters, or ongoing conflict",
           "from": "Interlude 7"
+        },
+        {
+          "value": "So far, capes have been unable to stop them, unable to get through one confrontation without grievous losses (civilian casualties, loss of a city, or loss of the bravest and strongest capes)",
+          "from": "Extermination 8.2"
         }
       ],
       "from": "Agitation 3.6"
@@ -11776,6 +12023,136 @@
         }
       ],
       "from": "Extermination 8.1"
+    },
+    {
+      "names": [
+        {
+          "value": "Brockton Bay Endbringer Parahuman Response Front Line Group",
+          "note": "Not official name",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "One-off team of parahumans intended to respond to the Endbringer attack on Brockton Bay",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Those who are confident they can take a hit from Leviathan and get up afterwards, or can produce expendable combatants",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "from": "Extermination 8.2"
+    },
+    {
+      "names": [
+        {
+          "value": "Brockton Bay Endbringer Parahuman Response Hand-to-Hand Group",
+          "note": "Not official name",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "One-off team of parahumans intended to respond to the Endbringer attack on Brockton Bay",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Those hand-to-hand combatants who do not fit in the Front Line Group; anyone who thinks they can harm or hamper Leviathan in close quarters, to assist and reinforce the front line",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "from": "Extermination 8.2"
+    },
+    {
+      "names": [
+        {
+          "value": "Brockton Bay Endbringer Parahuman Response Backup Defense",
+          "note": "Not official name",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "One-off team of parahumans intended to respond to the Endbringer attack on Brockton Bay",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Those with forcefields, telekinesis, or any other power that can interrupt Leviathan's movements or help reduce the impacts of the waves",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "from": "Extermination 8.2"
+    },
+    {
+      "names": [
+        {
+          "value": "Brockton Bay Endbringer Parahuman Response Movers",
+          "note": "Not official name",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "One-off team of parahumans intended to respond to the Endbringer attack on Brockton Bay",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Fliers, teleporters, and runners; to respond to pings, rescue fallen, get them to emergency care, assist others",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "from": "Extermination 8.2"
+    },
+    {
+      "names": [
+        {
+          "value": "Brockton Bay Endbringer Parahuman Response Long-Ranged Attackers",
+          "note": "Not official name",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "notes": [
+        {
+          "value": "One-off team of parahumans intended to respond to the Endbringer attack on Brockton Bay",
+          "from": "Extermination 8.2"
+        },
+        {
+          "value": "Long-ranged attackers",
+          "from": "Extermination 8.2"
+        }
+      ],
+      "from": "Extermination 8.2"
     }
   ],
 
@@ -17421,8 +17798,373 @@
       "inv_relationship": "received pre-battle speech from",
       "second": "Brockton Bay Endbringer Parahuman Response",
       "from": "Extermination 8.1"
+    },
+    {
+      "first": "Behemoth",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Dragon",
+      "relationship": "designed communication/tactical armbands for",
+      "inv_relationship": "had communication/tactical armbands designed by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "has previously fought",
+      "inv_relationship": "were previously fought by",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "has previously fought",
+      "inv_relationship": "were previously fought by",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Triumph",
+      "relationship": "has previously fought",
+      "inv_relationship": "were previously fought by",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Velocity",
+      "relationship": "has previously fought",
+      "inv_relationship": "were previously fought by",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Dauntless",
+      "relationship": "has previously fought",
+      "inv_relationship": "were previously fought by",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Battery",
+      "relationship": "has previously fought",
+      "inv_relationship": "were previously fought by",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Assault",
+      "relationship": "has previously fought",
+      "inv_relationship": "were previously fought by",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Bambina",
+      "relationship": "has previously fought",
+      "inv_relationship": "were previously fought by",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Trickster",
+      "relationship": "has previously fought",
+      "inv_relationship": "were previously fought by",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Genesis",
+      "relationship": "has previously fought",
+      "inv_relationship": "were previously fought by",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Sundancer",
+      "relationship": "has previously fought",
+      "inv_relationship": "were previously fought by",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Ballistic",
+      "relationship": "has previously fought",
+      "inv_relationship": "were previously fought by",
+      "second": "Endbringers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "is not member of",
+      "inv_relationship": "doesn't have member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "implied to be expendable",
+      "inv_relationship": "was implied to be expendable by",
+      "second": "Brutus",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "implied to be expendable",
+      "inv_relationship": "was implied to be expendable by",
+      "second": "Judas",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "implied to be expendable",
+      "inv_relationship": "was implied to be expendable by",
+      "second": "Angelica",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Brockton Bay Endbringer Parahuman Response Front Line Group",
+      "relationship": "is subgroup of",
+      "inv_relationship": "has subgroup",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Alexandria",
+      "relationship": "co-leads",
+      "inv_relationship": "is co-led by",
+      "second": "Brockton Bay Endbringer Parahuman Response Front Line Group",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Dragon",
+      "relationship": "co-leads",
+      "inv_relationship": "is co-led by",
+      "second": "Brockton Bay Endbringer Parahuman Response Front Line Group",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Brockton Bay Endbringer Parahuman Response Hand-to-Hand Group",
+      "relationship": "is subgroup of",
+      "inv_relationship": "has subgroup",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "co-leads",
+      "inv_relationship": "is co-led by",
+      "second": "Brockton Bay Endbringer Parahuman Response Hand-to-Hand Group",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Chevalier",
+      "relationship": "co-leads",
+      "inv_relationship": "is co-led by",
+      "second": "Brockton Bay Endbringer Parahuman Response Hand-to-Hand Group",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Assault",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response Hand-to-Hand Group",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Battery",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response Hand-to-Hand Group",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Brandish",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response Hand-to-Hand Group",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Night",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Night",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response Hand-to-Hand Group",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Fog",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Fog",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response Hand-to-Hand Group",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Brockton Bay Endbringer Parahuman Response Backup Defense",
+      "relationship": "is subgroup of",
+      "inv_relationship": "has subgroup",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Bastion",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Brockton Bay Endbringer Parahuman Response Backup Defense",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Brockton Bay Endbringer Parahuman Response Movers",
+      "relationship": "is subgroup of",
+      "inv_relationship": "has subgroup",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Myrddin",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Brockton Bay Endbringer Parahuman Response Movers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Brockton Bay Endbringer Parahuman Response Long-Ranged Attackers",
+      "relationship": "is subgroup of",
+      "inv_relationship": "has subgroup",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Legend",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Brockton Bay Endbringer Parahuman Response Long-Ranged Attackers",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Othala",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Victor",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Leviathan",
+      "relationship": "attacked the pre-battle meeting of",
+      "inv_relationship": "was attacked during the pre-battle meeting by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Strider",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Strider",
+      "relationship": "evacuated",
+      "inv_relationship": "was evacuated by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Carapacitator",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Krieg",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "WCM",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2",
+      "to_soft": "Extermination 8.2"
+    },
+    {
+      "first": "Iron Falcon",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Saurian",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Carapacitator",
+      "relationship": "was injured by",
+      "inv_relationship": "injured",
+      "second": "Leviathan",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Krieg",
+      "relationship": "was injured by",
+      "inv_relationship": "injured",
+      "second": "Leviathan",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "WCM",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Iron Falcon",
+      "relationship": "was injured by",
+      "inv_relationship": "injured",
+      "second": "Leviathan",
+      "from": "Extermination 8.2"
+    },
+    {
+      "first": "Saurian",
+      "relationship": "was injured by",
+      "inv_relationship": "injured",
+      "second": "Leviathan",
+      "from": "Extermination 8.2"
     }
   ],
 
-  "up_to": "Interlude 7"
+  "up_to": "Extermination 8.2"
 }
