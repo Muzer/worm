@@ -2282,6 +2282,11 @@
               "value": "Develops a mode that blurs the end of the Halberd, where it can pass through and destroy objects without resistance; vulnerable to forcefields, fire, and intense energy, and takes up lots of space in the halberd even with Armsmaster's power",
               "provenance": "Direct witness",
               "from": "Interlude 7"
+            },
+            {
+              "value": "Has two halberds now",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.1"
             }
           ],
           "from": "Gestation 1.6"
@@ -2670,6 +2675,10 @@
         {
           "value": "Travels around solving crises",
           "from": "Interlude 1"
+        },
+        {
+          "value": "Powers considered to be head and shoulders above just about anyone else's",
+          "from": "Extermination 8.1"
         }
       ],
       "parahuman_type": [
@@ -3464,6 +3473,36 @@
         {
           "value": "hero",
           "from": "Insinuation 2.6"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Long, straight black hair",
+          "from": "Extermination 8.1"
+        },
+        {
+          "value": "Athletic, tall, muscular, but still feminine",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Black and light gray",
+          "notes": [
+            {
+              "value": "Black and light gray costume with an image of a tower in the centre of her chest",
+              "from": "Extermination 8.1"
+            },
+            {
+              "value": "Wide, heavy cape that flows over her shoulders and drapes on the ground behind her",
+              "from": "Extermination 8.1"
+            },
+            {
+              "value": "Helmet",
+              "from": "Extermination 8.1"
+            }
+          ],
+          "from": "Extermination 8.1"
         }
       ],
       "powers": [
@@ -5530,6 +5569,42 @@
           "from": "Agitation 3.3"
         }
       ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Seven feet tall",
+          "from": "Extermination 8.1"
+        },
+        {
+          "value": "Curtain of glossy, pale hair extending almost to the backs of her knees",
+          "from": "Extermination 8.1"
+        },
+        {
+          "value": "Skin layered with fine crystal scales that caught the light and scintillated with faint rainbow hues",
+          "from": "Extermination 8.1"
+        },
+        {
+          "value": "Single horn, three feet long, in the middle of her forehead",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Unclothed",
+          "notes": [
+            {
+              "value": "Unclothed, but somehow not obscene",
+              "from": "Extermination 8.1"
+            }
+          ],
+          "from": "Extermination 8.1"
+        }
+      ],
       "powers": [
         {
           "brief_desc": "Create forcefields",
@@ -6583,22 +6658,40 @@
           "from": "Agitation 3.11"
         }
       ],
-      "occupations": [
-        {
-          "value": "Hero team member",
-          "from": "Tangle 6.7"
-        }
-      ],
       "pronouns": [
         {
           "value": "he/him",
           "from": "Agitation 3.11"
         }
       ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Tangle 6.7"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "hero",
           "from": "Tangle 6.7"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Perfect physique, strong jaw, wavy brown hair",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Skintight blue",
+          "notes": [
+            {
+              "value": "Skintight blue costume with a design in white somewhere between flame and electricity",
+              "from": "Extermination 8.1"
+            }
+          ],
+          "from": "Extermination 8.1"
         }
       ],
       "powers": [
@@ -6609,9 +6702,25 @@
               "value": "Can shoot lasers from his hand that turn corners",
               "provenance": "Tattletale",
               "from": "Agitation 3.11"
+            },
+            {
+              "value": "On par with Purity in firepower, if not surpassing her, and much more versatile",
+              "provenance": "Taylor",
+              "from": "Extermination 8.1"
             }
           ],
           "from": "Agitation 3.11"
+        },
+        {
+          "brief_desc": "Flight",
+          "notes": [
+            {
+              "value": "Flight",
+              "provenance": "Taylor",
+              "from": "Extermination 8.1"
+            }
+          ],
+          "from": "Extermination 8.1"
         }
       ],
       "from": "Agitation 3.11"
@@ -8634,6 +8743,12 @@
           "from": "Interlude 5"
         }
       ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Extermination 8.1"
+        }
+      ],
       "occupations": [
         {
           "value": "Hero team leader",
@@ -8652,6 +8767,22 @@
           "from": "Interlude 5"
         }
       ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Silver and gold armour",
+          "notes": [
+            {
+              "value": "Gleaming silver and gold armour",
+              "from": "Extermination 8.1"
+            },
+            {
+              "value": "Carries a cannonblade",
+              "from": "Extermination 8.1"
+            }
+          ],
+          "from": "Extermination 8.1"
+        }
+      ],
       "from": "Interlude 5"
     },
     {
@@ -8659,6 +8790,12 @@
         {
           "value": "Myrddin",
           "from": "Interlude 5"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Extermination 8.1"
         }
       ],
       "occupations": [
@@ -8677,6 +8814,18 @@
         {
           "value": "hero",
           "from": "Interlude 5"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Robe and staff",
+          "notes": [
+            {
+              "value": "Brown burlap robe and wooden staff",
+              "from": "Extermination 8.1"
+            }
+          ],
+          "from": "Extermination 8.1"
         }
       ],
       "from": "Interlude 5"
@@ -8941,16 +9090,57 @@
           "from": "Tangle 6.7"
         }
       ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Extermination 8.1"
+        }
+      ],
       "occupations": [
         {
           "value": "Hero team member",
           "from": "Tangle 6.7"
         }
       ],
+      "notes": [
+        {
+          "value": "Considered a top tog",
+          "from": "Extermination 8.1"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "hero",
           "from": "Tangle 6.7"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Blue-green with hood",
+          "notes": [
+            {
+              "value": "Blue-green skintight suit that expanded into a voluminous hood, cape, and sleeves that draped over his hands",
+              "from": "Extermination 8.1"
+            },
+            {
+              "value": "Sleeves and hood interior illuminated with a soft green light",
+              "from": "Extermination 8.1"
+            }
+          ],
+          "from": "Extermination 8.1"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Every power",
+          "notes": [
+            {
+              "value": "Has every power, though can only hold onto a handful at a time",
+              "provenance": "Taylor",
+              "from": "Extermination 8.1"
+            }
+          ],
+          "from": "Extermination 8.1"
         }
       ],
       "from": "Tangle 6.7"
@@ -9191,6 +9381,11 @@
               "value": "Designs power armour, sporting a wildly different suit each time she deploys",
               "provenance": "Canary",
               "from": "Interlude 6"
+            },
+            {
+              "value": "Mechanical suit as large as two PRT vans put together, four legged, with what appeared to be a single jet engine on top. On either side, two shoulder-mounted missile launchers, each preloaded with four missiles longer than Taylor was tall",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.1"
             }
           ],
           "from": "Interlude 6"
@@ -10245,6 +10440,26 @@
         {
           "value": "Ʊ brand in his heel",
           "from": "Interlude 7"
+        },
+        {
+          "value": "Muscled boy with metal skin, eyes, and hair, and a strange texture to his shoulders and spine",
+          "from": "Extermination 8.1"
+        },
+        {
+          "value": "Bits of recognisable metal objects sticking out of him",
+          "from": "Extermination 8.1"
+        },
+        {
+          "value": "Body exceedingly detailed and refined; skin dusky dark gray metal with the slightest of swirls of lighter metals in it",
+          "from": "Extermination 8.1"
+        },
+        {
+          "value": "Adonis musculature perfectly etched out in the metal, silver lines tracing out muscle definition",
+          "from": "Extermination 8.1"
+        },
+        {
+          "value": "Eyes silver, two lines running from the corners of them down his cheekbones and to the sides of his jaw",
+          "from": "Extermination 8.1"
         }
       ],
       "powers": [
@@ -10266,6 +10481,177 @@
         }
       ],
       "from": "Interlude 7"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Bastion",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Was caught on camera using the word 'spic' several times, yelling at a kid who only wanted to take his picture",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "from": "Extermination 8.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Parian",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Fashion student",
+          "from": "Extermination 8.1"
+        },
+        {
+          "value": "Animator of promotional mascots",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Intends to reveal her public identity once she's more established",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "rogue",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Doll",
+          "notes": [
+            {
+              "value": "Dressed up like an old-fashioned doll",
+              "from": "Extermination 8.1"
+            }
+          ],
+          "from": "Extermination 8.1"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Inanimate object animation",
+          "notes": [
+            {
+              "value": "Can bring life to stuffed animals and store mascots",
+              "provenance": "Taylor",
+              "from": "Extermination 8.1"
+            }
+          ],
+          "from": "Extermination 8.1"
+        }
+      ],
+      "from": "Extermination 8.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Bambina",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Solo villain",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Curly-haired, dimple-cheeked, looks no older than eight",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Frock",
+          "notes": [
+            {
+              "value": "Frock from the same period as Parian's",
+              "from": "Extermination 8.1"
+            }
+          ],
+          "from": "Extermination 8.1"
+        }
+      ],
+      "from": "Extermination 8.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Leviathan",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Endbringer",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Attacked Brockton Bay",
+          "from": "Extermination 8.1"
+        },
+        {
+          "value": "Even on a good day for the capes, still kills one in four capes that attend to fight",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "villain",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "from": "Extermination 8.1"
     }
   ],
 
@@ -11339,6 +11725,57 @@
         }
       ],
       "from": "Interlude 7"
+    },
+    {
+      "names": [
+        {
+          "value": "Brockton Bay Endbringer Parahuman Response",
+          "note": "Not official name",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "One-off team of parahumans intended to respond to the Endbringer attack on Brockton Bay",
+          "from": "Extermination 8.1"
+        },
+        {
+          "value": "Meet in a six storey building sat alone on a hill and guarded by the PRT",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "from": "Extermination 8.1"
+    },
+    {
+      "names": [
+        {
+          "value": "Haven",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Bible belt",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hero team",
+          "from": "Extermination 8.1"
+        },
+        {
+          "value": "Christian team",
+          "from": "Extermination 8.1"
+        }
+      ],
+      "from": "Extermination 8.1"
     }
   ],
 
@@ -16307,6 +16744,41 @@
       "from": "Buzz 7.12"
     },
     {
+      "first": "Tattletale",
+      "relationship": "previously agreed to fight",
+      "inv_relationship": "were previously agreed to be fought by",
+      "second": "Endbringers",
+      "from": "Buzz 7.12"
+    },
+    {
+      "first": "Grue",
+      "relationship": "previously agreed to fight",
+      "inv_relationship": "were previously agreed to be fought by",
+      "second": "Endbringers",
+      "from": "Buzz 7.12"
+    },
+    {
+      "first": "Regent",
+      "relationship": "previously agreed to fight",
+      "inv_relationship": "were previously agreed to be fought by",
+      "second": "Endbringers",
+      "from": "Buzz 7.12"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "previously agreed to fight",
+      "inv_relationship": "were previously agreed to be fought by",
+      "second": "Endbringers",
+      "from": "Buzz 7.12"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "agreed to fight",
+      "inv_relationship": "were agreed to be fought by",
+      "second": "Endbringers",
+      "from": "Buzz 7.12"
+    },
+    {
       "first": "Miss Militia",
       "relationship": "grew up in the same village as",
       "inv_relationship": "grew up in the same village as",
@@ -16473,6 +16945,482 @@
       "inv_relationship": "had program to predict movement of improved by",
       "second": "Endbringers",
       "from": "Interlude 7"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "joined",
+      "inv_relationship": "were joined by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Dragon",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Alexandria",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "was awestruck to see",
+      "inv_relationship": "caused to be awestruck",
+      "second": "Alexandria",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Weld",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Empire Eighty-Eight",
+      "relationship": "joined",
+      "inv_relationship": "were joined by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Hookwolf",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Cricket",
+      "relationship": "is not member of",
+      "inv_relationship": "doesn't have member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Stormtiger",
+      "relationship": "is not member of",
+      "inv_relationship": "doesn't have member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Travelers",
+      "relationship": "joined",
+      "inv_relationship": "were joined by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Trickster",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Genesis",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Sundancer",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Ballistic",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Faultline's Crew",
+      "relationship": "did not join",
+      "inv_relationship": "were not joined by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Faultline",
+      "relationship": "is not member of",
+      "inv_relationship": "doesn't have member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Newter",
+      "relationship": "is not member of",
+      "inv_relationship": "doesn't have member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Gregor the Snail",
+      "relationship": "is not member of",
+      "inv_relationship": "doesn't have member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Spitfire",
+      "relationship": "is not member of",
+      "inv_relationship": "doesn't have member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Labyrinth",
+      "relationship": "is not member of",
+      "inv_relationship": "doesn't have member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Coil",
+      "relationship": "is not member of",
+      "inv_relationship": "doesn't have member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Protectorate East-North-East",
+      "relationship": "joined",
+      "inv_relationship": "were joined by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Wards East-North-East",
+      "relationship": "joined",
+      "inv_relationship": "were joined by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Aegis",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Vista",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Browbeat",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Kid Win",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Gallant",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Triumph",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Velocity",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Dauntless",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Battery",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Assault",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "New Wave",
+      "relationship": "joined",
+      "inv_relationship": "were joined by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Glory Girl",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Laserdream",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Shielder",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Brandish",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Flashbang",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Manpower",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Lady Photon",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Legend",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Protectorate",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Legend",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Myrddin",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Chevalier",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Bastion",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Eidolon",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Triumvirate",
+      "relationship": "joined",
+      "inv_relationship": "were joined by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Haven",
+      "relationship": "joined",
+      "inv_relationship": "were joined by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Parian",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Bambina",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Grue",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Regent",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Regent",
+      "relationship": "ignored",
+      "inv_relationship": "was ignored by",
+      "second": "Skitter",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Grue",
+      "relationship": "ignored",
+      "inv_relationship": "was ignored by",
+      "second": "Skitter",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Sundancer",
+      "relationship": "ignored",
+      "inv_relationship": "was ignored by",
+      "second": "Skitter",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Guild",
+      "relationship": "joined",
+      "inv_relationship": "were joined by",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Narwhal",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Leviathan",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Endbringers",
+      "from": "Extermination 8.1"
+    },
+    {
+      "first": "Legend",
+      "relationship": "delivered pre-battle speech to",
+      "inv_relationship": "received pre-battle speech from",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.1"
     }
   ],
 
