@@ -434,6 +434,14 @@
         {
           "value": "Tattletale thinks Skitter would be better at using Tattletale's power than she is",
           "from": "Interlude 8 (Bonus)"
+        },
+        {
+          "value": "Often dreams about being bullied in school, awaiting the worst prank yet, even after getting powers",
+          "from": "Extermination 8.6"
+        },
+        {
+          "value": "Thinks of herself as a good person",
+          "from": "Extermination 8.6"
         }
       ],
       "parahuman_type": [
@@ -462,6 +470,12 @@
         {
           "value": "villain",
           "from": "Tangle 6.9"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Master 5",
+          "from": "Extermination 8.5"
         }
       ],
       "appearance": [
@@ -556,6 +570,10 @@
             {
               "value": "Pouch also contains smelling salts",
               "from": "Tangle 6.7"
+            },
+            {
+              "value": "Mask lenses are made from swim goggles; durable, high-end, meant for underwater spelunking; tinted to help filter out bright lights; Taylor fitted lenses from her glasses inside, sealing them in place with silicon",
+              "from": "Tangle 6.7"
             }
           ],
           "from": "Gestation 1.2"
@@ -645,6 +663,11 @@
               "value": "Shapes bugs into a humanoid figure, and uses that to pretend that she can transform into a bug-creature immune to guns",
               "provenance": "PoV",
               "from": "Buzz 7.3"
+            },
+            {
+              "value": "Range extension also happens during Leviathan fight; bugs also more responsive",
+              "provenance": "PoV",
+              "from": "Extermination 8.4"
             }
           ],
           "from": "Gestation 1.1"
@@ -823,7 +846,8 @@
           "from": "Buzz 7.5"
         }
       ],
-      "from": "Gestation 1.1"
+      "from": "Gestation 1.1",
+      "to": "Extermination 8.6"
     },
     {
       "civilian_names": [
@@ -2376,6 +2400,31 @@
               "value": "Has two halberds now",
               "provenance": "Direct witness",
               "from": "Extermination 8.1"
+            },
+            {
+              "value": "One halberd is similar to the previous one he had; the other has the blurry mode described above",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.4"
+            },
+            {
+              "value": "First halberd can shoot flame like a giant purple blowtorch",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.4"
+            },
+            {
+              "value": "Has trained battle simulation computer on Leviathan",
+              "provenance": "His own statement",
+              "from": "Extermination 8.4"
+            },
+            {
+              "value": "Blurry halberd is nanotechnology; structures engineered to slide between atoms and sever molecular bonds, to cut through anything",
+              "provenance": "His own statement",
+              "from": "Extermination 8.4"
+            },
+            {
+              "value": "Has a temporal stasis trigger on his grappling hook halberd, which makes the thing it's touching (including the grappling chain itself) freeze; drains battery a lot",
+              "provenance": "His own statement",
+              "from": "Extermination 8.4"
             }
           ],
           "from": "Gestation 1.6"
@@ -2768,6 +2817,14 @@
         {
           "value": "Powers considered to be head and shoulders above just about anyone else's",
           "from": "Extermination 8.1"
+        },
+        {
+          "value": "Not generally in touch with humanity, though speculation that he has at least one human contact",
+          "from": "Extermination 8.4"
+        },
+        {
+          "value": "Rescues people 24/7, 365 days a year, but handling crises only when they come to his attention",
+          "from": "Extermination 8.4"
         }
       ],
       "parahuman_type": [
@@ -2780,6 +2837,10 @@
         {
           "value": "Long hair, burnished gold skin and hair, no body hair, seems almost artificial",
           "from": "Interlude 1"
+        },
+        {
+          "value": "Golden beard, trimmed close or naturally grew to that length",
+          "from": "Extermination 8.5"
         }
       ],
       "cape_costumes": [
@@ -2825,6 +2886,10 @@
             {
               "value": "White bodysuit (worn since 1999) of unknown provenance",
               "from": "Interlude 1"
+            },
+            {
+              "value": "Stained with faded marks of dirt and blood",
+              "from": "Extermination 8.5"
             }
           ],
           "from": "Interlude 1"
@@ -2884,6 +2949,44 @@
             }
           ],
           "from": "Interlude 1"
+        },
+        {
+          "brief_desc": "Blast light",
+          "notes": [
+            {
+              "value": "Can shoot blasts of yellow and gold light which hit very hard",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.5"
+            },
+            {
+              "value": "Blasts can curve in the air",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.5"
+            }
+          ],
+          "from": "Extermination 8.5"
+        },
+        {
+          "brief_desc": "Still water",
+          "notes": [
+            {
+              "value": "Can collapse waves of water, causing them to drop straight down, by touching them",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.5"
+            }
+          ],
+          "from": "Extermination 8.5"
+        },
+        {
+          "brief_desc": "Telekinesis",
+          "notes": [
+            {
+              "value": "Can move things eg toppling buildings with a brilliant flash of light from his hand",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.5"
+            }
+          ],
+          "from": "Extermination 8.5"
         }
       ],
       "from": "Interlude 1"
@@ -4127,6 +4230,12 @@
           "from": "Insinuation 2.6"
         }
       ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.4"
+        }
+      ],
       "civilian_names": [
         {
           "value": "Carlos",
@@ -4247,6 +4356,12 @@
           "from": "Agitation 3.3"
         }
       ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.4"
+        }
+      ],
       "from": "Insinuation 2.6"
     },
     {
@@ -4254,6 +4369,13 @@
         {
           "value": "Shadow Stalker",
           "from": "Insinuation 2.7"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Sophia Hess",
+          "is_duplicate": true,
+          "from": "Extermination 8.6"
         }
       ],
       "pronouns": [
@@ -4271,6 +4393,10 @@
         {
           "value": "Hero team member",
           "from": "Agitation 3.3"
+        },
+        {
+          "value": "School student",
+          "from": "Extermination 8.6"
         }
       ],
       "based_in": [
@@ -4299,12 +4425,32 @@
         {
           "value": "Still has discipline problems with the Wards",
           "from": "Interlude 7"
+        },
+        {
+          "value": "Runner on the school track team",
+          "from": "Extermination 8.6"
+        },
+        {
+          "value": "Was likely directly involved in the locker incident",
+          "from": "Extermination 8.6"
         }
       ],
       "appearance": [
         {
           "value": "About as tall as Taylor",
           "from": "Hive 5.3"
+        },
+        {
+          "value": "'Prom queen' image; dark skinned; slender, athletic build",
+          "from": "Extermination 8.6"
+        },
+        {
+          "value": "Black hair normally long enough to reach the small of her back",
+          "from": "Extermination 8.6"
+        },
+        {
+          "value": "Curves and chest",
+          "from": "Extermination 8.6"
         }
       ],
       "cape_costumes": [
@@ -4634,6 +4780,10 @@
         {
           "value": "Brown frizzy hair, freckles spaced evenly across face",
           "from": "Interlude 2"
+        },
+        {
+          "value": "Dark circles under eyes that look painted on",
+          "from": "Extermination 8.6"
         }
       ],
       "cape_costumes": [
@@ -4690,6 +4840,11 @@
               "value": "Claims to be able to give people heart attacks or cancer, mess with their taste buds, or make them fat",
               "provenance": "Her own statement (while threatening Taylor), Tattletale's power",
               "from": "Agitation 3.11"
+            },
+            {
+              "value": "Power is possibly confused if she touches hair",
+              "provenance": "Taylor",
+              "from": "Extermination 8.6"
             }
           ],
           "from": "Interlude 2"
@@ -4738,6 +4893,19 @@
           "from": "Interlude 2"
         }
       ],
+      "powers": [
+        {
+          "brief_desc": "Lightning weapons",
+          "notes": [
+            {
+              "value": "Attacks with a pair of axes that looks as though they're made with lightning",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.5"
+            }
+          ],
+          "from": "Extermination 8.5"
+        }
+      ],
       "from": "Interlude 2"
     },
     {
@@ -4745,6 +4913,12 @@
         {
           "value": "Kaiser",
           "from": "Interlude 2"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.4"
         }
       ],
       "civilian_names": [
@@ -4889,6 +5063,12 @@
             }
           ],
           "from": "Agitation 3.11"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Chopped in half by Leviathan",
+          "from": "Extermination 8.4"
         }
       ],
       "from": "Interlude 2"
@@ -6402,6 +6582,12 @@
           "from": "Agitation 3.8"
         }
       ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.5"
+        }
+      ],
       "pronouns": [
         {
           "value": "he/him",
@@ -6486,6 +6672,12 @@
           "from": "Agitation 3.8"
         }
       ],
+      "cause_of_death": [
+        {
+          "value": "Stamped on in the throat by Leviathan",
+          "from": "Extermination 8.5"
+        }
+      ],
       "from": "Agitation 3.8"
     },
     {
@@ -6562,6 +6754,36 @@
           "from": "Agitation 3.11"
         }
       ],
+      "appearance": [
+        {
+          "value": "Not supermodel good-looking, but attractive",
+          "from": "Extermination 8.5"
+        },
+        {
+          "value": "Heart shaped face, full lips, blonde hair; straight shoulder-length hair",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Starburst",
+          "notes": [
+            {
+              "value": "White base colour, sporting starburst on her chest",
+              "from": "Extermination 8.5"
+            },
+            {
+              "value": "Several of the lines of the starburst extending around her body or down her legs, going from indigo to purple as they go further from the centre",
+              "from": "Extermination 8.5"
+            },
+            {
+              "value": "Tiara also starburst-shaped holding hair away from her face",
+              "from": "Extermination 8.5"
+            }
+          ],
+          "from": "Extermination 8.5"
+        }
+      ],
       "powers": [
         {
           "brief_desc": "Flight",
@@ -6604,6 +6826,12 @@
         {
           "value": "Manpower",
           "from": "Agitation 3.11"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.4"
         }
       ],
       "pronouns": [
@@ -6667,6 +6895,12 @@
           "from": "Buzz 7.9"
         }
       ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.4"
+        }
+      ],
       "from": "Agitation 3.11"
     },
     {
@@ -6688,10 +6922,50 @@
           "from": "Agitation 3.11"
         }
       ],
+      "notes": [
+        {
+          "value": "Eighteen years old",
+          "from": "Extermination 8.5"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "hero",
           "from": "Agitation 3.11"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Not supermodel good-looking, but attractive",
+          "from": "Extermination 8.5"
+        },
+        {
+          "value": "Heart shaped face, full lips, blonde hair; wavy hair, with a hairband to ensure she has a coquettish sweep in place over one eye",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Arrow",
+          "notes": [
+            {
+              "value": "White base colour, stylised arrow pointing down and to her right on her chest",
+              "from": "Extermination 8.5"
+            },
+            {
+              "value": "Half dozen lines trailing behind the arrow, over her left shoulder, one zig-zagging across the others; design fading from ruby red to magenta",
+              "from": "Extermination 8.5"
+            },
+            {
+              "value": "Similar rows of lines with overlapping zigzag run down legs and arms",
+              "from": "Extermination 8.5"
+            },
+            {
+              "value": "Ruby red hairband",
+              "from": "Extermination 8.5"
+            }
+          ],
+          "from": "Extermination 8.5"
         }
       ],
       "powers": [
@@ -6729,6 +7003,11 @@
               "value": "Ability to project lasers from her hand",
               "provenance": "Taylor, direct witness",
               "from": "Buzz 7.9"
+            },
+            {
+              "value": "Lasers are crimson",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.5"
             }
           ],
           "from": "Buzz 7.9"
@@ -6767,10 +7046,26 @@
           "from": "Agitation 3.11"
         }
       ],
+      "notes": [
+        {
+          "value": "Younger than Laserdream",
+          "from": "Extermination 8.5"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "hero",
           "from": "Agitation 3.11"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Dyed his hair in his costume colour",
+          "from": "Extermination 8.5"
+        },
+        {
+          "value": "Wore tinted sunglasses",
+          "from": "Extermination 8.5"
         }
       ],
       "powers": [
@@ -6905,6 +7200,16 @@
         {
           "value": "Simurgh",
           "from": "Agitation 3.11"
+        },
+        {
+          "value": "Ziz",
+          "from": "Extermination 8.6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Extermination 8.4"
         }
       ],
       "occupations": [
@@ -6921,6 +7226,10 @@
         {
           "value": "Feels pain, does bleed, but few attacks penetrate far enough to seriously cause harm",
           "from": "Extermination 8.2"
+        },
+        {
+          "value": "Issue isn't winning the battle with her, it's what comes after; win the battle, lose the war",
+          "from": "Extermination 8.4"
         }
       ],
       "parahuman_type": [
@@ -7445,6 +7754,12 @@
           "from": "Hive 5.1"
         }
       ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.4"
+        }
+      ],
       "pronouns": [
         {
           "value": "she/her",
@@ -7530,9 +7845,20 @@
               "value": "Can shrink and grow quickly and at will",
               "provenance": "Direct witness",
               "from": "Hive 5.8"
+            },
+            {
+              "value": "Power warps geometry to make them bigger, simultaneously reducing effective size of incoming attacks by an inversely proportional amount",
+              "provenance": "Taylor",
+              "from": "Extermination 8.4"
             }
           ],
           "from": "Hive 5.1"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.4"
         }
       ],
       "from": "Hive 5.1"
@@ -7635,6 +7961,11 @@
               "value": "Can shrink and grow quickly and at will",
               "provenance": "Direct witness",
               "from": "Hive 5.8"
+            },
+            {
+              "value": "Power warps geometry to make them bigger, simultaneously reducing effective size of incoming attacks by an inversely proportional amount",
+              "provenance": "Taylor",
+              "from": "Extermination 8.4"
             }
           ],
           "from": "Hive 5.1"
@@ -9383,6 +9714,17 @@
             }
           ],
           "from": "Extermination 8.3"
+        },
+        {
+          "brief_desc": "Freeze water",
+          "notes": [
+            {
+              "value": "Can freeze large quantities of water",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.4"
+            }
+          ],
+          "from": "Extermination 8.3"
         }
       ],
       "from": "Tangle 6.7"
@@ -10280,6 +10622,11 @@
               "value": "Needs to touch things before she can move them",
               "provenance": "Taylor",
               "from": "Buzz 7.9"
+            },
+            {
+              "value": "Can bend metal",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.4"
             }
           ],
           "from": "Buzz 7.9"
@@ -10763,6 +11110,11 @@
               "value": "Strong, tough",
               "provenance": "Dragon",
               "from": "Interlude 7"
+            },
+            {
+              "value": "Can form his hands into metal objects like blades",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.5"
             }
           ],
           "from": "Interlude 7"
@@ -10848,6 +11200,10 @@
         {
           "value": "Intends to reveal her public identity once she's more established",
           "from": "Extermination 8.1"
+        },
+        {
+          "value": "Her first fight is against Leviathan",
+          "from": "Extermination 8.4"
         }
       ],
       "parahuman_type": [
@@ -10870,12 +11226,22 @@
       ],
       "powers": [
         {
-          "brief_desc": "Inanimate object animation",
+          "brief_desc": "Plush animation",
           "notes": [
             {
               "value": "Can bring life to stuffed animals and store mascots",
               "provenance": "Taylor",
               "from": "Extermination 8.1"
+            },
+            {
+              "value": "Tougher than they look",
+              "provenance": "Her own statement",
+              "from": "Extermination 8.4"
+            },
+            {
+              "value": "Possibly telekinesis, with a gimmick; fine manipulation with needle and threads, but her larger creations were fairly clumsy",
+              "provenance": "Taylor",
+              "from": "Extermination 8.5"
             }
           ],
           "from": "Extermination 8.1"
@@ -11109,6 +11475,10 @@
         {
           "value": "Behemoth",
           "from": "Extermination 8.2"
+        },
+        {
+          "value": "Hadhayosh",
+          "from": "Extermination 8.6"
         }
       ],
       "occupations": [
@@ -11125,6 +11495,10 @@
         {
           "value": "Feels pain, does bleed, but few attacks penetrate far enough to seriously cause harm",
           "from": "Extermination 8.2"
+        },
+        {
+          "value": "Turns areas into radioactive magma-ridden wastelands",
+          "from": "Extermination 8.4"
         }
       ],
       "parahuman_type": [
@@ -11140,6 +11514,12 @@
         {
           "value": "Strider",
           "from": "Extermination 8.2"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.5"
         }
       ],
       "powers": [
@@ -11158,6 +11538,12 @@
             }
           ],
           "from": "Extermination 8.2"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Executed by Leviathan while drowning in his lake",
+          "from": "Extermination 8.5"
         }
       ],
       "from": "Extermination 8.2"
@@ -11731,6 +12117,18 @@
           "from": "Extermination 8.3"
         }
       ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Executed by Leviathan while drowning in his lake",
+          "from": "Extermination 8.5"
+        }
+      ],
       "from": "Extermination 8.3"
     },
     {
@@ -11870,6 +12268,215 @@
         }
       ],
       "from": "Extermination 8.3"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Flechette",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Hero team member",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "notes": [
+        {
+          "value": "",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Visor and crossbow",
+          "notes": [
+            {
+              "value": "Skintight costume with a visor covering her eyes, nose, and ears",
+              "from": "Extermination 8.5"
+            },
+            {
+              "value": "A quiver of what look like giant needles and a massive crossbow",
+              "from": "Extermination 8.5"
+            }
+          ],
+          "from": "Extermination 8.5"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Penetrating bolts",
+          "notes": [
+            {
+              "value": "Can shoot bolts from a crossbow that stab deep into even Leviathan, moreso than anyone else's attack",
+              "provenance": "Direct witness",
+              "from": "Extermination 8.5"
+            }
+          ],
+          "from": "Extermination 8.5"
+        }
+      ],
+      "from": "Extermination 8.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Scalder",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Executed by Leviathan while drowning in his lake",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "from": "Extermination 8.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "The Erudite",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Executed by Leviathan while drowning in his lake",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "from": "Extermination 8.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Frenetic",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Executed by Leviathan while drowning in his lake",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "from": "Extermination 8.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Penitent",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Executed by Leviathan while drowning in his lake",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "from": "Extermination 8.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Smackdown",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Executed by Leviathan while drowning in his lake",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "from": "Extermination 8.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Impel",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "from": "Extermination 8.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Apotheosis",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.5"
+        }
+      ],
+      "from": "Extermination 8.5"
     }
   ],
 
@@ -12956,6 +13563,12 @@
           "from": "Extermination 8.1"
         }
       ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Extermination 8.5"
+        }
+      ],
       "based_in": [
         {
           "value": "Brockton Bay",
@@ -13007,6 +13620,12 @@
           "from": "Extermination 8.2"
         }
       ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Extermination 8.5"
+        }
+      ],
       "based_in": [
         {
           "value": "Brockton Bay",
@@ -13031,6 +13650,12 @@
           "value": "Brockton Bay Endbringer Parahuman Response Hand-to-Hand Group",
           "note": "Not official name",
           "from": "Extermination 8.2"
+        }
+      ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Extermination 8.5"
         }
       ],
       "based_in": [
@@ -13059,6 +13684,12 @@
           "from": "Extermination 8.2"
         }
       ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Extermination 8.5"
+        }
+      ],
       "based_in": [
         {
           "value": "Brockton Bay",
@@ -13085,6 +13716,12 @@
           "from": "Extermination 8.2"
         }
       ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Extermination 8.5"
+        }
+      ],
       "based_in": [
         {
           "value": "Brockton Bay",
@@ -13109,6 +13746,12 @@
           "value": "Brockton Bay Endbringer Parahuman Response Long-Ranged Attackers",
           "note": "Not official name",
           "from": "Extermination 8.2"
+        }
+      ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Extermination 8.5"
         }
       ],
       "based_in": [
@@ -13151,7 +13794,15 @@
       "relationship": "bullies",
       "inv_relationship": "is bullied by",
       "second": "Taylor",
-      "from": "Gestation 1.1"
+      "from": "Gestation 1.1",
+      "to": "Extermination 8.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "bullies",
+      "inv_relationship": "is bullied by",
+      "second": "Taylor",
+      "from": "Extermination 8.6"
     },
     {
       "first": "Emma Barnes",
@@ -13180,7 +13831,15 @@
       "relationship": "is best friends with",
       "inv_relationship": "is best friends with",
       "second": "Emma Barnes",
-      "from": "Gestation 1.2"
+      "from": "Gestation 1.2",
+      "to": "Extermination 8.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "is best friends with",
+      "inv_relationship": "is best friends with",
+      "second": "Emma Barnes",
+      "from": "Extermination 8.6"
     },
     {
       "first": "Lung",
@@ -13444,7 +14103,15 @@
       "relationship": "attends",
       "inv_relationship": "is attended by",
       "second": "Winslow High School",
-      "from": "Insinuation 2.2"
+      "from": "Insinuation 2.2",
+      "to": "Extermination 8.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Winslow High School",
+      "from": "Extermination 8.6"
     },
     {
       "first": "Emma Barnes",
@@ -13821,7 +14488,8 @@
       "relationship": "leads",
       "inv_relationship": "is led by",
       "second": "Empire Eighty-Eight",
-      "from": "Interlude 2"
+      "from": "Interlude 2",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Coil",
@@ -13931,7 +14599,8 @@
       "relationship": "leads",
       "inv_relationship": "are led by",
       "second": "Wards East-North-East",
-      "from": "Agitation 3.3"
+      "from": "Agitation 3.3",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Clockblocker",
@@ -14108,7 +14777,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Wards East-North-East",
-      "from": "Agitation 3.8"
+      "from": "Agitation 3.8",
+      "to_soft": "Extermination 8.5"
     },
     {
       "first": "Undersiders",
@@ -14277,7 +14947,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "New Wave",
-      "from": "Agitation 3.11"
+      "from": "Agitation 3.11",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Manpower",
@@ -14601,7 +15272,15 @@
       "relationship": "thought to be responsible for shoving into the locker",
       "inv_relationship": "suspects was shoved into locker by",
       "second": "Taylor",
-      "from": "Shell 4.3"
+      "from": "Shell 4.3",
+      "to": "Extermination 8.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "thought to be responsible for shoving into the locker",
+      "inv_relationship": "suspects was shoved into locker by",
+      "second": "Taylor",
+      "from": "Extermination 8.6"
     },
     {
       "first": "Taylor",
@@ -14814,7 +15493,8 @@
       "relationship": "sometimes lives with",
       "inv_relationship": "sometimes lives with",
       "second": "Theo",
-      "from": "Interlude 3½ (Bonus)"
+      "from": "Interlude 3½ (Bonus)",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Kaiser",
@@ -14863,7 +15543,8 @@
       "relationship": "is second-in-command to",
       "inv_relationship": "has second-in-command",
       "second": "Kaiser",
-      "from": "Interlude 3½ (Bonus)"
+      "from": "Interlude 3½ (Bonus)",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Purity",
@@ -15104,7 +15785,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Hive 5.1"
+      "from": "Hive 5.1",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Menja",
@@ -15125,14 +15807,16 @@
       "relationship": "keeps close",
       "inv_relationship": "is kept close by",
       "second": "Fenja",
-      "from": "Hive 5.1"
+      "from": "Hive 5.1",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Kaiser",
       "relationship": "keeps close",
       "inv_relationship": "is kept close by",
       "second": "Menja",
-      "from": "Hive 5.1"
+      "from": "Hive 5.1",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Purity",
@@ -15626,7 +16310,15 @@
       "relationship": "attended meeting about the bullying of",
       "inv_relationship": "had meeting about her bullying with the school attended by",
       "second": "Taylor Hebert",
-      "from": "Hive 5.4"
+      "from": "Hive 5.4",
+      "to": "Extermination 8.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "attended meeting about the bullying of",
+      "inv_relationship": "had meeting about her bullying with the school attended by",
+      "second": "Taylor Hebert",
+      "from": "Extermination 8.6"
     },
     {
       "first": "Mr. Gladly",
@@ -17348,7 +18040,8 @@
       "relationship": "is president and CEO of",
       "inv_relationship": "has president and CEO",
       "second": "Medhall Corporation",
-      "from": "Buzz 7.4"
+      "from": "Buzz 7.4",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Allfather",
@@ -17538,14 +18231,30 @@
       "relationship": "attacked in the bookshop",
       "inv_relationship": "was attacked in the bookshop by",
       "second": "Skitter",
-      "from": "Buzz 7.6"
+      "from": "Buzz 7.6",
+      "to": "Extermination 8.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "attacked in the bookshop",
+      "inv_relationship": "was attacked in the bookshop by",
+      "second": "Skitter",
+      "from": "Extermination 8.6"
     },
     {
       "first": "Sophia Hess",
       "relationship": "injured the ear of",
       "inv_relationship": "had ear injured by",
       "second": "Skitter",
-      "from": "Buzz 7.6"
+      "from": "Buzz 7.6",
+      "to": "Extermination 8.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "injured the ear of",
+      "inv_relationship": "had ear injured by",
+      "second": "Skitter",
+      "from": "Extermination 8.6"
     },
     {
       "first": "Grue",
@@ -17559,7 +18268,15 @@
       "relationship": "ran away from",
       "inv_relationship": "was run away from by",
       "second": "Skitter",
-      "from": "Buzz 7.6"
+      "from": "Buzz 7.6",
+      "to": "Extermination 8.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "ran away from",
+      "inv_relationship": "was run away from by",
+      "second": "Skitter",
+      "from": "Extermination 8.6"
     },
     {
       "first": "Grue",
@@ -18211,7 +18928,8 @@
       "relationship": "will be swapped with",
       "inv_relationship": "will be swapped with",
       "second": "Aegis",
-      "from": "Interlude 7"
+      "from": "Interlude 7",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Boston Wards",
@@ -18225,7 +18943,8 @@
       "relationship": "will lead",
       "inv_relationship": "will be led by",
       "second": "Boston Wards",
-      "from": "Interlude 7"
+      "from": "Interlude 7",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Weld",
@@ -18250,21 +18969,22 @@
     },
     {
       "first": "Armsmaster",
-      "relationship": "decided to try to send to be transferred",
+      "relationship": "will try to send to be transferred",
       "inv_relationship": "will be attempted to be transferred by",
       "second": "Shadow Stalker",
       "from": "Interlude 7"
     },
     {
       "first": "Armsmaster",
-      "relationship": "decided, as a first backup option, to try to send to be transferred",
+      "relationship": "will, as a first backup option, try to send to be transferred",
       "inv_relationship": "will be attempted to be transferred, as a first backup option, by",
       "second": "Browbeat",
-      "from": "Interlude 7"
+      "from": "Interlude 7",
+      "to_soft": "Extermination 8.5"
     },
     {
       "first": "Armsmaster",
-      "relationship": "decided, as a second backup option, to send to be transferred",
+      "relationship": "will, as a second backup option, send to be transferred",
       "inv_relationship": "will be transferred, as a second backup option, by",
       "second": "Clockblocker",
       "from": "Interlude 7"
@@ -18484,7 +19204,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.1"
+      "from": "Extermination 8.1",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Vista",
@@ -18505,7 +19226,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.1"
+      "from": "Extermination 8.1",
+      "to_soft": "Extermination 8.5"
     },
     {
       "first": "Shadow Stalker",
@@ -18633,7 +19355,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.1"
+      "from": "Extermination 8.1",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Lady Photon",
@@ -18683,7 +19406,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.1"
+      "from": "Extermination 8.1",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Eidolon",
@@ -18886,7 +19610,8 @@
       "relationship": "is not member of",
       "inv_relationship": "doesn't have member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.2"
+      "from": "Extermination 8.2",
+      "to_soft": "Extermination 8.5"
     },
     {
       "first": "Armsmaster",
@@ -19069,7 +19794,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.2"
+      "from": "Extermination 8.2",
+      "to_soft": "Extermination 8.5"
     },
     {
       "first": "Strider",
@@ -19116,15 +19842,15 @@
     },
     {
       "first": "Carapacitator",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.2"
     },
     {
       "first": "Krieg",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.2"
     },
@@ -19137,15 +19863,15 @@
     },
     {
       "first": "Iron Falcon",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.2"
     },
     {
       "first": "Saurian",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.2"
     },
@@ -19293,22 +20019,22 @@
     },
     {
       "first": "Sham",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.3"
     },
     {
       "first": "Harsh Mistress",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.3"
     },
     {
       "first": "Woebegone",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.3"
     },
@@ -19343,8 +20069,8 @@
     },
     {
       "first": "Adamant",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.3"
     },
@@ -19380,8 +20106,8 @@
     },
     {
       "first": "Chubster",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.3"
     },
@@ -19443,22 +20169,22 @@
     },
     {
       "first": "Hew",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.3"
     },
     {
       "first": "Strapping Lad",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.3"
     },
     {
       "first": "Intrepid",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.3"
     },
@@ -19831,7 +20557,8 @@
       "relationship": "was ambiguously announced as a loss of",
       "inv_relationship": "caused to be ambiguously announced as a loss",
       "second": "Leviathan",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.5"
     },
     {
       "first": "Narwhal",
@@ -19929,8 +20656,8 @@
     },
     {
       "first": "Miss Militia",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.3"
     },
@@ -19939,7 +20666,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.4"
     },
     {
       "first": "Menja",
@@ -19950,8 +20678,8 @@
     },
     {
       "first": "Legend",
-      "relationship": "was injured by",
-      "inv_relationship": "injured",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
       "second": "Leviathan",
       "from": "Extermination 8.3"
     },
@@ -19978,38 +20706,45 @@
     },
     {
       "first": "Sundancer",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
+      "second": "Leviathan",
+      "from": "Extermination 8.3"
+    },
+    {
+      "first": "Escutcheon",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.3"
+    },
+    {
+      "first": "Herald",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.3"
+    },
+    {
+      "first": "Escutcheon",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.3"
+    },
+    {
+      "first": "Herald",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.3"
+    },
+    {
+      "first": "Skitter",
       "relationship": "was injured by",
       "inv_relationship": "injured",
-      "second": "Leviathan",
-      "from": "Extermination 8.3"
-    },
-    {
-      "first": "Escutcheon",
-      "relationship": "is member of",
-      "inv_relationship": "has member",
-      "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3",
-      "to_soft": "Extermination 8.3"
-    },
-    {
-      "first": "Herald",
-      "relationship": "is member of",
-      "inv_relationship": "has member",
-      "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3",
-      "to_soft": "Extermination 8.3"
-    },
-    {
-      "first": "Escutcheon",
-      "relationship": "was killed by",
-      "inv_relationship": "killed",
-      "second": "Leviathan",
-      "from": "Extermination 8.3"
-    },
-    {
-      "first": "Herald",
-      "relationship": "was killed by",
-      "inv_relationship": "killed",
       "second": "Leviathan",
       "from": "Extermination 8.3"
     },
@@ -20033,8 +20768,403 @@
       "inv_relationship": "was saved by",
       "second": "Clockblocker",
       "from": "Extermination 8.3"
+    },
+    {
+      "first": "Rune",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Hookwolf",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response Front Line Group",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Fenja",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response Front Line Group",
+      "from": "Extermination 8.4",
+      "to_soft": "Extermination 8.4"
+    },
+    {
+      "first": "Menja",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response Front Line Group",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Genesis",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response Front Line Group",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Aegis",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response Front Line Group",
+      "from": "Extermination 8.4",
+      "to_soft": "Extermination 8.4"
+    },
+    {
+      "first": "Manpower",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response Front Line Group",
+      "from": "Extermination 8.4",
+      "to_soft": "Extermination 8.4"
+    },
+    {
+      "first": "Parian",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response Front Line Group",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Purity",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Scion",
+      "relationship": "can win against",
+      "inv_relationship": "can be defeated by",
+      "second": "Endbringers",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Manpower",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Aegis",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Fenja",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Kid Win",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
+      "second": "Leviathan",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Kaiser",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "wanted to get the killing blow on",
+      "inv_relationship": "getting killing blow on was desired by",
+      "second": "Leviathan",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "injured",
+      "inv_relationship": "was injured by",
+      "second": "Leviathan",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "failed to kill",
+      "inv_relationship": "was unable to be killed by",
+      "second": "Leviathan",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
+      "second": "Leviathan",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "lost an arm to",
+      "inv_relationship": "removed an arm of",
+      "second": "Leviathan",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "was announced as having been killed by",
+      "inv_relationship": "was announced to have killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.4"
+    },
+    {
+      "first": "Manpower",
+      "relationship": "has daughter",
+      "inv_relationship": "has father",
+      "second": "Laserdream",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Manpower",
+      "relationship": "has son",
+      "inv_relationship": "has father",
+      "second": "Shielder",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Browbeat",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Parian",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Flechette",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Flechette",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Wards",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Brandish",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Scalder",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.5",
+      "to_soft": "Extermination 8.5"
+    },
+    {
+      "first": "Scalder",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "The Erudite",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.5",
+      "to_soft": "Extermination 8.5"
+    },
+    {
+      "first": "The Erudite",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Frenetic",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.5",
+      "to_soft": "Extermination 8.5"
+    },
+    {
+      "first": "Frenetic",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Penitent",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.5",
+      "to_soft": "Extermination 8.5"
+    },
+    {
+      "first": "Penitent",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Smackdown",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.5",
+      "to_soft": "Extermination 8.5"
+    },
+    {
+      "first": "Smackdown",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Strider",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Myrddin",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Impel",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.5",
+      "to_soft": "Extermination 8.5"
+    },
+    {
+      "first": "Impel",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Apotheosis",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.5",
+      "to_soft": "Extermination 8.5"
+    },
+    {
+      "first": "Apotheosis",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Laserdream",
+      "relationship": "was disabled by",
+      "inv_relationship": "disabled",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "rescued the shelter containing",
+      "inv_relationship": "was possibly rescued (along with the rest of the shelter) by",
+      "second": "Mr. Gladly",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "was seriously injured by",
+      "inv_relationship": "seriously injured",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "rescued",
+      "inv_relationship": "was rescued by",
+      "second": "Skitter",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Scion",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Brockton Bay Endbringer Parahuman Response",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Scion",
+      "relationship": "defeated",
+      "inv_relationship": "was defeated by",
+      "second": "Leviathan",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Scion",
+      "relationship": "gave a look which Skitter interpreted as disgust to",
+      "inv_relationship": "was given a look, interpreted by Skitter as disgust, by",
+      "second": "Eidolon",
+      "from": "Extermination 8.5"
+    },
+    {
+      "first": "Panacea",
+      "relationship": "healed",
+      "inv_relationship": "was healed by",
+      "second": "Skitter",
+      "from": "Extermination 8.6"
     }
   ],
 
-  "up_to": "Extermination 8.3"
+  "up_to": "Extermination 8.6"
 }
