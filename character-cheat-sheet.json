@@ -1634,6 +1634,12 @@
           "from": "Gestation 1.5"
         }
       ],
+      "prt_classification": [
+        {
+          "value": "Thinker 7",
+          "from": "Extermination 8.7"
+        }
+      ],
       "appearance": [
         {
           "value": "Long, windblown dark blond hair",
@@ -21163,8 +21169,71 @@
       "inv_relationship": "was healed by",
       "second": "Skitter",
       "from": "Extermination 8.6"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "accidentally discovered the identity of",
+      "inv_relationship": "identity was accidentally discovered by",
+      "second": "Shadow Stalker",
+      "from": "Extermination 8.7"
+    },
+    {
+      "first": "Emma Barnes",
+      "relationship": "knows the identity of",
+      "inv_relationship": "identity is known by",
+      "second": "Shadow Stalker",
+      "from": "Extermination 8.7"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "refused to join",
+      "inv_relationship": "was refused to be joined by",
+      "second": "Wards",
+      "from": "Extermination 8.7"
+    },
+    {
+      "first": "Undersiders",
+      "relationship": "defended",
+      "inv_relationship": "was defended by",
+      "second": "Skitter",
+      "from": "Extermination 8.7"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "was accused of deliberately putting villains in the line of fire to get an opportunity to fight one-on-one with",
+      "inv_relationship": "was fought one-on-one, to do so being accused of deliberately putting villains in the line of fire, by",
+      "second": "Leviathan",
+      "from": "Extermination 8.7"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "was accused of deliberately disabling the armband of",
+      "inv_relationship": "armband disabling was blamed on",
+      "second": "Skitter",
+      "from": "Extermination 8.7"
+    },
+    {
+      "first": "Legend",
+      "relationship": "arrested",
+      "inv_relationship": "was arrested by",
+      "second": "Armsmaster",
+      "from": "Extermination 8.7"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "arrested",
+      "inv_relationship": "was arrested by",
+      "second": "Armsmaster",
+      "from": "Extermination 8.7"
+    },
+    {
+      "first": "Armsmaster",
+      "relationship": "revealed Taylor's betrayal plan to",
+      "inv_relationship": "had Taylor's betrayal plan revealed to them by",
+      "second": "Undersiders",
+      "from": "Extermination 8.7"
     }
   ],
 
-  "up_to": "Extermination 8.6"
+  "up_to": "Extermination 8.7"
 }
