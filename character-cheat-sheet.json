@@ -4511,6 +4511,16 @@
         {
           "value": "Brutus",
           "from": "Insinuation 2.9"
+        },
+        {
+          "value": "Brootus",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
         }
       ],
       "pronouns": [
@@ -4577,6 +4587,12 @@
           "from": "Interlude 4"
         }
       ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
       "from": "Insinuation 2.9"
     },
     {
@@ -4584,6 +4600,16 @@
         {
           "value": "Judas",
           "from": "Insinuation 2.9"
+        },
+        {
+          "value": "Joodus",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
         }
       ],
       "pronouns": [
@@ -4616,6 +4642,12 @@
         {
           "value": "German Shepherd",
           "from": "Agitation 3.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
         }
       ],
       "from": "Insinuation 2.9"
@@ -4921,12 +4953,6 @@
           "from": "Interlude 2"
         }
       ],
-      "state": [
-        {
-          "value": "dead",
-          "from": "Extermination 8.4"
-        }
-      ],
       "civilian_names": [
         {
           "value": "Max",
@@ -4936,6 +4962,12 @@
         {
           "value": "Max Anders",
           "from": "Buzz 7.4"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.4"
         }
       ],
       "pronouns": [
@@ -5116,6 +5148,10 @@
         {
           "value": "Downtown",
           "from": "Interlude 2"
+        },
+        {
+          "value": "Southwest end of city",
+          "from": "Interlude 8"
         }
       ],
       "notes": [
@@ -5154,6 +5190,14 @@
         {
           "value": "Headquartered underneath the skeleton of a high-rise",
           "from": "Buzz 7.11"
+        },
+        {
+          "value": "Has PoV Interlude",
+          "from": "Interlude 8"
+        },
+        {
+          "value": "Has a containment facility in his base",
+          "from": "Interlude 8"
         }
       ],
       "appearance": [
@@ -5173,6 +5217,14 @@
             {
               "value": "Black with white snake, head starting at Coil's forehead, tail extending down the back of his head, looping and winding over his entire body before ending at one of his ankles",
               "from": "Hive 5.1"
+            },
+            {
+              "value": "Zipper hidden in the snake",
+              "from": "Interlude 8"
+            },
+            {
+              "value": "Fabric allows him to see and breathe, but opaque black-gray to outside observers in all but the brightest light",
+              "from": "Interlude 8"
             }
           ],
           "from": "Hive 5.1"
@@ -5199,7 +5251,61 @@
               "from": "Tangle 6.8"
             }
           ],
-          "from": "Tangle 6.8"
+          "from": "Tangle 6.8",
+          "to": "Extermination 8.8"
+        },
+        {
+          "brief_desc": "Try both paths of a decision",
+          "notes": [
+            {
+              "value": "Uses power to portray that he can control destinies, decide outcomes",
+              "provenance": "His own statement, confirmed by Tattletale",
+              "from": "Tangle 6.8"
+            },
+            {
+              "value": "Demonstrates by throwing coins to people and having them all come up heads",
+              "provenance": "Direct witness",
+              "from": "Tangle 6.8"
+            },
+            {
+              "value": "Works by allowing him to, given an A/B decision, choose both at the same time, and see the outcomes of each, before deciding which path he wants to become reality",
+              "provenance": "Tattletale",
+              "from": "Extermination 8.8",
+              "to": "Interlude 8"
+            },
+            {
+              "value": "Works by allowing him to, given an A/B decision, choose both at the same time, and see the outcomes of each, before deciding which path he wants to become reality",
+              "provenance": "Tattletale, PoV",
+              "from": "Interlude 8"
+            },
+            {
+              "value": "Can only have two realities running at one time, and the only differences between those realities hinge on his own choices and calls",
+              "provenance": "Tattletale",
+              "from": "Extermination 8.8",
+              "to": "Interlude 8"
+            },
+            {
+              "value": "Can only have two realities running at one time, and the only differences between those realities hinge on his own choices and calls",
+              "provenance": "Tattletale, PoV",
+              "from": "Interlude 8"
+            },
+            {
+              "value": "Retains the memory of collapsed realities",
+              "provenance": "PoV",
+              "from": "Interlude 8"
+            },
+            {
+              "value": "Is unsure whether he actually creates two realities or simply perceives them while really foretelling futures; nor is Tattletale sure",
+              "provenance": "PoV",
+              "from": "Interlude 8"
+            },
+            {
+              "value": "Can use it to game the markets in a way clairvoyants and precognitives can't detect",
+              "provenance": "PoV",
+              "from": "Interlude 8"
+            }
+          ],
+          "from": "Extermination 8.8"
         }
       ],
       "from": "Interlude 2"
@@ -6044,6 +6150,18 @@
           "from": "Agitation 3.3"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Dean Stansfield",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
       "pronouns": [
         {
           "value": "he/him",
@@ -6138,6 +6256,12 @@
           "from": "Agitation 3.3"
         }
       ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
       "from": "Agitation 3.3"
     },
     {
@@ -6160,6 +6284,18 @@
         {
           "value": "Velocity",
           "from": "Agitation 3.5"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Robin Swoyer",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
         }
       ],
       "pronouns": [
@@ -6228,6 +6364,12 @@
             }
           ],
           "from": "Tangle 6.6"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
         }
       ],
       "from": "Agitation 3.5"
@@ -6834,6 +6976,12 @@
           "from": "Agitation 3.11"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Neil Pelham",
+          "from": "Extermination 8.8"
+        }
+      ],
       "state": [
         {
           "value": "dead",
@@ -7026,6 +7174,12 @@
         {
           "value": "Shielder",
           "from": "Agitation 3.11"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Eric Pelham",
+          "from": "Extermination 8.8"
         }
       ],
       "state": [
@@ -7758,6 +7912,12 @@
         {
           "value": "Fenja",
           "from": "Hive 5.1"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Jessica Biermann",
+          "from": "Extermination 8.8"
         }
       ],
       "state": [
@@ -8920,6 +9080,12 @@
           "from": "Hive 5.1"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Krouse",
+          "from": "Interlude 8"
+        }
+      ],
       "pronouns": [
         {
           "value": "he/him",
@@ -8946,6 +9112,28 @@
         {
           "value": "villain",
           "from": "Hive 5.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Darker skintone providing ambiguous ethnicity",
+          "from": "Interlude 8"
+        },
+        {
+          "value": "Long dark hair, hanging to shoulders",
+          "from": "Interlude 8"
+        },
+        {
+          "value": "Hook nose, widow's peak",
+          "from": "Interlude 8"
+        },
+        {
+          "value": "Severe appearance",
+          "from": "Interlude 8"
+        },
+        {
+          "value": "Normally sharp eyes",
+          "from": "Interlude 8"
         }
       ],
       "cape_costumes": [
@@ -10200,6 +10388,16 @@
         {
           "value": "Bullet",
           "from": "Buzz 7.3"
+        },
+        {
+          "value": "Bullit",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
         }
       ],
       "pronouns": [
@@ -10244,6 +10442,12 @@
         {
           "value": "Skitter calls her awfully pretty",
           "from": "Buzz 7.3"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
         }
       ],
       "from": "Buzz 7.3"
@@ -10848,6 +11052,12 @@
           "from": "Buzz 7.11"
         }
       ],
+      "occupations": [
+        {
+          "value": "Construction manager",
+          "from": "Interlude 8"
+        }
+      ],
       "based_in": [
         {
           "value": "Brockton Bay",
@@ -10916,6 +11126,16 @@
               "value": "Use of power is taxing so has to be kept limited",
               "provenance": "Coil",
               "from": "Buzz 7.11"
+            },
+            {
+              "value": "Cannot lie about the numbers",
+              "provenance": "Coil",
+              "from": "Interlude 8"
+            },
+            {
+              "value": "Can only give answers on scenes she can visualise",
+              "provenance": "Coil",
+              "from": "Interlude 8"
             }
           ],
           "from": "Buzz 7.11"
@@ -11522,6 +11742,12 @@
           "from": "Extermination 8.2"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Craig McNish",
+          "from": "Extermination 8.8"
+        }
+      ],
       "state": [
         {
           "value": "dead",
@@ -11591,6 +11817,48 @@
           "from": "Extermination 8.2"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Brent Woodrow",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Teenage boy",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Falcon theme",
+          "notes": [
+            {
+              "value": "Metallic bird design to his costume, helmet covering the upper half of his face looking like a bird's head",
+              "from": "Extermination 8.8"
+            }
+          ],
+          "from": "Extermination 8.1"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
       "from": "Extermination 8.2"
     },
     {
@@ -11598,6 +11866,24 @@
         {
           "value": "Saurian",
           "from": "Extermination 8.2"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Darlene Beckman",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
         }
       ],
       "from": "Extermination 8.2"
@@ -11710,6 +11996,18 @@
           "from": "Extermination 8.3"
         }
       ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
       "from": "Extermination 8.3"
     },
     {
@@ -11747,6 +12045,12 @@
         {
           "value": "Resolute",
           "from": "Extermination 8.3"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Georgia Woo",
+          "from": "Extermination 8.8"
         }
       ],
       "state": [
@@ -11816,6 +12120,12 @@
         {
           "value": "Good Neighbor",
           "from": "Extermination 8.3"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Roberto Peets",
+          "from": "Extermination 8.8"
         }
       ],
       "state": [
@@ -11979,6 +12289,28 @@
           "from": "Extermination 8.3"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Bennie Debold",
+          "from": "Extermination 8.8"
+        },
+        {
+          "value": "Geoff Schearn",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
       "from": "Extermination 8.3"
     },
     {
@@ -11997,6 +12329,18 @@
           "from": "Extermination 8.3"
         }
       ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
       "from": "Extermination 8.3"
     },
     {
@@ -12004,6 +12348,18 @@
         {
           "value": "Humble",
           "from": "Extermination 8.3"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
         }
       ],
       "from": "Extermination 8.3"
@@ -12033,6 +12389,18 @@
           "from": "Extermination 8.3"
         }
       ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
       "from": "Extermination 8.3"
     },
     {
@@ -12040,6 +12408,18 @@
         {
           "value": "Furrow",
           "from": "Extermination 8.3"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
         }
       ],
       "from": "Extermination 8.3"
@@ -12069,6 +12449,24 @@
           "from": "Extermination 8.3"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Caroline Ranson",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
       "from": "Extermination 8.3"
     },
     {
@@ -12078,6 +12476,24 @@
           "from": "Extermination 8.3"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Stefanie Lamana",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
       "from": "Extermination 8.3"
     },
     {
@@ -12085,6 +12501,24 @@
         {
           "value": "Snowflake",
           "from": "Extermination 8.3"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Charlotte Tom",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
         }
       ],
       "from": "Extermination 8.3"
@@ -12103,6 +12537,18 @@
         {
           "value": "Mister Eminent",
           "from": "Extermination 8.3"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
         }
       ],
       "from": "Extermination 8.3"
@@ -12162,6 +12608,24 @@
           "from": "Extermination 8.3"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Tim Mars",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
       "from": "Extermination 8.3"
     },
     {
@@ -12169,6 +12633,24 @@
         {
           "value": "Oaf",
           "from": "Extermination 8.3"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Wesley Scheaffer",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
         }
       ],
       "from": "Extermination 8.3"
@@ -12222,6 +12704,12 @@
           "from": "Extermination 8.3"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Tyrone Venson",
+          "from": "Extermination 8.8"
+        }
+      ],
       "state": [
         {
           "value": "dead",
@@ -12241,6 +12729,12 @@
         {
           "value": "Herald",
           "from": "Extermination 8.3"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Gordon Eckhart",
+          "from": "Extermination 8.8"
         }
       ],
       "pronouns": [
@@ -12365,6 +12859,12 @@
           "from": "Extermination 8.5"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Mavis Shoff",
+          "from": "Extermination 8.8"
+        }
+      ],
       "state": [
         {
           "value": "dead",
@@ -12428,6 +12928,12 @@
           "from": "Extermination 8.5"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Jennie Ryan",
+          "from": "Extermination 8.8"
+        }
+      ],
       "state": [
         {
           "value": "dead",
@@ -12447,6 +12953,12 @@
         {
           "value": "Impel",
           "from": "Extermination 8.5"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Corey Steffons",
+          "from": "Extermination 8.8"
         }
       ],
       "state": [
@@ -12483,6 +12995,361 @@
         }
       ],
       "from": "Extermination 8.5"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Laserhawk",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "from": "Extermination 8.8"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Flame Falcon",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "from": "Extermination 8.8"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Steel Eagle",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "from": "Extermination 8.8"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Kuro",
+          "from": "Extermination 8.8"
+        },
+        {
+          "value": "Koorow",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Extermination 8.8"
+        },
+        {
+          "value": "Bitch's dog rescue",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Is a dog",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "from": "Extermination 8.8"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Milk",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Extermination 8.8"
+        },
+        {
+          "value": "Bitch's dog rescue",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Is a dog",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "from": "Extermination 8.8"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Stumpy",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Extermination 8.8"
+        },
+        {
+          "value": "Bitch's dog rescue",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Is a dog",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "from": "Extermination 8.8"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Axel",
+          "from": "Extermination 8.8"
+        },
+        {
+          "value": "Axil",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Extermination 8.8"
+        },
+        {
+          "value": "Bitch's dog rescue",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Is a dog",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "from": "Extermination 8.8"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Ginger",
+          "from": "Extermination 8.8"
+        },
+        {
+          "value": "Gingir",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "state": [
+        {
+          "value": "dead",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Extermination 8.8"
+        },
+        {
+          "value": "Bitch's dog rescue",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Is a dog",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "cause_of_death": [
+        {
+          "value": "Hit by Leviathan",
+          "from": "Extermination 8.8"
+        }
+      ],
+      "from": "Extermination 8.8"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Creep",
+          "from": "Interlude 8"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Interlude 8"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Private soldier",
+          "from": "Interlude 8"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 8"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Predilections make him unemployable; Coil being the sole person who provides him with the 'payment' he craves",
+          "from": "Interlude 8"
+        }
+      ],
+      "from": "Interlude 8"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Mr. Pitter",
+          "from": "Interlude 8"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Interlude 8"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Registered nurse",
+          "from": "Interlude 8"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 8"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Had eight-year record of acting as nanny and caretaker to two ill children",
+          "from": "Interlude 8"
+        },
+        {
+          "value": "Found his wife cheating on him, attempted to divorce her; she ruined his career and relationship, planting false evidence of crimes",
+          "from": "Interlude 8"
+        }
+      ],
+      "from": "Interlude 8"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Noelle",
+          "from": "Interlude 8"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Interlude 8"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Ragged quality of voice, as if she'd screamed herself raw",
+          "from": "Interlude 8"
+        },
+        {
+          "value": "Her condition is getting worse",
+          "from": "Interlude 8"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Face framed with greasy brown hair, dark circles under eyes",
+          "from": "Interlude 8"
+        }
+      ],
+      "from": "Interlude 8"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Oliver",
+          "from": "Interlude 8"
+        }
+      ],
+      "from": "Interlude 8"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Captain Heroux",
+          "from": "Interlude 8"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Private army captain",
+          "from": "Interlude 8"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Interlude 8"
+        }
+      ],
+      "from": "Interlude 8"
     }
   ],
 
@@ -14389,21 +15256,24 @@
       "relationship": "belongs to",
       "inv_relationship": "owns",
       "second": "Bitch",
-      "from": "Insinuation 2.9"
+      "from": "Insinuation 2.9",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Bitch",
       "relationship": "uses her powers on",
       "inv_relationship": "is subjected to the powers of",
       "second": "Brutus",
-      "from": "Insinuation 2.9"
+      "from": "Insinuation 2.9",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Bitch",
       "relationship": "uses her powers on",
       "inv_relationship": "is subjected to the powers of",
       "second": "Judas",
-      "from": "Insinuation 2.9"
+      "from": "Insinuation 2.9",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Bitch",
@@ -14417,7 +15287,8 @@
       "relationship": "belongs to",
       "inv_relationship": "owns",
       "second": "Bitch",
-      "from": "Insinuation 2.9"
+      "from": "Insinuation 2.9",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Angelica",
@@ -14431,14 +15302,16 @@
       "relationship": "lives with",
       "inv_relationship": "live with",
       "second": "Undersiders",
-      "from": "Insinuation 2.7"
+      "from": "Insinuation 2.7",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Judas",
       "relationship": "lives with",
       "inv_relationship": "live with",
       "second": "Undersiders",
-      "from": "Insinuation 2.7"
+      "from": "Insinuation 2.7",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Angelica",
@@ -14641,14 +15514,16 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Wards East-North-East",
-      "from": "Agitation 3.3"
+      "from": "Agitation 3.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Gallant",
       "relationship": "has on-and-off girlfriend",
       "inv_relationship": "has on-and-off boyfriend",
       "second": "Glory Girl",
-      "from": "Agitation 3.3"
+      "from": "Agitation 3.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Shadow Stalker",
@@ -14676,7 +15551,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Protectorate East-North-East",
-      "from": "Agitation 3.5"
+      "from": "Agitation 3.5",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Dauntless",
@@ -15186,14 +16062,16 @@
       "relationship": "is second in line to lead",
       "inv_relationship": "will next time but one be led by",
       "second": "Wards East-North-East",
-      "from": "Interlude 3"
+      "from": "Interlude 3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Vista",
       "relationship": "has crush on",
       "inv_relationship": "is crushed on by",
       "second": "Gallant",
-      "from": "Interlude 3"
+      "from": "Interlude 3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Panacea",
@@ -15207,7 +16085,8 @@
       "relationship": "has 'rather strong feelings' towards",
       "inv_relationship": "detects 'rather strong feelings' towards him from",
       "second": "Gallant",
-      "from": "Interlude 3"
+      "from": "Interlude 3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Panacea",
@@ -19254,7 +20133,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.1"
+      "from": "Extermination 8.1",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Armsmaster",
@@ -19282,7 +20162,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.1"
+      "from": "Extermination 8.1",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Dauntless",
@@ -19837,14 +20718,16 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.2"
+      "from": "Extermination 8.2",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Saurian",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.2"
+      "from": "Extermination 8.2",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Carapacitator",
@@ -19991,7 +20874,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Acoustic",
@@ -20241,7 +21125,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Prince of Blades",
@@ -20255,14 +21140,16 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Humble",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Halo",
@@ -20290,14 +21177,16 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Furrow",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Barker",
@@ -20318,21 +21207,24 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Pelter",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Snowflake",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Mama Bear",
@@ -20346,7 +21238,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Biter",
@@ -20549,14 +21442,16 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Oaf",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.3"
+      "from": "Extermination 8.3",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Cloister",
@@ -21130,13 +22025,6 @@
     },
     {
       "first": "Bitch",
-      "relationship": "is member of",
-      "inv_relationship": "has member",
-      "second": "Brockton Bay Endbringer Parahuman Response",
-      "from": "Extermination 8.5"
-    },
-    {
-      "first": "Bitch",
       "relationship": "rescued",
       "inv_relationship": "was rescued by",
       "second": "Skitter",
@@ -21192,6 +22080,13 @@
       "from": "Extermination 8.7"
     },
     {
+      "first": "Skitter",
+      "relationship": "refused to reveal identity to",
+      "inv_relationship": "was refused seeing the identity of",
+      "second": "Shadow Stalker",
+      "from": "Extermination 8.7"
+    },
+    {
       "first": "Undersiders",
       "relationship": "defended",
       "inv_relationship": "was defended by",
@@ -21232,8 +22127,281 @@
       "inv_relationship": "had Taylor's betrayal plan revealed to them by",
       "second": "Undersiders",
       "from": "Extermination 8.7"
+    },
+    {
+      "first": "Furrow",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Gallant",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Geomancer",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Humble",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Iron Falcon",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Mister Eminent",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Oaf",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Pelter",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Quark",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Saurian",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "during Leviathan fight, helped",
+      "inv_relationship": "was helped during Leviathan fight by",
+      "second": "Iron Falcon",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Sham",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Snowflake",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Uglymug",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Velocity",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Vitiator",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Zigzag",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Kuro",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Bullet",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Milk",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Stumpy",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Brutus",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Judas",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Axel",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Ginger",
+      "relationship": "was killed by",
+      "inv_relationship": "killed",
+      "second": "Leviathan",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Tattletale",
+      "relationship": "always knew about the intended betrayal of",
+      "inv_relationship": "intended betrayal was always known about by",
+      "second": "Skitter",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "has been using his power to help",
+      "inv_relationship": "have been helped by the power of",
+      "second": "Undersiders",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "probably hates",
+      "inv_relationship": "is probably hated by",
+      "second": "Skitter",
+      "from": "Extermination 8.8"
+    },
+    {
+      "first": "Creep",
+      "relationship": "works for",
+      "inv_relationship": "employs",
+      "second": "Coil",
+      "from": "Interlude 8"
+    },
+    {
+      "first": "Mr. Pitter",
+      "relationship": "works for",
+      "inv_relationship": "employs",
+      "second": "Coil",
+      "from": "Interlude 8"
+    },
+    {
+      "first": "Noelle",
+      "relationship": "is friends with",
+      "inv_relationship": "is friends with",
+      "second": "Trickster",
+      "from": "Interlude 8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "intends to help",
+      "inv_relationship": "is intended to be helped by",
+      "second": "Noelle",
+      "from": "Interlude 8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "intends eventually to ask for help on Noelle",
+      "inv_relationship": "will eventually be asked for help on Noelle by",
+      "second": "Tattletale",
+      "from": "Interlude 8"
+    },
+    {
+      "first": "Noelle",
+      "relationship": "is kept in containment by",
+      "inv_relationship": "keeps contained",
+      "second": "Coil",
+      "from": "Interlude 8"
+    },
+    {
+      "first": "Mr. Pitter",
+      "relationship": "creeps out",
+      "inv_relationship": "is creeped out by",
+      "second": "Noelle",
+      "from": "Interlude 8"
+    },
+    {
+      "first": "Trickster",
+      "relationship": "did something that needs fixing to",
+      "inv_relationship": "had something done to her that needs fixing by",
+      "second": "Noelle",
+      "from": "Interlude 8"
+    },
+    {
+      "first": "Captain Heroux",
+      "relationship": "works for",
+      "inv_relationship": "employs",
+      "second": "Coil",
+      "from": "Interlude 8"
+    },
+    {
+      "first": "Leviathan",
+      "relationship": "was possibly targeting",
+      "inv_relationship": "was possibly targeted by",
+      "second": "Noelle",
+      "from": "Interlude 8"
+    },
+    {
+      "first": "Coil",
+      "relationship": "indulges himself in a discarded reality with",
+      "inv_relationship": "is subject in a discarded reality to the self-indulgence of",
+      "second": "Mr. Pitter",
+      "from": "Interlude 8"
     }
   ],
 
-  "up_to": "Extermination 8.7"
+  "up_to": "Extermination 8.8"
 }
