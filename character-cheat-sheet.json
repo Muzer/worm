@@ -371,6 +371,10 @@
           "value": "Villain team member",
           "from": "Tangle 6.9",
           "to_soft": "Buzz 7.12"
+        },
+        {
+          "value": "Villain team member",
+          "from": "Sentinel 9.6"
         }
       ],
       "based_in": [
@@ -392,6 +396,10 @@
           "value": "Headquarters of the Undersiders",
           "from": "Tangle 6.1",
           "to_soft": "Buzz 7.12"
+        },
+        {
+          "value": "Between the old Boardwalk and east end of Downtown",
+          "from": "Sentinel 9.6"
         }
       ],
       "notes": [
@@ -668,6 +676,11 @@
               "value": "Range extension also happens during Leviathan fight; bugs also more responsive",
               "provenance": "PoV",
               "from": "Extermination 8.4"
+            },
+            {
+              "value": "Can use her bugs (modulating their buzzing etc.) to enhance her voice",
+              "provenance": "Shadow Stalker",
+              "from": "Sentinel 9.6"
             }
           ],
           "from": "Gestation 1.1"
@@ -871,7 +884,12 @@
       "based_in": [
         {
           "value": "Brockton Bay",
-          "from": "Gestation 1.2"
+          "from": "Gestation 1.2",
+          "to_soft": "Sentinel 9.6"
+        },
+        {
+          "value": "Portland",
+          "from": "Sentinel 9.6"
         }
       ],
       "notes": [
@@ -1599,7 +1617,8 @@
         },
         {
           "value": "Undersiders HQ",
-          "from": "Insinuation 2.7"
+          "from": "Insinuation 2.7",
+          "to_soft": "Extermination 8.8"
         }
       ],
       "notes": [
@@ -1883,7 +1902,8 @@
         },
         {
           "value": "Undersiders HQ",
-          "from": "Insinuation 2.7"
+          "from": "Insinuation 2.7",
+          "to_soft": "Extermination 8.8"
         }
       ],
       "notes": [
@@ -2106,7 +2126,8 @@
         },
         {
           "value": "Undersiders HQ",
-          "from": "Insinuation 2.7"
+          "from": "Insinuation 2.7",
+          "to_soft": "Extermination 8.8"
         }
       ],
       "notes": [
@@ -4462,6 +4483,30 @@
         {
           "value": "Was likely directly involved in the locker incident",
           "from": "Extermination 8.6"
+        },
+        {
+          "value": "PoV character",
+          "from": "Sentinel 9.6"
+        },
+        {
+          "value": "Believes the Wards are deluded and that Brockton Bay can't be fixed",
+          "from": "Sentinel 9.6"
+        },
+        {
+          "value": "Has 2½ more years of probation to run",
+          "from": "Sentinel 9.6"
+        },
+        {
+          "value": "Has killed people, washed the blood off her hands, and went to school the next day",
+          "from": "Sentinel 9.6"
+        },
+        {
+          "value": "People who are lame or depressing irritate her",
+          "from": "Sentinel 9.6"
+        },
+        {
+          "value": "Sees herself as a predator, in and out of costume, as opposed to a victim",
+          "from": "Sentinel 9.6"
         }
       ],
       "parahuman_type": [
@@ -4543,7 +4588,13 @@
             {
               "value": "Can transform into an extremely lightweight form which can pass through glass and thin walls and is nearly invisible",
               "provenance": "Tattletale, direct witness",
-              "from": "Hive 5.3"
+              "from": "Hive 5.3",
+              "to": "Sentinel 9.6"
+            },
+            {
+              "value": "Can transform into an extremely lightweight form she calls her 'shadow state' which can pass through glass and thin walls and is nearly invisible",
+              "provenance": "Tattletale, direct witness, PoV",
+              "from": "Sentinel 9.6"
             },
             {
               "value": "When she shoots things they only remain in the wispy state for half a second before becoming normal",
@@ -4558,7 +4609,48 @@
             {
               "value": "Can easily jump between rooftops in her lightweight state",
               "provenance": "Direct witness",
-              "from": "Sentinel 9.2"
+              "from": "Sentinel 9.2",
+              "to": "Sentinel 9.6"
+            },
+            {
+              "value": "Can easily jump between rooftops in her 'shadow state'",
+              "provenance": "Direct witness, PoV",
+              "from": "Sentinel 9.6"
+            },
+            {
+              "value": "In 'shadow state', lungs stop taking in air and heart stops beating",
+              "provenance": "PoV",
+              "from": "Sentinel 9.6"
+            },
+            {
+              "value": "In 'shadow state', is hyperaware of changes in the atmosphere, movements of air through her body; this is how her cells get oxygen in this state",
+              "provenance": "PoV",
+              "from": "Sentinel 9.6"
+            },
+            {
+              "value": "Leaving shadow state is delayed if bugs are inside her as her power has to push them out first",
+              "provenance": "PoV",
+              "from": "Sentinel 9.6"
+            },
+            {
+              "value": "Believes she might be vulnerable to electrocution in shadow state, so can't pass through walls with wiring inside",
+              "provenance": "PoV",
+              "from": "Sentinel 9.6"
+            },
+            {
+              "value": "Experiences huge break in forward momentum and excruciating pain if she stands still inside a solid object",
+              "provenance": "PoV",
+              "from": "Sentinel 9.6"
+            },
+            {
+              "value": "Vulnerable to gases and vapor; if she needs to change back with harmful gases or vapor inside her she'd suffer as badly as anyone, if not worse",
+              "provenance": "PoV",
+              "from": "Sentinel 9.6"
+            },
+            {
+              "value": "In Grue's darkness is instinctively forced to shift into an intermediate state, as she can't get enough oxygen in the darkness",
+              "provenance": "PoV",
+              "from": "Sentinel 9.6"
             }
           ],
           "from": "Agitation 3.3"
@@ -4738,7 +4830,8 @@
         },
         {
           "value": "Undersiders HQ",
-          "from": "Insinuation 2.9"
+          "from": "Insinuation 2.9",
+          "to_soft": "Extermination 8.8"
         }
       ],
       "notes": [
@@ -5668,6 +5761,11 @@
               "from": "Extermination 8.3"
             },
             {
+              "value": "Can also quickly (in a second) replace a gun if it's jammed",
+              "provenance": "Shadow Stalker",
+              "from": "Sentinel 9.6"
+            },
+            {
               "value": "Can summon something as big as a bazooka",
               "provenance": "Direct witness",
               "from": "Extermination 8.3"
@@ -5955,7 +6053,12 @@
       "civilian_names": [
         {
           "value": "Missy",
-          "from": "Sentinel 9.3"
+          "from": "Sentinel 9.3",
+          "to": "Sentinel 9.5"
+        },
+        {
+          "value": "Missy Biron",
+          "from": "Sentinel 9.5"
         }
       ],
       "pronouns": [
@@ -5980,6 +6083,18 @@
         {
           "value": "12 years old (at start of story)",
           "from": "Agitation 3.3"
+        },
+        {
+          "value": "PoV character",
+          "from": "Sentinel 9.5"
+        },
+        {
+          "value": "Joined the Wards a month shy of turning 11",
+          "from": "Sentinel 9.5"
+        },
+        {
+          "value": "Now sees herself more as Vista than as Missy Biron",
+          "from": "Sentinel 9.5"
         }
       ],
       "parahuman_type": [
@@ -5998,6 +6113,14 @@
         {
           "value": "Hair in ponytail",
           "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Small scars on hands, tiny cuts on legs, dime-sized keloid scar on top of one foot, inch-wide inward-puckering scar on right side of chest, an inch and a half below the collarbone",
+          "from": "Sentinel 9.5"
+        },
+        {
+          "value": "Late bloomer",
+          "from": "Sentinel 9.5"
         }
       ],
       "cape_costumes": [
@@ -6011,6 +6134,10 @@
             {
               "value": "Body armour included in costume design; breastplate moulded to give the illusion of a chest",
               "from": "Agitation 3.8"
+            },
+            {
+              "value": "Stockings, boots",
+              "from": "Sentinel 9.5"
             }
           ],
           "from": "Agitation 3.8"
@@ -6309,6 +6436,11 @@
               "value": "Alternator Cannon was a result of medication which he'd taken briefly but was forced to stop taking due to side-effects; it was destroyed by Leviathan",
               "provenance": "PoV",
               "from": "Sentinel 9.4"
+            },
+            {
+              "value": "Restarted work on his floating array of turrets",
+              "provenance": "Direct witness",
+              "from": "Sentinel 9.5"
             }
           ],
           "from": "Agitation 3.3"
@@ -6365,6 +6497,10 @@
         {
           "value": "Expected to start helping out with his father's local business enterprise",
           "from": "Interlude 7"
+        },
+        {
+          "value": "Died aged 17",
+          "from": "Sentinel 9.5"
         }
       ],
       "parahuman_type": [
@@ -6433,6 +6569,10 @@
         {
           "value": "Hit by Leviathan",
           "from": "Extermination 8.8"
+        },
+        {
+          "value": "Tidal wave smashed into him and caved in his chest",
+          "from": "Sentinel 9.5"
         }
       ],
       "from": "Agitation 3.3"
@@ -8164,7 +8304,12 @@
             },
             {
               "value": "Carries a spear",
-              "from": "Hive 5.9"
+              "from": "Hive 5.9",
+              "to_soft": "Sentinel 9.6"
+            },
+            {
+              "value": "Carries a sword and a round shield",
+              "from": "Sentinel 9.6"
             }
           ],
           "from": "Hive 5.1"
@@ -8255,6 +8400,12 @@
           "from": "Hive 5.1"
         }
       ],
+      "prt_classification": [
+        {
+          "value": "Breaker",
+          "from": "Sentinel 9.6"
+        }
+      ],
       "appearance": [
         {
           "value": "Blonde with measurements like a Playboy model",
@@ -8280,7 +8431,12 @@
             },
             {
               "value": "Carries a sword and a round shield",
-              "from": "Hive 5.9"
+              "from": "Hive 5.9",
+              "to_soft": "Sentinel 9.6"
+            },
+            {
+              "value": "Carries a spear and her sister's shield",
+              "from": "Sentinel 9.6"
             }
           ],
           "from": "Hive 5.1"
@@ -10823,7 +10979,7 @@
       ],
       "powers": [
         {
-          "brief_desc": "Air blades",
+          "brief_desc": "Air powers",
           "notes": [
             {
               "value": "By flexing his hands he can congeal air into a half-dozen pale, translucent blades jutting from each hand",
@@ -10839,6 +10995,11 @@
               "value": "Has enhanced senses and can somehow sense people through Grue's darkness",
               "provenance": "Direct witness",
               "from": "Buzz 7.7"
+            },
+            {
+              "value": "This works by sensing air currents",
+              "provenance": "Shadow Stalker",
+              "from": "Sentinel 9.6"
             },
             {
               "value": "Blades are made of compressed air and he can continue adding compressed air to them at all times",
@@ -10986,7 +11147,7 @@
           "brief_desc": "Sound-related powers",
           "notes": [
             {
-              "value": "Has echolocation",
+              "value": "Has something like echolocation",
               "provenance": "Direct witness",
               "from": "Buzz 7.8"
             },
@@ -10994,6 +11155,11 @@
               "value": "Can send out a continuous blast of sound to disorient others",
               "provenance": "Direct witness",
               "from": "Buzz 7.8"
+            },
+            {
+              "value": "Shadow Stalker calls it radar",
+              "provenance": "Shadow Stalker",
+              "from": "Sentinel 9.6"
             }
           ],
           "from": "Buzz 7.8"
@@ -11527,6 +11693,10 @@
         {
           "value": "Second most popular team leader for number of YouTube videos, helped by a meme featuring his face",
           "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Has a large collection of CDs, DVDs, and records",
+          "from": "Sentinel 9.5"
         }
       ],
       "based_in": [
@@ -13839,6 +14009,12 @@
           "from": "Sentinel 9.4"
         }
       ],
+      "occupations": [
+        {
+          "value": "Villain mole",
+          "from": "Sentinel 9.5"
+        }
+      ],
       "based_in": [
         {
           "value": "Brockton Bay",
@@ -13924,6 +14100,49 @@
         }
       ],
       "from": "Sentinel 9.4"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Imp",
+          "is_duplicate": true,
+          "from": "Sentinel 9.6"
+        },
+        {
+          "value": "Imp (orig)",
+          "from": "Sentinel 9.6",
+          "to": "Sentinel 9.6"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Sentinel 9.6"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Sentinel 9.6"
+        }
+      ],
+      "cape_costumes": [
+        {
+          "brief_desc": "Horned mask",
+          "notes": [
+            {
+              "value": "Black scarf, pale gray mask with pointed horns arching over the top of her head",
+              "from": "Sentinel 9.6"
+            },
+            {
+              "value": "Eyes of the mask have lenses black from corner to corner, stylised to look fierce, more animal than human",
+              "from": "Sentinel 9.6"
+            }
+          ],
+          "from": "Sentinel 9.6"
+        }
+      ],
+      "from": "Sentinel 9.6"
     }
   ],
 
@@ -14045,7 +14264,8 @@
         },
         {
           "value": "Headquartered in former Redmond Welding factory in the docks",
-          "from": "Insinuation 2.7"
+          "from": "Insinuation 2.7",
+          "to_soft": "Extermination 8.8"
         }
       ],
       "notes": [
@@ -15279,6 +15499,14 @@
         {
           "value": "Largest group in terms of parahuman numbers",
           "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Considered too racist to work with a Hispanic person",
+          "from": "Sentinel 9.5"
+        },
+        {
+          "value": "Has troops with white face-paint from forehead to cheekbone to chin in crude approximation of a wolf's face",
+          "from": "Sentinel 9.6"
         }
       ],
       "from": "Sentinel 9.1"
@@ -15308,6 +15536,10 @@
         {
           "value": "Small but powerful",
           "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Considered too racist to work with a Hispanic person",
+          "from": "Sentinel 9.5"
         }
       ],
       "from": "Sentinel 9.1"
@@ -15879,21 +16111,24 @@
       "relationship": "lives with",
       "inv_relationship": "live with",
       "second": "Undersiders",
-      "from": "Insinuation 2.7"
+      "from": "Insinuation 2.7",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Regent",
       "relationship": "lives with",
       "inv_relationship": "live with",
       "second": "Undersiders",
-      "from": "Insinuation 2.7"
+      "from": "Insinuation 2.7",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Bitch",
       "relationship": "lives with",
       "inv_relationship": "live with",
       "second": "Undersiders",
-      "from": "Insinuation 2.7"
+      "from": "Insinuation 2.7",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Tattletale",
@@ -16012,7 +16247,8 @@
       "relationship": "lives with",
       "inv_relationship": "live with",
       "second": "Undersiders",
-      "from": "Insinuation 2.7"
+      "from": "Insinuation 2.7",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Glory Girl",
@@ -23574,9 +23810,275 @@
       "inv_relationship": "was attempted to be recruited by",
       "second": "Chariot",
       "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Kid Win",
+      "relationship": "discovered the suspicious activity of",
+      "inv_relationship": "had suspicious activity discovered by",
+      "second": "Chariot",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Flechette",
+      "relationship": "delivered supplies to",
+      "inv_relationship": "had supplies delivered by",
+      "second": "Parian",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Vista",
+      "relationship": "delivered supplies to",
+      "inv_relationship": "had supplies delivered by",
+      "second": "Parian",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Parian",
+      "relationship": "made a gift for",
+      "inv_relationship": "was made a gift for by",
+      "second": "Vista",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Flechette",
+      "relationship": "expects to become a top dog in the Protectorate",
+      "inv_relationship": "is expected to become a top dog in the Protectorate by",
+      "second": "Vista",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Coil",
+      "relationship": "likely recruited as a mole",
+      "inv_relationship": "was likely recruited as a mole by",
+      "second": "Chariot",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Coil",
+      "relationship": "already has moles in",
+      "inv_relationship": "already has moles in belonging to",
+      "second": "Parahuman Response Team",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Dragon",
+      "relationship": "discovered PRT moles belonging to",
+      "inv_relationship": "his moles in the PRT were discovered by",
+      "second": "Coil",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Director Piggot",
+      "relationship": "decided to recruit, knowing he's a mole",
+      "inv_relationship": "was recruited, despite knowing he's a mole, by",
+      "second": "Chariot",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Hookwolf",
+      "relationship": "previously physically scarred",
+      "inv_relationship": "was previously physically scarred by",
+      "second": "Vista",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Aegis",
+      "relationship": "acted as the strategist and manager of",
+      "inv_relationship": "had as the strategist and manager",
+      "second": "Wards East-North-East",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Gallant",
+      "relationship": "acted as the heart of",
+      "inv_relationship": "had as the team heart",
+      "second": "Wards East-North-East",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "is replacing the former role of",
+      "inv_relationship": "former role is being replaced by",
+      "second": "Aegis",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Vista",
+      "relationship": "was suggested to replace the former role of",
+      "inv_relationship": "was suggested that former role be replaced by",
+      "second": "Gallant",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Weld",
+      "relationship": "ordered to see the therapist",
+      "inv_relationship": "was ordered to see the therapist by",
+      "second": "Vista",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "acted cruelly to",
+      "inv_relationship": "received cruelty from",
+      "second": "Vista",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Vista",
+      "relationship": "loved",
+      "inv_relationship": "was loved by",
+      "second": "Gallant",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Vista",
+      "relationship": "reached out to",
+      "inv_relationship": "was reached out to by",
+      "second": "Shadow Stalker",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "attacked",
+      "inv_relationship": "was attacked by",
+      "second": "Vista",
+      "from": "Sentinel 9.5"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "misses",
+      "inv_relationship": "is missed by",
+      "second": "Emma Barnes",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Menja",
+      "relationship": "attacked on a convoy",
+      "inv_relationship": "were attacked when on a convoy by",
+      "second": "Protectorate East-North-East",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Hookwolf",
+      "relationship": "attacked on a convoy",
+      "inv_relationship": "were attacked when on a convoy by",
+      "second": "Protectorate East-North-East",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Stormtiger",
+      "relationship": "attacked on a convoy",
+      "inv_relationship": "were attacked when on a convoy by",
+      "second": "Protectorate East-North-East",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Cricket",
+      "relationship": "attacked on a convoy",
+      "inv_relationship": "were attacked when on a convoy by",
+      "second": "Protectorate East-North-East",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Miss Militia",
+      "relationship": "defended convoy from",
+      "inv_relationship": "had convoy defended against them by",
+      "second": "Fenrir's Chosen",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Assault",
+      "relationship": "defended convoy from",
+      "inv_relationship": "had convoy defended against them by",
+      "second": "Fenrir's Chosen",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "defended convoy from",
+      "inv_relationship": "had convoy defended against them by",
+      "second": "Fenrir's Chosen",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Cricket",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "defended convoy from",
+      "inv_relationship": "had convoy defended against them by",
+      "second": "Fenrir's Chosen",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "stole from the convoy guarded by",
+      "inv_relationship": "had convoy they were guarding stolen from by",
+      "second": "Protectorate East-North-East",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "pursued",
+      "inv_relationship": "was pursued by",
+      "second": "Skitter",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "almost respects as a fellow predator",
+      "inv_relationship": "is almost respected as a fellow predator by",
+      "second": "Skitter",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "tried to kill",
+      "inv_relationship": "was attempted to be killed by",
+      "second": "Skitter",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "was baited by",
+      "inv_relationship": "baited",
+      "second": "Undersiders",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Undersiders",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Skitter",
+      "relationship": "rejoined",
+      "inv_relationship": "were rejoined by",
+      "second": "Undersiders",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Imp (orig)",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "Undersiders",
+      "from": "Sentinel 9.6"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "was captured by",
+      "inv_relationship": "captured",
+      "second": "Undersiders",
+      "from": "Sentinel 9.6"
     }
   ],
 
-  "up_to": "Sentinel 9.4",
+  "up_to": "Sentinel 9.6",
   "todo": "9.1 Merchants prt classifications once we know their powers"
 }
