@@ -1946,6 +1946,12 @@
           "from": "Gestation 1.5"
         }
       ],
+      "prt_classification": [
+        {
+          "value": "Master",
+          "from": "Sentinel 9.1"
+        }
+      ],
       "appearance": [
         {
           "value": "Dark-haired, not pretty, squarish blunt-featured face with thick eyebrows",
@@ -2143,6 +2149,12 @@
           "from": "Gestation 1.5"
         }
       ],
+      "prt_classification": [
+        {
+          "value": "Master",
+          "from": "Sentinel 9.1"
+        }
+      ],
       "appearance": [
         {
           "value": "Short black curls, build like a dancer",
@@ -2255,7 +2267,12 @@
       "occupations": [
         {
           "value": "Hero team leader",
-          "from": "Gestation 1.6"
+          "from": "Gestation 1.6",
+          "to_soft": "Sentinel 9.1"
+        },
+        {
+          "value": "Retired",
+          "from": "Sentinel 9.1"
         }
       ],
       "based_in": [
@@ -2837,6 +2854,12 @@
         {
           "value": "hero",
           "from": "Interlude 1"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Breaker",
+          "from": "Sentinel 9.2"
         }
       ],
       "appearance": [
@@ -4441,6 +4464,26 @@
           "from": "Extermination 8.6"
         }
       ],
+      "parahuman_type": [
+        {
+          "value": "hero",
+          "from": "Agitation 3.3"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Breaker 3",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Stranger 2",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Mover 1",
+          "from": "Sentinel 9.1"
+        }
+      ],
       "appearance": [
         {
           "value": "About as tall as Taylor",
@@ -4461,8 +4504,12 @@
       ],
       "cape_costumes": [
         {
-          "brief_desc": "Hood and cape",
+          "brief_desc": "Costume with crossbow",
           "notes": [
+            {
+              "value": "Carries a crossbow; is supposed to use nonlethal ammo but doesn't against Grue",
+              "from": "Agitation 3.3"
+            },
             {
               "value": "Dark gray urban-camouflage hood and cape",
               "from": "Hive 5.3"
@@ -4470,9 +4517,17 @@
             {
               "value": "Black-painted metal mask",
               "from": "Hive 5.3"
+            },
+            {
+              "value": "On patrol, carries tinker-made tranquiliser bolts",
+              "from": "Sentinel 9.2"
+            },
+            {
+              "value": "Wears metal kneepads and gauntlets",
+              "from": "Sentinel 9.2"
             }
           ],
-          "from": "Hive 5.3"
+          "from": "Agitation 3.3"
         }
       ],
       "powers": [
@@ -4499,6 +4554,11 @@
               "value": "Power interacts strangely with Grue's Darkness generation; reduces her speed, agility, and invisibility",
               "provenance": "Tattletale",
               "from": "Agitation 3.3"
+            },
+            {
+              "value": "Can easily jump between rooftops in her lightweight state",
+              "provenance": "Direct witness",
+              "from": "Sentinel 9.2"
             }
           ],
           "from": "Agitation 3.3"
@@ -5198,6 +5258,14 @@
         {
           "value": "Has a containment facility in his base",
           "from": "Interlude 8"
+        },
+        {
+          "value": "Even with his power, took years to pay off his debt",
+          "from": "Interlude 8"
+        },
+        {
+          "value": "Owes a significant favour to someone",
+          "from": "Interlude 8"
         }
       ],
       "appearance": [
@@ -5303,6 +5371,11 @@
               "value": "Can use it to game the markets in a way clairvoyants and precognitives can't detect",
               "provenance": "PoV",
               "from": "Interlude 8"
+            },
+            {
+              "value": "Powers unknown to the PRT",
+              "provenance": "PRT files",
+              "from": "Sentinel 9.1"
             }
           ],
           "from": "Extermination 8.8"
@@ -5762,6 +5835,12 @@
           "note": "Affectionate nickname"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Dennis",
+          "from": "Sentinel 9.3"
+        }
+      ],
       "pronouns": [
         {
           "value": "he/him",
@@ -5780,10 +5859,28 @@
           "from": "Agitation 3.3"
         }
       ],
+      "notes": [
+        {
+          "value": "PoV character",
+          "from": "Sentinel 9.3"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "hero",
           "from": "Agitation 3.3"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Striker 7",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Red-haired, freckled, thin-lipped",
+          "from": "Sentinel 9.1"
         }
       ],
       "cape_costumes": [
@@ -5855,6 +5952,12 @@
           "from": "Agitation 3.3"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Missy",
+          "from": "Sentinel 9.3"
+        }
+      ],
       "pronouns": [
         {
           "value": "she/her",
@@ -5883,6 +5986,18 @@
         {
           "value": "hero",
           "from": "Agitation 3.3"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Shaker 9",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Hair in ponytail",
+          "from": "Sentinel 9.1"
         }
       ],
       "cape_costumes": [
@@ -6066,6 +6181,20 @@
           "from": "Agitation 3.3"
         }
       ],
+      "notes": [
+        {
+          "value": "PoV character",
+          "from": "Sentinel 9.4"
+        },
+        {
+          "value": "Has ADD (though believes himself just to be a daydreamer) and dyscalculia",
+          "from": "Sentinel 9.4"
+        },
+        {
+          "value": "Expects to change his name and methods when he graduates",
+          "from": "Sentinel 9.4"
+        }
+      ],
       "parahuman_type": [
         {
           "value": "hero",
@@ -6075,13 +6204,22 @@
       "prt_classification": [
         {
           "value": "Tinker",
-          "from": "Agitation 3.3"
+          "from": "Agitation 3.3",
+          "to": "Sentinel 9.1"
+        },
+        {
+          "value": "Tinker 4",
+          "from": "Sentinel 9.1"
         }
       ],
       "appearance": [
         {
           "value": "Brown hair",
           "from": "Agitation 3.8"
+        },
+        {
+          "value": "Ruddy cheeks, normal-looking",
+          "from": "Sentinel 9.1"
         }
       ],
       "cape_costumes": [
@@ -6136,6 +6274,41 @@
               "value": "Puts tracking devices in his stuff",
               "provenance": "Grue's savvy, Tattletale's power",
               "from": "Agitation 3.12"
+            },
+            {
+              "value": "Spark pistol, shoots oversized blue sparks, powered by spatial warping technology which magnifies and reabsorbs a steady electrical current",
+              "provenance": "PoV",
+              "from": "Sentinel 9.4"
+            },
+            {
+              "value": "Shoots 'hard' electricity condensed into elliptical balls, meaning they have a physical impact",
+              "provenance": "PoV",
+              "from": "Sentinel 9.4"
+            },
+            {
+              "value": "Waiting between shots means the next shot is more impactful",
+              "provenance": "PoV",
+              "from": "Sentinel 9.4"
+            },
+            {
+              "value": "Dismantled his hoverboard for parts for a project which he never finished",
+              "provenance": "PoV",
+              "from": "Sentinel 9.4"
+            },
+            {
+              "value": "Doesn't have a specialty that he can identify; worries that the specialty might just be 'occasionally make something despite his learning disability'",
+              "provenance": "PoV",
+              "from": "Sentinel 9.4"
+            },
+            {
+              "value": "Tried to build a floating array of turrets that can adapt to different guns being loaded into the main slot and fire different munitions",
+              "provenance": "PoV",
+              "from": "Sentinel 9.4"
+            },
+            {
+              "value": "Alternator Cannon was a result of medication which he'd taken briefly but was forced to stop taking due to side-effects; it was destroyed by Leviathan",
+              "provenance": "PoV",
+              "from": "Sentinel 9.4"
             }
           ],
           "from": "Agitation 3.3"
@@ -7497,6 +7670,12 @@
           "from": "Interlude 3"
         }
       ],
+      "notes": [
+        {
+          "value": "Prioritises public relations; parahumans as part of America",
+          "from": "Sentinel 9.1"
+        }
+      ],
       "appearance": [
         {
           "value": "Heavyset with a bob",
@@ -7721,6 +7900,16 @@
         {
           "value": "villain",
           "from": "Interlude 3½ (Bonus)"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Blaster 8",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Mover 4",
+          "from": "Sentinel 9.1"
         }
       ],
       "appearance": [
@@ -8254,6 +8443,12 @@
           "from": "Hive 5.1"
         }
       ],
+      "prt_classification": [
+        {
+          "value": "Breaker 9",
+          "from": "Sentinel 9.1"
+        }
+      ],
       "cape_costumes": [
         {
           "brief_desc": "Cowl and cloak",
@@ -8393,6 +8588,16 @@
           "from": "Hive 5.1"
         }
       ],
+      "prt_classification": [
+        {
+          "value": "Shifter 8",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Stranger 3",
+          "from": "Sentinel 9.1"
+        }
+      ],
       "cape_costumes": [
         {
           "brief_desc": "Cowl and cloak",
@@ -8491,12 +8696,26 @@
         {
           "value": "Uncertain whether the ideology was always real for him or if it's an act that became reality when people celebrated him for racking up a body count",
           "from": "Buzz 7.7"
+        },
+        {
+          "value": "Very long list of homicides or suspected homicides for someone not in prison",
+          "from": "Sentinel 9.1"
         }
       ],
       "parahuman_type": [
         {
           "value": "villain",
           "from": "Hive 5.1"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Shaper 4",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Brute 7",
+          "from": "Sentinel 9.1"
         }
       ],
       "appearance": [
@@ -8940,6 +9159,12 @@
         {
           "value": "villain",
           "from": "Hive 5.1"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Shaker 12",
+          "from": "Sentinel 9.1"
         }
       ],
       "appearance": [
@@ -9788,6 +10013,11 @@
               "value": "Produced a creature from the black lagoon, replete with crustacean armour and octopus tentacles in place of arms and a face",
               "provenance": "Direct witness",
               "from": "Tangle 6.7"
+            },
+            {
+              "value": "Produced a Gargoyle, demon, or dragon, with talons; can exhale a dark, gray-black vapour with a bitter smell and taste like ashes, which causes people to cough",
+              "provenance": "Direct witness",
+              "from": "Sentinel 9.3"
             }
           ],
           "from": "Tangle 6.1"
@@ -10941,6 +11171,12 @@
           "from": "Buzz 7.6"
         }
       ],
+      "prt_classification": [
+        {
+          "value": "Master 6",
+          "from": "Sentinel 9.1"
+        }
+      ],
       "powers": [
         {
           "brief_desc": "Ethereal simulacrums",
@@ -11263,8 +11499,12 @@
       ],
       "occupations": [
         {
-          "value": "Hero team leader",
+          "value": "Hero team member",
           "from": "Interlude 7"
+        },
+        {
+          "value": "Hero team leader",
+          "from": "Sentinel 9.1"
         }
       ],
       "notes": [
@@ -11279,6 +11519,14 @@
         {
           "value": "Likeable, higher-than-average feedback, impressive given he's a Case Fifty-Three",
           "from": "Interlude 7"
+        },
+        {
+          "value": "PoV character",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Second most popular team leader for number of YouTube videos, helped by a meme featuring his face",
+          "from": "Sentinel 9.1"
         }
       ],
       "based_in": [
@@ -11295,6 +11543,16 @@
         {
           "value": "Case Fifty-Three",
           "from": "Interlude 7"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Brute",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Changer",
+          "from": "Sentinel 9.1"
         }
       ],
       "appearance": [
@@ -11341,9 +11599,50 @@
               "value": "Can form his hands into metal objects like blades",
               "provenance": "Direct witness",
               "from": "Extermination 8.5"
+            },
+            {
+              "value": "Can't help but attach to and absorb any metal he touches",
+              "provenance": "PoV",
+              "from": "Sentinel 9.1"
+            },
+            {
+              "value": "Can rearrange the metal in his own body",
+              "provenance": "PoV",
+              "from": "Sentinel 9.1"
+            },
+            {
+              "value": "Learnt to push the impurities in the metal out to the surface, which allow him to handle things with hands or teeth most of the time",
+              "provenance": "PoV",
+              "from": "Sentinel 9.1"
+            },
+            {
+              "value": "Can force parts of himself to melt and drop off if necessary, but feels distinctly uncomfortable until the tissue is replaced",
+              "provenance": "PoV",
+              "from": "Sentinel 9.1"
+            },
+            {
+              "value": "As strong as or stronger than steel; practically untouchable in a fight",
+              "provenance": "PoV",
+              "from": "Sentinel 9.1"
+            },
+            {
+              "value": "Biology usually works in his favour for Manton Limited powers; he counts as biological for non-biological powers and vice versa",
+              "provenance": "PoV",
+              "from": "Sentinel 9.1"
             }
           ],
           "from": "Interlude 7"
+        },
+        {
+          "brief_desc": "Limited sleep",
+          "notes": [
+            {
+              "value": "Does not need to sleep much",
+              "provenance": "His own statement",
+              "from": "Sentinel 9.1"
+            }
+          ],
+          "from": "Sentinel 9.1"
         }
       ],
       "from": "Interlude 7"
@@ -11400,6 +11699,12 @@
           "from": "Extermination 8.1"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Sabah",
+          "from": "Sentinel 9.2"
+        }
+      ],
       "pronouns": [
         {
           "value": "she/her",
@@ -11430,12 +11735,28 @@
         {
           "value": "Her first fight is against Leviathan",
           "from": "Extermination 8.4"
+        },
+        {
+          "value": "Has cordoned off a section of the city for her, her friends, and her family, and keeps others out; remains entirely neutral between Brockton Bay's powers",
+          "from": "Sentinel 9.2"
         }
       ],
       "parahuman_type": [
         {
           "value": "rogue",
           "from": "Extermination 8.1"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Master 6 (tentative)",
+          "from": "Sentinel 9.2"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Dark, middle eastern face, full lips, large, dark eyes",
+          "from": "Sentinel 9.2"
         }
       ],
       "cape_costumes": [
@@ -11445,6 +11766,14 @@
             {
               "value": "Dressed up like an old-fashioned doll",
               "from": "Extermination 8.1"
+            },
+            {
+              "value": "Doll's face mask, smudged with a crack from one eye to the ear",
+              "from": "Sentinel 9.2"
+            },
+            {
+              "value": "Has metal bands on her face to keep her mask in place",
+              "from": "Sentinel 9.2"
             }
           ],
           "from": "Extermination 8.1"
@@ -12776,6 +13105,12 @@
           "from": "Extermination 8.5"
         }
       ],
+      "civilian_names": [
+        {
+          "value": "Lily",
+          "from": "Sentinel 9.2"
+        }
+      ],
       "pronouns": [
         {
           "value": "she/her",
@@ -12788,16 +13123,37 @@
           "from": "Extermination 8.5"
         }
       ],
+      "based_in": [
+        {
+          "value": "New York",
+          "from": "Sentinel 9.1",
+          "to_soft": "Sentinel 9.2"
+        },
+        {
+          "value": "Brockton Bay",
+          "from": "Sentinel 9.2"
+        }
+      ],
       "notes": [
         {
-          "value": "",
-          "from": "Extermination 8.5"
+          "value": "PoV character",
+          "from": "Sentinel 9.2"
         }
       ],
       "parahuman_type": [
         {
           "value": "hero",
           "from": "Extermination 8.5"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Striker",
+          "from": "Sentinel 9.2"
+        },
+        {
+          "value": "Blaster",
+          "from": "Sentinel 9.2"
         }
       ],
       "cape_costumes": [
@@ -12811,6 +13167,22 @@
             {
               "value": "A quiver of what look like giant needles and a massive crossbow",
               "from": "Extermination 8.5"
+            },
+            {
+              "value": "Carries a grappling hook attachment for her arbalest (automatic crossbow) to move between rooftops",
+              "from": "Sentinel 9.2"
+            },
+            {
+              "value": "Tinker-made replication device clones chain for her from a fusion battery",
+              "from": "Sentinel 9.2"
+            },
+            {
+              "value": "Carries throwing darts",
+              "from": "Sentinel 9.2"
+            },
+            {
+              "value": "Used to carry rapier",
+              "from": "Sentinel 9.2"
             }
           ],
           "from": "Extermination 8.5"
@@ -12826,7 +13198,71 @@
               "from": "Extermination 8.5"
             }
           ],
-          "from": "Extermination 8.5"
+          "from": "Extermination 8.5",
+          "to": "Sentinel 9.2"
+        },
+        {
+          "brief_desc": "Make objects immune to physics",
+          "notes": [
+            {
+              "value": "Can focus her power into an object by touching it; the more power she focuses, the less it's affected by natural laws of the universe",
+              "provenance": "PoV",
+              "from": "Sentinel 9.2"
+            },
+            {
+              "value": "Power reduces the effects of gravity, air resistance, and general physics",
+              "provenance": "PoV",
+              "from": "Sentinel 9.2"
+            },
+            {
+              "value": "Can tune the effect to be longer or shorter lived, or bias it towards specific elements of immunity",
+              "provenance": "PoV",
+              "from": "Sentinel 9.2"
+            },
+            {
+              "value": "Easiest effect is to have her ammunition able to punch through anything; by timing it well she can have the effect wear off to glue it in place within the object shot at",
+              "provenance": "PoV",
+              "from": "Sentinel 9.2"
+            },
+            {
+              "value": "Can use it on her cleats to bite into any surface (though too slow to use defensively), and make her costume frictionless",
+              "provenance": "PoV",
+              "from": "Sentinel 9.2"
+            },
+            {
+              "value": "Upshot is, can shoot bolts from a crossbow that stab deep into even Leviathan, moreso than anyone else's attack",
+              "provenance": "Direct witness",
+              "from": "Sentinel 9.2"
+            },
+            {
+              "value": "Can also put bolts on the end of a chain to use as a grappling hook between buildings",
+              "provenance": "PoV",
+              "from": "Sentinel 9.2"
+            }
+          ],
+          "from": "Sentinel 9.2"
+        },
+        {
+          "brief_desc": "Enhanced timing",
+          "notes": [
+            {
+              "value": "Has an intuitive understanding of timing, allowing her to use her primary power for shooting things",
+              "provenance": "PoV",
+              "from": "Sentinel 9.2"
+            }
+          ],
+          "from": "Sentinel 9.2"
+        },
+        {
+          "brief_desc": "Enhanced angles and trajectories",
+          "notes": [
+            {
+              "value": "Has an intuitive understanding of angles and trajectories, allowing her to use her primary power for shooting things",
+              "provenance": "PoV",
+              "from": "Sentinel 9.2"
+            }
+          ],
+          "from": "Sentinel 9.2"
         }
       ],
       "from": "Extermination 8.5"
@@ -13350,6 +13786,144 @@
         }
       ],
       "from": "Interlude 8"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Director Armstrong",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "occupations": [
+        {
+          "value": "Local PRT Director",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Boston",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Prioritises research and understanding parahumans",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "from": "Sentinel 9.1"
+    },
+    {
+      "cape_names": [
+        {
+          "value": "Chariot",
+          "from": "Sentinel 9.4"
+        }
+      ],
+      "civilian_names": [
+        {
+          "value": "Trevor",
+          "from": "Sentinel 9.4"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "he/him",
+          "from": "Sentinel 9.4"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Sentinel 9.4"
+        },
+        {
+          "value": "South end",
+          "from": "Sentinel 9.4"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Likely had trigger event around the Leviathan attack",
+          "from": "Sentinel 9.4"
+        },
+        {
+          "value": "Is motivated by money",
+          "from": "Sentinel 9.4"
+        },
+        {
+          "value": "Someone else got to him before the Wards did",
+          "from": "Sentinel 9.4"
+        }
+      ],
+      "prt_classification": [
+        {
+          "value": "Tinker",
+          "from": "Sentinel 9.4"
+        },
+        {
+          "value": "Mover",
+          "from": "Sentinel 9.4"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Lanky, big ears, close-shorn hair; cuts and grease stains on hands and forearms",
+          "from": "Sentinel 9.4"
+        }
+      ],
+      "powers": [
+        {
+          "brief_desc": "Tinker",
+          "notes": [
+            {
+              "value": "Has made a powered suit that lets him move about the city at a hundred miles an hour",
+              "provenance": "Director Piggot, Weld",
+              "from": "Sentinel 9.4"
+            }
+          ],
+          "from": "Sentinel 9.4"
+        }
+      ],
+      "from": "Sentinel 9.4"
+    },
+    {
+      "civilian_names": [
+        {
+          "value": "Ashley Medina",
+          "from": "Sentinel 9.4"
+        }
+      ],
+      "pronouns": [
+        {
+          "value": "she/her",
+          "from": "Sentinel 9.4"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Sentinel 9.4"
+        },
+        {
+          "value": "Docks",
+          "from": "Sentinel 9.4"
+        }
+      ],
+      "appearance": [
+        {
+          "value": "Tired-looking, Hispanic",
+          "from": "Sentinel 9.4"
+        }
+      ],
+      "from": "Sentinel 9.4"
     }
   ],
 
@@ -13625,6 +14199,10 @@
         {
           "value": "Biggest and fanciest high school in Brockton Bay",
           "from": "Insinuation 2.5"
+        },
+        {
+          "value": "Closed for repairs and inspection",
+          "from": "Sentinel 9.1"
         }
       ],
       "from": "Interlude 1"
@@ -13832,6 +14410,12 @@
           "from": "Interlude 2"
         }
       ],
+      "state": [
+        {
+          "value": "defunct",
+          "from": "Sentinel 9.1"
+        }
+      ],
       "based_in": [
         {
           "value": "Brockton Bay",
@@ -13877,6 +14461,10 @@
         {
           "value": "Group Tattletale says is really dangerous motherfuckers, barely human",
           "from": "Agitation 3.6"
+        },
+        {
+          "value": "Sometimes arrive at locations after Endbringer events",
+          "from": "Sentinel 9.4"
         }
       ],
       "from": "Agitation 3.6"
@@ -14019,8 +14607,13 @@
     {
       "names": [
         {
+          "value": "Archer's Bridge Merchants",
+          "from": "Sentinel 9.1"
+        },
+        {
           "value": "Merchants",
-          "from": "Hive 5.5"
+          "from": "Hive 5.5",
+          "to": "Sentinel 9.1"
         },
         {
           "value": "Skidmark's villain team",
@@ -14064,6 +14657,18 @@
         {
           "value": "Too weak and self-centred to make a serious play for power",
           "from": "Tangle 6.8"
+        },
+        {
+          "value": "After Leviathan attack, became a rallying point for those on the lowest rungs of society wishing to overturn the social order",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Controls the Docks",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Now attacking infrastructure",
+          "from": "Sentinel 9.1"
         }
       ],
       "from": "Hive 5.1"
@@ -14644,6 +15249,93 @@
         }
       ],
       "from": "Extermination 8.2"
+    },
+    {
+      "names": [
+        {
+          "value": "Fenrir's Chosen",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Gang",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "White supremacist",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Violent, utterly merciless, revelling in chaos",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Largest group in terms of parahuman numbers",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "from": "Sentinel 9.1"
+    },
+    {
+      "names": [
+        {
+          "value": "The Pure",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "Brockton Bay",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Gang",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "White supremacist",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "Small but powerful",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "from": "Sentinel 9.1"
+    },
+    {
+      "names": [
+        {
+          "value": "New York Wards",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "based_in": [
+        {
+          "value": "New York",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "notes": [
+        {
+          "value": "Hero team",
+          "from": "Sentinel 9.1"
+        },
+        {
+          "value": "New York's Wards team",
+          "from": "Sentinel 9.1"
+        }
+      ],
+      "from": "Sentinel 9.1"
     }
   ],
 
@@ -14801,14 +15493,16 @@
       "relationship": "leads",
       "inv_relationship": "is led by",
       "second": "Protectorate East-North-East",
-      "from": "Gestation 1.6"
+      "from": "Gestation 1.6",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Armsmaster",
       "relationship": "is a top member of",
       "inv_relationship": "has top member",
       "second": "Protectorate",
-      "from": "Gestation 1.6"
+      "from": "Gestation 1.6",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Wards",
@@ -15375,7 +16069,8 @@
       "relationship": "is in territorial dispute with",
       "inv_relationship": "is in territorial dispute with",
       "second": "Empire Eighty-Eight",
-      "from": "Interlude 2"
+      "from": "Interlude 2",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Azn Bad Boys",
@@ -16421,7 +17116,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Interlude 3½ (Bonus)"
+      "from": "Interlude 3½ (Bonus)",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Purity",
@@ -16436,7 +17132,8 @@
       "relationship": "has been offered leadership of (if she's unsatisfied with its state after a year)",
       "inv_relationship": "has next-in-line leader (if she's unsatisfied with its state after a year)",
       "second": "Empire Eighty-Eight",
-      "from": "Interlude 3½ (Bonus)"
+      "from": "Interlude 3½ (Bonus)",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Empire Eighty-Eight",
@@ -16678,7 +17375,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Hive 5.1"
+      "from": "Hive 5.1",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Menja",
@@ -16722,7 +17420,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Hive 5.1"
+      "from": "Hive 5.1",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Night",
@@ -16757,7 +17456,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Hive 5.1"
+      "from": "Hive 5.1",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Fog",
@@ -16785,7 +17485,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Hive 5.1"
+      "from": "Hive 5.1",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Hookwolf",
@@ -16799,7 +17500,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Hive 5.1"
+      "from": "Hive 5.1",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Kaiser",
@@ -17971,7 +18673,8 @@
       "relationship": "close to open warfare with",
       "inv_relationship": "close to open warfare with",
       "second": "Empire Eighty-Eight",
-      "from": "Tangle 6.4"
+      "from": "Tangle 6.4",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Skitter",
@@ -18269,7 +18972,8 @@
       "relationship": "is seventh most prominent member of",
       "inv_relationship": "has seventh most prominent member",
       "second": "Protectorate",
-      "from": "Tangle 6.6"
+      "from": "Tangle 6.6",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Armsmaster",
@@ -18844,6 +19548,13 @@
       "from": "Buzz 7.1"
     },
     {
+      "first": "Sirius",
+      "relationship": "belongs to",
+      "inv_relationship": "owns",
+      "second": "Bitch",
+      "from": "Buzz 7.2"
+    },
+    {
       "first": "Taylor",
       "relationship": "discovered the heartworm of",
       "inv_relationship": "had heartworm discovered by",
@@ -18865,11 +19576,20 @@
       "from": "Buzz 7.2"
     },
     {
+      "first": "Bullet",
+      "relationship": "belongs to",
+      "inv_relationship": "owns",
+      "second": "Bitch",
+      "from": "Buzz 7.3",
+      "to_soft": "Extermination 8.8"
+    },
+    {
       "first": "Tom",
       "relationship": "wants to become a member of",
       "inv_relationship": "membership is desired by",
       "second": "Empire Eighty-Eight",
-      "from": "Buzz 7.3"
+      "from": "Buzz 7.3",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Tom",
@@ -19066,35 +19786,40 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Buzz 7.6"
+      "from": "Buzz 7.6",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Othala",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Buzz 7.6"
+      "from": "Buzz 7.6",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Cricket",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Buzz 7.6"
+      "from": "Buzz 7.6",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Rune",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Buzz 7.6"
+      "from": "Buzz 7.6",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Victor",
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Buzz 7.6"
+      "from": "Buzz 7.6",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Alabaster",
@@ -19109,7 +19834,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Empire Eighty-Eight",
-      "from": "Buzz 7.6"
+      "from": "Buzz 7.6",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Sophia Hess",
@@ -19836,14 +20562,16 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Boston Wards",
-      "from": "Interlude 7"
+      "from": "Interlude 7",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Weld",
       "relationship": "will lead",
       "inv_relationship": "will be led by",
       "second": "Wards East-North-East",
-      "from": "Interlude 7"
+      "from": "Interlude 7",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Armsmaster",
@@ -19857,7 +20585,8 @@
       "relationship": "will try to send to be transferred",
       "inv_relationship": "will be attempted to be transferred by",
       "second": "Shadow Stalker",
-      "from": "Interlude 7"
+      "from": "Interlude 7",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Armsmaster",
@@ -19872,7 +20601,8 @@
       "relationship": "will, as a second backup option, send to be transferred",
       "inv_relationship": "will be transferred, as a second backup option, by",
       "second": "Clockblocker",
-      "from": "Interlude 7"
+      "from": "Interlude 7",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Miss Militia",
@@ -19886,14 +20616,16 @@
       "relationship": "will lose leadership role and transfer away from",
       "inv_relationship": "will lose as leader and have transferred away",
       "second": "Protectorate East-North-East",
-      "from": "Interlude 7"
+      "from": "Interlude 7",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Armsmaster",
       "relationship": "will be transferred to",
       "inv_relationship": "will have member",
       "second": "Chicago Protectorate",
-      "from": "Interlude 7"
+      "from": "Interlude 7",
+      "to_soft": "Sentinel 9.1"
     },
     {
       "first": "Dragon",
@@ -21860,7 +22592,8 @@
       "relationship": "is member of",
       "inv_relationship": "has member",
       "second": "Wards",
-      "from": "Extermination 8.5"
+      "from": "Extermination 8.5",
+      "to": "Sentinel 9.1"
     },
     {
       "first": "Shadow Stalker",
@@ -22059,6 +22792,13 @@
       "from": "Extermination 8.6"
     },
     {
+      "first": "Panacea",
+      "relationship": "spoke cruelly to to",
+      "inv_relationship": "is spoken to cruelly by",
+      "second": "Skitter",
+      "from": "Extermination 8.6"
+    },
+    {
       "first": "Skitter",
       "relationship": "accidentally discovered the identity of",
       "inv_relationship": "identity was accidentally discovered by",
@@ -22248,6 +22988,14 @@
       "from": "Extermination 8.8"
     },
     {
+      "first": "Bitch",
+      "relationship": "owns",
+      "inv_relationship": "belongs to",
+      "second": "Kuro",
+      "from": "Extermination 8.8",
+      "to_soft": "Extermination 8.8"
+    },
+    {
       "first": "Kuro",
       "relationship": "was killed by",
       "inv_relationship": "killed",
@@ -22262,11 +23010,27 @@
       "from": "Extermination 8.8"
     },
     {
+      "first": "Bitch",
+      "relationship": "owns",
+      "inv_relationship": "belongs to",
+      "second": "Milk",
+      "from": "Extermination 8.8",
+      "to_soft": "Extermination 8.8"
+    },
+    {
       "first": "Milk",
       "relationship": "was killed by",
       "inv_relationship": "killed",
       "second": "Leviathan",
       "from": "Extermination 8.8"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "owns",
+      "inv_relationship": "belongs to",
+      "second": "Stumpy",
+      "from": "Extermination 8.8",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Stumpy",
@@ -22290,11 +23054,27 @@
       "from": "Extermination 8.8"
     },
     {
+      "first": "Bitch",
+      "relationship": "owns",
+      "inv_relationship": "belongs to",
+      "second": "Axel",
+      "from": "Extermination 8.8",
+      "to_soft": "Extermination 8.8"
+    },
+    {
       "first": "Axel",
       "relationship": "was killed by",
       "inv_relationship": "killed",
       "second": "Leviathan",
       "from": "Extermination 8.8"
+    },
+    {
+      "first": "Bitch",
+      "relationship": "owns",
+      "inv_relationship": "belongs to",
+      "second": "Ginger",
+      "from": "Extermination 8.8",
+      "to_soft": "Extermination 8.8"
     },
     {
       "first": "Ginger",
@@ -22400,8 +23180,403 @@
       "inv_relationship": "is subject in a discarded reality to the self-indulgence of",
       "second": "Mr. Pitter",
       "from": "Interlude 8"
+    },
+    {
+      "first": "Weld",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Wards East-North-East",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Flechette",
+      "relationship": "will join",
+      "inv_relationship": "will have member",
+      "second": "Wards East-North-East",
+      "from": "Sentinel 9.1",
+      "to": "Sentinel 9.2"
+    },
+    {
+      "first": "Flechette",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "New York Wards",
+      "from": "Sentinel 9.1",
+      "to_soft": "Sentinel 9.2"
+    },
+    {
+      "first": "Boston Wards",
+      "relationship": "has friendly rivalry with",
+      "inv_relationship": "has friendly rivalry with",
+      "second": "New York Wards",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Empire Eighty-Eight",
+      "relationship": "fell apart after the death of",
+      "inv_relationship": "his death caused the falling apart of",
+      "second": "Kaiser",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Empire Eighty-Eight",
+      "relationship": "has offshoot",
+      "inv_relationship": "is an offshoot of",
+      "second": "Fenrir's Chosen",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Hookwolf",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "Fenrir's Chosen",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Empire Eighty-Eight",
+      "relationship": "has offshoot",
+      "inv_relationship": "is an offshoot of",
+      "second": "The Pure",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Purity",
+      "relationship": "leads",
+      "inv_relationship": "is led by",
+      "second": "The Pure",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Purity",
+      "relationship": "has made overtures (which have been rejected) towards",
+      "inv_relationship": "has rejected overtures from",
+      "second": "Parahuman Response Team",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Weld",
+      "relationship": "is forbidden from agreeing to deals of",
+      "inv_relationship": "deals are forbidden from being agreed to by",
+      "second": "Purity",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Night",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "The Pure",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Fog",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "The Pure",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Crusader",
+      "relationship": "is member of",
+      "inv_relationship": "has member",
+      "second": "The Pure",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Weld",
+      "relationship": "attends",
+      "inv_relationship": "is attended by",
+      "second": "Arcadia High School",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Weld",
+      "relationship": "lives with",
+      "inv_relationship": "lives with",
+      "second": "Wards East-North-East",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Director Armstrong",
+      "relationship": "is father figure to",
+      "inv_relationship": "has father figure",
+      "second": "Weld",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Director Armstrong",
+      "relationship": "previously recruited to the Wards",
+      "inv_relationship": "was previously recruited to the Wards by",
+      "second": "Weld",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Director Piggot",
+      "relationship": "is grooming for the core protectorate team",
+      "inv_relationship": "is being groomed for the core protectorate team by",
+      "second": "Weld",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "was antagonistic with",
+      "inv_relationship": "was subject to antagonism from",
+      "second": "Weld",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Weld",
+      "relationship": "accidentally disrespected",
+      "inv_relationship": "was accidentally disrespected by",
+      "second": "Aegis",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Weld",
+      "relationship": "accidentally disrespected",
+      "inv_relationship": "was accidentally disrespected by",
+      "second": "Browbeat",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Weld",
+      "relationship": "accidentally disrespected",
+      "inv_relationship": "was accidentally disrespected by",
+      "second": "Gallant",
+      "from": "Sentinel 9.1"
+    },
+    {
+      "first": "Shadow Stalker",
+      "relationship": "nearly shot",
+      "inv_relationship": "was nearly shot by",
+      "second": "Flechette",
+      "from": "Sentinel 9.2"
+    },
+    {
+      "first": "Flechette",
+      "relationship": "is temporary member of",
+      "inv_relationship": "has temporary member",
+      "second": "Wards East-North-East",
+      "from": "Sentinel 9.2"
+    },
+    {
+      "first": "Flechette",
+      "relationship": "worked with to stop a mugging",
+      "inv_relationship": "worked with to stop a mugging",
+      "second": "Shadow Stalker",
+      "from": "Sentinel 9.2"
+    },
+    {
+      "first": "Flechette",
+      "relationship": "was disappointed by",
+      "inv_relationship": "disappointed",
+      "second": "Shadow Stalker",
+      "from": "Sentinel 9.2"
+    },
+    {
+      "first": "Flechette",
+      "relationship": "offered help to",
+      "inv_relationship": "was offered help by",
+      "second": "Parian",
+      "from": "Sentinel 9.2"
+    },
+    {
+      "first": "Flechette",
+      "relationship": "revealed her identity to",
+      "inv_relationship": "was told (by her) the identity of",
+      "second": "Parian",
+      "from": "Sentinel 9.2"
+    },
+    {
+      "first": "Parian",
+      "relationship": "revealed her identity to",
+      "inv_relationship": "was told (by her) the identity of",
+      "second": "Flechette",
+      "from": "Sentinel 9.2"
+    },
+    {
+      "first": "Parian",
+      "relationship": "accepted offer to patrol with",
+      "inv_relationship": "offered (and was accepted) to patrol with",
+      "second": "Flechette",
+      "from": "Sentinel 9.2"
+    },
+    {
+      "first": "Glory Girl",
+      "relationship": "attended a lecture in the headquarters of",
+      "inv_relationship": "headquarters was host to a lecture attended by",
+      "second": "Wards East-North-East",
+      "from": "Sentinel 9.3"
+    },
+    {
+      "first": "Glory Girl",
+      "relationship": "is considering joining",
+      "inv_relationship": "is being considered joining by",
+      "second": "Wards East-North-East",
+      "from": "Sentinel 9.3"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "asked to ask her sister to use her power on his dad",
+      "inv_relationship": "was asked to ask her sister to use her power on his dad by",
+      "second": "Glory Girl",
+      "from": "Sentinel 9.3"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "accidentally upset",
+      "inv_relationship": "was accidentally upset by",
+      "second": "Vista",
+      "from": "Sentinel 9.3"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "accidentally upset",
+      "inv_relationship": "was accidentally upset by",
+      "second": "Glory Girl",
+      "from": "Sentinel 9.3"
+    },
+    {
+      "first": "Clockblocker",
+      "relationship": "had a heart-to-heart with",
+      "inv_relationship": "had a heart-to-heart with",
+      "second": "Vista",
+      "from": "Sentinel 9.3"
+    },
+    {
+      "first": "Wards East-North-East",
+      "relationship": "discovered strung up corpses in the vicinity of",
+      "inv_relationship": "were discovered with strung up corpses in their vicinity",
+      "second": "Travelers",
+      "from": "Sentinel 9.3"
+    },
+    {
+      "first": "Wards East-North-East",
+      "relationship": "got into a fight with",
+      "inv_relationship": "got into a fight with",
+      "second": "Travelers",
+      "from": "Sentinel 9.3"
+    },
+    {
+      "first": "Glory Girl",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Ballistic",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Flechette",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Sundancer",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Kid Win",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Genesis",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Trickster",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Kid Win",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Trickster",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Vista",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Ballistic",
+      "relationship": "disabled",
+      "inv_relationship": "was disabled by",
+      "second": "Shadow Stalker",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Travelers",
+      "relationship": "escaped from",
+      "inv_relationship": "were escaped from by",
+      "second": "Wards East-North-East",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Protectorate East-North-East",
+      "relationship": "took over strung up corpses case from",
+      "inv_relationship": "had strung up corpses case taken over by",
+      "second": "Wards East-North-East",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Wards East-North-East",
+      "relationship": "suspect the involvement of",
+      "inv_relationship": "are suspected to be involved by",
+      "second": "Slaughterhouse Nine",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Assault",
+      "relationship": "arrested",
+      "inv_relationship": "was arrested by",
+      "second": "Chariot",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Chariot",
+      "relationship": "is a target for recruitment by",
+      "inv_relationship": "want to recruit",
+      "second": "Wards East-North-East",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Fenrir's Chosen",
+      "relationship": "are at war with",
+      "inv_relationship": "are at war with",
+      "second": "The Pure",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Fenrir's Chosen",
+      "relationship": "are at war with",
+      "inv_relationship": "are at war with",
+      "second": "Coil",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "The Pure",
+      "relationship": "are at war with",
+      "inv_relationship": "are at war with",
+      "second": "Coil",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Ashley Medina",
+      "relationship": "has son",
+      "inv_relationship": "has mother",
+      "second": "Chariot",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Ashley Medina",
+      "relationship": "lives with",
+      "inv_relationship": "lives with",
+      "second": "Chariot",
+      "from": "Sentinel 9.4"
+    },
+    {
+      "first": "Kid Win",
+      "relationship": "tried to recruit",
+      "inv_relationship": "was attempted to be recruited by",
+      "second": "Chariot",
+      "from": "Sentinel 9.4"
     }
   ],
 
-  "up_to": "Extermination 8.8"
+  "up_to": "Sentinel 9.4",
+  "todo": "9.1 Merchants prt classifications once we know their powers"
 }
